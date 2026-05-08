@@ -1,0 +1,442 @@
+[
+  {
+    "id": "col-2026-05-12-ai-letter-l1",
+    "title": "The AI Letter",
+    "titleKo": "AI 가 써 준 편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "paragraphs": [
+      "I had to write a letter. The letter was for an old friend. He helped me a long time ago.",
+      "I tried to write the letter. I could not find the words. I sat at my desk for an hour.",
+      "Then I asked an AI for help. I asked it to write the letter for me.",
+      "The AI wrote the letter very fast. The letter was good. The words were nice. It even said thank you in the right way.",
+      "I read the letter many times. It sounded right. But it did not sound like me.",
+      "I did not send the letter. I deleted it.",
+      "Then I tried again. I wrote my own letter. It was short. The words were not perfect.",
+      "But it was my letter. It was my voice.",
+      "I sent it.",
+      "I think some letters can not be made by a machine. They have to be made by a person."
+    ],
+    "translation": [
+      "편지를 한 통 써야 했어요. 오랜 친구에게 보내는 편지였어요. 그 친구가 오래전에 저를 도와줬어요.",
+      "편지를 쓰려고 했어요. 단어가 떠오르지 않았어요. 책상에 한 시간 동안 앉아 있었어요.",
+      "그래서 AI 에게 도움을 청했어요. 저 대신 편지를 써 달라고 했어요.",
+      "AI 는 편지를 아주 빨리 썼어요. 편지는 좋았어요. 단어도 멋졌어요. 고맙다는 말도 알맞은 방식으로 들어 있었어요.",
+      "편지를 여러 번 읽었어요. 맞는 것 같았어요. 그런데 제 말 같지 않았어요.",
+      "편지를 보내지 않았어요. 지웠어요.",
+      "그러고 나서 다시 시도했어요. 제 편지를 직접 썼어요. 짧았어요. 단어들도 완벽하지 않았어요.",
+      "그래도 그건 제 편지였어요. 제 목소리였어요.",
+      "그걸 보냈어요.",
+      "어떤 편지는 기계가 만들 수 없다고 생각해요. 사람이 만들어야만 해요."
+    ],
+    "targetWords": ["l1-134", "l1-094", "l1-098", "l2-080", "l1-282"],
+    "quiz": [
+      {
+        "question": "Why did the writer not send the AI's letter?",
+        "questionKo": "글쓴이는 왜 AI 가 쓴 편지를 보내지 않았나요?",
+        "options": [
+          "It was too short",
+          "It sounded right, but it did not sound like the writer",
+          "It had wrong information",
+          "The friend would not read it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer do at the end?",
+        "questionKo": "글쓴이는 마지막에 무엇을 했나요?",
+        "options": [
+          "Asked AI to try again",
+          "Wrote a short letter in his own words and sent it",
+          "Sent the AI letter anyway",
+          "Did not send anything"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-12-ai-letter-l2",
+    "title": "The Letter I Could Not Outsource",
+    "titleKo": "외주 줄 수 없었던 편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "paragraphs": [
+      "I needed to write a letter. It was not for work. It was for an old friend who had helped me at a difficult time, more than ten years ago.",
+      "I sat at my desk on a Tuesday evening. I opened a blank document. I tried to start. After an hour, I had only one line, and I did not even like that line.",
+      "So I did what many of us now do. I asked an AI to write it for me.",
+      "I gave the AI a few simple notes. The friend's name. What he had done for me. The fact that we had not spoken in years. I asked it for something warm but not too long.",
+      "The AI wrote the letter in less than a minute. The letter was good. The grammar was perfect. The thank-you was placed in the right paragraph. The closing line was kind without being too much.",
+      "I read it three times. Each time, it sounded right. Each time, it did not sound like me.",
+      "There was nothing wrong with the letter. There was just nothing of me in it. It was, in a way I could not explain at first, a letter from no one.",
+      "I deleted the AI's letter. I kept the blank document. I sat with it for another twenty minutes.",
+      "Then I started typing on my own. The sentences were shorter. The words were simpler. I made one small grammar mistake and decided to leave it. I told my friend I had been thinking about him recently. I told him I remembered exactly what he had done. I said thank you in a slightly awkward way that I knew he would recognize as mine.",
+      "The whole letter was three short paragraphs. It took me ten minutes.",
+      "I sent it that night.",
+      "I am not against AI. I use it every week. It writes my work emails. It corrects my code. It helps me draft documents I do not really care about.",
+      "But the letter to my old friend was not a draft. It was a small message from one specific person to one specific person.",
+      "Some things, I think, lose their meaning the moment we let a machine write them for us. The letter to a friend is one of them. Maybe the apology, the love letter, and the goodbye are also on that short list."
+    ],
+    "translation": [
+      "편지를 한 통 써야 했어요. 일 때문이 아니었어요. 십여 년 전, 어려운 때에 저를 도와준 오랜 친구에게 보내는 편지였어요.",
+      "화요일 저녁에 책상에 앉았어요. 빈 문서를 열었어요. 시작해 보려고 했어요. 한 시간이 지났는데, 한 줄밖에 못 썼고, 그 한 줄도 마음에 들지 않았어요.",
+      "그래서 우리 중 많은 사람이 이제 하는 걸 했어요. AI 에게 대신 써 달라고 했어요.",
+      "AI 에게 간단한 메모 몇 개를 줬어요. 친구의 이름. 그가 저에게 해 준 일. 우리가 몇 년 동안 이야기를 하지 못했다는 사실. 따뜻하지만 너무 길지 않게 써 달라고 했어요.",
+      "AI 는 일 분도 안 돼서 편지를 썼어요. 편지는 좋았어요. 문법은 완벽했어요. 감사 인사는 알맞은 단락에 놓여 있었어요. 마지막 줄은 친절했고, 과하지 않았어요.",
+      "세 번 읽었어요. 매번 맞는 것 같았어요. 매번 제 말 같지 않았어요.",
+      "편지에 잘못된 건 없었어요. 그저 제가 없었어요. 처음에 설명할 수 없는 방식으로, 그건 누구도 아닌 사람으로부터의 편지였어요.",
+      "AI 의 편지를 지웠어요. 빈 문서를 그대로 뒀어요. 그 앞에 이십 분 더 앉아 있었어요.",
+      "그러고 나서 직접 타자를 치기 시작했어요. 문장이 더 짧았어요. 단어가 더 단순했어요. 작은 문법 실수를 하나 했고, 그대로 두기로 했어요. 친구에게 최근에 자주 생각했다고 말했어요. 그가 해 준 일을 정확히 기억한다고 말했어요. 친구가 제 것이라고 알아볼 만한 약간 어색한 방식으로 고맙다고 했어요.",
+      "편지 전체는 짧은 단락 세 개였어요. 십 분 걸렸어요.",
+      "그 밤에 보냈어요.",
+      "저는 AI 에 반대하지 않아요. 매주 써요. 회사 이메일도 써 줘요. 코드를 고쳐 줘요. 별로 신경 안 쓰는 문서를 작성하는 것도 도와줘요.",
+      "그런데 오랜 친구에게 보내는 편지는 초안이 아니었어요. 한 특정한 사람으로부터 한 특정한 사람에게 보내는 작은 메시지였어요.",
+      "어떤 것들은 우리가 기계에게 대신 쓰게 하는 순간 의미를 잃는다고 생각해요. 친구에게 보내는 편지가 그중 하나예요. 사과, 연애 편지, 그리고 작별 인사도 그 짧은 목록에 들어갈지 몰라요."
+    ],
+    "targetWords": ["l1-134", "l2-080", "l2-079", "l2-287", "l2-117"],
+    "quiz": [
+      {
+        "question": "Why did the writer feel the AI's letter was 'from no one'?",
+        "questionKo": "글쓴이는 왜 AI 의 편지가 '누구도 아닌 사람으로부터의' 편지였다고 느꼈나요?",
+        "options": [
+          "It had wrong facts",
+          "There was nothing wrong with it, but there was nothing of the writer in it",
+          "It was too long",
+          "It used bad grammar"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's view of AI overall?",
+        "questionKo": "글쓴이의 AI 에 대한 전반적인 견해는?",
+        "options": [
+          "Against all AI use",
+          "Uses AI weekly for work and drafts, but believes some messages — letter to a friend, apology, love letter, goodbye — lose meaning when written by a machine",
+          "AI is always wrong",
+          "AI should write everything"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-12-ai-letter-l3",
+    "title": "The Letter I Could Not Send",
+    "titleKo": "보낼 수 없었던 편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "paragraphs": [
+      "I needed to write a letter this week. It was not for work. It was for an old friend who, more than ten years ago, did something quietly significant for me at a difficult time. I had owed him this letter for years.",
+      "I sat down at my desk on a Tuesday evening. I opened a blank document. I tried to begin. After an hour I had one sentence, and I did not even like that sentence. I had erased it twice.",
+      "So I did what many of us now do, almost automatically, when we are stuck. I asked an AI to write the letter for me.",
+      "I gave the AI a few notes. The friend's name. The general nature of what he had done for me. The fact that we had not spoken in years. The desired tone — warm, sincere, not excessive in length. I asked for something that an old friend would feel pleased to receive.",
+      "The AI produced the letter in under a minute. It was, by any technical measure, a good letter. The grammar was clean. The structure was sound. The thank-you was placed in the proper paragraph. The closing line was warm without being maudlin. If I had been grading it as an English-class essay, I would have given it a high mark.",
+      "I read it three times. Each time, it sounded right. Each time, it did not sound like me.",
+      "There was nothing identifiably wrong with the letter. There was simply nothing of me in it. The voice was a polished average of a million similar letters that the model had absorbed from the historical record of human friendship. It was, in a way I could not articulate at first, a letter from no one in particular.",
+      "I deleted the AI's letter. I kept the blank document. I sat with it for another twenty minutes, looking at the blinking cursor.",
+      "Then I began to type on my own. The sentences came out shorter. The words were simpler. I made one small grammar mistake, noticed it, and decided not to correct it. I told my friend I had been thinking about him recently and felt mildly embarrassed at how long I had let pass. I told him I remembered, in some detail, the specific thing he had done. I thanked him in a slightly awkward way that I knew he would recognize as mine, the way one recognizes a familiar handwriting.",
+      "The entire letter was three short paragraphs. It took me about ten minutes. It was, by any technical measure, less polished than the AI's version.",
+      "I sent it that night. He replied the next morning. The reply began, 'It's so good to hear from you, exactly the way I remember you talking.'",
+      "I am not, in any general sense, against AI. I use language models several times a week. They write my routine work emails. They debug my code. They draft documents I do not particularly care about. They are an extraordinary instrument for offloading the kind of writing whose only purpose is to convey information efficiently between people who do not really need to know one another.",
+      "But the letter to my old friend was not, properly speaking, a draft. It was a small, specific message from one particular person to another particular person. Its purpose was not to convey information. Its purpose was to be from me, in a way that he could feel.",
+      "Some things, I am increasingly convinced, lose their meaning at the moment we let a machine write them for us. The letter to a long-absent friend is one of them. The apology after a serious mistake is probably another. The love letter, in its older sense. The goodbye to someone who is leaving. The condolence to someone who has lost a parent.",
+      "These are the messages whose entire value lies in the fact that a specific human being thought, for some duration, about a specific other human being, and tried — imperfectly, awkwardly, in their own halting voice — to put that thinking into words. The technical defects of the writing are part of what proves the writer's presence.",
+      "When we hand these letters to a model, we save ten minutes. We also lose the only thing they were ever for."
+    ],
+    "translation": [
+      "이번 주에 편지를 한 통 써야 했어요. 일 때문이 아니었어요. 십여 년 전, 어려운 때에 저에게 조용히 의미 있는 일을 해 준 오랜 친구에게 보내는 편지였어요. 이 편지를 수년간 빚지고 있었어요.",
+      "화요일 저녁 책상에 앉았어요. 빈 문서를 열었어요. 시작하려고 했어요. 한 시간이 지났는데 한 문장 썼고, 그 문장도 마음에 들지 않았어요. 두 번 지웠어요.",
+      "그래서 우리 중 많은 사람이 이제 막혔을 때 거의 자동으로 하는 걸 했어요. AI 에게 대신 편지를 써 달라고 했어요.",
+      "AI 에게 메모 몇 개를 줬어요. 친구의 이름. 그가 저에게 해 준 일의 대략적 성격. 우리가 몇 년 동안 이야기를 못 했다는 사실. 원하는 어조 — 따뜻하고, 진심이고, 길이가 과하지 않은. 오랜 친구가 받았을 때 기뻐할 만한 무엇을 부탁했어요.",
+      "AI 는 일 분이 채 안 되어 편지를 만들어 냈어요. 어떤 기술적 척도로도, 좋은 편지였어요. 문법은 깨끗했어요. 구조는 탄탄했어요. 감사 인사는 적절한 단락에 놓여 있었어요. 마지막 줄은 따뜻했고 감상적이지 않았어요. 영어 수업 에세이로 채점했다면 높은 점수를 줬을 거예요.",
+      "세 번 읽었어요. 매번 맞는 것 같았어요. 매번 제 말 같지 않았어요.",
+      "편지에 식별할 수 있는 잘못된 건 없었어요. 그저 제가 없었어요. 그 목소리는 모델이 인간 우정의 역사 기록으로부터 흡수한 백만 개의 비슷한 편지의 잘 다듬어진 평균이었어요. 처음에는 표현할 수 없는 방식으로, 그건 특정한 누구도 아닌 사람으로부터의 편지였어요.",
+      "AI 의 편지를 지웠어요. 빈 문서는 그대로 뒀어요. 깜빡이는 커서를 보면서 이십 분 더 앉아 있었어요.",
+      "그러고 나서 직접 타자를 치기 시작했어요. 문장이 더 짧게 나왔어요. 단어가 더 단순했어요. 작은 문법 실수를 하나 했고, 알아챘고, 고치지 않기로 했어요. 친구에게 최근에 자주 생각했다고, 시간을 너무 많이 흘려보낸 것에 약간 부끄럽다고 말했어요. 그가 해 준 그 특정한 일을 어느 정도 자세히 기억한다고 말했어요. 친구가 익숙한 글씨를 알아보듯이 제 것이라고 알아볼 약간 어색한 방식으로 고맙다고 했어요.",
+      "편지 전체는 짧은 단락 세 개였어요. 십 분 정도 걸렸어요. 어떤 기술적 척도로도, AI 의 버전보다 덜 다듬어져 있었어요.",
+      "그 밤에 보냈어요. 친구는 다음 날 아침에 답장했어요. 답장은 \"네 소식 들어서 정말 좋다, 정확히 내가 기억하는 네 말투 그대로\"로 시작했어요.",
+      "저는 어떤 일반적 의미에서도 AI 에 반대하지 않아요. 일주일에 몇 번 언어 모델을 써요. 일상 업무 이메일을 써 줘요. 제 코드를 디버깅해 줘요. 제가 특별히 신경 쓰지 않는 문서를 초안 잡아 줘요. 그것들은 정보를 효율적으로 전달하는 것 외에 목적이 없는 종류의 글쓰기를 — 서로를 진짜로 알 필요 없는 사람들 사이에서 — 위탁하는 데 비범한 도구예요.",
+      "그러나 오랜 친구에게 보내는 편지는 정확히 말해 초안이 아니었어요. 한 특정한 사람으로부터 또 다른 특정한 사람에게 보내는 작고 구체적인 메시지였어요. 그것의 목적은 정보를 전달하는 게 아니었어요. 그것의 목적은 친구가 느낄 수 있는 방식으로 저로부터 오는 것이었어요.",
+      "어떤 것들은, 점점 더 확신하는데, 우리가 기계에게 대신 쓰게 하는 순간 의미를 잃어요. 오래 부재했던 친구에게 보내는 편지가 그중 하나예요. 심각한 실수 후의 사과가 아마 또 하나일 거예요. 더 오래된 의미에서의 연애 편지. 떠나는 누군가에게 보내는 작별 인사. 부모를 잃은 누군가에게 보내는 위로.",
+      "이 메시지들의 전체 가치는, 특정한 한 인간이 어느 정도 시간 동안 또 다른 특정한 인간에 대해 생각했고, 그 생각을 — 불완전하게, 어색하게, 자기 자신의 더듬는 목소리로 — 단어로 옮기려고 시도했다는 사실에 있어요. 그 글의 기술적 결함은 글쓴이의 현존을 증명하는 것의 일부예요.",
+      "이 편지들을 모델에게 넘길 때, 우리는 십 분을 절약해요. 또한 그것들이 애초에 존재했던 유일한 이유를 잃어요."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l3-734", "l3-147"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize the AI letter's voice?",
+        "questionKo": "글쓴이는 AI 편지의 목소리를 어떻게 특징짓나요?",
+        "options": [
+          "Authentic and personal",
+          "A polished average of a million similar letters absorbed from the historical record of human friendship — a letter from no one in particular",
+          "Wrong and broken",
+          "The writer's exact voice"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'short list' of messages does the writer say lose meaning when written by a machine?",
+        "questionKo": "글쓴이는 기계가 쓸 때 의미를 잃는다고 보는 어떤 '짧은 목록'을 말하나요?",
+        "options": [
+          "Work emails",
+          "Letter to a long-absent friend, apology after a serious mistake, love letter, goodbye, condolence — messages whose entire value lies in a specific human's specific thought about another",
+          "All written messages",
+          "Marketing copy"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-12-ai-letter-l4",
+    "title": "On Outsourcing the Letter to an Old Friend",
+    "titleKo": "오랜 친구에게의 편지를 외주 주는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "paragraphs": [
+      "I needed to write a letter this week. It was not for work, and it was not, in any structural sense, urgent. It was for an old friend who had, more than ten years ago, done something quietly significant for me at a difficult passage in my life. I had owed him the letter for years and had repeatedly failed to write it.",
+      "I sat at my desk on a Tuesday evening with the deliberate intention of finally producing it. I opened a blank document. I tried, with what I considered reasonable concentration, to begin. After an hour, I had produced exactly one sentence, and I had erased that sentence twice. The blinking cursor was, in its small way, beginning to seem accusatory.",
+      "So I did what many of us now do almost automatically, in moments of writing paralysis. I asked a large language model to draft the letter for me.",
+      "I provided the model with the relevant context. The friend's name. The general nature and approximate date of what he had done for me. The years of subsequent silence. The desired register — warm, sincere, not excessive in length, not maudlin. I asked it to write something that an old friend, opening it on an ordinary morning, would feel quietly pleased to receive.",
+      "The model produced the letter in under a minute. By any straightforward technical metric, it was a good letter. The grammar was unimpeachable. The paragraphs were proportionate. The thank-you was located, properly, in the second paragraph. The closing line was affectionate without slipping into excess. Had I been evaluating it as a piece of student writing, I would have assigned it a high grade and probably commended its restraint.",
+      "I read the letter three times. On each reading, it sounded right. On each reading, it did not sound, in any recognizable sense, like me.",
+      "There was nothing identifiably defective about the text. There was simply nothing of me in it. The voice was a polished statistical average of an enormous number of similar letters that the model had absorbed from the historical archive of human written friendship. It was, in a way I could not at first articulate, a letter from no one in particular, addressed in the abstract to no one in particular.",
+      "I deleted the model's draft. I kept the blank document open. I sat in front of it for a further twenty minutes, watching the cursor blink in the absence of any progress.",
+      "Then, with no particular surge of inspiration, I began to type on my own. The sentences came out shorter than the model's. The vocabulary was simpler. I made one small grammatical error, noticed it, and consciously decided not to correct it. I told my friend I had been thinking about him recently and felt mildly embarrassed at how much time I had allowed to pass. I told him I remembered, in some specific detail, the precise thing he had done in that earlier difficult period. I thanked him in a slightly awkward formulation that I knew, with reasonable confidence, he would recognize as characteristically mine — the way one recognizes a familiar handwriting on an envelope before opening it.",
+      "The complete letter was three short paragraphs. It took me approximately ten minutes to produce. By any technical measure, it was less polished than the version the language model had drafted in under a minute. Its rhythm was less regular. One adjective was probably wrong.",
+      "I sent it that night. He replied the next morning. His reply began, 'It is so good to hear from you, in exactly the voice I remember from twenty years ago.'",
+      "I am not, in any general sense, opposed to language models. I use them several times a week. They draft my routine work emails. They debug my code. They produce documents I do not particularly care about, and they free up real time and cognitive energy for matters I do care about. They are an extraordinary instrument for offloading the variety of writing whose only purpose is to convey information efficiently between people who do not, in any meaningful way, need to know one another.",
+      "But the letter to my old friend was not, properly speaking, a draft of an information transfer. It was a small, specific, irreducible message from one particular person to another particular person, both of whom had a long shared history. Its purpose was not to convey new information. He could probably reconstruct most of the content from memory. The purpose of the letter was simply, in some quiet structural sense, to be from me, in a way he could feel without needing to articulate.",
+      "Some categories of message, I have become increasingly persuaded, lose their core meaning at the moment we permit a machine to write them on our behalf. The letter to a long-absent friend is one of them. The apology after a meaningful personal mistake is probably another. The love letter, in any older and more serious sense of the term. The goodbye to someone who is leaving permanently. The condolence to a friend who has just lost a parent. The reply to a child's first written question about something that frightens them.",
+      "These are the messages whose entire value, on inspection, lies in the fact that a particular human being sat with the message for some specific duration, thought about a specific other human being, and tried — imperfectly, awkwardly, in their own slightly halting voice — to put that thinking into words. The minor technical defects of the resulting writing are not a flaw to be corrected. They are part of what proves the writer's presence in the message.",
+      "When we hand such letters to a language model for drafting, we save ten minutes of our own discomfort. We also, with the same gesture and almost without noticing, lose the only thing the letter was ever for."
+    ],
+    "translation": [
+      "이번 주에 편지를 한 통 써야 했어요. 일 때문이 아니었고, 어떤 구조적 의미에서도 긴급하지 않았어요. 십여 년 전 제 인생의 어려운 길목에서 저에게 조용히 의미 있는 일을 해 준 오랜 친구에게 보내는 편지였어요. 이 편지를 수년간 빚지고 있었고, 반복적으로 쓰는 데 실패해 왔어요.",
+      "화요일 저녁, 마침내 이걸 만들어 내겠다는 의도적 결심으로 책상에 앉았어요. 빈 문서를 열었어요. 합리적인 집중이라고 여긴 것으로 시작하려고 했어요. 한 시간이 지났는데 정확히 한 문장을 만들어 냈고, 그 문장을 두 번 지웠어요. 깜빡이는 커서가, 그 작은 방식으로, 비난하는 것처럼 보이기 시작했어요.",
+      "그래서 우리 중 많은 사람이 이제 글쓰기 마비의 순간에 거의 자동으로 하는 걸 했어요. 큰 언어 모델에게 대신 편지를 초안 잡아 달라고 했어요.",
+      "모델에게 관련된 맥락을 제공했어요. 친구의 이름. 그가 저에게 해 준 일의 대략적인 성격과 시기. 그 후 수년간의 침묵. 원하는 어조 — 따뜻하고, 진심이고, 길이가 과하지 않고, 감상적이지 않은. 오랜 친구가 평범한 아침에 그것을 열었을 때 조용히 기뻐할 만한 무엇을 써 달라고 했어요.",
+      "모델은 일 분이 채 안 되어 편지를 만들어 냈어요. 어떤 직접적인 기술적 척도로도, 좋은 편지였어요. 문법은 흠잡을 데 없었어요. 단락은 비례에 맞았어요. 감사 인사는 적절히 두 번째 단락에 위치해 있었어요. 마지막 줄은 애정 어렸고 과잉으로 빠지지 않았어요. 학생 글로 평가했다면 높은 점수를 매기고 아마 그 절제를 칭찬했을 거예요.",
+      "편지를 세 번 읽었어요. 매번 읽을 때마다 맞는 것 같았어요. 매번 읽을 때마다 어떤 식별 가능한 의미에서도 제 말 같지 않았어요.",
+      "텍스트에 식별할 수 있는 결함은 없었어요. 그저 제가 없었어요. 그 목소리는 모델이 인간이 쓴 우정의 역사적 아카이브로부터 흡수한 엄청나게 많은 비슷한 편지의 잘 다듬어진 통계적 평균이었어요. 처음에 표현할 수 없는 방식으로, 그건 특정한 누구도 아닌 사람으로부터의 편지였고, 추상적으로 특정한 누구도 아닌 사람에게 보내진 거였어요.",
+      "모델의 초안을 지웠어요. 빈 문서는 열어 뒀어요. 어떤 진척의 부재 속에서 깜빡이는 커서를 지켜보며 이십 분 더 그 앞에 앉아 있었어요.",
+      "그러고 나서, 어떤 특별한 영감의 솟음 없이, 직접 타자를 치기 시작했어요. 문장이 모델의 것보다 짧게 나왔어요. 어휘가 더 단순했어요. 작은 문법 오류를 하나 했고, 알아챘고, 의식적으로 고치지 않기로 결정했어요. 친구에게 최근에 자주 생각했다고, 흘려보낸 시간의 양에 약간 부끄럽다고 말했어요. 그 더 이른 어려운 시기에 그가 해 준 정확한 그 일을 어느 정도 구체적인 디테일로 기억한다고 말했어요. 합리적인 자신감으로, 친구가 봉투의 익숙한 글씨를 열기 전에 알아보듯이 특징적으로 제 것이라고 알아볼 약간 어색한 표현으로 고맙다고 했어요.",
+      "완성된 편지는 짧은 단락 세 개였어요. 만들어 내는 데 약 십 분 걸렸어요. 어떤 기술적 척도로도, 언어 모델이 일 분이 채 안 되어 초안 잡은 버전보다 덜 다듬어져 있었어요. 그 리듬은 덜 규칙적이었어요. 형용사 하나는 아마 잘못됐어요.",
+      "그 밤에 보냈어요. 친구는 다음 날 아침에 답장했어요. 그의 답장은 \"네 소식 들어서 정말 좋다, 정확히 이십 년 전 내가 기억하는 그 목소리로\"로 시작했어요.",
+      "저는 어떤 일반적 의미에서도 언어 모델에 반대하지 않아요. 일주일에 몇 번 써요. 제 일상 업무 이메일을 초안 잡아 줘요. 제 코드를 디버깅해 줘요. 제가 특별히 신경 쓰지 않는 문서를 만들어 내고, 신경 쓰는 사안들을 위해 진짜 시간과 인지적 에너지를 해방시켜 줘요. 그것들은 — 어떤 의미 있는 방식으로도 서로를 알 필요 없는 사람들 사이에서 — 정보를 효율적으로 전달하는 것 외에 목적이 없는 다양한 글쓰기를 위탁하는 데 비범한 도구예요.",
+      "그러나 오랜 친구에게 보내는 편지는 정확히 말해 정보 전송의 초안이 아니었어요. 그건 한 특정한 사람으로부터 또 다른 특정한 사람에게 — 둘 다 긴 공유 역사를 가진 — 보내는 작고 구체적이며 환원할 수 없는 메시지였어요. 그것의 목적은 새로운 정보를 전달하는 게 아니었어요. 그는 아마 내용의 대부분을 기억으로 재구성할 수 있을 거예요. 그 편지의 목적은 단순히, 어떤 조용한 구조적 의미에서, 친구가 표현할 필요 없이 느낄 수 있는 방식으로 저로부터 오는 것이었어요.",
+      "어떤 범주의 메시지들은, 점점 더 설득되는데, 우리가 기계에게 우리를 대신해 그것을 쓰도록 허용하는 순간 핵심 의미를 잃어요. 오래 부재했던 친구에게 보내는 편지가 그중 하나예요. 의미 있는 개인적 실수 후의 사과가 아마 또 하나일 거예요. 그 용어의 더 오래되고 더 진지한 의미에서의 연애 편지. 영구적으로 떠나는 누군가에게 보내는 작별 인사. 막 부모를 잃은 친구에게 보내는 위로. 자신을 무섭게 하는 무언가에 대한 아이의 첫 글로 된 질문에 대한 답장.",
+      "이 메시지들의 전체 가치는, 검사해 보면, 특정한 한 인간이 어느 특정한 시간 동안 그 메시지와 함께 앉아, 또 다른 특정한 인간에 대해 생각했고, 그 생각을 — 불완전하게, 어색하게, 자기 자신의 약간 더듬는 목소리로 — 단어로 옮기려고 시도했다는 사실에 있어요. 결과로 나온 글의 작은 기술적 결함은 고쳐야 할 흠이 아니에요. 그것은 메시지 안에서 글쓴이의 현존을 증명하는 것의 일부예요.",
+      "그런 편지들을 언어 모델에게 초안을 위해 넘길 때, 우리는 우리 자신의 불편함의 십 분을 절약해요. 또한 같은 제스처로, 거의 알아채지 못한 채로, 그 편지가 애초에 존재했던 유일한 이유를 잃어요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "What kind of writing does the writer say AI is excellent for?",
+        "questionKo": "글쓴이는 AI 가 어떤 종류의 글쓰기에 탁월하다고 말하나요?",
+        "options": [
+          "Personal letters",
+          "Writing whose only purpose is to convey information efficiently between people who do not need to know each other",
+          "Love letters",
+          "All writing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's argument about technical defects in personal letters?",
+        "questionKo": "개인적 편지의 기술적 결함에 대한 글쓴이의 주장은?",
+        "options": [
+          "They should always be corrected",
+          "They are not flaws to be corrected — they are part of what proves the writer's presence in the message",
+          "They make the letter useless",
+          "They only matter in poetry"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-12-ai-letter-l5",
+    "title": "On the Letters That Cannot Be Outsourced",
+    "titleKo": "외주 줄 수 없는 편지들에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "paragraphs": [
+      "I needed to write a letter this week. It was not for work, and it was not, in any structural sense, urgent. It was for an old friend who had, more than ten years ago, done something quietly significant for me at a difficult passage in my life. I had owed him the letter for years, had thought about it intermittently, and had repeatedly failed to produce it.",
+      "I sat at my desk on a Tuesday evening with the deliberate intention of finally writing it. I opened a blank document. I tried, with what I considered a reasonable degree of concentration, to begin. After roughly an hour, I had produced exactly one sentence, and I had erased that sentence twice. The blinking cursor was, in its small typographical way, beginning to seem mildly accusatory.",
+      "So I did what many of us now do almost automatically in moments of writing paralysis. I asked a large language model to draft the letter on my behalf.",
+      "I provided the model with the relevant context in a few crisp lines. The friend's name. The general nature and approximate date of what he had done for me. The years of subsequent silence. The desired register — warm, sincere, not excessive in length, not slipping into the maudlin. I asked it to produce something that an old friend, opening it on an ordinary morning, would feel quietly pleased to receive.",
+      "The model produced the letter in under a minute. By any straightforward technical metric, it was a good letter. The grammar was unimpeachable. The paragraphs were appropriately proportioned. The thank-you was located, properly, in the second paragraph. The closing line was affectionate without slipping into excess. Had I been evaluating the text as a piece of student writing, I would have assigned it a high grade and probably commended its tonal restraint.",
+      "I read the letter three times. On each reading, it sounded right. On each reading, it did not sound, in any recognizable sense, like me.",
+      "There was nothing identifiably defective about the text. There was simply, structurally, nothing of me in it. The voice was a polished statistical average of an enormous corpus of similar letters that the model had absorbed from the historical archive of human written friendship. It was, in a way I could not at first articulate, a letter from no one in particular, addressed in the abstract to no one in particular, expressing the model's best inference about what such a letter, in general, ought to contain.",
+      "I deleted the model's draft. I kept the blank document open. I sat in front of it for a further twenty minutes, watching the cursor blink in the absence of any external progress.",
+      "Then, without any particular surge of inspiration, I began to type on my own. The sentences came out shorter than the model's. The vocabulary was simpler and less consistent. I made one small grammatical error, noticed it, and consciously decided not to correct it. I told my friend I had been thinking about him recently and felt mildly embarrassed at how much time I had allowed to pass without writing. I told him I remembered, in some specific detail, the precise thing he had done in that earlier difficult period. I thanked him in a slightly awkward formulation that I knew, with reasonable confidence, he would recognize as characteristically mine — in the way one recognizes a familiar handwriting on an envelope before opening it.",
+      "The complete letter was three short paragraphs. It took me approximately ten minutes to produce. By any straightforward technical measure, it was less polished than the version the language model had drafted in under a minute. Its rhythm was less regular. One adjective, on later inspection, was probably wrong. It was, by aesthetic standards, the inferior text.",
+      "I sent it that night. He replied the next morning. His reply began, 'It is so good to hear from you, in exactly the voice I remember from twenty years ago.'",
+      "I am not, in any general sense, opposed to language models. I use them several times each week. They draft my routine work emails. They debug my code. They produce internal documents I do not particularly care about. They are, in their proper place, an extraordinary instrument for offloading the wide variety of writing whose only purpose is to convey information efficiently between people who do not, in any meaningful way, need to know one another.",
+      "But the letter to my old friend was not, properly speaking, a draft of an information transfer. It was a small, specific, structurally irreducible message from one particular person to another particular person, both of whom shared a long and asymmetric history. Its purpose was not, in fact, to convey new information. He could probably have reconstructed most of the factual content from his own memory. The purpose of the letter was simply, in some quiet structural sense, to be from me, in a way he could feel without needing to articulate.",
+      "Certain categories of message, I have come over time to believe, lose their core meaning at the moment we permit a machine to compose them on our behalf. The letter to a long-absent friend is one of them. The apology after a meaningful personal mistake is probably another. The love letter, in any older and more serious sense of the term. The goodbye to someone who is leaving permanently. The condolence note to a friend who has just lost a parent. The reply to a child's first written question about something that frightens them. The thank-you to a teacher who shaped one's life decades ago and is now ill.",
+      "These are the messages whose entire value, on close inspection, lies in the fact that one particular human being sat with the message for some specific duration, thought about another particular human being, and tried — imperfectly, awkwardly, in their own slightly halting voice — to put that specific thinking into specific words on a specific occasion. The minor technical defects of the resulting writing are not a flaw to be corrected by a more capable instrument. They are, on the contrary, among the principal pieces of evidence that the writer was actually present in the message.",
+      "When we hand such letters to a language model for drafting, we save ourselves perhaps ten minutes of discomfort. We may also, in many individual cases, produce a more polished text. We do this, however, at a cost that the polished text itself cannot ever quite display: the loss of the only thing such a letter was ever, structurally, supposed to be for.",
+      "My old friend's reply ended with a sentence I keep thinking about. He wrote, in part, that he had recently received a number of polished, perfectly structured messages from other people in his life, and that, while he appreciated them, none of them had felt the way mine did. He did not name the suspected reason. He did not need to. The reason, I suspect, is the reason this column is being written: there is a category of letter that the new instruments cannot, in fact, write — not because they lack the capability, but because the capability is, in this category, exactly the wrong thing to bring."
+    ],
+    "translation": [
+      "이번 주에 편지를 한 통 써야 했어요. 일 때문이 아니었고, 어떤 구조적 의미에서도 긴급하지 않았어요. 십여 년 전 제 인생의 어려운 길목에서 저에게 조용히 의미 있는 일을 해 준 오랜 친구에게 보내는 편지였어요. 이 편지를 수년간 빚지고 있었고, 간헐적으로 그것에 대해 생각했고, 반복적으로 만들어 내는 데 실패해 왔어요.",
+      "화요일 저녁, 마침내 이걸 쓰겠다는 의도적 결심으로 책상에 앉았어요. 빈 문서를 열었어요. 합리적인 정도의 집중이라고 여긴 것으로 시작하려고 했어요. 대략 한 시간 후, 정확히 한 문장을 만들어 냈고, 그 문장을 두 번 지웠어요. 깜빡이는 커서가, 그 작은 활자적 방식으로, 약간 비난하는 것처럼 보이기 시작했어요.",
+      "그래서 우리 중 많은 사람이 이제 글쓰기 마비의 순간에 거의 자동으로 하는 걸 했어요. 큰 언어 모델에게 저를 대신해 편지를 초안 잡아 달라고 했어요.",
+      "모델에게 관련된 맥락을 짧고 명료한 몇 줄로 제공했어요. 친구의 이름. 그가 저에게 해 준 일의 대략적인 성격과 시기. 그 후 수년간의 침묵. 원하는 어조 — 따뜻하고, 진심이고, 길이가 과하지 않고, 감상적으로 빠지지 않는. 오랜 친구가 평범한 아침에 그것을 열었을 때 조용히 기뻐할 만한 무엇을 만들어 달라고 했어요.",
+      "모델은 일 분이 채 안 되어 편지를 만들어 냈어요. 어떤 직접적인 기술적 척도로도, 좋은 편지였어요. 문법은 흠잡을 데 없었어요. 단락은 적절히 비례에 맞았어요. 감사 인사는 적절히 두 번째 단락에 위치해 있었어요. 마지막 줄은 애정 어렸고 과잉으로 빠지지 않았어요. 학생 글로 평가했다면 높은 점수를 매기고 아마 그 어조의 절제를 칭찬했을 거예요.",
+      "편지를 세 번 읽었어요. 매번 읽을 때마다 맞는 것 같았어요. 매번 읽을 때마다 어떤 식별 가능한 의미에서도 제 말 같지 않았어요.",
+      "텍스트에 식별할 수 있는 결함은 없었어요. 그저, 구조적으로, 제가 없었어요. 그 목소리는 모델이 인간이 쓴 우정의 역사적 아카이브로부터 흡수한 엄청난 코퍼스의 비슷한 편지의 잘 다듬어진 통계적 평균이었어요. 처음에 표현할 수 없는 방식으로, 그건 특정한 누구도 아닌 사람으로부터의 편지였고, 추상적으로 특정한 누구도 아닌 사람에게 보내진, 일반적으로 그런 편지가 무엇을 담아야 하는지에 대한 모델의 최선의 추론을 표현하는 거였어요.",
+      "모델의 초안을 지웠어요. 빈 문서는 열어 뒀어요. 어떤 외부적 진척의 부재 속에서 깜빡이는 커서를 지켜보며 이십 분 더 그 앞에 앉아 있었어요.",
+      "그러고 나서, 어떤 특별한 영감의 솟음 없이, 직접 타자를 치기 시작했어요. 문장이 모델의 것보다 짧게 나왔어요. 어휘가 더 단순했고 덜 일관됐어요. 작은 문법 오류를 하나 했고, 알아챘고, 의식적으로 고치지 않기로 결정했어요. 친구에게 최근에 자주 생각했다고, 글을 쓰지 않은 채 흘려보낸 시간의 양에 약간 부끄럽다고 말했어요. 그 더 이른 어려운 시기에 그가 해 준 정확한 그 일을 어느 정도 구체적인 디테일로 기억한다고 말했어요. 합리적인 자신감으로, 친구가 봉투의 익숙한 글씨를 열기 전에 알아보듯이 특징적으로 제 것이라고 알아볼 약간 어색한 표현으로 고맙다고 했어요.",
+      "완성된 편지는 짧은 단락 세 개였어요. 만들어 내는 데 약 십 분 걸렸어요. 어떤 직접적인 기술적 척도로도, 언어 모델이 일 분이 채 안 되어 초안 잡은 버전보다 덜 다듬어져 있었어요. 그 리듬은 덜 규칙적이었어요. 형용사 하나는, 나중에 검사해 보니, 아마 잘못됐어요. 미적 기준으로는 열등한 텍스트였어요.",
+      "그 밤에 보냈어요. 친구는 다음 날 아침에 답장했어요. 그의 답장은 \"네 소식 들어서 정말 좋다, 정확히 이십 년 전 내가 기억하는 그 목소리로\"로 시작했어요.",
+      "저는 어떤 일반적 의미에서도 언어 모델에 반대하지 않아요. 일주일에 몇 번 써요. 제 일상 업무 이메일을 초안 잡아 줘요. 제 코드를 디버깅해 줘요. 제가 특별히 신경 쓰지 않는 내부 문서를 만들어 내요. 그것들은 적절한 자리에서, 어떤 의미 있는 방식으로도 서로를 알 필요 없는 사람들 사이에서 정보를 효율적으로 전달하는 것 외에 목적이 없는 다양한 글쓰기를 위탁하는 데 비범한 도구예요.",
+      "그러나 오랜 친구에게 보내는 편지는 정확히 말해 정보 전송의 초안이 아니었어요. 그건 한 특정한 사람으로부터 또 다른 특정한 사람에게 — 둘 다 길고 비대칭적인 역사를 공유한 — 보내는 작고 구체적이며 구조적으로 환원할 수 없는 메시지였어요. 그것의 목적은 사실상 새로운 정보를 전달하는 게 아니었어요. 그는 아마 사실적 내용의 대부분을 자기 기억으로부터 재구성할 수 있었을 거예요. 그 편지의 목적은 단순히, 어떤 조용한 구조적 의미에서, 친구가 표현할 필요 없이 느낄 수 있는 방식으로 저로부터 오는 것이었어요.",
+      "어떤 범주의 메시지들은, 시간이 흐르면서 믿게 됐는데, 우리가 기계에게 우리를 대신해 그것을 작성하도록 허용하는 순간 핵심 의미를 잃어요. 오래 부재했던 친구에게 보내는 편지가 그중 하나예요. 의미 있는 개인적 실수 후의 사과가 아마 또 하나일 거예요. 그 용어의 더 오래되고 더 진지한 의미에서의 연애 편지. 영구적으로 떠나는 누군가에게 보내는 작별 인사. 막 부모를 잃은 친구에게 보내는 위로 메모. 자신을 무섭게 하는 무언가에 대한 아이의 첫 글로 된 질문에 대한 답장. 수십 년 전 자신의 인생을 형성했고 지금 아픈 선생님에게 보내는 감사 인사.",
+      "이 메시지들의 전체 가치는, 가까이서 검사해 보면, 한 특정한 인간이 어느 특정한 시간 동안 그 메시지와 함께 앉아, 또 다른 특정한 인간에 대해 생각했고, 그 특정한 생각을 — 불완전하게, 어색하게, 자기 자신의 약간 더듬는 목소리로 — 특정한 경우에 특정한 단어로 옮기려고 시도했다는 사실에 있어요. 결과로 나온 글의 작은 기술적 결함은 더 유능한 도구로 고쳐야 할 흠이 아니에요. 반대로, 그것들은 글쓴이가 메시지 안에 실제로 현존했다는 주요 증거 중 하나예요.",
+      "그런 편지들을 언어 모델에게 초안을 위해 넘길 때, 우리는 아마 십 분의 불편함을 절약해요. 많은 개별 사례에서 더 다듬어진 텍스트를 만들어 낼 수도 있어요. 그러나 우리는 이걸, 다듬어진 텍스트 자체가 결코 완전히 보여 줄 수 없는 비용을 치르고 해요: 그런 편지가 애초에, 구조적으로, 존재해야 했던 유일한 이유의 손실.",
+      "오랜 친구의 답장은 제가 계속 생각하는 한 문장으로 끝났어요. 그는 부분적으로, 최근에 자기 인생의 다른 사람들로부터 다듬어지고 완벽하게 구조화된 여러 메시지를 받았고, 그것들에 감사하면서도, 그중 어느 것도 제 것이 느껴진 방식으로 느껴지지 않았다고 썼어요. 의심되는 이유를 명명하지 않았어요. 그럴 필요가 없었어요. 그 이유는, 짐작하건대, 이 칼럼이 쓰여지고 있는 이유예요: 새로운 도구들이 사실상 쓸 수 없는 편지의 범주가 있어요 — 그 능력이 부족해서가 아니라, 이 범주에서 그 능력이 정확히 가져오기에 잘못된 것이기 때문이에요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize the AI's letter as a 'voice'?",
+        "questionKo": "글쓴이는 AI 편지를 '목소리'로서 어떻게 특징짓나요?",
+        "options": [
+          "An authentic personal voice",
+          "A polished statistical average of an enormous corpus of similar letters — a letter from no one in particular, expressing best inference about what such letters generally ought to contain",
+          "Identical to the writer's voice",
+          "Unique and creative"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say minor technical defects in personal letters actually are?",
+        "questionKo": "글쓴이는 개인적 편지의 작은 기술적 결함이 실제로 무엇이라고 말하나요?",
+        "options": [
+          "Flaws to be corrected",
+          "Among the principal pieces of evidence that the writer was actually present in the message",
+          "Always intentional artistry",
+          "Random noise"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer suspect is the reason his letter felt different to his friend?",
+        "questionKo": "글쓴이는 자기 편지가 친구에게 다르게 느껴진 이유가 무엇이라고 추측하나요?",
+        "options": [
+          "Better grammar",
+          "There is a category of letter the new instruments cannot write — not because they lack capability, but because the capability is exactly the wrong thing to bring to it",
+          "More formal language",
+          "Longer paragraphs"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-12-ai-letter-l6",
+    "title": "What the Language Model Cannot, in Fact, Write",
+    "titleKo": "언어 모델이 사실 쓸 수 없는 것",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "paragraphs": [
+      "I needed to write a letter this week. It was not for work, and it was not, in any structural sense, urgent. It was for an old friend who had, more than ten years ago, done something quietly significant for me at a difficult and now-distant passage in my life. I had owed him the letter for years, had thought about it intermittently, and had repeatedly failed to actually produce it.",
+      "I sat at my desk on a Tuesday evening with the deliberate and somewhat ritualized intention of finally writing it. I opened a blank document. I tried, with what I considered to be a reasonable degree of concentration, to begin. After approximately an hour, I had produced exactly one sentence, and I had erased that sentence twice. The blinking cursor at the end of the empty line was, in its small typographical way, beginning to seem mildly accusatory.",
+      "So I did what many of us, in the present cultural moment, now do almost automatically in moments of writing paralysis. I asked a large language model to draft the letter on my behalf.",
+      "I provided the model with the relevant context in a few crisp lines. The friend's name. The general nature and approximate date of what he had done for me. The years of subsequent silence between us. The desired register — warm, sincere, restrained in length, not slipping into the maudlin. I asked it to produce something that an old friend, opening the message on an ordinary morning while drinking coffee, would feel quietly pleased to receive.",
+      "The model produced the letter in under a minute. By any straightforward technical metric, it was a competent and arguably good letter. The grammar was unimpeachable. The paragraph structure was appropriately proportioned. The thank-you was located, properly and unobtrusively, in the second paragraph. The closing line was warm without slipping into excess. Had I been evaluating the text as a piece of student writing in a composition class, I would have assigned it a high grade and would probably have commended its tonal restraint, its pacing, and its avoidance of excessive sentimentality.",
+      "I read the letter through three times in succession. On each reading, it sounded right. On each reading, it did not sound, in any recognizable sense, like me — like the specific person who had owed it for years and was finally, on this Tuesday evening, attempting to produce it.",
+      "There was nothing identifiably defective about the text the model had produced. There was simply, structurally, nothing of me in it. The voice on the page was a polished statistical average of an enormous corpus of similar letters that the model had absorbed from the historical archive of human written friendship. It was, in a way I could not at first quite articulate, a letter from no one in particular, addressed in the abstract to no one in particular, expressing the model's best inference about what such a letter, in general, ought to contain.",
+      "I deleted the model's draft. I kept the blank document open. I sat in front of it for a further twenty minutes, watching the cursor blink in the absence of any external progress and in the absence of any obviously available next sentence.",
+      "Then, without any particular surge of inspiration and with no specific replacement strategy, I began to type on my own. The sentences came out shorter than the model's. The vocabulary was simpler and noticeably less consistent. I made one small grammatical error, noticed it on the third sentence, and consciously decided not to correct it. I told my friend I had been thinking about him recently and felt mildly embarrassed at how much time I had allowed to pass without writing. I told him I remembered, in some specific detail, the precise thing he had done for me in that earlier difficult period. I thanked him in a slightly awkward formulation that I knew, with reasonable confidence, he would recognize as characteristically mine — in approximately the way one recognizes a familiar handwriting on an envelope before opening it.",
+      "The complete letter, when I finally stopped, was three short paragraphs. It had taken me approximately ten minutes to produce. By any straightforward technical measure, it was less polished than the version the language model had drafted in under a minute. Its rhythm was less regular. One adjective, on later inspection, was probably wrong. By aesthetic standards, it was, on most grounds, the inferior text.",
+      "I sent it that night, before I could change my mind a third time. He replied the next morning, before I had finished my coffee. His reply began, 'It is so good to hear from you, in exactly the voice I remember from twenty years ago.'",
+      "I am not, in any general sense, opposed to language models. I use them several times each week, often each day, with no internal conflict. They draft my routine work emails. They debug my code. They produce internal documents whose content does not particularly concern me. They are, in their proper place, an extraordinary instrument for offloading the wide variety of writing whose only structural purpose is to convey information efficiently between people who do not, in any meaningful sense, need to know one another. I have come to rely on them, in a great many domains, with considerable practical benefit.",
+      "But the letter to my old friend was not, properly speaking, a draft of an information transfer. It was a small, specific, structurally irreducible message from one particular person to another particular person, both of whom shared a long and asymmetric history that no third party — human or otherwise — was in a position to mediate. Its purpose was not, in any significant sense, to convey new information. He could probably have reconstructed the bulk of the factual content from his own memory without difficulty. The purpose of the letter was simply, in some quiet structural sense that I am still trying to formulate adequately, to be from me, in a way he could feel without needing to articulate.",
+      "Certain categories of message, I have come over time to believe, lose their core meaning at the moment we permit a machine to compose them on our behalf. The letter to a long-absent friend is one of them, perhaps the most ordinary. The apology after a meaningful personal mistake is another, and probably more important. The love letter, in any older and more serious sense of the term. The goodbye to someone who is leaving permanently, in particular when the leaving is final. The condolence note to a friend who has just lost a parent. The reply to a child's first written question about something genuinely frightening to them. The thank-you to a teacher who shaped one's life decades ago and is now ill. The letter one writes to one's adult child on a difficult occasion. The letter one composes to oneself, in some moods, simply to find out what one actually thinks.",
+      "These are the messages whose entire value, on close and honest inspection, lies in the fact that one particular human being sat with the message for some specific duration of time, thought sustainedly about another particular human being, and tried — imperfectly, awkwardly, in their own slightly halting voice — to put that specific thinking into specific words on a specific occasion that was not entirely interchangeable with any other. The minor technical defects of the resulting writing are not, in this category, flaws to be corrected by a more capable instrument. They are, on closer inspection, among the principal pieces of available evidence that the writer was actually present in the message — that someone, in particular, was in fact thinking about the recipient, in particular, at the moment of composition.",
+      "When we hand such letters to a language model for drafting, we save ourselves perhaps ten minutes of the kind of inarticulate discomfort the genre tends to require of us. We may also, in many individual cases, end up sending a more polished and arguably better-structured text. We do this, however, at a cost that the polished text itself is constitutionally incapable of ever quite displaying: the loss of the only thing such a letter was ever, in structural terms, supposed to be for.",
+      "My old friend's reply ended with a sentence that I have continued to think about across the days since. He wrote, in part, that he had recently received a number of polished, perfectly structured messages from other people in his life, and that, while he genuinely appreciated them at the surface level, none of them had felt the way mine had. He did not name the suspected reason. He did not need to. The reason, I suspect, is the same reason this column is being written: there is a category of letter that the new instruments cannot, in fact, write — not because they lack the technical capability, but because the technical capability is, in this category, almost exactly the wrong thing to bring to the situation. The capability, here, is not the help. The capability, here, is the precise variable being subtracted from what the recipient is hoping to receive.",
+      "There is, I think, a quiet practical rule emerging from the present cultural moment, even if no one has yet formulated it cleanly. It is something close to: the more a particular piece of writing is supposed to come from you, in particular, to one specific other person, in particular, on one specific occasion that will not recur in the same form, the less you should hand it to anything other than yourself. The discomfort of writing it slowly, in your own voice, is not the obstacle. The discomfort, on closer inspection, is the medium through which the message acquires the only quality the recipient was, in any deep sense, hoping for.",
+      "The letter I finally sent took ten minutes and was technically inferior to the one the model produced in less than one. It was, by every available measure that the model itself could not assess, the better letter. It was the only one that was, in any structural and unfakeable sense, actually from me."
+    ],
+    "translation": [
+      "이번 주에 편지를 한 통 써야 했어요. 일 때문이 아니었고, 어떤 구조적 의미에서도 긴급하지 않았어요. 십여 년 전 제 인생의 어렵고 이제는 멀어진 길목에서 저에게 조용히 의미 있는 일을 해 준 오랜 친구에게 보내는 편지였어요. 이 편지를 수년간 빚지고 있었고, 간헐적으로 그것에 대해 생각했고, 반복적으로 실제로 만들어 내는 데 실패해 왔어요.",
+      "화요일 저녁, 마침내 이걸 쓰겠다는 의도적이고 다소 의식화된 결심으로 책상에 앉았어요. 빈 문서를 열었어요. 합리적인 정도의 집중이라고 여긴 것으로 시작하려고 했어요. 약 한 시간 후, 정확히 한 문장을 만들어 냈고, 그 문장을 두 번 지웠어요. 빈 줄 끝의 깜빡이는 커서가, 그 작은 활자적 방식으로, 약간 비난하는 것처럼 보이기 시작했어요.",
+      "그래서 우리 중 많은 사람이 현재의 문화적 순간에 글쓰기 마비의 순간에 거의 자동으로 하는 걸 했어요. 큰 언어 모델에게 저를 대신해 편지를 초안 잡아 달라고 했어요.",
+      "모델에게 관련된 맥락을 짧고 명료한 몇 줄로 제공했어요. 친구의 이름. 그가 저에게 해 준 일의 대략적인 성격과 시기. 우리 사이의 그 후 수년간의 침묵. 원하는 어조 — 따뜻하고, 진심이고, 길이가 절제되고, 감상적으로 빠지지 않는. 오랜 친구가 평범한 아침에 커피를 마시며 그 메시지를 열었을 때 조용히 기뻐할 만한 무엇을 만들어 달라고 했어요.",
+      "모델은 일 분이 채 안 되어 편지를 만들어 냈어요. 어떤 직접적인 기술적 척도로도, 유능하고 논쟁의 여지없이 좋은 편지였어요. 문법은 흠잡을 데 없었어요. 단락 구조는 적절히 비례에 맞았어요. 감사 인사는 적절하고 두드러지지 않게 두 번째 단락에 위치해 있었어요. 마지막 줄은 따뜻했고 과잉으로 빠지지 않았어요. 작문 수업의 학생 글로 텍스트를 평가했다면 높은 점수를 매기고 아마 그 어조의 절제, 페이스, 그리고 과도한 감상의 회피를 칭찬했을 거예요.",
+      "편지를 연속해서 세 번 읽었어요. 매번 읽을 때마다 맞는 것 같았어요. 매번 읽을 때마다 어떤 식별 가능한 의미에서도 제 말 같지 않았어요 — 수년간 그것을 빚지고 있었고 마침내 이 화요일 저녁에 만들어 내려고 하던 그 특정한 사람의 말 같지 않았어요.",
+      "모델이 만들어 낸 텍스트에 식별할 수 있는 결함은 없었어요. 그저, 구조적으로, 제가 없었어요. 페이지 위의 목소리는 모델이 인간이 쓴 우정의 역사적 아카이브로부터 흡수한 엄청난 코퍼스의 비슷한 편지의 잘 다듬어진 통계적 평균이었어요. 처음에 정확히 표현할 수 없는 방식으로, 그건 특정한 누구도 아닌 사람으로부터의 편지였고, 추상적으로 특정한 누구도 아닌 사람에게 보내진, 일반적으로 그런 편지가 무엇을 담아야 하는지에 대한 모델의 최선의 추론을 표현하는 거였어요.",
+      "모델의 초안을 지웠어요. 빈 문서는 열어 뒀어요. 어떤 외부적 진척의 부재 속에서, 그리고 분명히 가용한 다음 문장의 부재 속에서 깜빡이는 커서를 지켜보며 이십 분 더 그 앞에 앉아 있었어요.",
+      "그러고 나서, 어떤 특별한 영감의 솟음 없이 그리고 어떤 특정한 대체 전략 없이, 직접 타자를 치기 시작했어요. 문장이 모델의 것보다 짧게 나왔어요. 어휘가 더 단순했고 눈에 띄게 덜 일관됐어요. 작은 문법 오류를 하나 했고, 세 번째 문장에서 알아챘고, 의식적으로 고치지 않기로 결정했어요. 친구에게 최근에 자주 생각했다고, 글을 쓰지 않은 채 흘려보낸 시간의 양에 약간 부끄럽다고 말했어요. 그 더 이른 어려운 시기에 그가 저에게 해 준 정확한 그 일을 어느 정도 구체적인 디테일로 기억한다고 말했어요. 합리적인 자신감으로, 친구가 봉투의 익숙한 글씨를 열기 전에 알아보는 거의 그 방식으로, 특징적으로 제 것이라고 알아볼 약간 어색한 표현으로 고맙다고 했어요.",
+      "마침내 멈췄을 때, 완성된 편지는 짧은 단락 세 개였어요. 만들어 내는 데 약 십 분 걸렸어요. 어떤 직접적인 기술적 척도로도, 언어 모델이 일 분이 채 안 되어 초안 잡은 버전보다 덜 다듬어져 있었어요. 그 리듬은 덜 규칙적이었어요. 형용사 하나는, 나중에 검사해 보니, 아마 잘못됐어요. 미적 기준으로는 대부분의 근거에서 열등한 텍스트였어요.",
+      "세 번째로 마음을 바꾸기 전에, 그 밤에 보냈어요. 친구는 다음 날 아침, 제가 커피를 다 마시기 전에 답장했어요. 그의 답장은 \"네 소식 들어서 정말 좋다, 정확히 이십 년 전 내가 기억하는 그 목소리로\"로 시작했어요.",
+      "저는 어떤 일반적 의미에서도 언어 모델에 반대하지 않아요. 일주일에 몇 번, 종종 매일, 어떤 내적 갈등 없이 써요. 제 일상 업무 이메일을 초안 잡아 줘요. 제 코드를 디버깅해 줘요. 그 내용이 저에게 특별히 관여하지 않는 내부 문서를 만들어 내요. 그것들은 적절한 자리에서, 어떤 의미 있는 의미에서도 서로를 알 필요 없는 사람들 사이에서 정보를 효율적으로 전달하는 것 외에 어떤 구조적 목적도 없는 다양한 글쓰기를 위탁하는 데 비범한 도구예요. 저는 매우 많은 영역에서 상당한 실용적 이익으로 그것들에 의존하게 되었어요.",
+      "그러나 오랜 친구에게 보내는 편지는 정확히 말해 정보 전송의 초안이 아니었어요. 그건 한 특정한 사람으로부터 또 다른 특정한 사람에게 — 둘 다 어떤 제삼자도, 인간이든 아니든, 중재할 수 있는 위치에 있지 않은 길고 비대칭적인 역사를 공유한 — 보내는 작고 구체적이며 구조적으로 환원할 수 없는 메시지였어요. 그것의 목적은 어떤 의미 있는 의미에서도 새로운 정보를 전달하는 게 아니었어요. 그는 아마 사실적 내용의 대부분을 어려움 없이 자기 기억으로부터 재구성할 수 있었을 거예요. 그 편지의 목적은 단순히, 제가 아직 적절히 형식화하려고 노력 중인 어떤 조용한 구조적 의미에서, 친구가 표현할 필요 없이 느낄 수 있는 방식으로 저로부터 오는 것이었어요.",
+      "어떤 범주의 메시지들은, 시간이 흐르면서 믿게 됐는데, 우리가 기계에게 우리를 대신해 그것을 작성하도록 허용하는 순간 핵심 의미를 잃어요. 오래 부재했던 친구에게 보내는 편지가 그중 하나, 어쩌면 가장 평범한 것이에요. 의미 있는 개인적 실수 후의 사과는 또 하나, 그리고 아마 더 중요한 것이에요. 그 용어의 더 오래되고 더 진지한 의미에서의 연애 편지. 영구적으로 떠나는 누군가에게 보내는 작별 인사, 특히 떠남이 최종적일 때. 막 부모를 잃은 친구에게 보내는 위로 메모. 자신에게 진정으로 무서운 무언가에 대한 아이의 첫 글로 된 질문에 대한 답장. 수십 년 전 자신의 인생을 형성했고 지금 아픈 선생님에게 보내는 감사 인사. 어려운 경우에 자신의 어른 자녀에게 쓰는 편지. 어떤 기분에서, 자신이 실제로 무엇을 생각하는지 알아내려고 단순히 자기 자신에게 작성하는 편지.",
+      "이 메시지들의 전체 가치는, 가까이서 그리고 정직하게 검사해 보면, 한 특정한 인간이 어느 특정한 시간 동안 그 메시지와 함께 앉아, 또 다른 특정한 인간에 대해 지속적으로 생각했고, 그 특정한 생각을 — 불완전하게, 어색하게, 자기 자신의 약간 더듬는 목소리로 — 다른 어느 것과도 완전히 교환 가능하지 않은 특정한 경우에 특정한 단어로 옮기려고 시도했다는 사실에 있어요. 결과로 나온 글의 작은 기술적 결함은, 이 범주에서, 더 유능한 도구로 고쳐야 할 흠이 아니에요. 가까이서 검사해 보면, 그것들은 글쓴이가 메시지 안에 실제로 현존했다는 — 특정한 누군가가 작성의 순간에 사실 특정한 수신자에 대해 생각하고 있었다는 — 가용한 주요 증거 중 하나예요.",
+      "그런 편지들을 언어 모델에게 초안을 위해 넘길 때, 우리는 그 장르가 우리에게 요구하는 경향이 있는 종류의 표현 불가능한 불편함의 아마 십 분을 절약해요. 많은 개별 사례에서 더 다듬어지고 논쟁의 여지없이 더 잘 구조화된 텍스트를 결국 보내게 될 수도 있어요. 그러나 우리는 이걸, 다듬어진 텍스트 자체가 헌법적으로 결코 완전히 보여 줄 능력이 없는 비용을 치르고 해요: 그런 편지가 애초에, 구조적 용어로, 존재해야 했던 유일한 이유의 손실.",
+      "오랜 친구의 답장은 그 후 며칠 동안 제가 계속 생각해 온 한 문장으로 끝났어요. 그는 부분적으로, 최근에 자기 인생의 다른 사람들로부터 다듬어지고 완벽하게 구조화된 여러 메시지를 받았고, 표면 수준에서는 진심으로 감사하면서도, 그중 어느 것도 제 것이 느껴진 방식으로 느껴지지 않았다고 썼어요. 의심되는 이유를 명명하지 않았어요. 그럴 필요가 없었어요. 그 이유는, 짐작하건대, 이 칼럼이 쓰여지고 있는 같은 이유예요: 새로운 도구들이 사실상 쓸 수 없는 편지의 범주가 있어요 — 그 기술적 능력이 부족해서가 아니라, 이 범주에서 그 기술적 능력이 거의 정확히 상황에 가져오기에 잘못된 것이기 때문이에요. 능력은, 여기서, 도움이 아니에요. 능력은, 여기서, 수신자가 받기를 바라는 것으로부터 빼지고 있는 정확한 변수예요.",
+      "현재의 문화적 순간으로부터 떠오르는 조용한 실용적 규칙이 있다고 생각해요, 아무도 아직 깔끔하게 형식화하지 않았더라도. 그것은 다음에 가까운 무엇이에요: 특정한 글이 특히 당신으로부터, 특히 한 특정한 다른 사람에게로, 같은 형태로 다시는 일어나지 않을 한 특정한 경우에 와야 한다고 더 많이 의도될수록, 자기 자신이 아닌 어떤 것에도 그것을 덜 넘겨야 해요. 그것을 자기 자신의 목소리로 천천히 쓰는 불편함은 장애물이 아니에요. 가까이서 검사해 보면, 그 불편함은 메시지가 수신자가 어떤 깊은 의미에서 바라고 있던 유일한 자질을 획득하는 매체예요.",
+      "제가 마침내 보낸 편지는 십 분 걸렸고 모델이 일 분도 안 되어 만들어 낸 것보다 기술적으로 열등했어요. 모델 자체가 평가할 수 없는 모든 가용한 척도로, 더 나은 편지였어요. 어떤 구조적이고 위조 불가능한 의미에서도, 실제로 저로부터 온 유일한 것이었어요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "What 'extended short list' of letter categories does the writer claim cannot be outsourced?",
+        "questionKo": "글쓴이는 외주 줄 수 없다고 주장하는 어떤 '확장된 짧은 목록'의 편지 범주들을 말하나요?",
+        "options": [
+          "Only love letters",
+          "Long-absent friend, apology after meaningful mistake, love letter, final goodbye, condolence on parent's death, reply to a frightened child, thank-you to an ill former teacher, letter to one's adult child, letter to oneself",
+          "Only thank-you notes",
+          "All emails"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's 'quiet practical rule' emerging from the cultural moment?",
+        "questionKo": "글쓴이가 문화적 순간으로부터 떠오른다고 보는 '조용한 실용적 규칙'은?",
+        "options": [
+          "Always use AI for speed",
+          "The more a piece of writing is supposed to come from you in particular to one specific other on one specific non-recurring occasion, the less you should hand it to anything other than yourself — the discomfort is the medium of meaning",
+          "Never use AI",
+          "Length matters most"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer reframe technical 'capability' in personal letters?",
+        "questionKo": "글쓴이는 개인적 편지에서 기술적 '능력'을 어떻게 다시 틀 잡나요?",
+        "options": [
+          "Capability is always the help",
+          "Capability is the precise variable being subtracted from what the recipient is hoping to receive — not the help, but exactly the wrong thing to bring",
+          "Capability is unrelated",
+          "Capability is the only thing that matters"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

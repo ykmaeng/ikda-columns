@@ -1,0 +1,434 @@
+[
+  {
+    "id": "col-2026-05-11-last-call-l1",
+    "title": "I Called a Friend",
+    "titleKo": "친구에게 전화했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-11-last-call"],
+    "paragraphs": [
+      "Today I called my friend. I called her with my phone. We did not text.",
+      "I tried to remember the last time I called her. I could not remember. It was many months ago.",
+      "We text often. We send photos. We send small jokes. But we do not talk.",
+      "When she answered, her voice was different from her text. It was warmer. It was real.",
+      "We talked for thirty minutes. We laughed. I heard her laugh.",
+      "I did not know I missed her laugh. But I did.",
+      "After the call, I sat for a few minutes. I felt happy. I felt a little sad too.",
+      "I think we are all very busy. We text. We do not call.",
+      "But a call is different. You can hear the person.",
+      "I will call her again. Maybe next week. I do not want to wait so long again."
+    ],
+    "translation": [
+      "오늘 저는 친구에게 전화했어요. 휴대폰으로 전화했어요. 문자가 아니었어요.",
+      "마지막으로 그 친구에게 전화한 게 언제인지 기억하려고 해 봤어요. 기억이 안 났어요. 몇 달 전이었어요.",
+      "우리는 자주 문자해요. 사진을 보내요. 작은 농담을 보내요. 그런데 이야기를 하지는 않아요.",
+      "친구가 받았을 때, 친구의 목소리는 문자와 달랐어요. 더 따뜻했어요. 진짜였어요.",
+      "우리는 삼십 분 동안 이야기했어요. 같이 웃었어요. 친구의 웃음소리를 들었어요.",
+      "친구의 웃음소리를 그리워하고 있는 줄 몰랐어요. 그런데 그리워하고 있었어요.",
+      "통화가 끝나고, 잠시 앉아 있었어요. 행복했어요. 조금 슬프기도 했어요.",
+      "우리 모두 아주 바쁘다고 생각해요. 문자만 해요. 전화는 하지 않아요.",
+      "그런데 통화는 달라요. 그 사람을 들을 수 있어요.",
+      "다시 전화할 거예요. 어쩌면 다음 주에. 다시 그렇게 오래 기다리고 싶지 않아요."
+    ],
+    "targetWords": ["l1-134", "l1-213", "l1-097", "l1-098", "l1-252"],
+    "quiz": [
+      {
+        "question": "What did the writer do today?",
+        "questionKo": "글쓴이는 오늘 무엇을 했나요?",
+        "options": [
+          "Sent a text to a friend",
+          "Called a friend on the phone",
+          "Visited a friend",
+          "Sent a letter"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the writer feel after the call?",
+        "questionKo": "통화 후 글쓴이는 어떻게 느꼈나요?",
+        "options": [
+          "Tired",
+          "Happy and a little sad — and wanted to call again sooner",
+          "Angry",
+          "Bored"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-11-last-call-l2",
+    "title": "When Did I Last Call My Friend?",
+    "titleKo": "마지막으로 친구에게 전화한 게 언제였더라",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-11-last-call"],
+    "paragraphs": [
+      "Today I called a friend. Not a video call. Not a message. Just a phone call, with nothing on the screen.",
+      "Before I called her, I tried to remember the last time we had spoken — really spoken, with our voices. I could not remember. It was somewhere in the previous winter. Months ago.",
+      "We are not bad friends. We text often. We share short videos. We send jokes about strange things on the news. We tap a heart on each other's photos. From the outside, we look very connected.",
+      "But I had not heard her voice in months.",
+      "When she picked up, she said, 'Wait, are you okay? Did something happen?' That was the strange part. A phone call now sounds like an emergency.",
+      "I said, 'No, I just wanted to call.' She laughed. The laugh was the same as I remembered. She has had the same laugh since we were nineteen.",
+      "We talked for almost an hour. About nothing important. Her work. My back pain. A song she heard on the way to her office. A childhood teacher we both still remember.",
+      "After the call, I sat at my kitchen table for a while. I felt happier than I had felt all week. I also felt a little ashamed. Why had I waited so long?",
+      "We are all busy. That is the easy answer. But I think the real answer is that texting feels free. A call feels like an interruption — like something I have to ask permission for.",
+      "But texting is not the same as a call. You can read her words. You cannot hear her tired voice on a Wednesday night. You cannot hear when she pauses too long before saying she is fine.",
+      "I am not going to delete our chat. The chat is fine. The chat keeps us in touch.",
+      "But this week, I want to call one more friend. Just to hear them. Just for an hour. Just to remember the texture of a real voice, before more time passes."
+    ],
+    "translation": [
+      "오늘 친구에게 전화했어요. 영상통화 아니에요. 메시지도 아니에요. 그냥 화면에 아무것도 없는 음성 통화.",
+      "전화하기 전에, 마지막으로 그 친구와 진짜로 — 목소리로 — 이야기한 게 언제였는지 떠올려 보려고 했어요. 기억이 안 났어요. 작년 겨울 어딘가였어요. 몇 달 전.",
+      "우리는 사이가 나쁜 친구가 아니에요. 자주 문자해요. 짧은 영상을 공유해요. 뉴스에 나오는 이상한 일들에 대해 농담을 보내요. 서로의 사진에 하트를 눌러요. 바깥에서 보면 우리는 아주 연결되어 보여요.",
+      "그런데 그 친구의 목소리를 몇 달 동안 듣지 못했어요.",
+      "친구가 받자마자 말했어요. \"잠깐, 너 괜찮아? 무슨 일 있어?\" 그게 이상한 부분이었어요. 이제 전화 한 통은 비상사태처럼 들려요.",
+      "저는 말했어요. \"아니, 그냥 전화하고 싶어서.\" 친구가 웃었어요. 웃음소리는 제가 기억하던 그대로였어요. 우리가 열아홉 살 때부터 그 친구는 같은 웃음을 가지고 있어요.",
+      "우리는 거의 한 시간 동안 이야기했어요. 별로 중요하지 않은 것들에 대해. 친구의 일. 제 허리 통증. 친구가 회사 가는 길에 들은 노래. 우리 둘 다 아직도 기억하는 어린 시절 선생님.",
+      "통화가 끝나고, 잠시 부엌 식탁에 앉아 있었어요. 그 주 내내 느꼈던 어떤 기분보다 더 행복했어요. 조금 부끄럽기도 했어요. 왜 그렇게 오래 기다렸을까요?",
+      "우리는 모두 바빠요. 그게 쉬운 답이에요. 하지만 진짜 답은, 문자가 공짜처럼 느껴진다는 거예요. 통화는 방해처럼 느껴져요 — 허락을 구해야 하는 무엇처럼.",
+      "그런데 문자는 통화와 같지 않아요. 친구의 글을 읽을 수는 있어요. 수요일 밤에 친구의 피곤한 목소리는 들을 수 없어요. \"괜찮아\"라고 말하기 전에 너무 오래 멈출 때 그것을 들을 수 없어요.",
+      "우리 채팅을 지우진 않을 거예요. 채팅은 좋아요. 채팅이 우리를 연결해 줘요.",
+      "그런데 이번 주, 친구 한 명에게 더 전화하고 싶어요. 그냥 그 사람을 듣기 위해. 한 시간만. 더 많은 시간이 흐르기 전에, 진짜 목소리의 질감을 다시 기억하기 위해."
+    ],
+    "targetWords": ["l1-134", "l2-087", "l2-096", "l2-287", "l1-213"],
+    "quiz": [
+      {
+        "question": "Why did the friend ask 'are you okay?' when answering?",
+        "questionKo": "친구가 받자마자 \"괜찮아?\"라고 물은 이유는?",
+        "options": [
+          "She was angry",
+          "A phone call now sounds like an emergency — calls have become rare enough that they suggest trouble",
+          "She did not recognize the writer",
+          "She was busy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say a text cannot give you?",
+        "questionKo": "글쓴이는 문자가 줄 수 없는 것이 무엇이라고 말하나요?",
+        "options": [
+          "Information",
+          "The friend's tired voice or the long pause before she says she is fine",
+          "Emojis",
+          "Photos"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-11-last-call-l3",
+    "title": "The Phone Call I Did Not Make",
+    "titleKo": "내가 걸지 않은 전화",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-11-last-call"],
+    "paragraphs": [
+      "I called a friend today. Not a video call. Not a voice message. A regular phone call, with nothing on the screen but the rising and falling line of her voice.",
+      "Before I dialed, I tried to remember the last time we had actually spoken — voice to voice, in real time. I could not place it. It was somewhere in the previous winter, possibly around her father's birthday, possibly not.",
+      "We are not bad friends. We text constantly. We exchange links to articles. We send each other short videos that we think the other will find funny. We tap a small heart on each other's photographs. From the outside, our friendship looks well-maintained.",
+      "But the last time I had heard her voice was so long ago that I had forgotten its specific frequency.",
+      "When she picked up, the first thing she said was, 'Wait — is everything okay? Did something happen?' That, I think, is the most telling sentence in the column. A spontaneous phone call, between two people who have known each other for fifteen years, now reads as an emergency signal.",
+      "I told her nothing was wrong. I just wanted to call. She laughed. The laugh was the laugh I remembered from our twenties. People's laughs do not really change. Their faces age, their concerns evolve, their politics drift. But the laugh stays remarkably constant.",
+      "We talked for almost an hour. The content was unremarkable. Her job, which is going well in some ways and poorly in others. My back, which has been hurting in a familiar place. A song she heard on the way to her office. An old teacher we both remember and occasionally still think about.",
+      "After the call, I sat at the kitchen table for a few minutes without doing anything. I felt better than I had felt all week. I also felt mildly ashamed. The hour had cost me almost nothing. I could have placed it months ago. I had not.",
+      "We tell ourselves we are busy. It is the standard excuse, and it is partly true. But I think the deeper reason is more uncomfortable. Texting feels free. A phone call feels like an imposition, like a small request for someone else's attention.",
+      "Texting offers an illusion of low cost. You can send a message at any moment, at no friction. You can reply when convenient. The other person can do the same. The friendship continues, technically, in a series of asynchronous fragments.",
+      "But asynchronous fragments are not the same as a real conversation. You cannot read tone in a text. You cannot hear when a friend pauses two seconds too long before saying she is fine. You cannot tell, from a thumbs-up emoji, that she is at the end of a difficult week.",
+      "There is also something the call gives you that no text ever does. The other person, for an hour, is doing nothing else. They are not in another tab. They are not reading something else and waiting for the right moment to glance back at the chat. Their full attention is, briefly, with you.",
+      "That kind of attention has become unusually rare. We have built an entire communications culture around its avoidance.",
+      "I am not going to delete the chat thread. Texting is fine. Texting keeps people loosely connected across long distances and busy lives.",
+      "But this week, I want to call one more old friend. Just to hear them. Just for an hour. Just to remember the texture of a real voice, before another season passes and I have to count the months again."
+    ],
+    "translation": [
+      "오늘 친구에게 전화했어요. 영상통화 아니에요. 음성 메시지 아니에요. 화면에 친구의 목소리의 오르내리는 선 외에 아무것도 없는 일반적인 전화 통화.",
+      "전화를 걸기 전, 마지막으로 우리가 진짜로 — 목소리 대 목소리로, 실시간에 — 이야기한 게 언제였는지 떠올리려고 했어요. 짚을 수가 없었어요. 작년 겨울 어딘가, 아마 친구 아버지 생신 즈음, 아닐 수도 있고요.",
+      "우리는 나쁜 친구 사이가 아니에요. 끊임없이 문자해요. 기사 링크를 교환해요. 서로 재밌어할 거라고 생각하는 짧은 영상을 보내요. 서로의 사진에 작은 하트를 눌러요. 바깥에서 보면 우리 우정은 잘 관리된 것처럼 보여요.",
+      "그런데 마지막으로 친구의 목소리를 들은 게 너무 오래되어서, 그 특정 주파수를 잊어 버렸어요.",
+      "친구가 받자마자 처음으로 한 말은 \"잠깐 — 다 괜찮아? 무슨 일 있어?\"였어요. 그게, 제 생각에는, 이 칼럼에서 가장 시사적인 문장이에요. 십오 년 동안 서로를 알아 온 두 사람 사이의 자발적인 전화 통화가 이제는 비상 신호로 읽혀요.",
+      "잘못된 건 아무것도 없다고 말했어요. 그냥 전화하고 싶었다고요. 친구가 웃었어요. 그 웃음은 우리 이십 대 때 제가 기억하던 웃음이었어요. 사람들의 웃음은 정말로 변하지 않아요. 얼굴은 늙고, 관심사는 진화하고, 정치는 표류해요. 하지만 웃음은 놀라울 만큼 일정해요.",
+      "우리는 거의 한 시간 동안 이야기했어요. 내용은 평범했어요. 친구의 일, 어떤 면에서는 잘 되고 어떤 면에서는 잘 안 되는. 제 허리, 익숙한 자리에서 아파 온. 친구가 회사 가는 길에 들은 노래. 우리 둘 다 기억하고 가끔 아직도 생각하는 옛 선생님.",
+      "통화 후, 부엌 식탁에 잠시 아무것도 안 하고 앉아 있었어요. 그 주 내내 느꼈던 어떤 기분보다 좋았어요. 약간 부끄럽기도 했어요. 그 한 시간이 거의 비용이 들지 않았어요. 몇 달 전에 했을 수 있었어요. 하지 않았어요.",
+      "우리는 자기 자신에게 바쁘다고 말해요. 표준 변명이고, 부분적으로 사실이에요. 하지만 더 깊은 이유는 더 불편하다고 생각해요. 문자는 공짜처럼 느껴져요. 전화는 강요처럼, 다른 사람의 주의에 대한 작은 요청처럼 느껴져요.",
+      "문자는 낮은 비용의 환상을 제공해요. 어느 순간이든 마찰 없이 메시지를 보낼 수 있어요. 편할 때 답장할 수 있어요. 상대방도 같이 할 수 있어요. 우정은 기술적으로 비동기 조각들의 연속으로 이어져요.",
+      "하지만 비동기 조각들은 진짜 대화와 같지 않아요. 문자에서 어조를 읽을 수 없어요. 친구가 \"괜찮아\"라고 말하기 전에 이 초 너무 오래 멈출 때, 그것을 들을 수 없어요. 엄지 척 이모지로부터, 친구가 힘든 한 주의 끝에 있다는 걸 알 수 없어요.",
+      "통화가 주는 것이고 문자가 결코 주지 않는 것이 또 있어요. 상대방이, 한 시간 동안, 다른 어떤 것도 하고 있지 않아요. 다른 탭에 있지 않아요. 다른 것을 읽고 있다가 적절한 순간에 다시 채팅을 흘끗 볼 때를 기다리고 있지 않아요. 그들의 완전한 주의가, 잠시, 당신에게 있어요.",
+      "그런 종류의 주의는 비범하게 드물어졌어요. 우리는 그것의 회피를 중심으로 전체 통신 문화를 만들었어요.",
+      "채팅 스레드를 지우진 않을 거예요. 문자는 괜찮아요. 문자는 긴 거리와 바쁜 삶을 가로질러 사람들을 느슨하게 연결해 둬요.",
+      "그런데 이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 그냥 그 사람을 듣기 위해. 한 시간만. 또 한 계절이 지나서 다시 달을 세야 하기 전에, 진짜 목소리의 질감을 다시 기억하기 위해."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l1-134", "l3-147"],
+    "quiz": [
+      {
+        "question": "What 'most telling sentence' does the writer identify in the call?",
+        "questionKo": "글쓴이는 통화에서 어떤 '가장 시사적인 문장'을 지적하나요?",
+        "options": [
+          "The writer's hello",
+          "The friend's first words: 'Wait — is everything okay?' — a spontaneous call between long-time friends now reads as an emergency signal",
+          "The friend's laugh",
+          "The closing words"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say a phone call gives you that text cannot?",
+        "questionKo": "글쓴이는 통화가 주고 문자가 줄 수 없는 것이 무엇이라고 말하나요?",
+        "options": [
+          "Words",
+          "The other person's full undivided attention for an hour — they are not in another tab, not waiting to glance back at chat",
+          "Photos",
+          "Faster replies"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-11-last-call-l4",
+    "title": "On Calling, Not Texting, an Old Friend",
+    "titleKo": "옛 친구에게 문자가 아닌 전화를 거는 일",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-11-last-call"],
+    "paragraphs": [
+      "I called a friend today. Not a video call. Not a voice message left on a chat thread. A real, old-fashioned phone call, with nothing on the screen but the slow rising and falling line of her voice.",
+      "Before I dialed, I tried to reconstruct the last time we had actually spoken — voice to voice, in real time, with both of us paying attention to the same conversation simultaneously. I could not place it. The most likely candidate was sometime in the previous winter, possibly around her father's birthday, possibly a few weeks before. The exact date had become irrelevant by the time I was trying to recover it.",
+      "We are not, by any normal social measure, bad friends. We text constantly. We exchange links to articles, screenshots of strange things in the news, photographs of food, brief observations from our respective commutes. We tap small hearts on each other's photographs. We respond, usually within hours, to whatever the other has sent. From any external view, the friendship is being maintained at a respectable level of activity.",
+      "But the last time I had heard her actual voice — the timbre, the speed, the small involuntary pauses — was so far in the past that I had forgotten its specific frequency.",
+      "When she picked up, the first sentence she produced was diagnostic, in the most painful sense: 'Wait — is everything okay? Did something happen?' That sentence, more than anything else that occurred in the hour that followed, is the actual subject of this column. A spontaneous, unscheduled phone call, between two people who have known each other for fifteen years, now reads, on its first ring, as an emergency signal.",
+      "I told her nothing was wrong. I told her I had simply wanted to call. She laughed. The laugh was the laugh I remembered from our twenties. People's laughs, I have come to notice, are among the most stable elements of their personality. Faces age. Bodies change. Convictions and preferences drift. But the structure of someone's laugh tends to remain almost identical to the one they had at twenty.",
+      "We talked for nearly an hour. The content was unremarkable in any specific sense. Her job, which appears to be going well in some respects and poorly in others. My back, which has been intermittently painful in a long-familiar location. A song she had heard during her morning commute and could not stop thinking about. A teacher we had both had in our final year of secondary school, whom we both still occasionally remember without ever explaining to anyone else why.",
+      "After we hung up, I sat at the kitchen table for several minutes without doing anything in particular. I felt better than I had felt at any point in the preceding week, by what I would have to describe as a substantial margin. I also felt mildly and persistently ashamed. The hour had cost me almost nothing. I could have placed the call any time in the previous several months. I had not.",
+      "We tell ourselves we are busy. It is the standard answer, and it is partly true. But the deeper reason is structurally less flattering. Texting now feels free. A phone call feels like an imposition — a small unilateral request for another person's bounded attention.",
+      "Texting offers a remarkably persuasive illusion of low cost. You can compose a message at any moment, with no friction at all. You can send it without scheduling. The other person can read it on their own time and reply when it suits them. The friendship continues, technically, in a series of asynchronous and largely deferrable fragments.",
+      "But asynchronous fragments are not, in fact, the same as a real conversation. You cannot read tone reliably in a text message. You cannot hear when a friend pauses for two seconds too long before saying that she is fine. You cannot tell, from a thumbs-up emoji, that she is at the end of a difficult week she has chosen not to mention in writing.",
+      "There is also something a phone call provides that no text exchange ever quite manages to replicate. The other person, for the duration of the call, is doing nothing else. They are not in another browser tab. They are not half-reading something else and waiting for the right moment to glance back at the conversation. Their attention, briefly and conspicuously, belongs only to you.",
+      "That category of attention — undivided, real-time, mutual — has become unusually rare in contemporary social life. We have, almost without intending to, constructed an entire communications culture around its avoidance.",
+      "I am not, on the strength of one phone call, going to abandon text messaging. Texting is genuinely useful. It keeps people loosely connected across long geographic distances and asymmetrical schedules. It allows friendships to survive at low maintenance, which is sometimes the only kind of survival a friendship can afford.",
+      "But the maintenance is not the same as the actual relationship. The relationship lives, fundamentally, in the moments when two people allow each other their full attention without compromise — and those moments have become considerably scarcer than either of us tends to notice from inside the chat thread.",
+      "This week, I want to call one more old friend. Not for any specific reason. Just to hear them. Just for an hour. Just to remember the texture of a voice in real time, before another quarter passes and I find myself, again, unable to remember when we last actually spoke."
+    ],
+    "translation": [
+      "오늘 친구에게 전화했어요. 영상통화 아니에요. 채팅 스레드에 남긴 음성 메시지 아니에요. 진짜, 구식의 전화 통화, 화면에 친구의 목소리의 천천히 오르내리는 선 외에 아무것도 없는.",
+      "전화를 걸기 전, 마지막으로 우리가 진짜로 — 목소리 대 목소리로, 실시간에, 둘 다 동시에 같은 대화에 주의를 기울이며 — 이야기한 게 언제였는지 재구성해 보려고 했어요. 짚을 수가 없었어요. 가장 가능성 있는 후보는 작년 겨울 어딘가, 아마 친구 아버지 생신 즈음, 아니면 그 몇 주 전. 정확한 날짜는 회복하려고 시도할 때쯤이면 이미 무관해져 있었어요.",
+      "우리는 어떤 일반적인 사회적 척도로 봐도 나쁜 친구가 아니에요. 끊임없이 문자해요. 기사 링크, 뉴스의 이상한 것들의 스크린샷, 음식 사진, 각자의 출퇴근에서의 짧은 관찰을 교환해요. 서로의 사진에 작은 하트를 눌러요. 보통 몇 시간 안에, 상대가 보낸 무엇이든 반응해요. 어떤 외부적 관점에서도, 우정은 존중할 만한 수준의 활동으로 유지되고 있어요.",
+      "그러나 마지막으로 친구의 실제 목소리 — 음색, 속도, 작은 비자발적 멈춤 — 를 들은 건 너무 과거여서 그 특정 주파수를 잊어 버렸어요.",
+      "친구가 받자마자 만들어 낸 첫 문장은 가장 고통스러운 의미에서 진단적이었어요. \"잠깐 — 다 괜찮아? 무슨 일 있어?\" 그 문장은, 그 이후 한 시간 동안 일어난 어떤 것보다, 이 칼럼의 실제 주제예요. 십오 년 동안 서로를 알아 온 두 사람 사이의 자발적이고 일정에 없던 전화 통화가 이제 첫 번째 벨소리에서 비상 신호로 읽혀요.",
+      "잘못된 건 없다고 말했어요. 그냥 전화하고 싶었다고 말했어요. 친구가 웃었어요. 그 웃음은 우리 이십 대 때 제가 기억하던 웃음이었어요. 제가 알아채게 된 바로, 사람들의 웃음은 그들의 성격의 가장 안정적인 요소 중 하나예요. 얼굴은 늙어요. 몸은 변해요. 신념과 선호는 표류해요. 하지만 누군가의 웃음의 구조는 스무 살 때 가졌던 것과 거의 동일하게 남아 있는 경향이 있어요.",
+      "거의 한 시간 동안 이야기했어요. 내용은 어떤 구체적인 의미에서도 평범했어요. 어떤 면에서는 잘 되고 어떤 면에서는 잘 안 되는 것 같은 친구의 일. 오랫동안 익숙한 위치에서 간헐적으로 아파 온 제 허리. 친구가 아침 출근길에 듣고 멈출 수 없이 생각하던 노래. 우리 둘 다 중등 학교 마지막 해에 가졌던 선생님, 우리 둘 다 가끔 아직도 기억하지만 다른 어느 누구에게도 왜인지 설명하지 않는.",
+      "전화를 끊고, 부엌 식탁에 몇 분 동안 특별히 아무것도 안 하고 앉아 있었어요. 그 전 한 주의 어느 시점보다 — 상당한 차이로 묘사해야 할 — 좋게 느껴졌어요. 약간 그리고 지속적으로 부끄럽기도 했어요. 그 한 시간이 거의 비용이 들지 않았어요. 그 전 몇 달 동안 어느 때든 그 통화를 걸 수 있었어요. 하지 않았어요.",
+      "우리는 자기 자신에게 바쁘다고 말해요. 표준 답이고, 부분적으로 사실이에요. 하지만 더 깊은 이유는 구조적으로 덜 칭찬받을 만해요. 문자는 이제 공짜처럼 느껴져요. 전화는 강요처럼 — 다른 사람의 한정된 주의에 대한 작은 일방적 요청처럼 — 느껴져요.",
+      "문자는 낮은 비용의 놀라울 만큼 설득력 있는 환상을 제공해요. 마찰이 전혀 없이 어느 순간이든 메시지를 작성할 수 있어요. 일정 잡지 않고 보낼 수 있어요. 상대방은 자기 시간에 읽을 수 있고 자기에게 맞을 때 답장할 수 있어요. 우정은 기술적으로 비동기적이고 대체로 미룰 수 있는 조각들의 연속으로 이어져요.",
+      "하지만 비동기 조각들은 사실 진짜 대화와 같지 않아요. 문자 메시지에서 어조를 신뢰성 있게 읽을 수 없어요. 친구가 \"괜찮아\"라고 말하기 전에 이 초 너무 오래 멈출 때 그것을 들을 수 없어요. 엄지 척 이모지로부터, 친구가 글로 언급하지 않기로 선택한 힘든 한 주의 끝에 있다는 걸 알 수 없어요.",
+      "전화 통화가 제공하고 어떤 문자 교환도 결코 완전히 복제할 수 없는 것이 또 있어요. 상대방이, 통화 시간 동안, 다른 어떤 것도 하고 있지 않아요. 다른 브라우저 탭에 있지 않아요. 다른 것을 반쯤 읽고 있다가 대화를 다시 흘끗 볼 적절한 순간을 기다리고 있지 않아요. 그들의 주의가, 잠시 그리고 눈에 띄게, 오직 당신에게만 속해요.",
+      "그 범주의 주의 — 분할되지 않은, 실시간의, 상호적인 — 는 현대 사회 생활에서 비범하게 드물어졌어요. 우리는, 거의 의도하지 않은 채로, 그것의 회피를 중심으로 전체 통신 문화를 구축했어요.",
+      "한 번의 전화 통화의 힘으로, 문자 메시지를 포기하지는 않을 거예요. 문자는 진짜로 유용해요. 긴 지리적 거리와 비대칭적 일정을 가로질러 사람들을 느슨하게 연결해 둬요. 우정이 낮은 유지로 살아남게 해 주는데, 그건 가끔 우정이 감당할 수 있는 유일한 종류의 생존이에요.",
+      "하지만 유지는 실제 관계와 같지 않아요. 관계는 근본적으로, 두 사람이 타협 없이 서로의 완전한 주의를 허용하는 순간에 살아요 — 그리고 그 순간들은 채팅 스레드 안에서 우리 둘 다 알아채는 경향이 있는 것보다 상당히 더 부족해졌어요.",
+      "이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 어떤 특정한 이유로가 아니에요. 그냥 그들을 듣기 위해. 한 시간만. 또 한 분기가 지나서 마지막으로 우리가 실제로 이야기한 게 언제인지 다시 기억할 수 없게 되기 전에, 실시간 목소리의 질감을 다시 기억하기 위해."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l4-097", "l4-790"],
+    "quiz": [
+      {
+        "question": "What is the writer's actual subject — 'more than anything else'?",
+        "questionKo": "글쓴이의 실제 주제 — '그 어떤 것보다' — 는?",
+        "options": [
+          "The friend's job",
+          "The friend's first words 'is everything okay?' — a spontaneous call between long-time friends now reads as an emergency signal",
+          "The teacher they remember",
+          "Back pain"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe the difference between text maintenance and actual relationship?",
+        "questionKo": "글쓴이는 문자 유지와 실제 관계의 차이를 어떻게 묘사하나요?",
+        "options": [
+          "They are identical",
+          "Maintenance is not the same as the relationship — the relationship lives in moments of full undivided real-time attention, which have become scarcer than we notice from inside the chat thread",
+          "Texts are always better",
+          "Calls are useless"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-11-last-call-l5",
+    "title": "The Slow Disappearance of the Voice Call",
+    "titleKo": "음성 통화의 천천한 사라짐",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-11-last-call"],
+    "paragraphs": [
+      "I called a friend today. Not a video call. Not a voice memo left on a chat thread. A regular, old-fashioned, audio-only phone call, with nothing on the screen but the slow rising and falling pattern of her voice and an indicator of the elapsed time.",
+      "Before I dialed, I tried, with some difficulty, to reconstruct the last time we had actually spoken in real time — voice to voice, both of us paying attention to the same conversation simultaneously and exclusively. I could not place the previous occasion. The most plausible candidate was sometime during the preceding winter, possibly in proximity to her father's birthday. The exact date had become irrelevant by the time I was attempting to recover it.",
+      "By any normal social metric, we are not bad friends. We text constantly. We exchange links to articles, screenshots of unusual items in the news, photographs of food, brief commute observations, recommendations for streaming series. We respond to each other's messages, usually within hours. We tap small hearts on each other's photographs. From any external vantage, the friendship is being maintained at a respectable and continuous level of activity.",
+      "But the last time I had heard her actual voice — the specific timbre, the slight rasp at the end of long sentences, the small involuntary pauses she had used since university — was, when I tried to reconstruct it, distant enough that I had forgotten its precise frequency.",
+      "When she picked up, the first sentence she produced was diagnostic in a way I have not been able to forget all day. 'Wait — is everything okay? Did something happen?' That sentence, more than anything else that occurred in the ensuing hour, is the actual subject of this column. A spontaneous, unscheduled phone call between two people who have known each other for fifteen years now reads, on the first ring, as an emergency signal.",
+      "I told her nothing was wrong. I told her I had simply wanted to call her. She laughed. The laugh was the laugh I had known since we were nineteen. People's laughs, I have come to believe, are among the most stable elements of their personalities. Faces age. Bodies modify. Convictions and political identities drift. But the topology of someone's laugh, in my limited experience, tends to remain almost exactly identical to the one they had as young adults.",
+      "We talked for nearly an hour. The content, in any specific sense, was unremarkable. Her job, which appears to be going well in some dimensions and poorly in others. My back, which has been intermittently painful in a long-familiar location and which I had not previously mentioned to her in writing. A song she had heard during her morning commute and could not stop revisiting. A teacher we had both had in the final year of secondary school, whom we both still occasionally remember without quite being able to explain why to anyone else.",
+      "After we hung up, I sat at my kitchen table for several minutes without doing anything in particular. I felt better than I had felt at any point in the preceding week, by what I would have to describe as a substantial margin. I also felt a quiet, persistent shame, the kind that does not announce itself loudly but does not entirely dissipate either. The hour had cost me almost nothing in any practical sense. I could have placed the call at almost any point during the previous several months. I had not.",
+      "We tell ourselves we are busy. It is the standard answer, and it is partly true. But the deeper reason, when I am honest about it, is structurally less flattering. Texting now feels free. A phone call feels like an imposition — a small unilateral request for another person's bounded attention, made without prior negotiation, when no specific occasion requires it.",
+      "Texting offers a remarkably persuasive illusion of low cost. A message can be composed at any moment, with no friction at all. It can be sent without explicit scheduling. The recipient can attend to it on their own time and reply when convenient. The friendship continues, technically and observably, in a long series of asynchronous, deferrable fragments. Nothing demands more attention than anyone is willing to give in any specific moment.",
+      "But the asynchronous fragments are not, on close inspection, the same as a real conversation. The text format reliably strips out tone. It cannot reproduce the small two-second pause before a friend says she is fine. It cannot transmit the specific rhythm of a tired voice on a Wednesday night. It cannot let you hear, in the texture of a single sentence, that a friend is at the difficult end of a difficult quarter she has chosen not to put in writing.",
+      "There is also something a phone call provides that no text exchange ever quite manages to replicate, even when the participants are diligent and articulate writers. The other person, for the duration of the call, is doing nothing else. They are not in another browser tab. They are not half-reading something unrelated and waiting for the right moment to glance back at the conversation. Their attention, briefly and conspicuously, belongs only to the call. They have, for that hour, made themselves unavailable to everything else.",
+      "That category of attention — undivided, mutual, real-time — has become noticeably rare in contemporary adult social life. We have, mostly without consciously choosing to, constructed an entire communications culture around its avoidance. The friendly substitution of asynchronous text for synchronous voice is rarely framed as a loss. It is framed as a convenience, an efficiency, a respectful accommodation of busy lives.",
+      "What it is also, however, is a slow and largely unacknowledged decline in the kind of mutual attention on which the deeper part of friendship has historically depended. The decline is not catastrophic in any individual case. It is, like many of the slow declines of contemporary life, almost invisible from inside any single relationship. It becomes visible only retrospectively, when one tries to remember the last time one heard a particular friend's voice and discovers that the answer is not weeks but seasons.",
+      "I am not, on the strength of a single phone call, planning to abandon text messaging. Texting is genuinely useful. It keeps people loosely connected across long geographic distances and asymmetric schedules. It allows friendships to persist at low maintenance, which is sometimes the only form of persistence a friendship under contemporary conditions can realistically afford.",
+      "But the maintenance is not the same as the relationship itself. The relationship lives, fundamentally, in those briefer and increasingly rare moments when two people allow each other their full attention without compromise or simultaneous activity. Those moments have become considerably scarcer than either party tends to notice from inside the comfortable, ongoing rhythm of the chat thread.",
+      "This week, I want to call one more old friend. Not for any specific reason. Just to hear them in real time. Just for an hour. Just to remember the texture of an actual voice in the air, before another quarter passes and I find myself, again, unable to recall the date on which we last actually spoke."
+    ],
+    "translation": [
+      "오늘 친구에게 전화했어요. 영상통화 아니에요. 채팅 스레드에 남긴 음성 메모 아니에요. 일반적이고 구식의 음성 전용 전화 통화, 화면에 친구의 목소리의 천천히 오르내리는 패턴과 경과 시간 표시 외에 아무것도 없는.",
+      "전화를 걸기 전, 다소 어렵게, 마지막으로 우리가 실시간에 진짜로 이야기한 게 — 목소리 대 목소리로, 둘 다 같은 대화에 동시에 그리고 배타적으로 주의를 기울이며 — 언제였는지 재구성하려고 했어요. 이전 경우를 짚을 수가 없었어요. 가장 그럴듯한 후보는 그 전 겨울 어느 때, 아마 친구 아버지 생신 근처. 정확한 날짜는 회복하려고 시도할 때쯤이면 이미 무관해져 있었어요.",
+      "어떤 일반적인 사회적 척도로도, 우리는 나쁜 친구가 아니에요. 끊임없이 문자해요. 기사 링크, 뉴스의 특이한 항목들의 스크린샷, 음식 사진, 짧은 출퇴근 관찰, 스트리밍 시리즈 추천을 교환해요. 서로의 메시지에 보통 몇 시간 안에 응답해요. 서로의 사진에 작은 하트를 눌러요. 어떤 외부적 시점에서도, 우정은 존중할 만하고 지속적인 수준의 활동으로 유지되고 있어요.",
+      "그러나 마지막으로 친구의 실제 목소리 — 특정 음색, 긴 문장 끝의 약간 거친 소리, 대학 시절부터 써 온 작은 비자발적 멈춤 — 를 들은 건, 재구성하려고 했을 때, 그 정확한 주파수를 잊어 버릴 만큼 멀었어요.",
+      "친구가 받았을 때 만들어 낸 첫 문장은 제가 하루 종일 잊을 수 없었던 방식으로 진단적이었어요. \"잠깐 — 다 괜찮아? 무슨 일 있어?\" 그 문장은, 이어진 한 시간 동안 일어난 어떤 것보다, 이 칼럼의 실제 주제예요. 십오 년 동안 서로를 알아 온 두 사람 사이의 자발적이고 일정에 없던 전화 통화가 이제 첫 번째 벨소리에서 비상 신호로 읽혀요.",
+      "잘못된 건 없다고 말했어요. 그냥 친구에게 전화하고 싶었다고 말했어요. 친구가 웃었어요. 그 웃음은 우리가 열아홉 살일 때부터 알았던 웃음이었어요. 제가 믿게 된 바로, 사람들의 웃음은 그들의 성격의 가장 안정적인 요소 중 하나예요. 얼굴은 늙어요. 몸은 수정돼요. 신념과 정치적 정체성은 표류해요. 하지만 제 제한된 경험에서, 누군가의 웃음의 위상은 젊은 어른 시절에 가졌던 것과 거의 정확히 동일하게 남아 있는 경향이 있어요.",
+      "거의 한 시간 동안 이야기했어요. 내용은, 어떤 구체적인 의미에서도, 평범했어요. 어떤 차원에서는 잘 되고 어떤 차원에서는 잘 안 되는 것 같은 친구의 일. 오랫동안 익숙한 위치에서 간헐적으로 아파 왔고 글로는 친구에게 이전에 언급하지 않았던 제 허리. 친구가 아침 출퇴근 중에 듣고 다시 듣기를 멈출 수 없었던 노래. 우리 둘 다 중등 학교 마지막 해에 가졌던 선생님, 우리 둘 다 가끔 아직도 기억하면서도 다른 어느 누구에게도 왜인지 정확히 설명할 수 없는.",
+      "전화를 끊고, 부엌 식탁에 몇 분 동안 특별히 아무것도 안 하고 앉아 있었어요. 그 전 한 주의 어느 시점보다 — 상당한 차이로 묘사해야 할 — 좋게 느껴졌어요. 또한 조용하고 지속적인 부끄러움 — 큰 소리로 자기를 알리지 않으면서 완전히 사라지지도 않는 종류의 — 도 느꼈어요. 그 한 시간이 어떤 실용적 의미에서도 거의 비용이 들지 않았어요. 그 전 몇 달 동안 거의 어느 시점에서든 그 통화를 걸 수 있었어요. 하지 않았어요.",
+      "우리는 자기 자신에게 바쁘다고 말해요. 표준 답이고, 부분적으로 사실이에요. 하지만 더 깊은 이유는, 그것에 대해 정직할 때, 구조적으로 덜 칭찬받을 만해요. 문자는 이제 공짜처럼 느껴져요. 전화는 강요처럼 — 사전 협상 없이, 어떤 특정한 행사도 그것을 요구하지 않을 때, 다른 사람의 한정된 주의에 대한 작은 일방적 요청처럼 — 느껴져요.",
+      "문자는 낮은 비용의 놀라울 만큼 설득력 있는 환상을 제공해요. 메시지는 마찰이 전혀 없이 어느 순간이든 작성될 수 있어요. 명시적 일정 없이 보낼 수 있어요. 수신자는 자기 시간에 그것에 응할 수 있고 편할 때 답장할 수 있어요. 우정은 기술적으로 그리고 관찰 가능하게, 비동기적이고 미룰 수 있는 조각들의 긴 연속으로 이어져요. 어느 누구도 어느 특정 순간에 기꺼이 줄 수 있는 것보다 더 많은 주의를 요구하지 않아요.",
+      "그러나 비동기 조각들은, 가까이서 검사해 보면, 진짜 대화와 같지 않아요. 문자 형식은 신뢰성 있게 어조를 제거해요. 친구가 \"괜찮아\"라고 말하기 전의 작은 이 초 멈춤을 재현할 수 없어요. 수요일 밤의 피곤한 목소리의 특정 리듬을 전송할 수 없어요. 단 한 문장의 질감 안에서, 친구가 글로 적기를 선택하지 않은 힘든 분기의 어려운 끝에 있다는 걸 들을 수 있게 해 주지 않아요.",
+      "전화 통화가 제공하고 어떤 문자 교환도, 참가자들이 부지런하고 표현이 분명한 작가일 때조차도, 결코 완전히 복제할 수 없는 것이 또 있어요. 상대방이, 통화 시간 동안, 다른 어떤 것도 하고 있지 않아요. 다른 브라우저 탭에 있지 않아요. 무관한 다른 것을 반쯤 읽으면서 대화를 다시 흘끗 볼 적절한 순간을 기다리고 있지 않아요. 그들의 주의가, 잠시 그리고 눈에 띄게, 오직 통화에만 속해요. 그들은, 그 한 시간 동안, 다른 모든 것에 대해 자기 자신을 사용 불가능하게 만들었어요.",
+      "그 범주의 주의 — 분할되지 않은, 상호적인, 실시간의 — 는 현대 어른 사회 생활에서 눈에 띄게 드물어졌어요. 우리는 대체로 의식적으로 선택하지 않은 채로, 그것의 회피를 중심으로 전체 통신 문화를 구축했어요. 동기적 음성 대신 비동기적 문자의 친근한 대체는 거의 손실로 틀 잡혀지지 않아요. 그것은 편리, 효율, 바쁜 삶에 대한 존중하는 수용으로 틀 잡혀져요.",
+      "그러나 그것은 또한 우정의 더 깊은 부분이 역사적으로 의존해 온 종류의 상호 주의의 천천하고 대체로 인정받지 않은 쇠퇴이기도 해요. 그 쇠퇴는 어떤 개별 사례에서도 파국적이지 않아요. 현대 생활의 많은 천천한 쇠퇴들처럼, 어떤 단일 관계 안에서는 거의 보이지 않아요. 누군가가 마지막으로 특정 친구의 목소리를 들은 게 언제인지 기억하려고 시도하고, 그 답이 몇 주가 아니라 몇 계절이라는 걸 발견할 때, 회고적으로만 보이게 돼요.",
+      "단 한 번의 전화 통화의 힘으로, 문자 메시지를 포기할 계획은 없어요. 문자는 진짜로 유용해요. 긴 지리적 거리와 비대칭적 일정을 가로질러 사람들을 느슨하게 연결해 둬요. 우정이 낮은 유지로 지속되게 해 주는데, 그건 가끔 현대 조건에서 우정이 현실적으로 감당할 수 있는 유일한 형태의 지속이에요.",
+      "하지만 유지는 관계 그 자체와 같지 않아요. 관계는 근본적으로, 두 사람이 타협이나 동시 활동 없이 서로의 완전한 주의를 허용하는 그 더 짧고 점점 드물어지는 순간들에 살아요. 그 순간들은 채팅 스레드의 편안하고 진행 중인 리듬 안에서 어느 쪽이든 알아채는 경향이 있는 것보다 상당히 더 부족해졌어요.",
+      "이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 어떤 특정한 이유로가 아니에요. 그냥 그들을 실시간에 듣기 위해. 한 시간만. 또 한 분기가 지나서 마지막으로 우리가 실제로 이야기한 날짜를 다시 떠올릴 수 없게 되기 전에, 공기 중의 실제 목소리의 질감을 다시 기억하기 위해."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l4-097", "l4-790"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize 'the slow decline' of voice calls?",
+        "questionKo": "글쓴이는 음성 통화의 '천천한 쇠퇴'를 어떻게 특징짓나요?",
+        "options": [
+          "Sudden and obvious",
+          "Almost invisible from inside any single relationship; visible only retrospectively when you try to remember the last time and find the answer is not weeks but seasons",
+          "Beneficial",
+          "Universal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'category of attention' does the writer say has become rare?",
+        "questionKo": "글쓴이는 어떤 '범주의 주의'가 드물어졌다고 말하나요?",
+        "options": [
+          "Casual attention",
+          "Undivided, mutual, real-time attention — both people unavailable to everything else for the call's duration",
+          "Group attention",
+          "Visual attention"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What distinction does the writer draw between 'maintenance' and 'relationship'?",
+        "questionKo": "글쓴이는 '유지'와 '관계' 사이에 어떤 구분을 그리나요?",
+        "options": [
+          "They are the same",
+          "Maintenance is not the relationship — the relationship lives in briefer, increasingly rare moments of full attention without compromise; chat threads disguise the scarcity",
+          "Maintenance is more important",
+          "Relationships do not need either"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-11-last-call-l6",
+    "title": "What We Lose When Friendship Becomes a Stream of Messages",
+    "titleKo": "우정이 메시지의 흐름이 될 때 우리가 잃는 것",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-11-last-call"],
+    "paragraphs": [
+      "I called a friend today. Not a video call. Not a voice memo deposited on a chat thread. A regular, audio-only telephone call, with nothing on the screen but the slow rising and falling pattern of her voice and a small numerical indicator of the elapsed time.",
+      "Before I dialed, I attempted, with non-trivial difficulty, to reconstruct the last occasion on which we had actually spoken in real time — voice to voice, both of us paying attention to the same conversation simultaneously and exclusively. I was unable to place the previous occasion with any confidence. The most plausible candidate was sometime during the preceding winter, possibly in proximity to her father's birthday, possibly several weeks earlier or later. The exact date had become irrelevant by the time I was attempting to recover it.",
+      "By any conventional social metric, we are not bad friends. We text constantly. We exchange links to articles, screenshots of unusual items in the news, photographs of food, brief observations from our respective commutes, recommendations for streaming series and books neither of us will, in fact, find time to read. We respond to each other's messages, in nearly all cases, within hours. We tap small hearts on each other's photographs. From any external vantage, the friendship is being maintained at a respectable, continuous, and observably affectionate level of activity.",
+      "But the last time I had heard her actual voice — the specific timbre, the slight rasp at the end of long sentences, the small involuntary pauses she had used in approximately the same places since university — was, when I tried to reconstruct it, distant enough that I had to acknowledge having forgotten the precise frequency of the sound.",
+      "When she picked up, the first sentence she produced was diagnostic in a way I have not been able to forget over the course of the day. 'Wait — is everything okay? Did something happen?' That sentence, more than anything else that occurred in the ensuing hour, is the actual subject of this column. A spontaneous, unscheduled phone call, between two people who have known each other in some form for fifteen years, now reads, on the very first ring, as a probable emergency signal.",
+      "I told her, with what I hoped sounded like reassurance rather than excessive cheer, that nothing was wrong. I told her I had simply wanted to call her. After a brief pause, she laughed. The laugh was the laugh I had known since we were nineteen. People's laughs, I have come to believe, are among the most stable elements of their personalities. Faces age. Bodies modify. Convictions and political identities drift, sometimes substantially. But the topology of someone's laugh, in my limited but accumulated experience, tends to remain almost exactly identical to the one they possessed in young adulthood, as if it had been encoded somewhere outside the reach of ordinary biographical change.",
+      "We talked for nearly an hour. The content, in any specific informational sense, was unremarkable. Her job, which appears to be going well in some dimensions and poorly in others. My back, which has been intermittently painful in a long-familiar location and which I had not, until that conversation, mentioned to her in any form. A song she had heard during her morning commute and could not stop revisiting. A teacher we had both had in the final year of secondary school, whom we both still occasionally remember and yet have never quite been able to explain, to anyone else, the specific significance of.",
+      "After we hung up, I sat at my kitchen table for several minutes without doing anything in particular. I felt better than I had felt at any point in the preceding week, by what I would have to describe as a substantial margin. I also felt a quiet and persistent shame, the kind that does not announce itself loudly but does not entirely dissipate either. The hour had cost me almost nothing in any practical sense. I could have placed the call at almost any point during the previous several months. I had not.",
+      "We tell ourselves we are busy. It is the standard explanation, and it is partly true. The hours of the average adult life are now genuinely fragmented in ways that the previous generation would have found difficult to accept as a default condition. But the deeper reason, when I try to be honest about it, is structurally less flattering. Texting now feels free. A phone call feels like an imposition — a small unilateral request for another person's bounded attention, made without prior negotiation, when no specific external occasion requires it.",
+      "Texting offers a remarkably persuasive illusion of low cost. A message can be composed at any moment, with effectively no friction. It can be sent without explicit scheduling. The recipient can attend to it on their own time and reply when convenient. The friendship continues, technically and observably, in a long series of asynchronous, deferrable, individually low-stakes fragments. Nothing in any specific moment demands more attention than anyone is willing to provide on demand.",
+      "The asynchronous fragments, however, are not, on close inspection, equivalent to a real conversation. The text format reliably strips out tone. It cannot reproduce the small two-second pause before a friend says she is fine. It cannot transmit the specific rhythm of a tired voice on a Wednesday night, the particular cadence of someone who has had a difficult day at work and is choosing not to mention it. It cannot let you hear, in the texture of a single sentence, that a friend is at the difficult end of a difficult quarter she has not, in writing, decided to acknowledge to anyone.",
+      "There is also something a phone call provides that no text exchange ever quite manages to replicate, even when the participants are diligent and articulate writers. The other person, for the duration of the call, is doing nothing else. They are not in another browser tab. They are not half-reading something unrelated and waiting for the right moment to glance back at the conversation. Their attention, briefly and conspicuously, belongs only to the call. They have, for that hour, made themselves unavailable to everything and everyone else.",
+      "That category of attention — undivided, mutual, real-time, sustained for more than a few seconds at a time — has become noticeably rare in contemporary adult social life. We have, mostly without consciously choosing to, constructed an entire communications culture around its avoidance. The friendly substitution of asynchronous text for synchronous voice is rarely framed, in the surrounding discourse, as a loss. It is framed as a convenience, an efficiency, a respectful accommodation of legitimately busy lives.",
+      "What it also is, however, is a slow and largely unacknowledged decline in the kind of mutual attention on which the deeper register of friendship has historically depended. The decline is not catastrophic in any individual case. It is, like many of the slow declines characteristic of contemporary life, almost invisible from inside any single relationship. It becomes visible primarily in retrospect, when one tries to recall the last time one heard a particular friend's voice and discovers, with mild surprise, that the answer is measured not in weeks but in seasons or — for some friends — in years.",
+      "There is, in addition, a generational version of this decline that I have begun to notice. Among my friends in their thirties and forties, the unscheduled call is now considered almost discourteous; the expectation is that one schedules a call, perhaps via prior text, the way one might schedule a small meeting. Among friends in their twenties, the spontaneous call is increasingly considered a generational marker of the friend's age — a vestige of how things used to be done, charming or alarming depending on the recipient's mood.",
+      "I am not, on the strength of a single phone call, planning to abandon text messaging. Texting is genuinely useful. It keeps people loosely connected across long geographic distances and asymmetric schedules. It allows friendships to persist at low maintenance, which is often the only form of persistence a friendship under contemporary conditions can realistically afford.",
+      "But the maintenance is not the same as the relationship itself. The relationship lives, fundamentally, in those briefer and increasingly rare moments when two people allow each other their full, undivided, simultaneous attention. Those moments have become considerably scarcer than either party tends to notice from inside the comfortable, ongoing rhythm of the chat thread. The chat thread is good at producing the appearance of presence. It is poor at producing presence itself.",
+      "This week, I want to call one more old friend. Not for any specific reason. Not because something has happened that requires explanation. Just to hear them in real time, voice to voice, with both of us briefly unavailable to anything else. Just for an hour. Just to remember the specific texture of an actual voice in the air, before another quarter passes and I find myself, again, unable to recall the date on which we last actually spoke."
+    ],
+    "translation": [
+      "오늘 친구에게 전화했어요. 영상통화 아니에요. 채팅 스레드에 입금된 음성 메모 아니에요. 일반적인 음성 전용 전화 통화, 화면에 친구의 목소리의 천천히 오르내리는 패턴과 경과 시간의 작은 숫자 표시 외에 아무것도 없는.",
+      "전화를 걸기 전, 사소하지 않은 어려움으로, 마지막으로 우리가 실시간에 진짜로 이야기한 경우 — 목소리 대 목소리로, 둘 다 같은 대화에 동시에 그리고 배타적으로 주의를 기울이며 — 를 재구성하려고 했어요. 어떤 자신감으로도 이전 경우를 짚을 수가 없었어요. 가장 그럴듯한 후보는 그 전 겨울 어느 때, 아마 친구 아버지 생신 근처, 아마 몇 주 일찍 또는 늦게. 정확한 날짜는 회복하려고 시도할 때쯤이면 이미 무관해져 있었어요.",
+      "어떤 일반적인 사회적 척도로도, 우리는 나쁜 친구가 아니에요. 끊임없이 문자해요. 기사 링크, 뉴스의 특이한 항목들의 스크린샷, 음식 사진, 각자의 출퇴근에서의 짧은 관찰, 우리 둘 중 누구도 사실 읽을 시간을 찾지 못할 스트리밍 시리즈와 책의 추천을 교환해요. 거의 모든 경우에 몇 시간 안에 서로의 메시지에 응답해요. 서로의 사진에 작은 하트를 눌러요. 어떤 외부적 시점에서도, 우정은 존중할 만하고 지속적이며 관찰 가능하게 애정 어린 수준의 활동으로 유지되고 있어요.",
+      "그러나 마지막으로 친구의 실제 목소리 — 특정 음색, 긴 문장 끝의 약간 거친 소리, 대학 시절부터 거의 같은 자리에서 써 온 작은 비자발적 멈춤 — 를 들은 건, 재구성하려고 했을 때, 그 소리의 정확한 주파수를 잊었다고 인정해야 할 만큼 멀었어요.",
+      "친구가 받았을 때 만들어 낸 첫 문장은, 제가 하루의 과정에서 잊을 수 없었던 방식으로 진단적이었어요. \"잠깐 — 다 괜찮아? 무슨 일 있어?\" 그 문장은, 이어진 한 시간 동안 일어난 어떤 것보다, 이 칼럼의 실제 주제예요. 어떤 형태로든 십오 년 동안 서로를 알아 온 두 사람 사이의 자발적이고 일정에 없던 전화 통화가 이제 바로 첫 번째 벨소리에서 가능한 비상 신호로 읽혀요.",
+      "지나친 명랑함이 아니라 안심처럼 들리기를 바라며, 잘못된 건 없다고 말했어요. 그냥 친구에게 전화하고 싶었다고 말했어요. 짧은 멈춤 후, 친구가 웃었어요. 그 웃음은 우리가 열아홉 살 때부터 알았던 웃음이었어요. 제가 믿게 된 바로, 사람들의 웃음은 그들의 성격의 가장 안정적인 요소 중 하나예요. 얼굴은 늙어요. 몸은 수정돼요. 신념과 정치적 정체성은 가끔 상당히 표류해요. 하지만 제 제한되지만 누적된 경험에서, 누군가의 웃음의 위상은 젊은 어른 시절에 가졌던 것과 거의 정확히 동일하게 남아 있는 경향이 있어요. 마치 평범한 전기적 변화가 닿지 않는 어딘가에 부호화된 것처럼요.",
+      "거의 한 시간 동안 이야기했어요. 내용은, 어떤 구체적인 정보적 의미에서도, 평범했어요. 어떤 차원에서는 잘 되고 어떤 차원에서는 잘 안 되는 것 같은 친구의 일. 오랫동안 익숙한 위치에서 간헐적으로 아파 왔고, 그 대화 전까지 어떤 형태로도 친구에게 언급하지 않았던 제 허리. 친구가 아침 출퇴근 중에 듣고 다시 듣기를 멈출 수 없었던 노래. 우리 둘 다 중등 학교 마지막 해에 가졌던 선생님, 우리 둘 다 가끔 아직도 기억하면서도 다른 어느 누구에게도 그 특정 의미를 정확히 설명할 수 없는.",
+      "전화를 끊고, 부엌 식탁에 몇 분 동안 특별히 아무것도 안 하고 앉아 있었어요. 그 전 한 주의 어느 시점보다 — 상당한 차이로 묘사해야 할 — 좋게 느껴졌어요. 또한 조용하고 지속적인 부끄러움 — 큰 소리로 자기를 알리지 않으면서 완전히 사라지지도 않는 종류의 — 도 느꼈어요. 그 한 시간이 어떤 실용적 의미에서도 거의 비용이 들지 않았어요. 그 전 몇 달 동안 거의 어느 시점에서든 그 통화를 걸 수 있었어요. 하지 않았어요.",
+      "우리는 자기 자신에게 바쁘다고 말해요. 표준 설명이고, 부분적으로 사실이에요. 평균적인 어른 삶의 시간은 이제 이전 세대가 기본 조건으로 받아들이기 어려웠을 방식으로 진짜로 단편화되어 있어요. 하지만 더 깊은 이유는, 그것에 대해 정직하려고 할 때, 구조적으로 덜 칭찬받을 만해요. 문자는 이제 공짜처럼 느껴져요. 전화는 강요처럼 — 사전 협상 없이, 어떤 특정한 외부 행사도 그것을 요구하지 않을 때, 다른 사람의 한정된 주의에 대한 작은 일방적 요청처럼 — 느껴져요.",
+      "문자는 낮은 비용의 놀라울 만큼 설득력 있는 환상을 제공해요. 메시지는 사실상 마찰 없이 어느 순간이든 작성될 수 있어요. 명시적 일정 없이 보낼 수 있어요. 수신자는 자기 시간에 그것에 응할 수 있고 편할 때 답장할 수 있어요. 우정은 기술적으로 그리고 관찰 가능하게, 비동기적이고 미룰 수 있고 개별적으로 낮은 위험의 조각들의 긴 연속으로 이어져요. 어느 특정 순간에도 어느 누구도 요구에 따라 기꺼이 제공할 수 있는 것보다 더 많은 주의를 요구하지 않아요.",
+      "그러나 비동기 조각들은, 가까이서 검사해 보면, 진짜 대화와 동등하지 않아요. 문자 형식은 신뢰성 있게 어조를 제거해요. 친구가 \"괜찮아\"라고 말하기 전의 작은 이 초 멈춤을 재현할 수 없어요. 수요일 밤의 피곤한 목소리의 특정 리듬, 직장에서 힘든 하루를 보냈고 그것을 언급하지 않기로 선택한 누군가의 특정 박자를 전송할 수 없어요. 단 한 문장의 질감 안에서, 친구가 글로 어느 누구에게도 인정하기로 결정하지 않은 힘든 분기의 어려운 끝에 있다는 걸 들을 수 있게 해 주지 않아요.",
+      "전화 통화가 제공하고 어떤 문자 교환도, 참가자들이 부지런하고 표현이 분명한 작가일 때조차도, 결코 완전히 복제할 수 없는 것이 또 있어요. 상대방이, 통화 시간 동안, 다른 어떤 것도 하고 있지 않아요. 다른 브라우저 탭에 있지 않아요. 무관한 다른 것을 반쯤 읽으면서 대화를 다시 흘끗 볼 적절한 순간을 기다리고 있지 않아요. 그들의 주의가, 잠시 그리고 눈에 띄게, 오직 통화에만 속해요. 그들은, 그 한 시간 동안, 다른 모든 것과 모든 사람에 대해 자기 자신을 사용 불가능하게 만들었어요.",
+      "그 범주의 주의 — 분할되지 않은, 상호적인, 실시간의, 한 번에 몇 초 이상 지속되는 — 는 현대 어른 사회 생활에서 눈에 띄게 드물어졌어요. 우리는 대체로 의식적으로 선택하지 않은 채로, 그것의 회피를 중심으로 전체 통신 문화를 구축했어요. 동기적 음성 대신 비동기적 문자의 친근한 대체는 주변 담론에서 거의 손실로 틀 잡혀지지 않아요. 그것은 편리, 효율, 정당하게 바쁜 삶에 대한 존중하는 수용으로 틀 잡혀져요.",
+      "그러나 그것은 또한 우정의 더 깊은 음역이 역사적으로 의존해 온 종류의 상호 주의의 천천하고 대체로 인정받지 않은 쇠퇴이기도 해요. 그 쇠퇴는 어떤 개별 사례에서도 파국적이지 않아요. 현대 생활의 특징인 많은 천천한 쇠퇴들처럼, 어떤 단일 관계 안에서는 거의 보이지 않아요. 누군가가 마지막으로 특정 친구의 목소리를 들은 게 언제인지 떠올리려고 시도하고, 약간의 놀라움으로, 그 답이 몇 주가 아니라 몇 계절 — 어떤 친구들의 경우에는 몇 년 — 으로 측정된다는 걸 발견할 때, 주로 회고적으로 보이게 돼요.",
+      "또한, 제가 알아채기 시작한 이 쇠퇴의 세대적 버전이 있어요. 삼사십 대의 제 친구들 사이에서, 일정에 없는 통화는 이제 거의 무례한 것으로 여겨져요. 기대는 작은 회의를 잡듯 사전 문자를 통해 통화 일정을 잡는 것이에요. 이십 대의 친구들 사이에서, 자발적인 통화는 점점 더 친구 나이의 세대적 표지 — 일이 어떻게 되곤 했는지의 잔재, 수신자의 기분에 따라 매력적이거나 놀라운 — 로 여겨져요.",
+      "단 한 번의 전화 통화의 힘으로, 문자 메시지를 포기할 계획은 없어요. 문자는 진짜로 유용해요. 긴 지리적 거리와 비대칭적 일정을 가로질러 사람들을 느슨하게 연결해 둬요. 우정이 낮은 유지로 지속되게 해 주는데, 그건 종종 현대 조건에서 우정이 현실적으로 감당할 수 있는 유일한 형태의 지속이에요.",
+      "하지만 유지는 관계 그 자체와 같지 않아요. 관계는 근본적으로, 두 사람이 서로의 완전하고, 분할되지 않고, 동시적인 주의를 허용하는 그 더 짧고 점점 드물어지는 순간들에 살아요. 그 순간들은 채팅 스레드의 편안하고 진행 중인 리듬 안에서 어느 쪽이든 알아채는 경향이 있는 것보다 상당히 더 부족해졌어요. 채팅 스레드는 현존의 외양을 만들어 내는 데는 능해요. 현존 그 자체를 만들어 내는 데는 서툴러요.",
+      "이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 어떤 특정한 이유로가 아니에요. 설명을 요구하는 무엇이 일어났기 때문이 아니에요. 그냥 그들을 실시간에, 목소리 대 목소리로, 둘 다 잠시 다른 어떤 것에도 사용 불가능한 채로 듣기 위해. 한 시간만. 또 한 분기가 지나서 마지막으로 우리가 실제로 이야기한 날짜를 다시 떠올릴 수 없게 되기 전에, 공기 중의 실제 목소리의 특정 질감을 다시 기억하기 위해."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l4-097", "l4-790"],
+    "quiz": [
+      {
+        "question": "What 'generational version' of the decline does the writer notice?",
+        "questionKo": "글쓴이는 그 쇠퇴의 어떤 '세대적 버전'을 알아채나요?",
+        "options": [
+          "Older generations text more",
+          "Among 30s/40s the unscheduled call is now considered almost discourteous; among 20s the spontaneous call is treated as a generational marker of the caller's age",
+          "Younger people call more",
+          "There is no generational difference"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer summarize what chat threads are good and poor at?",
+        "questionKo": "글쓴이는 채팅 스레드가 잘하고 못 하는 것을 어떻게 요약하나요?",
+        "options": [
+          "Good at everything",
+          "Good at producing the appearance of presence; poor at producing presence itself",
+          "Good at nothing",
+          "Better than calls always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say is the substance of his closing wish?",
+        "questionKo": "글쓴이는 자기 마지막 바람의 실체를 무엇이라고 말하나요?",
+        "options": [
+          "To delete chat apps",
+          "To call one more old friend — not for any reason, just to hear them in real time before another quarter passes and the date of last actual speech is again unrecoverable",
+          "To send more photos",
+          "To start a podcast"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "id": "col-2026-05-09-birdsong-l1",
+    "title": "Birds in the City",
+    "titleKo": "도시의 새들",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-09-birdsong"],
+    "paragraphs": [
+      "This morning, I heard a bird. The window was open. The sound was very clear.",
+      "I live in a big city. There are many cars. There is a lot of noise.",
+      "Most days, I do not hear birds. The city is too loud.",
+      "But this morning was quiet. Few cars. No phones near me. Just a bird.",
+      "I stopped. I did not move. I just listened.",
+      "I do not know the name of the bird. I am not good with birds. The song was nice.",
+      "Then I thought about my city. Is it a good city?",
+      "I think a good city has small things. Trees. Quiet streets. A few birds.",
+      "We talk about big things. Tall buildings. Fast trains. Big shops. But birds are part of a city, too.",
+      "Today is a day for birds. It is World Migratory Bird Day. I am happy I heard one."
+    ],
+    "translation": [
+      "오늘 아침, 저는 새 한 마리의 소리를 들었어요. 창문이 열려 있었어요. 소리는 아주 또렷했어요.",
+      "저는 큰 도시에 살아요. 자동차가 많아요. 시끄러운 소리도 많아요.",
+      "보통은 새 소리를 못 들어요. 도시가 너무 시끄러워요.",
+      "그런데 오늘 아침은 조용했어요. 차도 별로 없었고, 가까이에 휴대폰도 없었어요. 새 한 마리뿐이었어요.",
+      "저는 멈췄어요. 움직이지 않았어요. 그냥 들었어요.",
+      "그 새의 이름은 몰라요. 저는 새를 잘 몰라요. 그래도 노랫소리는 좋았어요.",
+      "그러면서 제 도시를 생각했어요. 좋은 도시일까요?",
+      "좋은 도시에는 작은 것들이 있다고 생각해요. 나무들. 조용한 길. 새 몇 마리.",
+      "우리는 큰 것들을 이야기해요. 높은 건물. 빠른 기차. 큰 상점. 하지만 새들도 도시의 일부예요.",
+      "오늘은 새들의 날이에요. '세계 철새의 날'이에요. 한 마리라도 들어서 기뻐요."
+    ],
+    "targetWords": ["l1-052", "l1-079", "l1-094", "l1-097", "l1-282"],
+    "quiz": [
+      {
+        "question": "What did the writer hear this morning?",
+        "questionKo": "글쓴이는 오늘 아침 무엇을 들었나요?",
+        "options": ["A car", "A bird", "A train", "A phone"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer think a good city has?",
+        "questionKo": "글쓴이는 좋은 도시에 무엇이 있다고 생각하나요?",
+        "options": [
+          "Only big buildings",
+          "Small things like trees, quiet streets, and a few birds",
+          "Many shops",
+          "Fast cars"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-09-birdsong-l2",
+    "title": "When the City Goes Quiet",
+    "titleKo": "도시가 조용해질 때",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-09-birdsong"],
+    "paragraphs": [
+      "I heard a bird sing this morning. The strange thing was that I noticed.",
+      "I live in a city with millions of people. Cars, buses, talking, building work, music from every shop. The noise is normal. Most days I do not even hear it.",
+      "But early this morning, before the streets filled up, I left my window open. A bird was singing outside. It was small and clear, and it cut through the air in a way nothing else does.",
+      "I stopped what I was doing. I did not look up the bird's name. I did not record it on my phone. I just stood there and listened.",
+      "After a minute or two, the bird flew away. The city noise came back, slowly, like water filling a bowl.",
+      "The whole moment lasted maybe two minutes. But it stayed with me all day.",
+      "Today is World Migratory Bird Day. I did not know that until I looked it up later. The day is on the second Saturday of May every year.",
+      "It is a quiet kind of holiday. There are no big parades. Most people do not know about it. It is just a reminder that birds are in our cities, sharing the same air.",
+      "I think about a question that does not have a simple answer: what makes a city a good place to live?",
+      "We measure cities by big things. The price of an apartment. The speed of the trains. The number of jobs. The name of the schools.",
+      "But maybe a good city is also a city where you can sometimes hear a bird. A city that has not removed every quiet space.",
+      "I do not have data for that. Just one bird, on one morning, through one open window.",
+      "Still, I think it counts for something."
+    ],
+    "translation": [
+      "오늘 아침, 새 한 마리가 노래하는 소리를 들었어요. 이상한 건, 그걸 알아챘다는 거예요.",
+      "저는 수백만 명이 사는 도시에 살아요. 자동차, 버스, 사람들 대화, 공사 소리, 가게마다 흘러나오는 음악. 그런 소음이 평소 모습이에요. 대부분의 날엔 듣고 있다는 것조차 모르고 살아요.",
+      "그런데 오늘 이른 아침, 거리가 사람들로 차기 전에, 저는 창문을 열어두고 있었어요. 새 한 마리가 바깥에서 노래하고 있었어요. 작고 또렷한 소리였고, 다른 어떤 소리도 못 하는 방식으로 공기를 갈랐어요.",
+      "하던 일을 멈췄어요. 그 새의 이름을 검색하지 않았어요. 휴대폰으로 녹음하지도 않았어요. 그냥 그 자리에 서서 들었어요.",
+      "일 분이나 이 분 정도 지나자, 새는 날아갔어요. 도시의 소음이 천천히 돌아왔어요. 마치 물이 그릇을 채우듯이요.",
+      "그 순간 전체는 이 분 정도였을 거예요. 그런데 하루 종일 마음에 남았어요.",
+      "오늘은 '세계 철새의 날'이에요. 그건 나중에 검색해 보고서야 알았어요. 매년 5월 둘째 토요일이에요.",
+      "조용한 종류의 기념일이에요. 큰 행진도 없어요. 대부분의 사람들은 잘 몰라요. 그저 새들이 우리 도시 안에, 같은 공기를 나누며 살고 있다는 사실을 떠올리게 해 주는 날이에요.",
+      "단순한 답이 없는 질문 하나를 생각해요. 어떤 도시가 살기 좋은 도시일까요?",
+      "우리는 큰 것으로 도시를 평가해요. 집값. 지하철의 속도. 일자리 수. 학교 이름.",
+      "그런데 어쩌면 좋은 도시는 가끔 새 소리도 들리는 도시예요. 모든 조용한 공간을 다 없애지는 않은 도시.",
+      "저한테 그걸 증명할 데이터는 없어요. 그냥 한 마리의 새, 한 번의 아침, 열린 창문 하나뿐이에요.",
+      "그래도, 무언가 의미가 있다고 생각해요."
+    ],
+    "targetWords": ["l1-213", "l2-037", "l2-079", "l2-142", "l2-131"],
+    "quiz": [
+      {
+        "question": "Why did the writer notice the bird this morning?",
+        "questionKo": "글쓴이는 왜 오늘 아침 새소리를 알아챘나요?",
+        "options": [
+          "The bird was very loud",
+          "The streets were still quiet before people started moving",
+          "The writer was looking for it",
+          "It was a special bird"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer think we usually measure a city?",
+        "questionKo": "글쓴이는 우리가 보통 도시를 어떻게 평가한다고 보나요?",
+        "options": [
+          "By bird sounds",
+          "By big things — apartment prices, train speed, jobs, schools",
+          "By the weather",
+          "By how many people live there"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-09-birdsong-l3",
+    "title": "What Makes a City Livable?",
+    "titleKo": "어떤 도시가 살 만한가",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-09-birdsong"],
+    "paragraphs": [
+      "This morning I heard a bird through an open window. It was a brief thing — maybe two minutes — but it stayed with me. The strange part was not that the bird was there; it was that I noticed.",
+      "I live in a city of nine million people. Construction, traffic, sirens, conversation, the bass leaking from every car. The noise is so constant that it has become a kind of silence. I no longer hear it the way I would hear a foreign language.",
+      "So when, this morning, before the streets filled with commuters, a single bird sang outside my window, the song felt almost surgical. It cut the air. It opened a small space where it landed.",
+      "I did not reach for my phone to identify the species. I did not record it. I did something I do less and less these days. I stopped. I listened.",
+      "The bird flew off within a minute or two. The familiar urban hum returned, slowly, the way water returns to the shore after a wave.",
+      "Later, scrolling through the news, I learned that today is World Migratory Bird Day. It is observed on the second Saturday of May, internationally. It is not a loud holiday. There are no parades, no fireworks, almost no marketing campaigns.",
+      "The day exists, more or less, to remind people in cities that birds still pass through them — that millions of small lives, in transit between continents, share the air above our highways and apartment blocks.",
+      "I am not a birdwatcher. I cannot tell a sparrow from a finch. I am not the right person to write about birds.",
+      "But the bird this morning made me think about a quieter question: what actually makes a city a good place to live?",
+      "We tend to answer this question with big metrics. Housing affordability, public transit efficiency, job availability, school quality. These are real and they matter.",
+      "But almost everywhere I have lived, the cities that felt most alive shared something subtler. They had not removed all of their quiet spaces. They had not paved over every patch of ground that a bird might want.",
+      "They had old trees that no one had cut down for parking. They had small gaps between buildings where the air could move. They had mornings, occasionally, when you could hear something other than engines.",
+      "Cities that erase all those small refuges become impressive in photographs and somehow harder to live in. The body knows the difference, even when the mind does not.",
+      "The bird this morning was just one bird. It will not change any policy. It will not appear in any urban planning report.",
+      "But it suggested, as gently as a small song can suggest anything, that cities that still have room for birds may also have room for human beings to remain themselves."
+    ],
+    "translation": [
+      "오늘 아침, 열린 창문으로 새 소리를 들었어요. 짧은 일이었어요 — 이 분 정도. 그런데 마음에 남았어요. 이상한 건, 새가 거기 있었다는 사실이 아니에요. 제가 그걸 알아챘다는 사실이에요.",
+      "저는 인구 구백만의 도시에 살아요. 공사 소리, 차 소리, 사이렌, 대화, 모든 차에서 새어 나오는 베이스. 그 소음이 너무 일정해서 일종의 침묵이 됐어요. 외국어를 듣듯이 듣게 되지 않아요.",
+      "그래서 오늘 아침, 거리가 출근하는 사람들로 차기 전에, 새 한 마리가 창문 밖에서 노래했을 때, 그 노래는 거의 외과적으로 느껴졌어요. 공기를 갈랐어요. 떨어진 자리에 작은 공간을 열었어요.",
+      "종을 검색하려고 휴대폰을 집지 않았어요. 녹음도 하지 않았어요. 요즘 점점 드물게 하는 일을 했어요. 멈췄어요. 들었어요.",
+      "새는 일 분이나 이 분 안에 날아갔어요. 익숙한 도시의 웅성거림이 천천히 돌아왔어요, 파도가 친 뒤 물이 해변으로 돌아오는 방식으로요.",
+      "나중에 뉴스를 넘기다가, 오늘이 '세계 철새의 날'이라는 걸 알게 됐어요. 국제적으로 5월 둘째 토요일에 지켜져요. 시끄러운 기념일은 아니에요. 행진도, 불꽃놀이도, 거의 어떤 마케팅 캠페인도 없어요.",
+      "이 날은 대체로 도시 사람들에게 새들이 여전히 그 도시들을 지나간다는 사실을 떠올리기 위해 존재해요 — 대륙 사이를 이동 중인 수백만 개의 작은 생명들이 우리 고속도로와 아파트 단지 위 공기를 나누고 있다는 사실을요.",
+      "저는 탐조가가 아니에요. 참새와 핀치를 구별할 수 없어요. 새에 대해 글을 쓸 적임자가 아니에요.",
+      "그런데 오늘 아침의 그 새가 더 조용한 질문 하나를 떠올리게 했어요. 어떤 도시가 진짜로 살기 좋은 도시일까요?",
+      "우리는 보통 이 질문을 큰 지표로 답해요. 집값, 대중교통 효율성, 일자리, 학교 수준. 이것들은 진짜고, 중요해요.",
+      "하지만 제가 살아 본 거의 모든 곳에서, 가장 살아 있다고 느껴진 도시들은 더 미묘한 무언가를 공유하고 있었어요. 조용한 공간들을 다 없애지는 않은 도시들이었어요. 새가 원할 만한 땅 한 조각 한 조각을 다 포장하지는 않은 도시들이었어요.",
+      "주차 자리를 위해 누구도 베지 않은 오래된 나무들이 있었어요. 건물 사이에 공기가 통할 수 있는 작은 틈들이 있었어요. 가끔, 엔진 말고 다른 소리를 들을 수 있는 아침들이 있었어요.",
+      "그런 작은 피난처들을 다 지워 버리는 도시들은 사진으로는 인상적이 되고, 어쩐지 살기는 어려워져요. 머리는 그 차이를 모를 때도, 몸은 알아요.",
+      "오늘 아침의 새는 그저 한 마리의 새였어요. 어떤 정책도 바꾸지 않을 거예요. 어떤 도시 계획 보고서에도 등장하지 않을 거예요.",
+      "그런데 작은 노래 한 곡이 무언가를 시사할 수 있는 한도 안에서 부드럽게, 그것은 새들을 위한 자리가 아직 남아 있는 도시들이 인간이 자기 자신으로 머무를 수 있는 자리도 남아 있는 도시일지 모른다는 것을 시사하고 있었어요."
+    ],
+    "targetWords": ["l3-060", "l3-147", "l3-433", "l3-462", "l3-734"],
+    "quiz": [
+      {
+        "question": "Why does the writer say the bird's song felt 'almost surgical'?",
+        "questionKo": "글쓴이는 왜 새의 노래가 '거의 외과적'으로 느껴졌다고 하나요?",
+        "options": [
+          "It was loud and harsh",
+          "It cut through the constant urban noise and opened a small space",
+          "It was scientific",
+          "It was painful"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'subtler' quality do livable cities share, in the writer's view?",
+        "questionKo": "글쓴이가 보기에 살기 좋은 도시들이 공유하는 '더 미묘한' 특질은 무엇인가요?",
+        "options": [
+          "Bigger buildings",
+          "They have not erased all their quiet spaces — old trees, gaps between buildings, mornings without engines",
+          "Cheaper housing",
+          "More tourists"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-09-birdsong-l4",
+    "title": "Listening for What the City Forgets",
+    "titleKo": "도시가 잊은 것을 듣다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-09-birdsong"],
+    "paragraphs": [
+      "The bird arrived this morning at the corner of my open window. I was making coffee. The kettle had not yet boiled. The street outside, in that brief gray interval before the commute begins, was still mostly empty.",
+      "The song lasted perhaps ninety seconds. It was not unusual in any ornithological sense. It was, in fact, the most ordinary kind of moment. What was unusual was that I noticed.",
+      "I have lived in dense cities for most of my adult life. The auditory environment is dominated, almost without intermission, by mechanical noise. Engines, sirens, ventilation, the low static of millions of devices. The sound is so constant that the nervous system simplifies it. We stop hearing it as discrete sound. It becomes a baseline, against which only the loudest signals register.",
+      "Birdsong, in this acoustic regime, is too soft to make it through. It is filtered out long before it reaches conscious attention. Most days I am sure that birds are present in the city, and most days they are inaudible to me.",
+      "So the experience of actually hearing one — for ninety seconds, with nothing else in the way — was almost startling. It was the kind of small revelation that emerges only when the usual noise is briefly absent.",
+      "Later, I learned that today is World Migratory Bird Day, observed internationally on the second Saturday of May. It is one of the quieter holidays in the international calendar. There are no parades, no commercial tie-ins of any consequence, no real public awareness campaigns in most cities. The day exists primarily for biologists, conservationists, and the occasional reflective citizen.",
+      "The premise of the day is simple. Many of the bird species that pass through our cities are migratory. They travel astonishing distances, often between continents, navigating by stars, magnetic fields, and landscapes that human beings have largely transformed.",
+      "The cities they pass through have become harder to navigate. Light pollution disorients them. Glass facades reflect false skies. Habitat loss reduces the trees and water sources where they could rest. The numbers of many species are declining quietly, in a way that does not appear in the local news.",
+      "I am not, by training or temperament, a conservationist. I cannot identify most birds by sight. I am writing this not as an expert but as someone who happened to hear one bird this morning, and who found that the small accident of hearing it altered the rest of the day.",
+      "The question that has stayed with me is not really about birds. It is about what we have agreed to stop hearing.",
+      "Cities have always been negotiations. We trade quiet for opportunity, space for density, gardens for jobs, wildness for convenience. These trades are mostly worth making. They have produced the conditions in which most of human flourishing now occurs.",
+      "But the trades have also been steady, and quiet, and asymmetric. We rarely notice the small losses, because by the time they have accumulated, the baseline has shifted. We forget that we used to hear birds in the morning. We forget that the air used to smell different. We forget how dark the night sky once was.",
+      "The point is not nostalgia. The earlier cities were poorer in other ways, and few of us would actually trade. The point is awareness. We pay a quiet price for density, and the price is paid most clearly in the things we stop noticing.",
+      "The bird this morning was, in some sense, an audit. It reminded me, briefly, of what the urban environment has slowly subtracted. I do not propose a policy. I propose only the practice of leaving the window open, occasionally, in the early hours, and listening for what is still there.",
+      "Today is, after all, a day for birds. The birds will not know we have noticed. But the noticing belongs to us. It changes, in a small way, how we live in the city the rest of the year."
+    ],
+    "translation": [
+      "새는 오늘 아침, 열어 둔 창문 모서리에 도착했어요. 저는 커피를 내리고 있었어요. 주전자가 아직 끓지 않았어요. 출근 시간이 시작되기 전 그 짧은 잿빛 간격에, 바깥 거리는 거의 비어 있었어요.",
+      "노래는 90초쯤 됐어요. 조류학적으로 특별한 일은 아니었어요. 사실 가장 평범한 종류의 순간이었어요. 특별했던 건 제가 그것을 알아챘다는 사실이었어요.",
+      "어른이 된 뒤 인생의 대부분을 밀집된 도시에서 살았어요. 청각 환경은 거의 쉬지 않고 기계적인 소음에 지배돼요. 엔진, 사이렌, 환기 장치, 수백만 기기의 낮은 정전기 잡음. 그 소리가 너무 일정해서 신경계가 단순화해 버려요. 우리는 그것을 개별 소리로 듣지 않게 돼요. 기준선이 되고, 그 기준선 위로 가장 큰 신호만 등록돼요.",
+      "새소리는 이 음향 체제 안에서는 통과하기엔 너무 작아요. 의식적인 주의에 도달하기 한참 전에 걸러져요. 대부분의 날에 새들이 도시 안에 있다고 확신하지만, 대부분의 날에 저에게는 들리지 않아요.",
+      "그래서 실제로 한 마리를 — 90초 동안, 사이에 아무것도 끼지 않은 채로 — 들었던 경험은 거의 놀라울 정도였어요. 평소의 소음이 잠시 사라졌을 때만 떠오르는 그런 작은 깨달음이었어요.",
+      "나중에 오늘이 '세계 철새의 날'이고, 국제적으로 5월 둘째 토요일에 지켜진다는 걸 알게 됐어요. 국제 달력에서 더 조용한 기념일 중 하나예요. 행진도, 의미 있는 상업적 연계도, 대부분의 도시에서 진짜 공공 캠페인도 없어요. 이 날은 주로 생물학자, 보존 활동가, 그리고 가끔의 사색적인 시민을 위해 존재해요.",
+      "이 날의 전제는 단순해요. 우리 도시들을 지나가는 많은 새 종들은 철새예요. 그들은 놀라운 거리를 이동해요, 대륙 사이를 자주, 별과 자기장과 인간이 대체로 변형시킨 풍경들로 길을 찾아 가면서요.",
+      "그들이 지나가는 도시들은 항해하기에 더 어려워졌어요. 빛 공해가 그들을 혼란시켜요. 유리 외벽이 가짜 하늘을 비춰요. 서식지 상실이 그들이 쉴 수 있는 나무와 수원을 줄여요. 많은 종의 숫자가 조용히 줄어들고 있어요, 지역 뉴스에는 등장하지 않는 방식으로요.",
+      "저는 훈련이나 기질로 보면 보존 활동가가 아니에요. 대부분의 새를 시각으로 식별할 수 없어요. 이 글을 전문가로서 쓰는 게 아니라, 오늘 아침 우연히 새 한 마리를 들었고, 그 소리를 들은 작은 우연이 하루의 나머지를 바꿨다는 것을 발견한 사람으로서 쓰고 있어요.",
+      "마음에 남은 질문은 사실 새에 대한 것이 아니에요. 우리가 듣지 않기로 합의한 것이 무엇인지에 대한 거예요.",
+      "도시는 항상 협상이었어요. 우리는 조용함을 기회와, 공간을 밀도와, 정원을 일자리와, 야생을 편리함과 바꿨어요. 이런 거래들은 대체로 할 만한 가치가 있어요. 인간 번영의 대부분이 지금 일어나는 조건들을 만들어 냈어요.",
+      "하지만 이 거래들은 또한 꾸준하고, 조용하고, 비대칭적이었어요. 작은 손실은 거의 알아채지 못해요. 그것들이 쌓일 때쯤이면 기준선이 이미 옮겨져 있기 때문이에요. 우리는 아침에 새소리를 듣곤 했다는 것을 잊어요. 공기가 다른 냄새를 풍겼다는 것을 잊어요. 밤하늘이 한때 얼마나 어두웠는지를 잊어요.",
+      "핵심은 향수가 아니에요. 옛 도시들은 다른 면에서 더 가난했고, 우리 중 실제로 바꾸려는 사람은 거의 없어요. 핵심은 인식이에요. 우리는 밀도에 조용한 값을 치르고, 그 값은 우리가 알아채지 않게 된 것들에서 가장 분명히 드러나요.",
+      "오늘 아침의 새는 어떤 의미에서 감사 같은 것이었어요. 도시 환경이 천천히 빼 간 것이 무엇인지를 잠시 떠올리게 했어요. 정책을 제안하는 건 아니에요. 가끔, 이른 시간에, 창문을 열어 두고, 아직 거기 있는 것을 들어 보는 연습만 제안해요.",
+      "어쨌든 오늘은 새들의 날이에요. 새들은 우리가 알아챘는지 알 수 없을 거예요. 그래도 알아챔은 우리의 것이에요. 그것이 한 해의 나머지 시간 동안 우리가 도시에서 사는 방식을 작은 방식으로 바꿔요."
+    ],
+    "targetWords": ["l4-085", "l4-097", "l4-425", "l4-573", "l4-584"],
+    "quiz": [
+      {
+        "question": "Why does the writer say birdsong is 'inaudible' on most days?",
+        "questionKo": "글쓴이는 왜 대부분의 날에 새소리가 '들리지 않는다'고 말하나요?",
+        "options": [
+          "There are no birds",
+          "The nervous system simplifies constant urban noise into a baseline that filters out softer sounds before conscious attention",
+          "The writer is hard of hearing",
+          "Birds only sing at night"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's main point — the 'audit' the bird performed?",
+        "questionKo": "글쓴이의 핵심 메시지 — 새가 수행한 '감사'란?",
+        "options": [
+          "Birds are dying",
+          "Cities trade quiet for density in steady, asymmetric ways; we pay a quiet price in things we stop noticing",
+          "We should build more parks",
+          "Cars should be banned"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-09-birdsong-l5",
+    "title": "Birdsong as a Quiet Index of a City",
+    "titleKo": "조용한 척도로서의 새소리",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-09-birdsong"],
+    "paragraphs": [
+      "The bird arrived at my open window this morning at some point between the kettle going on and its first whistle. I cannot have heard it for more than ninety seconds. The street below was still in that brief, almost undocumented interval before the commute starts — the few minutes when a major city is briefly less than itself.",
+      "The song was, in any ornithological sense, unremarkable. The remarkable thing, on reflection, was the simple fact of having registered it at all. In a normal acoustic environment of dense urban life, a sound that small does not survive long enough to reach attention.",
+      "The auditory landscape of a contemporary city is constituted, almost without interruption, by mechanical noise. Combustion engines, ventilation systems, sirens, low-frequency hum from the electrical grid, the rolling bass of personal stereos, the conversational layer of millions of nearby people. This is not background, exactly. It is foreground that has become invisible because it never stops.",
+      "The nervous system, when faced with a constant signal, simplifies it. The brain compresses the noise into a kind of baseline. Only the highest peaks register. Birdsong is well below that threshold. It is, in the strictest sense, present and inaudible at the same time.",
+      "So the ninety seconds of birdsong this morning were less an observation than a small interruption of the usual filtering. They were what an unfiltered city might briefly sound like. The bird was always there. The conditions for hearing it almost never are.",
+      "I learned later that today is World Migratory Bird Day, observed internationally on the second Saturday of May. It is, by design, a soft holiday. There are no parades, no consumer rituals, no public campaigns of any meaningful scale in most cities. It exists chiefly to address those who are already paying attention, and to remind the rest that there is something to attend to.",
+      "The day points to a particular fact about cities: that they are crossed, every year, by enormous numbers of migratory birds, in transit between distant continents. The journeys are old, geographically vast, and almost entirely invisible to the people whose airspace these birds use. Light pollution disorients the navigation. Glass towers reflect false skies. Habitat loss reduces the resting points. The decline of many species is occurring quietly, on a scale that does not appear in the political conversation.",
+      "I am not a biologist. I cannot identify most of the birds I have ever heard. I write this as a city dweller who happened to hear one bird this morning, and who found, somewhat to his own surprise, that the moment redirected an entire day's attention.",
+      "The question that emerged, and that has not gone away, is not really an ornithological one. It is a question about urban quality. What does a city sound like when it is functioning well? Not loud. Not dead. Sounds at the right scale, at the right times.",
+      "Cities are routinely measured by the metrics that fit into a budget or a comparative ranking. Housing affordability, transit efficiency, employment rates, school outcomes, life expectancy. These are real, quantifiable, and important. They are also incomplete.",
+      "There is a quieter family of indicators that does not enter the rankings. Whether old trees have been allowed to remain. Whether one can hear something other than engines from a residential window. Whether the night sky retains any darkness at all. Whether children encounter wild creatures other than pigeons and rats. These are not luxuries. They are markers of whether a city has retained the capacity to host non-human life and, by extension, certain dimensions of human life.",
+      "The cities that have erased all of these things tend to look impressive in aerial photography and tend to feel exhausting on the ground. The body knows the difference. The mind, busy with other tasks, frequently does not.",
+      "There is an environmental psychology literature that suggests that small encounters with the natural world have measurable effects on cognition, mood, and stress. The numbers are easy to dismiss in any individual case and harder to dismiss when aggregated across a population that lacks regular access to such encounters.",
+      "But beyond any measurable benefit, there is something less easily named. A city in which one occasionally hears a bird is, in some quiet way, a city that still admits the existence of an order older than itself. A city in which one never does has accidentally claimed a kind of total sovereignty that human institutions cannot really sustain.",
+      "The bird this morning, of course, was just one bird. It will not be noted in any urban planning document. It will not appear in any quarterly report. The city's official statistics for May will not be revised because of it. None of that matters very much.",
+      "What may matter is that, for ninety seconds, an ordinary morning briefly contained an instance of attention to something the city had not produced and could not own. That kind of attention is in shorter supply than it used to be. It is not entirely clear what replaces it when it goes.",
+      "Today is a day for birds. They will not know we have noticed. But the practice of noticing — preserved, in small ways, in occasional open windows on quiet mornings — is among the things that determine whether a city, over time, becomes a place that is good to be a person in."
+    ],
+    "translation": [
+      "새는 오늘 아침, 주전자가 켜진 시점과 첫 휘파람 소리 사이 어느 지점에 제 열린 창문에 도착했어요. 90초 이상 들었을 리는 없어요. 아래 거리는 출근 시간이 시작되기 전 그 짧은, 거의 기록되지 않은 간격에 — 주요 도시가 잠시 자기 자신보다 덜한 그 몇 분간에 — 여전히 머물러 있었어요.",
+      "노래는 어떤 조류학적 의미에서도 평범했어요. 돌이켜 보면 주목할 만한 것은, 그것이 등록됐다는 단순한 사실이었어요. 밀집된 도시 생활의 일반적인 음향 환경 안에서, 그렇게 작은 소리는 주의에 도달할 만큼 살아남지 못해요.",
+      "현대 도시의 청각 풍경은 거의 쉴 새 없이 기계 소음으로 구성돼요. 내연기관, 환기 시스템, 사이렌, 전력망의 저주파 웅성거림, 지나가는 차들의 묵직한 베이스, 가까이 있는 수백만 명이 만들어 내는 대화의 층. 이것은 정확히 말해 배경 소리가 아니에요. 결코 멈추지 않기 때문에 보이지 않게 된 전경이에요.",
+      "신경계는 일정한 신호를 마주하면 그것을 단순화해요. 뇌가 그 소음을 일종의 기준선으로 압축해요. 가장 높은 피크만 등록돼요. 새소리는 그 임계점보다 한참 아래에 있어요. 가장 엄격한 의미에서, 그것은 동시에 존재하고 들리지 않아요.",
+      "그래서 오늘 아침의 90초간의 새소리는 관찰이라기보다 평소 필터링의 작은 중단이었어요. 필터링되지 않은 도시가 잠시 어떤 소리일지를 들려주는 거였어요. 새는 늘 거기 있었어요. 그것을 들을 수 있는 조건이 거의 한 번도 없었던 거예요.",
+      "나중에 오늘이 '세계 철새의 날'이고, 국제적으로 5월 둘째 토요일에 지켜진다는 걸 알게 됐어요. 설계상 부드러운 기념일이에요. 행진도, 소비자 의례도, 대부분의 도시에서 의미 있는 규모의 공공 캠페인도 없어요. 이미 주의를 기울이고 있는 사람들에게 말하기 위해, 그리고 나머지에게 주의 기울일 무언가가 있다는 사실을 떠올리기 위해 주로 존재해요.",
+      "이 날은 도시에 대한 한 가지 특정한 사실을 가리켜요. 도시는 매년, 먼 대륙들 사이를 이동하는 엄청난 수의 철새들에 의해 가로질러진다는 사실. 그 여행은 오래되었고, 지리적으로 광대하고, 새들이 사용하는 영공의 사람들에게는 거의 전적으로 보이지 않아요. 빛 공해가 항해를 혼란시켜요. 유리 타워가 가짜 하늘을 반사해요. 서식지 상실이 휴식 지점들을 줄여요. 많은 종의 감소가 정치적 대화에 등장하지 않는 규모로 조용히 일어나고 있어요.",
+      "저는 생물학자가 아니에요. 지금까지 들어 본 새들 중 대부분을 식별할 수 없어요. 이 글을 오늘 아침 우연히 새 한 마리를 들은 한 도시 거주자로, 그리고 어쩐 일인지 그 순간이 하루 전체의 주의를 다른 곳으로 돌렸다는 사실을 발견한 사람으로 쓰고 있어요.",
+      "떠오른 질문, 그리고 가시지 않은 질문은 사실 조류학적인 것이 아니에요. 도시 품질에 대한 질문이에요. 도시는 잘 작동할 때 어떤 소리가 날까요? 시끄럽지 않게. 죽어 있지 않게. 적절한 시간에 적절한 규모의 소리들로요.",
+      "도시는 일상적으로 예산이나 비교 순위에 들어맞는 지표로 측정돼요. 집값, 교통 효율성, 고용률, 학교 성과, 기대 수명. 이것들은 진짜고, 정량화할 수 있고, 중요해요. 또한 불완전해요.",
+      "순위에 들어가지 않는 더 조용한 지표 가족이 있어요. 오래된 나무들이 남아 있도록 허용됐는지. 주거 창문에서 엔진 외의 무언가를 들을 수 있는지. 밤하늘이 어떤 어둠이라도 유지하고 있는지. 아이들이 비둘기와 쥐 외의 야생 생물을 만나는지. 이것들은 사치가 아니에요. 도시가 비인간 생명을 품을 수 있는 능력, 그리고 그 연장선에서 인간 생명의 어떤 차원들을 유지할 수 있는 능력의 표지예요.",
+      "이 모든 것을 지워 버린 도시들은 항공 사진에서는 인상적으로 보이고 지상에서는 피곤하게 느껴져요. 몸은 그 차이를 알아요. 마음은 다른 일들로 바쁘게 자주 모르고 있어요.",
+      "자연 세계와의 작은 만남이 인지, 기분, 스트레스에 측정 가능한 영향을 미친다는 것을 시사하는 환경 심리학 문헌이 있어요. 그 숫자들은 어떤 개별 사례에서도 무시하기 쉽고, 그런 만남에 정기적인 접근이 결여된 인구에 걸쳐 합산했을 때는 무시하기 어려워요.",
+      "그러나 측정 가능한 어떤 이점을 넘어, 더 쉽게 이름 붙이기 어려운 무언가가 있어요. 가끔 새소리를 들을 수 있는 도시는, 어떤 조용한 방식으로, 자기보다 더 오래된 질서의 존재를 여전히 인정하는 도시예요. 한 번도 들리지 않는 도시는 우연히 인간 제도들이 실제로 지속할 수 없는 일종의 전적인 주권을 주장한 거예요.",
+      "오늘 아침의 새는, 물론, 그저 한 마리의 새였어요. 어떤 도시 계획 문서에도 기록되지 않을 거예요. 어떤 분기 보고서에도 등장하지 않을 거예요. 5월의 도시 공식 통계는 그것 때문에 수정되지 않을 거예요. 그 어느 것도 그렇게 중요하지 않아요.",
+      "중요할 수 있는 것은, 90초 동안, 평범한 아침이 도시가 만들지 않았고 소유할 수 없는 무언가에 대한 주의의 한 사례를 잠시 담고 있었다는 사실이에요. 그런 종류의 주의는 예전보다 더 부족해졌어요. 그것이 사라질 때 무엇이 그 자리를 대신하는지는 완전히 분명하지 않아요.",
+      "오늘은 새들의 날이에요. 그들은 우리가 알아챘는지 알 수 없을 거예요. 하지만 알아채는 연습은 — 조용한 아침에 가끔 열린 창문에서 작은 방식으로 보존되는 — 도시가 시간이 흐르면서 사람으로 살기 좋은 곳이 되는지를 결정하는 것들 중 하나예요."
+    ],
+    "targetWords": ["l5-090", "l4-097", "l4-425", "l4-584", "l3-147"],
+    "quiz": [
+      {
+        "question": "What does the writer mean by 'present and inaudible at the same time'?",
+        "questionKo": "글쓴이가 말한 '동시에 존재하고 들리지 않는'이란?",
+        "options": [
+          "Birds are imaginary",
+          "Birds are physically present in the city, but the constant urban noise compresses them below the threshold of conscious hearing",
+          "Birds only appear in dreams",
+          "There are no real birds in cities"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'quieter family of indicators' does the writer propose for measuring cities?",
+        "questionKo": "글쓴이는 도시를 측정할 어떤 '더 조용한 지표 가족'을 제안하나요?",
+        "options": [
+          "Stock market indices",
+          "Old trees preserved, audible non-engine sounds, dark night sky, encounters with wild creatures — markers of capacity to host non-human life",
+          "Air conditioning quality",
+          "Number of restaurants"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's final reflection on 'noticing'?",
+        "questionKo": "'알아채기'에 대한 글쓴이의 마지막 성찰은?",
+        "options": [
+          "It is useless",
+          "Preserving the practice of noticing — through small open-window mornings — is among the things that determine whether a city is good to live in",
+          "Only experts can notice",
+          "Noticing wastes time"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-09-birdsong-l6",
+    "title": "On Being a City That Still Holds Its Birds",
+    "titleKo": "여전히 새를 품고 있는 도시에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-09-birdsong"],
+    "paragraphs": [
+      "The episode that prompted this column was minor in every formal sense and difficult to date precisely. At some interval between the heating element of my electric kettle ascending toward boiling and its eventual whistle, a bird, perched somewhere just beyond my open window, produced a sequence of notes that lasted, by my best reconstruction, no more than ninety seconds. I did not see the bird. I cannot identify the species. I have no recording. The street below was, at that hour, in the brief and almost undocumented interval before the morning commute begins to fill it — the few minutes during which a metropolitan area of several million people is, transiently and without ceremony, briefly less than fully itself.",
+      "The song was unremarkable in any ornithological sense. The remarkable matter, on reflection, was the simple fact that it had registered at all. The acoustic ecology of a contemporary dense city is, in most places and at most times, dominated by mechanical sound at a level and constancy that effectively renders quieter biological signals inaudible to all but the most attentive listeners. Hearing a single bird, fully and without distraction, has become, in such environments, an event sufficiently rare to merit reflection.",
+      "The auditory environment of urban life in 2026 is constituted by an almost uninterrupted layer of internal-combustion engines, ventilation infrastructure, electrical hum at the low end of the spectrum, sirens, the bass register of personal stereos in passing vehicles, the cumulative conversation of large numbers of nearby strangers, and a great deal of mechanically reproduced music leaking from commercial premises. This is not, in the strict sense, background sound. It is foreground that has become invisible by virtue of its constancy. The nervous system, presented with a continuous high-amplitude signal, performs a kind of perceptual compression upon it. The signal is processed but not, in any felt sense, attended to.",
+      "Within this regime, biological sound at the volume of a small bird is, structurally, beneath the threshold of conscious registration. It is present in the physical environment but absent from the perceived one. To experience hearing it requires either an unusual degree of attentional discipline or, more commonly, a temporary collapse in the surrounding noise floor — a narrow window in the early morning before the city's machinery resumes operation.",
+      "This morning happened to provide such a window. The bird was, in all probability, a regular feature of the local fauna. What was unusual was not its presence but the conditions of audibility.",
+      "Today is, as I learned later, World Migratory Bird Day, observed internationally on the second Saturday of May. It is, in tone and design, one of the quieter entries in the international civic calendar. It is not accompanied by parades, by consumer rituals, by significant public-awareness campaigns in any large city of which I am aware. The day exists primarily for ornithologists, conservationists, and a small number of reflective citizens, and is intended chiefly as an occasion for re-noticing rather than for collective festivity.",
+      "The premise of the day, in its simplest form, is that the cities through which contemporary life is overwhelmingly conducted are crossed, in great numbers and on long-established routes, by migratory bird species whose journeys cover continents and whose presence in any given place is brief and largely unobserved. The cities they cross have become, over recent decades, materially more difficult for them. Light pollution interferes with celestial navigation. Reflective glass facades present false skies. The systematic reduction of trees, undeveloped land, and small water sources removes the rest stops on which long migrations depend.",
+      "The decline in the populations of many such species is occurring quietly, often without entering local political discourse, on a temporal scale that aligns poorly with electoral cycles or quarterly reporting periods. By the time such losses become visible at the scale of public attention, they have generally already occurred.",
+      "I am not, by any training or sustained interest, a conservationist. I cannot reliably identify most of the birds I have ever heard. I write this as a city dweller who happened, this morning, to register the song of one such bird, and who found, somewhat to his own surprise, that the experience displaced from his attention a number of other matters that had been competing for it.",
+      "The question that emerged from the episode, and that has not entirely gone away, is not really an ornithological one. It is a question, broadly construed, about what cities are for and what we are willing to lose to maintain them.",
+      "The metrics by which cities are routinely compared — housing affordability, transit performance, employment opportunities, school quality, public-health outcomes, life expectancy — are real and matter, and the cities that perform poorly on these metrics are, in general, harder places to live a flourishing life. None of what follows is intended to dispute this.",
+      "There is, however, a quieter family of indicators that the dominant comparative frameworks tend to omit. Whether old trees in residential neighborhoods have been preserved against the demand for parking. Whether one can, from a window in an ordinary apartment, occasionally hear something other than engines. Whether the night sky retains any meaningful darkness. Whether children grow up encountering small wild creatures other than pigeons and rodents. Whether the air, on most days, carries any olfactory information beyond exhaust.",
+      "These indicators are not luxuries. They are markers of whether a given urban environment has retained the capacity to host non-human life, and, by an ecological extension that is not entirely metaphorical, certain dimensions of human life as well. Cities that have systematically erased these dimensions tend to look impressive from the air and to feel exhausting on the ground. The body, asked to live in such an environment, knows the difference even when the conscious mind, occupied by other matters, does not.",
+      "There is, by now, a substantial environmental-psychology literature suggesting that minor and even brief encounters with the non-human world have measurable effects on cognition, mood, attentional capacity, and physiological stress. The effects are easy to dismiss in any individual instance and harder to dismiss when summed across a population systematically deprived of such encounters.",
+      "Beyond what can be measured, there is also something less easily named. A city in which one occasionally hears a bird is, in a quiet structural way, a city that still admits the existence of an order older and larger than itself. A city in which one never does has, perhaps without quite meaning to, claimed a kind of total sovereignty that human institutions are, in fact, ill-equipped to sustain. The first kind of city understands itself as embedded in a larger ecology. The second kind has begun to act as if no such embedding existed.",
+      "The bird this morning was, in any operational sense, just one bird. The episode will not be entered into any planning document. It will not be referenced in any policy debate. The municipal statistics for May will not be revised. None of these absences is particularly significant.",
+      "What may be significant is that, for ninety seconds on an ordinary morning in May, an unremarkable urban interior briefly contained an instance of attention directed at something the city had not designed and could not commercialize. That kind of attention has, on most available evidence, become scarcer in proportion as urban density and the platforms surrounding it have intensified. It is not entirely clear what we are placing in the space it leaves when it disappears.",
+      "Today is, however formally, a day for birds. The birds will not learn that we have noticed. But the practice of noticing — preserved, in small ways, in occasional open windows on early mornings, in moments of attention briefly diverted from the screen and the schedule — is, I am increasingly convinced, among the things that quietly determine, over the long run, whether a given city becomes a place in which it remains possible to live as something more than a unit of throughput."
+    ],
+    "translation": [
+      "이 칼럼을 촉발한 사건은 어떤 형식적 의미에서도 사소했고, 정확하게 시점을 짚기도 어려웠어요. 제 전기 주전자의 가열판이 끓는점을 향해 올라가는 시점과 결국 휘파람을 부는 시점 사이 어느 간격에, 열어 둔 창문 바로 너머 어딘가에 앉은 새가, 제가 가장 잘 재구성해 보면 90초를 넘지 않는 음의 연쇄를 만들어 냈어요. 저는 새를 보지 못했어요. 종을 식별할 수 없어요. 녹음도 없어요. 그 시각의 아래 거리는 아침 출근이 거리를 채우기 시작하기 전 짧고 거의 기록되지 않는 간격에 — 수백만 명의 대도시 권역이 잠시 그리고 어떤 의식도 없이, 잠깐 자신보다 덜한 그 몇 분간에 — 머물러 있었어요.",
+      "노래는 어떤 조류학적 의미에서도 평범했어요. 돌이켜 보면 주목할 만한 것은, 그것이 등록됐다는 단순한 사실이었어요. 현대 밀집 도시의 음향 생태는 대부분의 장소와 대부분의 시간에 기계적인 소리가 일정 수준과 지속성으로 지배해서, 가장 주의 깊은 청자를 제외한 모두에게 더 조용한 생물학적 신호들을 사실상 들리지 않게 만들어요. 한 마리의 새를, 온전히 그리고 방해 없이 듣는 것은, 그런 환경에서 성찰할 가치가 있을 만큼 드문 사건이 되었어요.",
+      "2026년 도시 생활의 청각 환경은 거의 끊임없는 내연기관, 환기 기반시설, 스펙트럼 저주파의 전기적 웅성거림, 사이렌, 지나가는 차량의 개인 음향 베이스 음역, 주변 수많은 낯선 사람들의 누적된 대화, 그리고 상업 시설에서 새어 나오는 다량의 기계적으로 재생된 음악으로 구성돼요. 이것은 엄밀한 의미에서 배경 소리가 아니에요. 결코 멈추지 않기 때문에 보이지 않게 된 전경이에요. 신경계는 연속적인 고진폭 신호를 마주하면 그것에 일종의 지각 압축을 수행해요. 신호는 처리되지만, 어떤 느낌의 의미에서도 주의 기울여지지 않아요.",
+      "이 체제 안에서 작은 새의 음량에 해당하는 생물학적 소리는 구조적으로 의식적 등록의 임계점 아래에 있어요. 물리적 환경에는 존재하지만 지각된 환경에는 부재해요. 그것을 듣는 경험을 하려면 비범한 정도의 주의 규율이 필요하거나, 더 흔하게는 주변 소음 바닥의 일시적 붕괴 — 도시의 기계가 작동을 재개하기 전 이른 아침의 좁은 창 — 가 필요해요.",
+      "오늘 아침에 마침 그런 창이 주어졌어요. 그 새는 거의 확실히 그 지역 동물상의 정기적인 일원이었을 거예요. 비범했던 것은 그 존재가 아니라 들릴 수 있는 조건들이었어요.",
+      "오늘은, 나중에 알게 된 바로, '세계 철새의 날'이고, 국제적으로 5월 둘째 토요일에 지켜져요. 어조와 설계 면에서, 국제 시민 달력에서 더 조용한 항목 중 하나예요. 행진, 소비자 의례, 제가 아는 어떤 큰 도시에서도 의미 있는 공공 인식 캠페인을 동반하지 않아요. 이 날은 주로 조류학자, 보존 활동가, 소수의 사색적 시민을 위해 존재하고, 집단적 축제보다는 다시 알아채기 위한 계기로 주로 의도되었어요.",
+      "이 날의 가장 단순한 형태의 전제는, 현대 생활이 압도적으로 영위되는 도시들이 대륙을 가로지르는 여행을 하고 어느 한 곳의 존재가 짧고 대체로 관찰되지 않는 철새 종들에 의해 매년, 다수로 그리고 오랫동안 확립된 경로를 따라 가로질러진다는 것이에요. 그들이 가로지르는 도시들은 최근 수십 년에 걸쳐 그들에게 물리적으로 더 어려워졌어요. 빛 공해가 천체 항법을 방해해요. 반사 유리 외벽이 가짜 하늘을 제시해요. 나무, 미개발지, 작은 수원의 체계적인 감소가 긴 이주가 의존하는 휴식 지점들을 제거해요.",
+      "그런 많은 종의 개체수 감소는 지역 정치 담론에 들어가지 않은 채, 선거 주기나 분기별 보고 기간에 잘 맞지 않는 시간 척도에서 조용히 일어나고 있어요. 그런 손실들이 공공 주의의 규모에서 보이게 될 때쯤이면, 일반적으로 이미 일어났어요.",
+      "저는 어떤 훈련이나 지속된 관심으로도 보존 활동가가 아니에요. 지금까지 들어 본 새들 중 대부분을 신뢰성 있게 식별할 수 없어요. 이 글을 오늘 아침 우연히 그런 새 한 마리의 노래를 등록한 한 도시 거주자로, 그리고 어쩐 일인지 그 경험이 다른 여러 사항들 — 그것을 두고 경쟁하던 — 을 자기 주의에서 밀어냈다는 사실을 발견한 사람으로 쓰고 있어요.",
+      "이 사건에서 떠오른, 그리고 완전히 가시지 않은 질문은 사실 조류학적인 것이 아니에요. 넓게 해석하면, 도시는 무엇을 위해 있고, 그것을 유지하기 위해 우리가 무엇을 잃을 의향이 있는가에 대한 질문이에요.",
+      "도시들이 일상적으로 비교되는 지표들 — 집값, 교통 성능, 고용 기회, 학교 품질, 공중 보건 결과, 기대 수명 — 은 진짜고 중요하며, 이런 지표들에서 형편없는 도시들은 일반적으로 번영하는 삶을 살기에 더 어려운 곳들이에요. 이어지는 어떤 내용도 이것을 반박하려는 의도가 아니에요.",
+      "그러나, 지배적 비교 프레임워크가 생략하는 경향이 있는 더 조용한 지표 가족이 있어요. 주거 동네의 오래된 나무들이 주차 수요에 맞서 보존되었는가. 평범한 아파트 창문에서 가끔 엔진 외의 무언가를 들을 수 있는가. 밤하늘이 어떤 의미 있는 어둠이라도 유지하고 있는가. 아이들이 비둘기와 설치류 외의 작은 야생 생물들을 만나며 자라는가. 공기가 대부분의 날에 배기가스 외의 어떤 후각 정보를 운반하는가.",
+      "이런 지표들은 사치가 아니에요. 어떤 도시 환경이 비인간 생명을 품을 수 있는 능력을 유지했는지의, 그리고 전적으로 은유적이지만은 않은 생태학적 연장으로서, 인간 생명의 어떤 차원들도 유지했는지의 표지예요. 이런 차원들을 체계적으로 지운 도시들은 공중에서는 인상적으로 보이고 지상에서는 피곤하게 느껴지는 경향이 있어요. 그런 환경에서 살라고 요청받은 몸은, 다른 일들에 점령된 의식적 마음이 모를 때조차, 그 차이를 알아요.",
+      "이제는 비인간 세계와의 작고 짧은 만남조차 인지, 기분, 주의 능력, 생리적 스트레스에 측정 가능한 영향을 미친다는 것을 시사하는 상당한 환경 심리학 문헌이 있어요. 그 효과들은 어떤 개별 사례에서도 무시하기 쉽고, 그런 만남이 체계적으로 결여된 인구에 걸쳐 합산했을 때 무시하기 더 어려워요.",
+      "측정될 수 있는 것을 넘어, 더 쉽게 이름 붙이기 어려운 무언가도 있어요. 가끔 새소리를 들을 수 있는 도시는 어떤 조용한 구조적 방식으로, 자기보다 더 오래되고 더 큰 질서의 존재를 여전히 인정하는 도시예요. 한 번도 들리지 않는 도시는, 아마 그렇게 의도하지는 않은 채로, 인간 제도들이 사실상 지속할 능력이 없는 일종의 전적인 주권을 주장한 거예요. 첫 번째 종류의 도시는 자기 자신을 더 큰 생태에 박힌 것으로 이해해요. 두 번째 종류는 그런 박힘이 존재하지 않는 것처럼 행동하기 시작했어요.",
+      "오늘 아침의 새는, 어떤 운영적 의미에서도, 그저 한 마리의 새였어요. 이 사건은 어떤 계획 문서에도 입력되지 않을 거예요. 어떤 정책 토론에서도 참조되지 않을 거예요. 5월의 자치 통계는 수정되지 않을 거예요. 이런 부재 중 어느 것도 특별히 의미 있지 않아요.",
+      "의미 있을 수 있는 것은, 5월의 평범한 아침 90초 동안, 비범하지 않은 도시 실내가 도시가 설계하지 않았고 상업화할 수 없는 무언가에 대한 주의의 한 사례를 잠시 담고 있었다는 사실이에요. 그런 종류의 주의는 가용한 대부분의 증거상, 도시 밀도와 그것을 둘러싼 플랫폼들이 강화된 것에 비례해 더 부족해졌어요. 그것이 사라질 때 우리가 그것이 떠난 자리에 무엇을 놓고 있는지는 완전히 분명하지 않아요.",
+      "오늘은, 어떻게든 형식적으로, 새들의 날이에요. 새들은 우리가 알아챘다는 것을 배우지 못할 거예요. 그러나 알아채는 연습은 — 이른 아침의 가끔 열린 창문에서, 화면과 일정에서 잠시 다른 곳으로 돌려진 주의의 순간에 작은 방식으로 보존되는 — 시간이 흐르면서 어떤 도시가 처리량 단위 이상의 무엇으로 살 수 있는 곳이 되는지를 조용히 결정하는 것들 중 하나라고, 점점 더 확신하게 돼요."
+    ],
+    "targetWords": ["l5-090", "l4-097", "l4-584", "l4-425", "l3-147"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the relation between modern urban noise and birdsong?",
+        "questionKo": "글쓴이는 현대 도시 소음과 새소리의 관계를 어떻게 묘사하나요?",
+        "options": [
+          "Birdsong is louder than urban noise",
+          "Birdsong is structurally beneath the threshold of conscious registration — physically present but perceptually absent",
+          "Both are equally audible",
+          "Cities have eliminated all birds"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What distinction does the writer draw between the two 'kinds of city'?",
+        "questionKo": "글쓴이는 두 '종류의 도시' 사이에 어떤 구분을 그리나요?",
+        "options": [
+          "Rich vs poor",
+          "One understands itself as embedded in a larger ecology; the other acts as if no such embedding existed, claiming a sovereignty institutions cannot sustain",
+          "New vs old",
+          "Eastern vs Western"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's final conviction about the 'practice of noticing'?",
+        "questionKo": "'알아채는 연습'에 대한 글쓴이의 최종 확신은?",
+        "options": [
+          "It is sentimental",
+          "Preserved in small open-window mornings, it quietly determines whether a city becomes a place to live as something more than a unit of throughput",
+          "It is the job of biologists",
+          "It is irrelevant"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

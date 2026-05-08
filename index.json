@@ -1,6 +1,41 @@
 {
-  "generated": "2026-05-08T02:01:04.170Z",
+  "generated": "2026-05-08T03:24:29.620Z",
   "columns": [
+    {
+      "groupId": "col-2026-05-15-untranslatable-word",
+      "file": "2026-05-15-untranslatable-word.json",
+      "publishDate": "2026-05-15"
+    },
+    {
+      "groupId": "col-2026-05-14-cafe-workers",
+      "file": "2026-05-14-cafe-workers.json",
+      "publishDate": "2026-05-14"
+    },
+    {
+      "groupId": "col-2026-05-13-short-form-brain",
+      "file": "2026-05-13-short-form-brain.json",
+      "publishDate": "2026-05-13"
+    },
+    {
+      "groupId": "col-2026-05-12-ai-letter",
+      "file": "2026-05-12-ai-letter.json",
+      "publishDate": "2026-05-12"
+    },
+    {
+      "groupId": "col-2026-05-11-last-call",
+      "file": "2026-05-11-last-call.json",
+      "publishDate": "2026-05-11"
+    },
+    {
+      "groupId": "col-2026-05-10-mothers-phone",
+      "file": "2026-05-10-mothers-phone.json",
+      "publishDate": "2026-05-10"
+    },
+    {
+      "groupId": "col-2026-05-09-birdsong",
+      "file": "2026-05-09-birdsong.json",
+      "publishDate": "2026-05-09"
+    },
     {
       "groupId": "col-2026-05-08-gta6",
       "file": "2026-05-08-gta6.json",

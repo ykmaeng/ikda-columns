@@ -1,0 +1,398 @@
+[
+  {
+    "id": "col-2026-05-15-untranslatable-word-l1",
+    "title": "A Word That Will Not Translate",
+    "titleKo": "번역되지 않는 단어",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "paragraphs": [
+      "There is one word in my language that I cannot say in English.",
+      "I tried many times. I used long sentences. I used pictures. I used short stories. People still did not understand it well.",
+      "The word is small. But the meaning is big. It has a feeling inside it.",
+      "Some words are like this. They live inside one language. When we move them to a new language, they get tired.",
+      "Some friends from other countries told me the same thing. Each language has one or two of these words.",
+      "Maybe this is why people learn other languages. Not just for new words. But for new feelings that have no word in their first language.",
+      "I think I will keep this word in my heart. I will use it when I need it.",
+      "And maybe one day, I will learn a word from a friend. A word that does not move into my language.",
+      "I will keep that word too.",
+      "Together, we will be a little richer."
+    ],
+    "translation": [
+      "제 언어에는 영어로는 말할 수 없는 단어가 하나 있어요.",
+      "여러 번 시도해 봤어요. 긴 문장을 썼어요. 그림을 썼어요. 짧은 이야기도 썼어요. 사람들은 여전히 잘 이해하지 못했어요.",
+      "그 단어는 작아요. 그런데 의미는 커요. 안에 감정이 있어요.",
+      "어떤 단어들은 이래요. 한 언어 안에서 살아요. 새 언어로 옮기면, 지쳐요.",
+      "다른 나라에서 온 친구들도 저에게 같은 말을 했어요. 각 언어에는 이런 단어가 한두 개씩 있어요.",
+      "어쩌면 이게 사람들이 다른 언어를 배우는 이유일지 몰라요. 새 단어들 때문만이 아니에요. 자기 모국어에 단어가 없는 새 감정들 때문이에요.",
+      "저는 이 단어를 마음 안에 간직할 거예요. 필요할 때 쓸 거예요.",
+      "그리고 어쩌면 어느 날, 친구로부터 단어 하나를 배울 거예요. 제 언어로 옮겨지지 않는 단어.",
+      "그 단어도 간직할 거예요.",
+      "함께, 우리는 조금 더 부유해질 거예요."
+    ],
+    "targetWords": ["l1-134", "l1-094", "l1-093", "l1-097", "l1-098"],
+    "quiz": [
+      {
+        "question": "Why does the writer say some words don't translate well?",
+        "questionKo": "글쓴이는 왜 어떤 단어들이 잘 번역되지 않는다고 말하나요?",
+        "options": [
+          "They are too long",
+          "They live inside one language; when moved to a new language, they get tired",
+          "They are old",
+          "They are wrong"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer think people gain when learning new languages?",
+        "questionKo": "글쓴이는 사람들이 새 언어를 배울 때 무엇을 얻는다고 생각하나요?",
+        "options": [
+          "Only money",
+          "Not just new words, but new feelings that have no word in their first language",
+          "Only travel",
+          "Nothing important"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-15-untranslatable-word-l2",
+    "title": "The Words That Stay Home",
+    "titleKo": "집에 남는 단어들",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "paragraphs": [
+      "There is a word in my first language that I have never been able to say in English. I have tried for years.",
+      "I have used long sentences. I have used pictures. I have used short stories. People nod, but I can see they have not really understood. The word lands somewhere near, but not on, what I meant.",
+      "The word is short. But the meaning around it is wide. It carries a feeling, a small set of memories, a way of being inside a moment.",
+      "Friends from other countries have told me they have the same thing. A Brazilian friend has saudade. A German friend has Schadenfreude and Sehnsucht. A Japanese friend has the words for the light through trees, the rain that does not quite fall.",
+      "Each language seems to have one or two of these words. They are not better than other words. They are just held tightly by one culture.",
+      "When I try to translate them, I have to use four English words instead of one. By the fourth word, the feeling is gone. Translation is honest about the meaning. It is dishonest about the weight.",
+      "I think this is one of the small reasons people learn other languages. Not only for travel. Not only for work. Sometimes also for the feeling that there is a word, somewhere, that fits the thing you have always wanted to say but could not.",
+      "When I learn a new language, I am not just collecting more words. I am also borrowing a few feelings that my first language never gave me a name for.",
+      "And I think this is fair. I will keep the small word in my own language for the people who can hear it. I will offer the long, careful, four-word version to friends who cannot. I will be patient when they almost understand.",
+      "And I will keep listening for words in their language that my own language has no shape for.",
+      "Together, we get a little richer. Not because anyone wins. Because no one quite has to."
+    ],
+    "translation": [
+      "제 모국어에는 영어로는 한 번도 말할 수 없었던 단어가 하나 있어요. 수년간 시도해 왔어요.",
+      "긴 문장을 써 봤어요. 그림을 써 봤어요. 짧은 이야기도 써 봤어요. 사람들은 끄덕이지만, 그들이 진짜로 이해한 건 아니라는 게 보여요. 그 단어는 제가 의도한 것 근처에는 도착하지만, 그 위에 정확히는 도착하지 않아요.",
+      "단어는 짧아요. 그런데 그 주변의 의미는 넓어요. 어떤 감정, 작은 기억의 집합, 한 순간 안에 있는 방식을 운반해요.",
+      "다른 나라에서 온 친구들이 저한테 같은 게 있다고 말해 줬어요. 브라질 친구는 saudade 가 있어요. 독일 친구는 Schadenfreude 와 Sehnsucht 가 있어요. 일본 친구는 나뭇잎 사이로 비치는 빛, 거의 내리지 않는 비를 위한 단어들이 있어요.",
+      "각 언어는 이런 단어를 한두 개씩 가지고 있는 것 같아요. 다른 단어들보다 더 좋은 게 아니에요. 그냥 한 문화가 단단히 쥐고 있어요.",
+      "그것들을 번역하려고 할 때, 한 단어 대신 영어 네 단어를 써야 해요. 네 번째 단어쯤이면, 감정은 사라져요. 번역은 의미에 대해서는 정직해요. 무게에 대해서는 부정직해요.",
+      "이게 사람들이 다른 언어를 배우는 작은 이유 중 하나라고 생각해요. 여행만을 위해서가 아니에요. 일만을 위해서가 아니에요. 가끔은 또한 어딘가에, 늘 말하고 싶었지만 할 수 없었던 그것에 맞는 단어가 있다는 느낌을 위해서요.",
+      "새 언어를 배울 때, 단지 더 많은 단어를 모으는 게 아니에요. 또한 제 모국어가 한 번도 이름 주지 않았던 몇 가지 감정을 빌리고 있어요.",
+      "이게 공평하다고 생각해요. 들을 수 있는 사람들을 위해 제 언어의 작은 단어를 간직할 거예요. 들을 수 없는 친구들에게는 길고, 신중하고, 네 단어 버전을 제공할 거예요. 그들이 거의 이해할 때 인내심을 가질 거예요.",
+      "그리고 제 언어가 모양을 가지고 있지 않은 그들의 언어의 단어들을 계속 들을 거예요.",
+      "함께, 우리는 조금 더 부유해져요. 누군가 이기기 때문이 아니에요. 누구도 그래야 할 필요가 없기 때문이에요."
+    ],
+    "targetWords": ["l1-134", "l1-282", "l1-097", "l2-079", "l2-287"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the difference between translation's meaning and weight?",
+        "questionKo": "글쓴이는 번역의 의미와 무게의 차이를 어떻게 묘사하나요?",
+        "options": [
+          "They are identical",
+          "Translation is honest about the meaning; it is dishonest about the weight",
+          "Both are perfect",
+          "Both are useless"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer say we get 'richer' together when learning languages?",
+        "questionKo": "글쓴이는 왜 우리가 언어를 배울 때 함께 '더 부유해진다'고 말하나요?",
+        "options": [
+          "Because someone wins",
+          "Because no one quite has to win — we borrow each other's untranslatable feelings",
+          "Because of money",
+          "Because of better grades"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-15-untranslatable-word-l3",
+    "title": "The Words That Live Only in One Language",
+    "titleKo": "한 언어에만 사는 단어들",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "paragraphs": [
+      "There is a word in my first language that I have never quite been able to say in English. I have tried for years, in hundreds of small conversations, with patient and impatient listeners alike.",
+      "I have used long sentences. I have used pictures. I have used carefully constructed short stories that approach the word from the side, hoping to reveal it without naming it directly. People nod. They look thoughtful. Then I can see, in their faces, that the word has landed somewhere near my meaning but not exactly on it. The center of the meaning has remained behind, in the original language, untranslated.",
+      "The word itself is short. The meaning around it is wide. It carries a particular feeling, a small set of cultural memories, a way of being inside a specific kind of moment that the language I learned first decided, at some point in its history, was important enough to give a name to.",
+      "Friends from other countries have told me, over the years, that they have the same kind of word. A Brazilian friend has saudade — a longing for something or someone that may never return, edged with a strange tenderness. A German friend has Schadenfreude — a quiet pleasure in someone else's small misfortune — and Sehnsucht, a yearning for an unreachable elsewhere. A Japanese friend has 木漏れ日, the word for sunlight filtering through leaves, and 物の哀れ, a gentle sorrow at the impermanence of beautiful things. A Korean friend has 눈치, the small social radar that reads the room before anyone has spoken.",
+      "Each language seems to have one or two of these words, sometimes more. They are not, as a category, better than other words. They are simply held tightly by one specific culture. The culture decided, collectively and across generations, that this particular configuration of feeling deserved a single name. Other cultures, for whatever historical reasons, decided otherwise.",
+      "When I try to translate such a word into a language that does not have it, I have to use four words where the original used one. By the fourth word, the original feeling has noticeably faded. Translation is honest about the rough meaning of the word. It is, almost without exception, dishonest about the weight.",
+      "I think this is one of the small unspoken reasons people learn languages other than the one they were born into. Not only for travel. Not only for work. Sometimes also for the quiet realization that there are words, in some other language somewhere, that fit a thing you have always wanted to say in your own language but somehow could not.",
+      "When I learn a new language, I am not, on careful inspection, just collecting more vocabulary items. I am also borrowing a few specific feelings that my first language, for its own reasons, never gave me a single word for.",
+      "I think this is, on balance, fair. I will keep the small word from my own language carefully, for the people who can fully hear it. I will offer the long, careful, four-word approximation to friends who cannot. I will be patient when they almost understand and slightly uncertain when they say they do.",
+      "And I will continue, with no special urgency, to listen for words in their languages that my own language has no shape for.",
+      "Together, in this slow and asymmetric exchange, we get a little richer over time. Not because anyone in the conversation wins. Because no one in the conversation quite has to."
+    ],
+    "translation": [
+      "제 모국어에는 한 번도 영어로 정확히 말할 수 없었던 단어가 하나 있어요. 인내심 있는 청자와 인내심 없는 청자 모두와의 수백 번의 작은 대화에서, 수년간 시도해 왔어요.",
+      "긴 문장을 써 봤어요. 그림을 써 봤어요. 그 단어를 옆에서부터 접근하려고, 직접 이름 짓지 않고 그것을 드러내기를 바라며 신중하게 구성된 짧은 이야기를 써 봤어요. 사람들은 끄덕여요. 사려 깊어 보여요. 그러다, 그들의 얼굴에서, 그 단어가 제 의미 근처에 도착했지만 정확히 그 위에는 아니라는 게 보여요. 의미의 중심은 원래 언어 안에 남아 있어요, 번역되지 않은 채로.",
+      "단어 자체는 짧아요. 그 주변의 의미는 넓어요. 특정한 감정, 작은 문화적 기억의 집합, 제가 처음 배운 언어가 그 역사의 어느 시점에 이름 주기에 충분히 중요하다고 결정한 특정한 종류의 순간 안에 있는 방식을 운반해요.",
+      "다른 나라에서 온 친구들이 수년에 걸쳐, 자기들도 같은 종류의 단어가 있다고 말해 줬어요. 브라질 친구는 saudade — 다시 돌아오지 않을지도 모르는 무언가나 누군가에 대한 그리움, 이상한 부드러움이 가장자리에 있는 — 가 있어요. 독일 친구는 Schadenfreude — 다른 사람의 작은 불운에 대한 조용한 즐거움 — 와, 도달할 수 없는 다른 곳에 대한 갈망인 Sehnsucht 가 있어요. 일본 친구는 木漏れ日, 나뭇잎 사이로 비치는 햇빛에 대한 단어와, 物の哀れ, 아름다운 것들의 무상함에 대한 부드러운 슬픔이 있어요. 한국 친구는 눈치, 누군가 말하기 전에 방을 읽는 작은 사회적 레이더가 있어요.",
+      "각 언어는 이런 단어를 한두 개, 가끔은 더 가지고 있는 것 같아요. 그것들은, 범주로서, 다른 단어들보다 더 좋지 않아요. 그것들은 단순히 한 특정한 문화에 단단히 쥐어져 있어요. 그 문화는 집단적으로 그리고 세대를 가로질러, 이 특정한 감정의 구성이 단일한 이름을 받을 자격이 있다고 결정했어요. 다른 문화들은, 어떤 역사적 이유로든, 다르게 결정했어요.",
+      "그런 단어를 그것을 가지지 않은 언어로 번역하려고 할 때, 원래가 한 단어를 쓴 곳에 네 단어를 써야 해요. 네 번째 단어쯤이면, 원래의 감정은 눈에 띄게 희미해져 있어요. 번역은 그 단어의 대략적인 의미에 대해서는 정직해요. 거의 예외 없이, 무게에 대해서는 부정직해요.",
+      "이게 사람들이 자기가 태어난 언어 외의 언어를 배우는 작은 말로 표현되지 않은 이유 중 하나라고 생각해요. 여행만을 위해서가 아니에요. 일만을 위해서가 아니에요. 가끔은 또한 어딘가의 다른 언어에, 늘 자기 언어로 말하고 싶었지만 어떤 식으로든 할 수 없었던 것에 맞는 단어들이 있다는 조용한 깨달음을 위해서요.",
+      "새 언어를 배울 때, 신중한 검사에서, 단지 더 많은 어휘 항목을 모으는 게 아니에요. 또한 제 모국어가, 그 자체의 이유로, 한 번도 단일한 단어를 주지 않았던 몇 가지 특정한 감정을 빌리고 있어요.",
+      "이게, 균형을 잡으면, 공평하다고 생각해요. 완전히 들을 수 있는 사람들을 위해, 제 언어의 작은 단어를 신중하게 간직할 거예요. 들을 수 없는 친구들에게는 길고, 신중한, 네 단어 근사를 제공할 거예요. 그들이 거의 이해할 때 인내심을 가질 거고, 이해한다고 말할 때 약간 불확실할 거예요.",
+      "그리고 어떤 특별한 긴급함 없이, 제 언어가 모양을 가지고 있지 않은 그들의 언어의 단어들을 계속 들을 거예요.",
+      "함께, 이 천천하고 비대칭적인 교환에서, 우리는 시간이 흐르면서 조금 더 부유해져요. 대화의 누군가 이기기 때문이 아니에요. 대화의 누구도 이길 필요가 없기 때문이에요."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l3-734", "l3-147"],
+    "quiz": [
+      {
+        "question": "What does the writer say is the problem with translating four English words for one untranslatable word?",
+        "questionKo": "글쓴이는 한 번역되지 않는 단어를 영어 네 단어로 번역하는 문제가 무엇이라고 말하나요?",
+        "options": [
+          "The grammar is wrong",
+          "By the fourth word, the original feeling has noticeably faded — translation is honest about meaning, dishonest about weight",
+          "It takes too long",
+          "It is too short"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer say learning languages is more than vocabulary collection?",
+        "questionKo": "글쓴이는 왜 언어 배움이 어휘 수집 이상이라고 말하나요?",
+        "options": [
+          "For grammar",
+          "Because we are also borrowing specific feelings that our first language never gave us a single word for",
+          "For travel only",
+          "For tests"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-15-untranslatable-word-l4",
+    "title": "On the Words That Refuse to Travel",
+    "titleKo": "여행하기를 거부하는 단어들에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "paragraphs": [
+      "There is a word in my first language that I have never quite been able to render adequately in English. I have tried for many years, in hundreds of small conversations across two continents, with patient and impatient listeners alike, and the result has never been entirely satisfactory.",
+      "I have used long English sentences. I have used metaphors. I have used carefully constructed short anecdotes that approach the meaning of the word from the side, in the hope of revealing the contour of the feeling without naming it directly. People nod. They look thoughtful. Then I can see, in their facial expression, that the meaning has landed somewhere near what I intended but not exactly on it. The center of the original meaning has, in nearly every case, remained behind, in the original language, untranslated and untranslatable.",
+      "The word itself is short, no more than a syllable or two. The meaning around it is wide. It carries a particular structure of feeling, a small set of associated cultural memories, a way of being inside a specific configuration of moments that the language I learned first decided, at some point during its long historical formation, was important and recurrent enough to merit a single name.",
+      "Friends from other countries have told me, over the course of many evenings, that they have the same kind of word in their own native languages. A Brazilian friend has saudade — a particular longing for something or someone, often unreachable, edged with a strange and almost pleasurable tenderness that resists straightforward translation as either nostalgia or grief. A German friend has Schadenfreude, a complicated quiet pleasure in observing the small misfortunes of others, and Sehnsucht, a sustained yearning for an idealized elsewhere that one has never actually inhabited. A Japanese friend has 木漏れ日, the word reserved for sunlight filtering down through leaves, and 物の哀れ, a particular gentle sorrow at the impermanence of beautiful and ordinary things. A Korean friend has 눈치, a finely tuned social perception of the room that reads emotional and political configurations before anyone in the room has explicitly spoken.",
+      "Each language, on inspection, seems to carry one or two such words, and sometimes considerably more. They are not, taken as a category, better or more sophisticated than other words. They are simply held tightly by one specific cultural lineage. The culture decided, collectively and across many generations, that this particular configuration of human experience deserved a single dedicated name. Other cultures, for whatever historical and contingent reasons, decided otherwise — perhaps not because they did not have the experience, but because they did not collectively register it as a single nameable thing.",
+      "When I try to translate such a word into a language that does not have a corresponding term, I find myself using four English words where my native language used one. By the fourth English word, the original feeling has noticeably faded. The translated phrase preserves an outline of the meaning. It loses, almost without exception, the weight. Translation, on close inspection, is honest about the rough informational content of the original word. It is, in such cases, almost necessarily dishonest about the felt density of the word in the mouth and the mind.",
+      "I have come to believe that this is one of the small, rarely articulated reasons that people learn languages other than the one they happened to be born into. Not only for travel. Not only for work. Not only for the often slightly contrived prestige of being multilingual. Sometimes also for the slow, almost private realization that there are words, somewhere in some other language, that fit a thing you have always wanted to say in your own language but somehow could not, because your own language had never decided to give it a name.",
+      "When I learn a new language, accordingly, I am not, on careful inspection, just collecting additional vocabulary items to be exchanged for goods, services, and forms of social access. I am also, at the same time, borrowing a few specific feelings and configurations of attention that my first language, for its own historical reasons, never decided to give me a single word for.",
+      "I think this is, on balance and on adult reflection, a genuinely fair exchange. I will continue to keep the small word from my own language carefully, for those people in my life who can fully hear it without translation. I will continue to offer the long, careful, four-word approximation to friends who cannot. I will try to be patient with them when they almost understand and quietly skeptical when they appear too quickly certain that they fully do.",
+      "And I will continue, without any particular urgency, to listen across the years for words in other people's languages that my own native language has no available shape for. The list of such words is, on patient observation, longer than I had initially expected.",
+      "Together, in this slow and structurally asymmetric exchange — conducted by people who will mostly never meet one another, in conversations that mostly never quite arrive at a single shared word — we all get a little quietly richer over the course of decades. Not because anyone in the exchange wins. Because, on closer inspection, no one in the exchange quite has to."
+    ],
+    "translation": [
+      "제 모국어에는 영어로 한 번도 정확히 적절하게 옮길 수 없었던 단어가 하나 있어요. 두 대륙에 걸친 수백 번의 작은 대화에서, 인내심 있는 청자와 인내심 없는 청자 모두와, 수년간 시도해 왔고, 결과는 한 번도 전적으로 만족스럽지 않았어요.",
+      "긴 영어 문장을 써 봤어요. 은유를 써 봤어요. 그 단어의 의미를 옆에서부터 접근하려고, 직접 이름 짓지 않고 감정의 윤곽을 드러내기를 바라며 신중하게 구성된 짧은 일화를 써 봤어요. 사람들은 끄덕여요. 사려 깊어 보여요. 그러다, 그들의 얼굴 표정에서, 의미가 제가 의도한 것 근처에 도착했지만 정확히 그 위에는 아니라는 게 보여요. 거의 모든 경우, 원래 의미의 중심은 원래 언어 안에 남아 있어요, 번역되지 않은 그리고 번역 불가능한 채로.",
+      "단어 자체는 짧아요, 한두 음절을 넘지 않아요. 그 주변의 의미는 넓어요. 특정한 감정 구조, 작은 연관 문화적 기억의 집합, 제가 처음 배운 언어가 그 긴 역사적 형성의 어느 시점에 단일한 이름을 받을 자격이 있을 만큼 중요하고 반복되는 것이라고 결정한 특정한 순간들의 구성 안에 있는 방식을 운반해요.",
+      "다른 나라에서 온 친구들이 많은 저녁의 과정에서, 자기들의 모국어에도 같은 종류의 단어가 있다고 말해 줬어요. 브라질 친구는 saudade — 자주 도달할 수 없는, 무언가나 누군가에 대한 특정한 그리움, 향수나 슬픔으로의 직접적인 번역에 저항하는 이상하고 거의 즐거운 부드러움이 가장자리에 있는 — 가 있어요. 독일 친구는 Schadenfreude, 다른 사람의 작은 불운을 관찰하는 복잡한 조용한 즐거움과, 한 번도 실제로 거주한 적 없는 이상화된 다른 곳에 대한 지속된 갈망인 Sehnsucht 가 있어요. 일본 친구는 木漏れ日, 나뭇잎 사이로 비치는 햇빛을 위해 예약된 단어와, 物の哀れ, 아름답고 평범한 것들의 무상함에 대한 특정한 부드러운 슬픔이 있어요. 한국 친구는 눈치, 방의 누군가 명시적으로 말하기 전에 감정적 그리고 정치적 구성을 읽는 미세하게 조율된 방의 사회적 인식이 있어요.",
+      "각 언어는, 검사해 보면, 한두 개의 그런 단어를, 가끔은 상당히 더 많이 운반하는 것 같아요. 그것들은, 범주로 취하면, 다른 단어들보다 더 좋거나 더 정교하지 않아요. 그것들은 단순히 한 특정한 문화적 혈통에 단단히 쥐어져 있어요. 그 문화는 집단적으로 그리고 많은 세대를 가로질러, 이 특정한 인간 경험의 구성이 단일한 전용 이름을 받을 자격이 있다고 결정했어요. 다른 문화들은, 어떤 역사적이고 우연한 이유로든, 다르게 결정했어요 — 어쩌면 그 경험을 가지지 않아서가 아니라, 그것을 단일한 이름 짓기 가능한 것으로 집단적으로 등록하지 않아서.",
+      "그런 단어를 해당 용어를 가지지 않은 언어로 번역하려고 할 때, 제 모국어가 한 단어를 쓴 곳에 영어 네 단어를 쓰고 있는 자신을 발견해요. 네 번째 영어 단어쯤이면, 원래의 감정은 눈에 띄게 희미해져 있어요. 번역된 구절은 의미의 윤곽을 보존해요. 거의 예외 없이, 무게를 잃어요. 번역은, 가까이서 검사해 보면, 원래 단어의 대략적인 정보 내용에 대해서는 정직해요. 그런 경우에, 거의 필연적으로 입과 마음 안에서의 그 단어의 느껴지는 밀도에 대해서는 부정직해요.",
+      "사람들이 자기가 우연히 태어난 언어 외의 언어를 배우는 작고, 거의 표현되지 않는 이유 중 하나가 이거라고 믿게 됐어요. 여행만을 위해서가 아니에요. 일만을 위해서가 아니에요. 다국어를 한다는 종종 약간 인위적인 명성만을 위해서가 아니에요. 가끔은 또한 어딘가의 다른 언어에, 늘 자기 언어로 말하고 싶었지만 어떤 식으로든 할 수 없었던 것 — 자기 언어가 한 번도 그것에 이름을 주기로 결정하지 않았기 때문에 — 에 맞는 단어들이 있다는 천천하고 거의 사적인 깨달음을 위해서요.",
+      "따라서, 새 언어를 배울 때, 신중한 검사에서, 단지 상품, 서비스, 그리고 사회적 접근의 형태와 교환할 추가 어휘 항목을 모으는 게 아니에요. 또한 동시에, 제 모국어가, 그 자체의 역사적 이유로, 단일한 단어를 주기로 결정하지 않았던 몇 가지 특정한 감정과 주의의 구성을 빌리고 있어요.",
+      "이게, 균형을 잡고 어른의 성찰에서, 진짜로 공평한 교환이라고 생각해요. 번역 없이 완전히 들을 수 있는 제 인생의 사람들을 위해, 제 언어의 작은 단어를 계속 신중하게 간직할 거예요. 들을 수 없는 친구들에게는 길고, 신중한, 네 단어 근사를 계속 제공할 거예요. 그들이 거의 이해할 때 인내심을 가지려고 하고, 그들이 완전히 이해한다고 너무 빨리 확신해 보일 때 조용히 회의적이 되려고 할 거예요.",
+      "그리고 어떤 특별한 긴급함 없이, 제 모국어가 가용한 모양을 가지고 있지 않은 다른 사람들의 언어의 단어들을 수년에 걸쳐 계속 들을 거예요. 그런 단어들의 목록은, 인내심 있는 관찰에서, 제가 처음에 예상한 것보다 더 길어요.",
+      "함께, 이 천천하고 구조적으로 비대칭적인 교환에서 — 대부분 서로 만나지 않을 사람들에 의해, 대부분 단일한 공유 단어에 결코 정확히 도착하지 않는 대화에서 진행되는 — 우리 모두가 수십 년의 과정에 걸쳐 조금 조용히 더 부유해져요. 교환의 누군가 이기기 때문이 아니에요. 가까이서 검사해 보면, 교환의 누구도 이길 필요가 없기 때문이에요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "What does the writer suggest about cultures that lack a particular untranslatable word?",
+        "questionKo": "글쓴이는 특정 번역되지 않는 단어가 없는 문화에 대해 무엇을 시사하나요?",
+        "options": [
+          "They lack the experience entirely",
+          "Perhaps not because they did not have the experience, but because they did not collectively register it as a single nameable thing",
+          "They are inferior cultures",
+          "They have all words"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe the 'fairness' of the language exchange?",
+        "questionKo": "글쓴이는 언어 교환의 '공평함'을 어떻게 묘사하나요?",
+        "options": [
+          "Unfair and one-sided",
+          "Slow, structurally asymmetric — conducted by people who never meet, in conversations never quite arriving at a shared word; everyone gets quietly richer over decades because no one has to win",
+          "Equal exchange of equal value",
+          "Pointless"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-15-untranslatable-word-l5",
+    "title": "On Carrying a Word That Will Not Travel With You",
+    "titleKo": "함께 여행하지 않는 단어를 운반하는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "paragraphs": [
+      "There is a particular word in my first language that I have never quite been able to render adequately in English. I have tried for many years, in hundreds of small conversations across two continents, with patient and impatient listeners alike, in formal and informal settings, with and without the assistance of dictionaries, and the result has never been entirely satisfactory in a way that I have come to find structurally interesting rather than personally frustrating.",
+      "I have used long English sentences. I have used metaphors borrowed from physics, from cooking, from music. I have used carefully constructed short anecdotes that approach the meaning of the word from the side, in the hope of revealing the contour of the feeling without ever naming it directly. People nod. They look thoughtful in the appropriate way. Then I can see, in the configuration of their facial expression, that the meaning has landed somewhere near what I intended but not exactly on it. The center of the original meaning has, in nearly every case I can recall, remained behind in the original language, untranslated and ultimately untranslatable in any straightforward way.",
+      "The word itself is short, no more than a syllable or two in its native form. The meaning around it, however, is wide. It carries a particular structure of feeling, a small set of associated cultural memories, a way of being inside a specific configuration of moments that the language I learned first decided, at some point during its long historical formation, was important and recurrent enough in the local pattern of life to merit being given a single dedicated name.",
+      "Friends from other countries have told me, over the course of many evenings of unhurried conversation, that they have the same kind of word in their own native languages. A Brazilian friend has saudade — a particular kind of longing for something or someone, often unreachable, edged with a strange and almost pleasurable tenderness that resists clean translation as either nostalgia or grief. A German friend has Schadenfreude, a complicated quiet pleasure in observing the small misfortunes of others, and Sehnsucht, a sustained yearning for an idealized elsewhere that one has never actually inhabited and possibly cannot ever inhabit. A Japanese friend has 木漏れ日, the word reserved for sunlight filtering down through leaves on an ordinary day, and 物の哀れ, a particular gentle sorrow at the impermanence of beautiful and ordinary things alike. A Korean friend has 눈치, a finely tuned social perception of a room that reads emotional and political configurations before anyone in the room has actually spoken aloud.",
+      "Each language, on inspection, seems to carry one or two such words, and sometimes considerably more. They are not, taken as a category, better or more linguistically sophisticated than other words in the same languages. They are simply held tightly by one specific cultural and linguistic lineage. The culture in question decided, collectively and across many generations of speakers, that this particular configuration of human experience deserved a single dedicated name in its own internal vocabulary. Other cultures, for whatever historical and contingent reasons, decided otherwise — sometimes, on close inspection, perhaps not because they did not have the experience itself, but because they did not collectively register the experience as a single discrete nameable thing.",
+      "When I try to translate such a word into a language that does not happen to have a corresponding native term, I find myself using four English words where my native language used one. By the fourth English word, the original feeling has noticeably and measurably faded. The translated phrase preserves a workable outline of the meaning. It loses, almost without exception, the felt weight. Translation, on close and careful inspection, is honest about the rough informational content of the original word. It is, in such cases, almost necessarily dishonest about the felt density of the word in the mouth and the mind, and about the specific cultural texture that gave the word its emotional gravity in the first place.",
+      "I have come, over time, to believe that this is one of the small, rarely articulated reasons that people learn languages other than the one they happened to be born into. Not only for travel. Not only for work. Not only for the slightly contrived prestige of being able to operate in multiple linguistic registers. Sometimes, perhaps most importantly, also for the slow, almost private, almost embarrassingly intimate realization that there are words, somewhere in some other language, that fit a particular thing you have always wanted to say in your own language but somehow could not, because your own language had simply never quite decided to give that thing a single dedicated name.",
+      "When I learn a new language, accordingly, I am not, on careful inspection, just collecting additional vocabulary items to be exchanged later for goods, services, and various forms of professional and social access. I am also, at the same time and somewhat more quietly, borrowing a few specific feelings and configurations of attention that my first language, for its own deep historical reasons, never decided to give me a single dedicated word for. The borrowing is not strictly necessary. I could continue to live my entire life inside my first language without ever encountering these other words. But once they have been encountered, they tend to remain available, and the absence they had previously filled in my native vocabulary becomes, in retrospect, gently noticeable.",
+      "I think this is, on balance and on patient adult reflection, a genuinely fair and structurally non-zero-sum exchange. I will continue to keep the small word from my own native language carefully and somewhat protectively, for those particular people in my life who can fully hear it without the need for any translation at all. I will continue to offer the long, careful, four-word English approximation to friends who cannot. I will try to be patient with them when they almost understand and to remain quietly skeptical when they appear too quickly certain that they fully do. The certainty is often, in such cases, an artifact of the listener's politeness rather than a description of what they have actually received.",
+      "And I will continue, without any particular sense of urgency or completionist project, to listen across the years for words in other people's native languages that my own native language has no available shape for. The list of such words is, on patient observation across many years and many friendships, considerably longer than I had initially expected, and it continues, slowly, to grow. Each new addition modifies, by some small amount, the felt resolution of my own interior life. I notice things, after the addition, that I had previously felt without quite being able to name.",
+      "Together, in this slow and structurally asymmetric exchange — conducted by people who will mostly never meet one another in person, in conversations that mostly never quite arrive at a single shared word — we all get a little quietly richer over the course of decades. Not because anyone in the exchange wins. Not because anyone in the exchange has been forced to give up anything important. Because, on closer inspection, no one in the exchange quite has to win, and no one quite has to give anything up; the trade is conducted, almost entirely, in additions rather than substitutions.",
+      "The word in my first language that I have never been able to translate continues to live, undamaged, in my first language. The Portuguese, German, Japanese, and Korean words my friends have introduced me to continue to live, mostly undamaged, in theirs. None of them has been displaced. Each of them now also occupies a small, slightly informal room somewhere in my own interior vocabulary, available without translation when the appropriate experience arises, untouched by the question of whether I am formally entitled to use them at all."
+    ],
+    "translation": [
+      "제 모국어에는 영어로 한 번도 정확히 적절하게 옮길 수 없었던 특정한 단어가 하나 있어요. 두 대륙에 걸친 수백 번의 작은 대화에서, 인내심 있는 청자와 인내심 없는 청자 모두와, 공식적이고 비공식적인 환경에서, 사전의 도움이 있고 없이, 수년간 시도해 왔고, 결과는 — 제가 개인적으로 좌절스럽기보다 구조적으로 흥미롭게 발견하게 된 방식으로 — 한 번도 전적으로 만족스럽지 않았어요.",
+      "긴 영어 문장을 써 봤어요. 물리학에서, 요리에서, 음악에서 빌린 은유를 써 봤어요. 그 단어의 의미를 옆에서부터 접근하려고, 직접 이름 짓지 않고 감정의 윤곽을 드러내기를 바라며 신중하게 구성된 짧은 일화를 써 봤어요. 사람들은 끄덕여요. 그들은 적절한 방식으로 사려 깊어 보여요. 그러다, 그들의 얼굴 표정의 구성에서, 의미가 제가 의도한 것 근처에 도착했지만 정확히 그 위에는 아니라는 게 보여요. 제가 떠올릴 수 있는 거의 모든 경우, 원래 의미의 중심은 원래 언어 안에 남아 있어요, 번역되지 않은 그리고 어떤 직접적인 방식으로도 궁극적으로 번역 불가능한 채로.",
+      "단어 자체는 짧아요, 그 모국어 형태에서 한두 음절을 넘지 않아요. 그러나 그 주변의 의미는 넓어요. 특정한 감정 구조, 작은 연관 문화적 기억의 집합, 제가 처음 배운 언어가 그 긴 역사적 형성의 어느 시점에 단일한 전용 이름을 받을 자격이 있을 만큼 지역 생활 패턴에서 충분히 중요하고 반복되는 것이라고 결정한 특정한 순간들의 구성 안에 있는 방식을 운반해요.",
+      "다른 나라에서 온 친구들이 서두르지 않은 대화의 많은 저녁의 과정에서, 자기들의 모국어에도 같은 종류의 단어가 있다고 말해 줬어요. 브라질 친구는 saudade — 자주 도달할 수 없는, 무언가나 누군가에 대한 특정한 종류의 그리움, 향수나 슬픔으로의 깨끗한 번역에 저항하는 이상하고 거의 즐거운 부드러움이 가장자리에 있는 — 가 있어요. 독일 친구는 Schadenfreude, 다른 사람의 작은 불운을 관찰하는 복잡한 조용한 즐거움과, 한 번도 실제로 거주한 적 없고 아마 결코 거주할 수 없을 이상화된 다른 곳에 대한 지속된 갈망인 Sehnsucht 가 있어요. 일본 친구는 木漏れ日, 평범한 날에 나뭇잎 사이로 내려오는 햇빛을 위해 예약된 단어와, 物の哀れ, 아름답고 평범한 것들 모두의 무상함에 대한 특정한 부드러운 슬픔이 있어요. 한국 친구는 눈치, 방의 누군가 실제로 소리 내어 말하기 전에 감정적 그리고 정치적 구성을 읽는 미세하게 조율된 방의 사회적 인식이 있어요.",
+      "각 언어는, 검사해 보면, 한두 개의 그런 단어를, 가끔은 상당히 더 많이 운반하는 것 같아요. 그것들은, 범주로 취하면, 같은 언어의 다른 단어들보다 더 좋거나 더 언어학적으로 정교하지 않아요. 그것들은 단순히 한 특정한 문화적 그리고 언어적 혈통에 단단히 쥐어져 있어요. 문제의 그 문화는 집단적으로 그리고 화자의 많은 세대를 가로질러, 이 특정한 인간 경험의 구성이 자기 자신의 내부 어휘에서 단일한 전용 이름을 받을 자격이 있다고 결정했어요. 다른 문화들은, 어떤 역사적이고 우연한 이유로든, 다르게 결정했어요 — 가끔, 가까이서 검사해 보면, 어쩌면 경험 자체를 가지지 않아서가 아니라, 그 경험을 단일한 분리된 이름 짓기 가능한 것으로 집단적으로 등록하지 않아서.",
+      "그런 단어를 우연히 해당 모국어 용어를 가지지 않은 언어로 번역하려고 할 때, 제 모국어가 한 단어를 쓴 곳에 영어 네 단어를 쓰고 있는 자신을 발견해요. 네 번째 영어 단어쯤이면, 원래의 감정은 눈에 띄게 그리고 측정 가능하게 희미해져 있어요. 번역된 구절은 의미의 작업 가능한 윤곽을 보존해요. 거의 예외 없이, 느껴지는 무게를 잃어요. 번역은, 가까이서 그리고 신중하게 검사해 보면, 원래 단어의 대략적인 정보 내용에 대해서는 정직해요. 그런 경우에, 입과 마음 안에서의 그 단어의 느껴지는 밀도, 그리고 애초에 그 단어에 감정적 중력을 준 특정한 문화적 질감에 대해서는, 거의 필연적으로 부정직해요.",
+      "시간이 흐르면서, 사람들이 자기가 우연히 태어난 언어 외의 언어를 배우는 작고, 거의 표현되지 않는 이유 중 하나가 이거라고 믿게 됐어요. 여행만을 위해서가 아니에요. 일만을 위해서가 아니에요. 여러 언어적 음역에서 작동할 수 있는 약간 인위적인 명성만을 위해서가 아니에요. 가끔, 어쩌면 가장 중요하게는, 또한 어딘가의 다른 언어에, 늘 자기 언어로 말하고 싶었지만 어떤 식으로든 할 수 없었던 특정한 것에 — 자기 언어가 단순히 그것에 단일한 전용 이름을 결코 정확히 주기로 결정하지 않았기 때문에 — 맞는 단어들이 있다는 천천하고, 거의 사적이고, 거의 부끄럽도록 친밀한 깨달음을 위해서요.",
+      "따라서, 새 언어를 배울 때, 신중한 검사에서, 단지 나중에 상품, 서비스, 그리고 다양한 형태의 전문적 그리고 사회적 접근과 교환할 추가 어휘 항목을 모으는 게 아니에요. 또한 동시에 그리고 다소 더 조용히, 제 모국어가, 그 자체의 깊은 역사적 이유로, 한 번도 단일한 전용 단어를 주기로 결정하지 않았던 몇 가지 특정한 감정과 주의의 구성을 빌리고 있어요. 그 빌림은 엄격히 필요하지 않아요. 이 다른 단어들을 한 번도 마주치지 않고 제 첫 번째 언어 안에서 인생 전체를 계속 살 수 있어요. 하지만 일단 마주치고 나면, 그것들은 가용하게 남는 경향이 있고, 그것들이 이전에 채웠던 제 모국어 어휘의 부재가, 회고적으로, 부드럽게 알아채게 돼요.",
+      "이게, 균형을 잡고 인내심 있는 어른의 성찰에서, 진짜로 공평하고 구조적으로 영합 게임이 아닌 교환이라고 생각해요. 어떤 번역의 필요도 전혀 없이 완전히 들을 수 있는 제 인생의 그 특정한 사람들을 위해, 제 모국어의 작은 단어를 계속 신중하게 그리고 다소 보호적으로 간직할 거예요. 들을 수 없는 친구들에게는 길고, 신중한, 네 단어 영어 근사를 계속 제공할 거예요. 그들이 거의 이해할 때 인내심을 가지려고 하고, 그들이 완전히 이해한다고 너무 빨리 확신해 보일 때 조용히 회의적으로 남으려고 할 거예요. 그 확신은 그런 경우에 종종, 그들이 실제로 받은 것의 묘사라기보다 청자의 정중함의 인공물이에요.",
+      "그리고 어떤 특별한 긴급함의 감각이나 완성주의자 프로젝트 없이, 제 모국어가 가용한 모양을 가지고 있지 않은 다른 사람들의 모국어의 단어들을 수년에 걸쳐 계속 들을 거예요. 그런 단어들의 목록은, 많은 해와 많은 우정에 걸친 인내심 있는 관찰에서, 제가 처음에 예상한 것보다 상당히 더 길고, 천천히, 계속 자라요. 각 새 추가는 제 자신의 내적 생활의 느껴지는 해상도를 어떤 작은 양으로 수정해요. 추가 후, 이전에 정확히 이름 짓지 못한 채 느꼈던 것들을 알아채요.",
+      "함께, 이 천천하고 구조적으로 비대칭적인 교환에서 — 대부분 직접 서로 만나지 않을 사람들에 의해, 대부분 단일한 공유 단어에 결코 정확히 도착하지 않는 대화에서 진행되는 — 우리 모두가 수십 년의 과정에 걸쳐 조금 조용히 더 부유해져요. 교환의 누군가 이기기 때문이 아니에요. 교환의 누군가 중요한 무언가를 포기하도록 강요받았기 때문이 아니에요. 가까이서 검사해 보면, 교환의 누구도 이길 필요가 없고, 누구도 어떤 것도 포기할 필요가 없기 때문이에요; 거래는 대체가 아니라 거의 전적으로 추가로 진행돼요.",
+      "제 모국어에서 번역할 수 없었던 그 단어는 제 모국어 안에서 손상되지 않은 채 계속 살아요. 친구들이 제게 소개한 포르투갈어, 독일어, 일본어, 한국어 단어들은 그들의 언어 안에서 대부분 손상되지 않은 채 계속 살아요. 그것들 중 어느 것도 자리에서 밀려나지 않았어요. 그것들 각각이 이제 또한 제 자신의 내적 어휘 어딘가에 작고, 약간 비공식적인 방을 차지해요, 적절한 경험이 일어날 때 번역 없이 가용하고, 그것들을 사용할 공식적 자격이 있는지의 질문에 영향받지 않은 채로."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "What does the writer say is gained 'almost embarrassingly intimate' from learning new languages?",
+        "questionKo": "글쓴이는 새 언어를 배움으로써 '거의 부끄럽도록 친밀한' 무엇을 얻는다고 말하나요?",
+        "options": [
+          "Money",
+          "The realization that there are words elsewhere that fit something one always wanted to say but couldn't because one's own language never gave it a name",
+          "Travel discounts",
+          "Cultural superiority"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer say the language exchange is 'non-zero-sum'?",
+        "questionKo": "글쓴이는 왜 언어 교환이 '영합 게임이 아니다'라고 말하나요?",
+        "options": [
+          "Money is exchanged",
+          "No one has to win, no one has to give anything up — the trade is conducted almost entirely in additions rather than substitutions",
+          "Equal scores",
+          "Random outcome"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What modifies 'the felt resolution of interior life' according to the writer?",
+        "questionKo": "글쓴이에 따르면 '내적 생활의 느껴지는 해상도'를 무엇이 수정하나요?",
+        "options": [
+          "Sleep quality",
+          "Each new untranslatable word from another language one encounters — one notices things afterward that one previously felt without being able to name",
+          "Television viewing",
+          "Diet"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-15-untranslatable-word-l6",
+    "title": "On the Words That Live Only in One Language and What They Quietly Reveal",
+    "titleKo": "한 언어에만 사는 단어들과 그것들이 조용히 드러내는 것에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "paragraphs": [
+      "There is a particular word in my first language that I have never quite been able to render adequately in English. I have been trying for many years now, in hundreds of small conversations across two continents and several professional and personal settings, with patient and impatient listeners alike, in formal and informal contexts, with and without the assistance of dictionaries and machine translation, and the result has never been entirely satisfactory in a way that I have come, over time, to find structurally interesting rather than personally frustrating, and which has gradually become part of how I think about language itself.",
+      "I have used long English sentences. I have used metaphors borrowed from physics, from cooking, from music, from architecture. I have used carefully constructed short anecdotes that approach the meaning of the word from the side, in the hope of revealing the contour of the underlying feeling without ever naming it directly, the way one sometimes describes a person by describing their shadow rather than their face. People nod. They look thoughtful in approximately the appropriate way. Then I can see, in the precise configuration of their facial expression, that the meaning has landed somewhere near what I intended but not exactly on it. The structural center of the original meaning has, in nearly every case I can recall in detail, remained behind in the original language, untranslated and ultimately untranslatable in any straightforward way that I have so far been able to construct.",
+      "The word itself is short, no more than a syllable or two in its native form. The meaning around it, however, is unusually wide. It carries a particular structure of feeling, a small but quite specific set of associated cultural memories, a habituated way of being inside a particular configuration of moments that the language I learned first decided, at some point during its long historical formation, was important and recurrent enough in the local pattern of human life to merit being given a single dedicated name in the language's permanent vocabulary.",
+      "Friends from other countries have told me, over the course of many evenings of unhurried conversation in mixed-language settings, that they have the same kind of word in their own native languages, sometimes more than one. A Brazilian friend has saudade — a particular kind of longing for something or someone, often unreachable, edged with a strange and almost pleasurable tenderness that resists clean translation as either nostalgia or grief in any other major language I have access to. A German friend has Schadenfreude, a complicated quiet pleasure in observing the small misfortunes of others, and Sehnsucht, a sustained yearning for an idealized elsewhere that one has never actually inhabited and possibly cannot ever inhabit in this lifetime. A Japanese friend has 木漏れ日, the word reserved for sunlight filtering down through leaves on an ordinary day, and 物の哀れ, a particular gentle sorrow at the impermanence of beautiful and ordinary things considered together. A Korean friend has 눈치, a finely tuned and culturally trained social perception of a room that reads emotional and political configurations before anyone in the room has actually spoken aloud.",
+      "Each language, on inspection of even moderate depth, seems to carry one or two such words, and sometimes considerably more, scattered across different domains of experience. They are not, taken as a category, better or more linguistically sophisticated than the other words in the same languages. They are simply held tightly, by long habit and accumulated cultural emphasis, by one specific cultural and linguistic lineage. The culture in question decided, collectively and across many generations of speakers, that this particular configuration of human experience deserved a single dedicated name in its own internal vocabulary. Other cultures, for whatever historical and contingent reasons that are usually no longer easily reconstructible, decided otherwise — sometimes, on close honest inspection, perhaps not because they did not have access to the experience itself, but because they did not collectively register the experience as a single discrete nameable thing requiring its own permanent linguistic placeholder.",
+      "When I try to translate such a word into a language that does not happen to have a directly corresponding native term, I find myself using four or five English words where my native language used one. By the fourth English word, the original feeling has noticeably and measurably faded. The translated phrase preserves a workable outline of the meaning. It loses, almost without exception, the felt weight. Translation, on close and careful and somewhat wistful inspection, is genuinely honest about the rough informational content of the original word. It is, in such cases, almost necessarily dishonest about the felt density of the word in the mouth and the mind, about the specific cultural texture that gave the word its emotional gravity in the first place, and about the long shared history that allows the word to be heard, in its native context, with a kind of pre-arranged understanding that no English approximation will ever quite be able to summon on demand.",
+      "I have come, over the course of years, to believe that this is one of the small, rarely articulated reasons that people learn languages other than the one they happened to be born into. Not only for travel. Not only for work. Not only for the slightly contrived prestige of being able to operate in multiple linguistic registers and to move with apparent ease across borders. Sometimes, perhaps most importantly and most quietly, also for the slow, almost private, almost embarrassingly intimate realization that there are words, somewhere in some other language, that fit a particular thing one has always wanted to say in one's own language but somehow has not been able to, because one's own language had simply never quite, in its long historical accumulation, decided to give that thing a single dedicated name.",
+      "When I learn a new language, accordingly, I am not, on careful inspection, just collecting additional vocabulary items to be exchanged later for goods, services, and various forms of professional and social access. I am also, at the same time and somewhat more quietly and with no particular external announcement, borrowing a few specific feelings and configurations of attention that my first language, for its own deep historical reasons, never quite decided to give me a single dedicated word for. The borrowing is not strictly necessary in any practical sense. I could continue to live my entire life inside the boundaries of my first language without ever encountering these other words. But once they have been encountered, they tend to remain available in the back of the mind, and the absence they had previously been filling in my native vocabulary becomes, in retrospect, gently noticeable in a way that is not easily reversed.",
+      "I think this is, on balance and on patient adult reflection across years, a genuinely fair and structurally non-zero-sum exchange. I will continue to keep the small word from my own native language carefully and somewhat protectively, for those particular people in my life who can fully hear it without the need for any translation at all. I will continue to offer the long, careful, four- or five-word English approximation to friends and colleagues who cannot. I will try to be patient with them when they almost understand and to remain quietly skeptical when they appear too quickly certain that they fully do. The certainty, in such cases, is often, on close inspection, an artifact of the listener's reasonable politeness rather than a true description of what they have actually managed to receive across the linguistic gap.",
+      "And I will continue, without any particular sense of urgency or completionist project, to listen across the years for words in other people's native languages that my own native language has no available shape for. The list of such words is, on patient observation across many years and many friendships and many slightly under-translated conversations, considerably longer than I had initially expected when I first noticed the phenomenon, and it continues, slowly and without any obvious end, to grow. Each new addition modifies, by some small amount, the felt resolution of my own interior life. I notice things, after the addition, that I had previously felt quite clearly without ever quite being able to name them.",
+      "There is, I have come to believe, a structural lesson buried in this particular set of small daily observations, that may or may not be worth articulating explicitly. The vocabulary of one's first language is not, on close inspection, an exhaustive map of the felt territory of being a human being. It is, rather, a particular historically contingent partial map of that territory, drawn up by one specific culture across many generations on the basis of which features of the underlying experience that culture happened, for various reasons, to find worth naming. Other cultures have drawn up other partial maps of the same underlying territory, naming different features and leaving different features unnamed. The territory itself is shared. The maps are not.",
+      "The encounter with another language, viewed from this slightly elevated angle, is not primarily an encounter with another set of grammatical rules and another set of vocabulary items. It is, more interestingly, an encounter with another partial map of the shared underlying human territory — drawn up, often, with particular attention to features that one's own native map left unnamed, and with relative inattention to features that one's own native map made central. To learn the other language is, in part, to acquire access to those particular features of the shared territory that one's own language had quietly decided, often without any explicit decision, to leave nameless.",
+      "Together, in this slow and structurally asymmetric exchange — conducted by people who will mostly never meet one another in person, in conversations that mostly never quite arrive at any single fully shared word — we all get a little quietly richer over the course of decades and lifetimes. Not because anyone in the exchange wins. Not because anyone in the exchange has been forced to give up anything important about their own native language or culture. Because, on closer inspection, no one in the exchange quite has to win, and no one quite has to give anything up; the trade is conducted, almost entirely, in slow additions rather than substitutions, in the gradual layering of partial maps rather than in the displacement of any one of them by any other.",
+      "The particular word in my first language that I have never been able to translate continues to live, undamaged and unaltered, in my first language, available without effort whenever the appropriate experience arises. The Portuguese, German, Japanese, Korean, and other words that my friends from various places have introduced me to over the years continue to live, mostly undamaged and largely unaltered, in their own respective languages. None of them has been displaced from its original location by any of the others. Each of them now also occupies a small, slightly informal, slightly extra-territorial room somewhere in my own interior vocabulary, available for use without translation whenever the appropriate experience arises in my own life, untouched by the question of whether I am formally entitled to use them at all, and entirely indifferent to the question of which of these languages I happen to have been born into.",
+      "That, on calm reflection across many years of listening, may be the most quietly important thing about the words that refuse to translate. They do not, in the end, divide the speakers of different languages from one another. They reveal — slowly and without any particular fanfare — that all of us together have been making partial maps, in different directions, of the same continuous and never-quite-fully-mappable underlying experience of being human, and that the maps, when politely and patiently shared, can be read alongside one another with cumulative benefit and without any need for any of them to be erased."
+    ],
+    "translation": [
+      "제 모국어에는 영어로 한 번도 정확히 적절하게 옮길 수 없었던 특정한 단어가 하나 있어요. 두 대륙과 여러 전문적 그리고 개인적 환경에 걸친 수백 번의 작은 대화에서, 인내심 있는 청자와 인내심 없는 청자 모두와, 공식적이고 비공식적인 맥락에서, 사전과 기계 번역의 도움이 있고 없이, 이제 수년간 시도해 오고 있고, 결과는 — 시간이 흐르면서 제가 개인적으로 좌절스럽기보다 구조적으로 흥미롭게 발견하게 된 방식으로, 그리고 점진적으로 제가 언어 자체에 대해 생각하는 방식의 일부가 된 방식으로 — 한 번도 전적으로 만족스럽지 않았어요.",
+      "긴 영어 문장을 써 봤어요. 물리학에서, 요리에서, 음악에서, 건축에서 빌린 은유를 써 봤어요. 그 단어의 의미를 옆에서부터 접근하려고, 가끔 누군가의 얼굴 대신 그림자를 묘사함으로써 그 사람을 묘사하는 방식으로, 직접 이름 짓지 않고 기저 감정의 윤곽을 드러내기를 바라며 신중하게 구성된 짧은 일화를 써 봤어요. 사람들은 끄덕여요. 그들은 거의 적절한 방식으로 사려 깊어 보여요. 그러다, 그들의 얼굴 표정의 정확한 구성에서, 의미가 제가 의도한 것 근처에 도착했지만 정확히 그 위에는 아니라는 게 보여요. 제가 디테일로 떠올릴 수 있는 거의 모든 경우, 원래 의미의 구조적 중심은 원래 언어 안에 남아 있어요, 번역되지 않은 그리고 제가 지금까지 구성할 수 있었던 어떤 직접적인 방식으로도 궁극적으로 번역 불가능한 채로.",
+      "단어 자체는 짧아요, 그 모국어 형태에서 한두 음절을 넘지 않아요. 그러나 그 주변의 의미는 비범하게 넓어요. 특정한 감정 구조, 작지만 꽤 구체적인 연관 문화적 기억의 집합, 제가 처음 배운 언어가 그 긴 역사적 형성의 어느 시점에 그 언어의 영구 어휘에 단일한 전용 이름을 받을 자격이 있을 만큼 인간 생활의 지역 패턴에서 충분히 중요하고 반복되는 것이라고 결정한 특정한 순간들의 구성 안에 있는 익숙해진 방식을 운반해요.",
+      "다른 나라에서 온 친구들이 혼합 언어 환경에서의 서두르지 않은 대화의 많은 저녁의 과정에서, 자기들의 모국어에도 같은 종류의 단어가 있다고, 가끔 하나 이상이라고 말해 줬어요. 브라질 친구는 saudade — 자주 도달할 수 없는, 무언가나 누군가에 대한 특정한 종류의 그리움, 제가 접근할 수 있는 어떤 다른 주요 언어로의 향수나 슬픔으로의 깨끗한 번역에 저항하는 이상하고 거의 즐거운 부드러움이 가장자리에 있는 — 가 있어요. 독일 친구는 Schadenfreude, 다른 사람의 작은 불운을 관찰하는 복잡한 조용한 즐거움과, 한 번도 실제로 거주한 적 없고 아마 이번 생에 결코 거주할 수 없을 이상화된 다른 곳에 대한 지속된 갈망인 Sehnsucht 가 있어요. 일본 친구는 木漏れ日, 평범한 날에 나뭇잎 사이로 내려오는 햇빛을 위해 예약된 단어와, 物の哀れ, 함께 고려된 아름답고 평범한 것들의 무상함에 대한 특정한 부드러운 슬픔이 있어요. 한국 친구는 눈치, 방의 누군가 실제로 소리 내어 말하기 전에 감정적 그리고 정치적 구성을 읽는 미세하게 조율되고 문화적으로 훈련된 방의 사회적 인식이 있어요.",
+      "각 언어는, 적당한 깊이의 검사에서도, 한두 개의 그런 단어를, 가끔은 상당히 더 많이, 경험의 다른 영역에 흩어져 운반하는 것 같아요. 그것들은, 범주로 취하면, 같은 언어의 다른 단어들보다 더 좋거나 더 언어학적으로 정교하지 않아요. 그것들은 단순히, 긴 습관과 누적된 문화적 강조에 의해, 한 특정한 문화적 그리고 언어적 혈통에 단단히 쥐어져 있어요. 문제의 그 문화는 집단적으로 그리고 화자의 많은 세대를 가로질러, 이 특정한 인간 경험의 구성이 자기 자신의 내부 어휘에서 단일한 전용 이름을 받을 자격이 있다고 결정했어요. 다른 문화들은, 이제 보통 쉽게 재구성할 수 없는 어떤 역사적이고 우연한 이유로든, 다르게 결정했어요 — 가끔, 가까이서 정직하게 검사해 보면, 어쩌면 경험 자체에 대한 접근을 가지지 않아서가 아니라, 그 경험을 자기 자신의 영구 언어적 자리표시자를 요구하는 단일한 분리된 이름 짓기 가능한 것으로 집단적으로 등록하지 않아서.",
+      "그런 단어를 우연히 직접 해당하는 모국어 용어를 가지지 않은 언어로 번역하려고 할 때, 제 모국어가 한 단어를 쓴 곳에 영어 네 단어나 다섯 단어를 쓰고 있는 자신을 발견해요. 네 번째 영어 단어쯤이면, 원래의 감정은 눈에 띄게 그리고 측정 가능하게 희미해져 있어요. 번역된 구절은 의미의 작업 가능한 윤곽을 보존해요. 거의 예외 없이, 느껴지는 무게를 잃어요. 번역은, 가까이서 그리고 신중하게 그리고 다소 아쉬운 검사에서, 원래 단어의 대략적인 정보 내용에 대해서는 진심으로 정직해요. 그런 경우에, 입과 마음 안에서의 그 단어의 느껴지는 밀도, 애초에 그 단어에 감정적 중력을 준 특정한 문화적 질감, 그리고 어떤 영어 근사도 결코 요구에 따라 정확히 소환할 수 없을 일종의 사전 합의된 이해로 그 단어가 그 모국어 맥락에서 들릴 수 있게 해 주는 긴 공유된 역사에 대해서는, 거의 필연적으로 부정직해요.",
+      "수년의 과정에서, 사람들이 자기가 우연히 태어난 언어 외의 언어를 배우는 작고, 거의 표현되지 않는 이유 중 하나가 이거라고 믿게 됐어요. 여행만을 위해서가 아니에요. 일만을 위해서가 아니에요. 여러 언어적 음역에서 작동할 수 있고 명백한 용이함으로 국경을 가로질러 이동할 수 있는 약간 인위적인 명성만을 위해서가 아니에요. 가끔, 어쩌면 가장 중요하게 그리고 가장 조용하게는, 또한 어딘가의 다른 언어에, 자기가 늘 자기 자신의 언어로 말하고 싶었지만 어떤 식으로든 할 수 없었던 특정한 것 — 자기 자신의 언어가, 그 긴 역사적 누적에서, 단순히 그것에 단일한 전용 이름을 결코 정확히 주기로 결정하지 않았기 때문에 — 에 맞는 단어들이 있다는 천천하고, 거의 사적이고, 거의 부끄럽도록 친밀한 깨달음을 위해서요.",
+      "따라서, 새 언어를 배울 때, 신중한 검사에서, 단지 나중에 상품, 서비스, 그리고 다양한 형태의 전문적 그리고 사회적 접근과 교환할 추가 어휘 항목을 모으는 게 아니에요. 또한 동시에 그리고 다소 더 조용히 그리고 어떤 특정한 외부 발표 없이, 제 모국어가, 그 자체의 깊은 역사적 이유로, 한 번도 단일한 전용 단어를 주기로 정확히 결정하지 않았던 몇 가지 특정한 감정과 주의의 구성을 빌리고 있어요. 그 빌림은 어떤 실용적 의미에서도 엄격히 필요하지 않아요. 이 다른 단어들을 한 번도 마주치지 않고 제 첫 번째 언어의 경계 안에서 인생 전체를 계속 살 수 있어요. 하지만 일단 마주치고 나면, 그것들은 마음 뒤편에 가용하게 남는 경향이 있고, 그것들이 이전에 제 모국어 어휘에서 채우고 있던 부재가, 회고적으로, 쉽게 되돌릴 수 없는 방식으로 부드럽게 알아채게 돼요.",
+      "이게, 균형을 잡고 수년에 걸친 인내심 있는 어른의 성찰에서, 진짜로 공평하고 구조적으로 영합 게임이 아닌 교환이라고 생각해요. 어떤 번역의 필요도 전혀 없이 완전히 들을 수 있는 제 인생의 그 특정한 사람들을 위해, 제 모국어의 작은 단어를 계속 신중하게 그리고 다소 보호적으로 간직할 거예요. 들을 수 없는 친구들과 동료들에게는 길고, 신중한, 네 단어나 다섯 단어 영어 근사를 계속 제공할 거예요. 그들이 거의 이해할 때 인내심을 가지려고 하고, 그들이 완전히 이해한다고 너무 빨리 확신해 보일 때 조용히 회의적으로 남으려고 할 거예요. 그 확신은, 그런 경우에, 가까이서 검사해 보면 종종, 그들이 언어적 간격을 가로질러 실제로 받을 수 있었던 것의 진짜 묘사라기보다 청자의 합리적인 정중함의 인공물이에요.",
+      "그리고 어떤 특별한 긴급함의 감각이나 완성주의자 프로젝트 없이, 제 모국어가 가용한 모양을 가지고 있지 않은 다른 사람들의 모국어의 단어들을 수년에 걸쳐 계속 들을 거예요. 그런 단어들의 목록은, 많은 해와 많은 우정과 많은 약간 덜 번역된 대화에 걸친 인내심 있는 관찰에서, 제가 처음 그 현상을 알아챘을 때 예상한 것보다 상당히 더 길고, 천천히 그리고 어떤 명백한 끝 없이, 계속 자라요. 각 새 추가는 제 자신의 내적 생활의 느껴지는 해상도를 어떤 작은 양으로 수정해요. 추가 후, 이전에 정확히 그것들을 이름 짓지 못한 채 꽤 명확히 느꼈던 것들을 알아채요.",
+      "이 특정한 작은 매일의 관찰의 집합 안에 묻혀 있는, 명시적으로 표현할 가치가 있을 수도 없을 수도 있는 구조적 교훈이 있다고 믿게 됐어요. 자기 첫 번째 언어의 어휘는, 가까이서 검사해 보면, 인간이 되는 것의 느껴지는 영토의 완전한 지도가 아니에요. 그것은 오히려, 그 영토의 특정한 역사적으로 우연한 부분 지도예요, 한 특정한 문화에 의해 많은 세대에 걸쳐, 그 문화가 다양한 이유로 이름 짓기에 가치 있다고 발견한 기저 경험의 어떤 특징들에 기초해서 그려진. 다른 문화들은 같은 기저 영토의 다른 부분 지도를 그렸어요, 다른 특징들에 이름을 짓고 다른 특징들을 이름 짓지 않은 채로 남기면서. 영토 자체는 공유돼요. 지도들은 그렇지 않아요.",
+      "다른 언어와의 마주침은, 이 약간 높여진 각도에서 보면, 일차적으로 또 다른 문법 규칙의 집합과 또 다른 어휘 항목의 집합과의 마주침이 아니에요. 더 흥미롭게는, 공유된 기저 인간 영토의 또 다른 부분 지도와의 마주침이에요 — 자주, 자기 자신의 모국어 지도가 이름 짓지 않은 채 남긴 특징들에 특별한 주의로, 그리고 자기 자신의 모국어 지도가 중심으로 만든 특징들에 상대적인 무관심으로 그려진. 다른 언어를 배우는 것은, 부분적으로, 자기 자신의 언어가 자주 어떤 명시적 결정 없이 이름 없이 두기로 조용히 결정한, 공유된 영토의 그 특정한 특징들에 대한 접근을 획득하는 거예요.",
+      "함께, 이 천천하고 구조적으로 비대칭적인 교환에서 — 대부분 직접 서로 만나지 않을 사람들에 의해, 대부분 어떤 단일한 완전히 공유된 단어에 결코 정확히 도착하지 않는 대화에서 진행되는 — 우리 모두가 수십 년과 인생의 과정에 걸쳐 조금 조용히 더 부유해져요. 교환의 누군가 이기기 때문이 아니에요. 교환의 누군가 자기 자신의 모국어나 문화에 대한 중요한 무언가를 포기하도록 강요받았기 때문이 아니에요. 가까이서 검사해 보면, 교환의 누구도 이길 필요가 없고, 누구도 어떤 것도 포기할 필요가 없기 때문이에요; 거래는 대체가 아니라 거의 전적으로 천천한 추가로, 그것들 중 어느 하나가 다른 어느 것에 의해 자리에서 밀려나는 게 아니라 부분 지도의 점진적인 층층이 쌓임으로 진행돼요.",
+      "제 모국어에서 번역할 수 없었던 그 특정한 단어는 제 모국어 안에서 손상되지 않은 그리고 변경되지 않은 채 계속 살아요, 적절한 경험이 일어날 때마다 노력 없이 가용해요. 다양한 곳에서 온 친구들이 수년에 걸쳐 제게 소개한 포르투갈어, 독일어, 일본어, 한국어, 그리고 다른 단어들은 그것들의 각각의 언어 안에서 대부분 손상되지 않은 그리고 대체로 변경되지 않은 채 계속 살아요. 그것들 중 어느 것도 다른 어느 것에 의해 그것의 원래 위치에서 밀려나지 않았어요. 그것들 각각이 이제 또한 제 자신의 내적 어휘 어딘가에 작고, 약간 비공식적이고, 약간 영토 외적인 방을 차지해요, 적절한 경험이 제 자신의 삶에서 일어날 때마다 번역 없이 사용 가능하고, 그것들을 사용할 공식적 자격이 있는지의 질문에 영향받지 않은 채로, 그리고 제가 우연히 어느 이 언어들 중 하나에 태어났는지의 질문에 전적으로 무관심한 채로.",
+      "그게, 듣는 많은 해의 차분한 성찰에서, 번역하기를 거부하는 단어들에 대한 가장 조용히 중요한 것일지 몰라요. 그것들은, 결국, 다른 언어의 화자들을 서로로부터 나누지 않아요. 그것들은 — 천천히 그리고 어떤 특별한 팡파르 없이 — 우리 모두가 함께, 인간이 되는 것의 같은 연속적이고 결코 완전히 지도화 가능하지 않은 기저 경험의, 다른 방향으로의 부분 지도를 만들어 왔다는 것, 그리고 그 지도들이, 정중하게 그리고 인내심 있게 공유될 때, 누적된 이익으로 그리고 그것들 중 어느 것도 지워질 필요 없이 서로 함께 읽힐 수 있다는 것을 드러내요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "What 'structural lesson' does the writer find buried in untranslatable words?",
+        "questionKo": "글쓴이는 번역되지 않는 단어들에 묻혀 있는 어떤 '구조적 교훈'을 발견하나요?",
+        "options": [
+          "Languages are equal everywhere",
+          "The vocabulary of one's first language is not an exhaustive map of human experience but a historically contingent partial map; other cultures drew up other partial maps of the same territory",
+          "All words can translate",
+          "Only one language matters"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer reframe the encounter with another language at this 'elevated angle'?",
+        "questionKo": "글쓴이는 이 '높여진 각도'에서 다른 언어와의 마주침을 어떻게 다시 틀 잡나요?",
+        "options": [
+          "Only grammar and vocabulary",
+          "An encounter with another partial map of the shared underlying human territory — drawn with attention to features one's own native map left unnamed",
+          "A test of intelligence",
+          "Just a transaction"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's final reflection on what untranslatable words reveal?",
+        "questionKo": "글쓴이는 번역되지 않는 단어들이 무엇을 드러내는지에 대한 마지막 성찰은?",
+        "options": [
+          "They divide speakers permanently",
+          "They reveal that we have all been making partial maps of the same continuous human experience; the maps, when patiently shared, can be read alongside one another with cumulative benefit and no need to erase any",
+          "They prove some languages superior",
+          "They are useless"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

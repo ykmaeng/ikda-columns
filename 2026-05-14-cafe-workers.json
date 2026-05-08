@@ -1,0 +1,408 @@
+[
+  {
+    "id": "col-2026-05-14-cafe-workers-l1",
+    "title": "People at the Cafe",
+    "titleKo": "카페의 사람들",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "paragraphs": [
+      "Today I went to a small cafe. I went there to write.",
+      "The cafe was full. But it was very quiet.",
+      "Almost every person had a laptop. They were all working.",
+      "No one was talking. Some had headphones. Some did not. They all looked at their screens.",
+      "I sat down. I opened my laptop too. I joined the room.",
+      "I worked for two hours. I did not say one word.",
+      "Then I drank my coffee. I looked around the room.",
+      "All of these people, I thought, are at the same place. But they are alone.",
+      "I felt a little sad. But I also felt at home. I knew this room. I am one of these people.",
+      "Maybe a cafe today is a new kind of place. Not for talking. Just for being alone, with other people."
+    ],
+    "translation": [
+      "오늘 작은 카페에 갔어요. 글을 쓰러 갔어요.",
+      "카페는 사람으로 가득했어요. 그런데 아주 조용했어요.",
+      "거의 모든 사람이 노트북을 가지고 있었어요. 다들 일하고 있었어요.",
+      "아무도 말을 하지 않았어요. 어떤 사람은 헤드폰을 끼고 있었어요. 어떤 사람은 끼지 않았어요. 다들 화면을 보고 있었어요.",
+      "저도 앉았어요. 저도 노트북을 열었어요. 그 방에 들어갔어요.",
+      "두 시간 일했어요. 한마디도 안 했어요.",
+      "그러다 커피를 마셨어요. 방을 둘러봤어요.",
+      "이 사람들 모두, 저는 생각했어요, 같은 장소에 있어요. 그런데 혼자예요.",
+      "조금 슬펐어요. 그런데 집에 온 것 같기도 했어요. 이 방을 알아요. 저도 이 사람들 중 한 명이에요.",
+      "오늘날의 카페는 어쩌면 새로운 종류의 장소예요. 이야기하기 위한 곳이 아니에요. 그냥 다른 사람들과 함께, 혼자 있기 위한 곳이에요."
+    ],
+    "targetWords": ["l1-074", "l1-282", "l1-097", "l1-098", "l1-134"],
+    "quiz": [
+      {
+        "question": "What were the people in the cafe doing?",
+        "questionKo": "카페의 사람들은 무엇을 하고 있었나요?",
+        "options": [
+          "Talking with friends",
+          "Working on laptops, looking at their screens, almost no one talking",
+          "Eating",
+          "Sleeping"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say a cafe today is for?",
+        "questionKo": "글쓴이는 오늘날 카페가 무엇을 위한 곳이라고 말하나요?",
+        "options": [
+          "Loud conversations",
+          "Being alone, with other people — not for talking",
+          "Eating big meals",
+          "Sleeping"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-14-cafe-workers-l2",
+    "title": "Working Alone, Together",
+    "titleKo": "혼자, 함께 일하기",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "paragraphs": [
+      "I went to a small cafe today to do some work. The cafe was almost full when I arrived.",
+      "But it was strangely quiet. I stood at the door for a moment, surprised.",
+      "Almost every table had a person, and almost every person had a laptop. Some had headphones in. Some did not. All of them were looking at a screen.",
+      "I bought my coffee and sat by the window. I opened my own laptop. I became one of them.",
+      "For about two hours, I did not speak a single word. The barista said hi to me when I ordered. Beyond that, I made no sound.",
+      "When I looked up to drink some water, I noticed something. The room was full of people, but the room had no real conversation in it. Eight people. Eight quiet bubbles.",
+      "I am old enough to remember when cafes were loud. People sat across from each other. People laughed. People argued about politics. The walls were the background to a thousand voices.",
+      "Now the cafe is something else. Not bad, exactly. Not good, exactly. Just different.",
+      "It feels like a kind of office. An office for people who do not have an office. An office that is rented by the cup.",
+      "I think this is one of the most common new spaces of our time. Many cities, many languages, the same picture. Tokyo. Seoul. Lisbon. Mexico City. Strangers, alone, working at small round tables, near each other but not with each other.",
+      "I do not know what to feel about it. Sometimes I find it lonely. Sometimes I find it comforting. Sometimes I am just glad the wifi works.",
+      "Today, after two silent hours, I packed up. As I walked out, the door bell rang. I turned for one second and saw the seat I had left. Within a minute, another stranger sat down there with another laptop.",
+      "The seat did not stay empty for long. We are doing this together, even if we never say a word."
+    ],
+    "translation": [
+      "오늘 일을 좀 하러 작은 카페에 갔어요. 도착했을 때 카페는 거의 가득 차 있었어요.",
+      "그런데 이상하게 조용했어요. 잠시 문 앞에 서서 놀랐어요.",
+      "거의 모든 테이블에 사람이 있었고, 거의 모든 사람에게 노트북이 있었어요. 어떤 사람은 헤드폰을 꽂고 있었어요. 어떤 사람은 안 꽂고 있었어요. 다들 화면을 보고 있었어요.",
+      "커피를 사서 창가에 앉았어요. 제 노트북을 열었어요. 저도 그들 중 한 명이 됐어요.",
+      "약 두 시간 동안, 단 한마디도 하지 않았어요. 바리스타가 주문할 때 인사를 했어요. 그 외에는 어떤 소리도 내지 않았어요.",
+      "물을 마시려고 고개를 들었을 때, 무언가를 알아챘어요. 방은 사람들로 가득했는데, 방 안에 진짜 대화는 없었어요. 여덟 명. 여덟 개의 조용한 방울.",
+      "카페가 시끄럽던 시절을 기억할 만큼 나이가 들었어요. 사람들은 서로 마주 앉았어요. 사람들은 웃었어요. 사람들은 정치를 두고 논쟁했어요. 벽은 천 개의 목소리의 배경이었어요.",
+      "이제 카페는 다른 무엇이에요. 정확히 나쁘진 않아요. 정확히 좋지도 않아요. 그냥 달라요.",
+      "일종의 사무실 같아요. 사무실이 없는 사람들을 위한 사무실. 한 잔에 빌리는 사무실.",
+      "이게 우리 시대의 가장 흔한 새 공간 중 하나라고 생각해요. 많은 도시, 많은 언어, 같은 그림. 도쿄. 서울. 리스본. 멕시코시티. 작은 둥근 테이블에서 혼자, 가까이 있지만 함께가 아닌, 일하는 낯선 사람들.",
+      "어떻게 느껴야 할지 모르겠어요. 가끔은 외롭게 느껴져요. 가끔은 위안이 돼요. 가끔은 그냥 와이파이가 되는 게 다행이에요.",
+      "오늘, 두 시간의 침묵 후, 짐을 쌌어요. 나가는 길에 문 종이 울렸어요. 일 초 동안 돌아서서 제가 떠난 자리를 봤어요. 일 분 안에 또 다른 낯선 사람이 또 다른 노트북을 가지고 그 자리에 앉았어요.",
+      "자리는 오래 비어 있지 않았어요. 우리는 한마디도 안 해도 이걸 함께 하고 있어요."
+    ],
+    "targetWords": ["l1-074", "l1-282", "l1-098", "l2-079", "l3-060"],
+    "quiz": [
+      {
+        "question": "What does the writer compare the cafe to?",
+        "questionKo": "글쓴이는 카페를 무엇에 비유하나요?",
+        "options": [
+          "A library",
+          "An office for people who do not have an office — rented by the cup",
+          "A school",
+          "A restaurant"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer notice when he looked up?",
+        "questionKo": "글쓴이는 고개를 들었을 때 무엇을 알아챘나요?",
+        "options": [
+          "Loud music",
+          "Eight people, eight quiet bubbles — full room with no real conversation",
+          "Empty tables",
+          "Many children"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-14-cafe-workers-l3",
+    "title": "The Quiet Office of Strangers",
+    "titleKo": "낯선 사람들의 조용한 사무실",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "paragraphs": [
+      "I went to a small cafe today, mostly to do some writing. The cafe was almost full when I arrived. I stood at the door for a moment because of how quiet it was — not the kind of quiet I had expected from a busy room.",
+      "Almost every table held a person. Almost every person held a laptop. Some wore headphones. Some did not. All of them, in their slightly different postures, were looking at a screen.",
+      "I bought my coffee and sat by the window. I opened my own laptop. I joined the room without speaking.",
+      "For roughly two hours, I did not say a word. The barista exchanged five words with me when I ordered. Beyond that, I made no sound at all.",
+      "When I looked up to drink some water, I noticed the structure of the room more clearly. Eight tables. Eight people. Eight individual silences. The walls were not a backdrop to conversation. The walls were a backdrop to private concentration.",
+      "I am old enough to remember when cafes were noisy in a different way. People sat across from each other. People laughed loudly. People argued about politics, films, books, mutual friends. The room hummed with overlapping voices. The barista's job included listening to a thousand short stories per week.",
+      "The cafe today is something else. Not worse, exactly. Not better, exactly. Just structurally different.",
+      "It functions, in effect, as a small flexible office. An office for the growing population of people who do not have an office of their own. An office that is rented by the cup, on flexible hours, with no contract and no colleagues you have to be polite to.",
+      "I think this is now one of the most common new spaces of our time, and one of the easiest to overlook. It looks the same in a great number of cities. Tokyo. Seoul. Lisbon. Mexico City. Berlin. Strangers seated near each other at small round tables, working in parallel but not together, sharing wifi but not conversation.",
+      "I do not know exactly what to feel about it. On some days I find the silence lonely — a room full of people none of whom will speak to one another, none of whom will probably remember any of the others by tomorrow. On other days I find the same silence comforting — a way of being among people without the social cost of small talk, a kind of low-grade public belonging.",
+      "I think both feelings are accurate. Cafes like this provide something real: a workable surface, a low-grade hum of human presence, a small structure for an otherwise unstructured working day. They also withhold something real: the older social density that used to occupy similar rooms, in which strangers occasionally became acquaintances and acquaintances occasionally became friends.",
+      "After two silent hours, I packed up. As I walked out, the door bell rang behind me. I turned briefly and watched the seat I had just left. Within a minute, another stranger had sat down with another laptop, ordered the same general kind of coffee, and started working on something I will never know anything about.",
+      "The seat did not stay empty for long. We are doing this together, even if we never say a word to one another. That, I think, may be the actual nature of these rooms — a slow, quiet, unspoken collective ritual, conducted in parallel, hour by hour, in cafes whose true function neither the owners nor the customers entirely planned for."
+    ],
+    "translation": [
+      "오늘 작은 카페에 갔어요, 주로 글을 좀 쓰러요. 도착했을 때 카페는 거의 가득 차 있었어요. 잠시 문 앞에 서 있었어요, 그곳이 얼마나 조용한지 — 바쁜 방에서 예상한 종류의 조용함이 아니어서.",
+      "거의 모든 테이블이 사람을 품고 있었어요. 거의 모든 사람이 노트북을 품고 있었어요. 어떤 사람은 헤드폰을 끼고 있었어요. 어떤 사람은 안 끼고 있었어요. 다들, 약간씩 다른 자세로, 화면을 보고 있었어요.",
+      "커피를 사서 창가에 앉았어요. 제 노트북을 열었어요. 말없이 그 방에 들어갔어요.",
+      "약 두 시간 동안, 한마디도 하지 않았어요. 주문할 때 바리스타와 다섯 단어를 교환했어요. 그 외에는 어떤 소리도 전혀 내지 않았어요.",
+      "물을 마시려고 고개를 들었을 때, 방의 구조를 더 명확히 알아챘어요. 여덟 개의 테이블. 여덟 명의 사람. 여덟 개의 개별 침묵. 벽은 대화의 배경이 아니었어요. 벽은 사적 집중의 배경이었어요.",
+      "카페가 다른 방식으로 시끄럽던 시절을 기억할 만큼 나이가 들었어요. 사람들은 서로 마주 앉았어요. 사람들은 큰 소리로 웃었어요. 사람들은 정치, 영화, 책, 공동의 친구들에 대해 논쟁했어요. 방은 겹치는 목소리들로 웅성거렸어요. 바리스타의 일에는 일주일에 천 개의 짧은 이야기를 듣는 게 포함되어 있었어요.",
+      "오늘날의 카페는 다른 무엇이에요. 정확히 더 나쁘지 않아요. 정확히 더 좋지도 않아요. 그냥 구조적으로 달라요.",
+      "사실상 작은 유연한 사무실로 기능해요. 자기 사무실이 없는 점점 늘어나는 인구를 위한 사무실. 한 잔에, 유연한 시간에, 계약 없이, 정중해야 할 동료 없이 빌리는 사무실.",
+      "이게 이제 우리 시대의 가장 흔한 새 공간 중 하나이고, 가장 간과하기 쉬운 것 중 하나라고 생각해요. 많은 도시에서 같아 보여요. 도쿄. 서울. 리스본. 멕시코시티. 베를린. 작은 둥근 테이블에서 가까이 앉아, 평행하지만 함께가 아니게 일하고, 와이파이를 공유하지만 대화는 공유하지 않는 낯선 사람들.",
+      "정확히 어떻게 느껴야 할지 모르겠어요. 어떤 날에는 그 침묵이 외롭게 느껴져요 — 누구도 서로에게 말을 걸지 않을 것이고, 누구도 내일까지 다른 사람들 중 누구도 기억하지 못할 사람들로 가득한 방. 다른 날에는 같은 침묵이 위안이 돼요 — 잡담의 사회적 비용 없이 사람들 사이에 있는 방식, 일종의 낮은 등급의 공공 소속감.",
+      "두 감정 모두 정확하다고 생각해요. 이런 카페들은 진짜 무언가를 제공해요: 작업 가능한 표면, 인간 현존의 낮은 등급의 웅성거림, 다른 면에서 구조화되지 않은 작업일을 위한 작은 구조. 그것들은 또한 진짜 무언가를 보류해요: 비슷한 방들을 차지하곤 하던 더 오래된 사회적 밀도, 그 안에서 낯선 사람들이 가끔 지인이 되고 지인들이 가끔 친구가 되던.",
+      "두 시간의 침묵 후, 짐을 쌌어요. 나가는 길에, 뒤에서 문 종이 울렸어요. 잠시 돌아서 방금 떠난 자리를 봤어요. 일 분 안에, 또 다른 낯선 사람이 또 다른 노트북을 가지고 앉았고, 같은 일반적인 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 무언가에 대해 일하기 시작했어요.",
+      "자리는 오래 비어 있지 않았어요. 우리는 서로에게 한마디도 안 해도 이걸 함께 하고 있어요. 그게, 제 생각에는, 이런 방들의 실제 본성일지 몰라요 — 천천하고, 조용하고, 말로 표현되지 않은 집단적 의식, 평행하게, 시간 단위로, 그 진짜 기능을 주인도 손님도 완전히 계획하지 않은 카페에서 수행되는."
+    ],
+    "targetWords": ["l3-036", "l3-150", "l3-163", "l3-060", "l3-147"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the cafe's function in cities today?",
+        "questionKo": "글쓴이는 오늘날 도시에서 카페의 기능을 어떻게 묘사하나요?",
+        "options": [
+          "A loud social hub",
+          "A small flexible office rented by the cup — for the growing population without an office of their own",
+          "A library",
+          "A restaurant"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'real thing' does the writer say cafes today both provide and withhold?",
+        "questionKo": "글쓴이는 오늘날 카페가 제공하면서도 보류하는 어떤 '진짜 것'을 말하나요?",
+        "options": [
+          "Free wifi",
+          "Provide: workable surface, low hum of presence, structure for unstructured workdays. Withhold: the older social density where strangers became acquaintances and friends",
+          "Just coffee",
+          "Just music"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-14-cafe-workers-l4",
+    "title": "The Cafe as the New Office of the Unaffiliated",
+    "titleKo": "소속 없는 사람들의 새 사무실로서의 카페",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "paragraphs": [
+      "I went to a small cafe in my neighborhood this morning, mostly because I needed a change of room in which to do some writing. The cafe was nearly full when I arrived. I stood at the door for a moment, mildly surprised by how quiet the room was for the number of people in it.",
+      "Almost every table had a person at it. Almost every person had a laptop open in front of them. A few had headphones on. Most did not, but were nonetheless concentrating on a screen rather than on anyone else in the room. The collective effect was of a small library that happened to serve coffee, except that the library would, on inspection, have had a stricter rule against typing.",
+      "I bought my coffee and took a small table near the window. I opened my own laptop. I joined the room without exchanging a word with anyone, including the barista beyond the minimum required to order.",
+      "Over the next two hours I produced about a thousand words of draft and consumed two cups of coffee. I did not, in that interval, speak to another person. Nor did anyone else in the room, with the exception of one quiet professional phone call conducted, somewhat apologetically, in a corner.",
+      "When I eventually looked up from the screen to stretch and drink some water, I observed the structure of the room with more attention than I usually give it. There were nine tables in active use. There were nine people in front of nine laptops. There was no real conversation taking place between any of them. The walls were not, as they had been in older configurations of similar rooms, the backdrop for collective social life. They were the backdrop for nine simultaneous instances of solitary attention.",
+      "I am old enough to remember when cafes in similar neighborhoods were noisy in an entirely different register. People used to sit across small tables from each other. They would laugh, audibly and frequently. They would argue about politics, about films, about books, about mutual friends. The room would hum with overlapping voices. The barista's working day would, almost inevitably, include listening to and being addressed by some portion of those voices, often more than the barista had bargained for.",
+      "The cafe of the present cultural moment is something else. It is not, as a category, worse than the previous version. It is also not, in any straightforward sense, better. It is structurally different. The function of the room has, quietly and without any specific decision by anyone, been reorganized.",
+      "What it has been reorganized into, in effect, is a small, flexible, low-commitment office. A workspace for the growing population of people who do not have, and increasingly do not want, an office of their own. An office that is, in functional terms, rented by the cup rather than by the month, on flexible hours, with no contract, no colleagues to whom one is structurally obligated, and no requirement of small talk beyond the brief courtesies of the counter.",
+      "This room, I think, is now one of the most common newer public spaces of urban life, and one of the easiest to overlook precisely because it looks like an older familiar form. The visual signature is remarkably consistent across cities and continents. Tokyo. Seoul. Lisbon. Mexico City. Berlin. Strangers seated near each other at small round tables, working in observable parallel but not in any genuine collaboration, sharing the wifi network and the heating system but almost nothing else.",
+      "I am not, after a number of years of observing this, entirely sure how to feel about it. On some days I find the silence faintly lonely — a room full of people none of whom will speak to one another, none of whom will probably remember any of the others by the next morning. On other days I find the same silence quietly comforting — a way of being publicly among other adults without the social and cognitive cost of small talk, a kind of low-grade ambient belonging without any of the obligations of friendship.",
+      "I think, on careful reflection, that both reactions are accurate descriptions of part of what is going on. Cafes of this kind provide something real and useful: a stable working surface, a low-amplitude hum of human presence, a flexible external structure for an otherwise unstructured remote workday. They also withhold something real and arguably important: the older social density that similar rooms used to host, in which strangers occasionally became acquaintances, acquaintances occasionally became friends, and a great deal of urban social life developed in unscheduled increments that no contemporary calendar would currently accommodate.",
+      "After two quiet hours, I packed up my laptop and left. As I walked out, the door bell rang behind me. I turned briefly to look at the seat I had just vacated. Within a minute, another stranger I had never seen before had sat down at that table with another laptop, ordered approximately the same kind of coffee, and begun to work on a project I will never know anything about, in conditions almost identical to mine.",
+      "The seat had not stayed empty for any meaningful length of time. We were, in some quiet structural sense, doing all of this together, even though no one in the room would ever say a word to anyone else. That, I have come to believe, is something close to the actual nature of these rooms — a slow, quiet, almost entirely unspoken collective ritual, conducted in parallel, hour by hour, day by day, in cafes whose true present function neither the owners nor the customers ever consciously decided to create."
+    ],
+    "translation": [
+      "오늘 아침 동네 작은 카페에 갔어요, 주로 글을 좀 쓰기 위한 방의 변화가 필요해서요. 도착했을 때 카페는 거의 가득 차 있었어요. 잠시 문 앞에 서 있었어요, 안에 있는 사람 수에 비해 방이 얼마나 조용한지에 약간 놀라서.",
+      "거의 모든 테이블에 사람이 앉아 있었어요. 거의 모든 사람이 자기 앞에 노트북을 열어 두고 있었어요. 몇 명은 헤드폰을 끼고 있었어요. 대부분은 끼고 있지 않았지만, 그럼에도 방의 다른 어느 누구보다는 화면에 집중하고 있었어요. 집단적 효과는 커피를 내는 작은 도서관 — 검사해 보면 도서관이 타이핑에 대해 더 엄격한 규칙을 가지고 있었을 — 같았어요.",
+      "커피를 사서 창가의 작은 테이블을 잡았어요. 제 노트북을 열었어요. 주문에 필요한 최소를 넘어 바리스타를 포함한 누구와도 한마디 교환하지 않고 그 방에 들어갔어요.",
+      "그 다음 두 시간에 걸쳐 약 천 단어의 초안을 만들고 두 잔의 커피를 소비했어요. 그 간격에, 다른 사람과 말하지 않았어요. 방의 다른 누구도 — 한쪽 구석에서 다소 사과하듯 진행된 한 번의 조용한 전문적 전화 통화 외에는 — 말하지 않았어요.",
+      "결국 화면에서 고개를 들어 스트레칭을 하고 물을 마실 때, 평소보다 더 많은 주의로 방의 구조를 관찰했어요. 활발히 사용되는 아홉 개의 테이블이 있었어요. 아홉 개의 노트북 앞에 아홉 명이 있었어요. 그들 중 누구 사이에서도 진짜 대화는 일어나고 있지 않았어요. 벽은, 비슷한 방의 더 오래된 구성에서 그랬듯이, 집단적 사회 생활의 배경이 아니었어요. 그것들은 외로운 주의의 아홉 개 동시 사례의 배경이었어요.",
+      "비슷한 동네의 카페가 완전히 다른 음역에서 시끄럽던 시절을 기억할 만큼 나이가 들었어요. 사람들은 작은 테이블을 사이에 두고 서로 마주 앉곤 했어요. 그들은 가청적으로 그리고 자주 웃곤 했어요. 그들은 정치, 영화, 책, 공동의 친구들에 대해 논쟁하곤 했어요. 방은 겹치는 목소리들로 웅성거리곤 했어요. 바리스타의 작업일은, 거의 필연적으로, 그 목소리들의 일부를 듣고 그것들에 의해 말 걸리는 것을 포함하곤 했고, 종종 바리스타가 거래한 것보다 더 많이.",
+      "현재 문화적 순간의 카페는 다른 무엇이에요. 그것은, 범주로서, 이전 버전보다 더 나쁘지 않아요. 그것은 또한, 어떤 직접적인 의미에서도, 더 좋지 않아요. 구조적으로 달라요. 방의 기능이, 어느 누구의 어떤 특정한 결정 없이 조용히, 재조직됐어요.",
+      "그것이 사실상 재조직된 것은 작고, 유연하고, 낮은 책임의 사무실이에요. 자기 사무실을 가지고 있지 않고, 점점 더 원하지 않는, 점점 늘어나는 인구를 위한 작업 공간. 기능적 용어로, 한 달이 아니라 한 잔에, 유연한 시간에, 계약 없이, 구조적으로 의무지어진 동료 없이, 카운터의 짧은 예의를 넘는 잡담의 요구 없이 빌리는 사무실.",
+      "이 방은, 제 생각에는, 이제 도시 생활의 가장 흔한 새 공공 공간 중 하나이고, 정확히 더 오래되고 친숙한 형태처럼 보이기 때문에 가장 간과하기 쉬운 것 중 하나예요. 시각적 서명이 도시와 대륙에 걸쳐 놀랍도록 일관돼요. 도쿄. 서울. 리스본. 멕시코시티. 베를린. 작은 둥근 테이블에서 가까이 앉아, 관찰 가능하게 평행하게 일하지만 어떤 진정한 협업도 아닌, 와이파이 네트워크와 난방 시스템을 공유하지만 그 외에는 거의 아무것도 공유하지 않는 낯선 사람들.",
+      "이걸 관찰한 수년 후에도, 어떻게 느껴야 할지 완전히 확신하지 못해요. 어떤 날에는 그 침묵이 약간 외롭게 느껴져요 — 누구도 서로에게 말을 걸지 않을 것이고, 누구도 다음 날 아침까지 다른 사람들 중 누구도 기억하지 못할 사람들로 가득한 방. 다른 날에는 같은 침묵이 조용히 위안이 돼요 — 잡담의 사회적 그리고 인지적 비용 없이 다른 어른들 사이에 공공으로 있는 방식, 우정의 어떤 의무 없는 일종의 낮은 등급의 환경적 소속감.",
+      "신중한 성찰에서, 두 반응 모두 일어나고 있는 것의 일부에 대한 정확한 묘사라고 생각해요. 이런 종류의 카페는 진짜이고 유용한 무언가를 제공해요: 안정적인 작업 표면, 인간 현존의 낮은 진폭 웅성거림, 다른 면에서 구조화되지 않은 원격 작업일을 위한 유연한 외부 구조. 그것들은 또한 진짜이고 논쟁의 여지없이 중요한 무언가를 보류해요: 비슷한 방들이 호스트하곤 하던 더 오래된 사회적 밀도, 그 안에서 낯선 사람들이 가끔 지인이 됐고, 지인들이 가끔 친구가 됐고, 많은 도시 사회 생활이 어떤 현대 달력도 현재 수용하지 않을 일정에 없는 증분으로 발전했던.",
+      "두 시간의 조용함 후, 노트북을 챙겨 떠났어요. 나가는 길에, 뒤에서 문 종이 울렸어요. 잠시 돌아서 방금 비운 자리를 봤어요. 일 분 안에, 제가 한 번도 본 적 없는 또 다른 낯선 사람이 또 다른 노트북을 가지고 그 테이블에 앉았고, 거의 같은 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 프로젝트에 대해, 거의 제 것과 동일한 조건에서 일하기 시작했어요.",
+      "자리는 어떤 의미 있는 시간 동안도 비어 있지 않았어요. 우리는, 어떤 조용한 구조적 의미에서, 이 모든 것을 함께 하고 있었어요, 방의 어느 누구도 다른 어느 누구에게 한마디도 하지 않을 것이지만요. 그게, 제가 믿게 된 바로, 이 방들의 실제 본성에 가까운 무엇이에요 — 천천하고, 조용하고, 거의 완전히 말로 표현되지 않은 집단적 의식, 평행하게, 시간 단위로, 날 단위로, 그 진짜 현재 기능을 주인도 손님도 결코 의식적으로 만들기로 결정하지 않은 카페에서 수행되는."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the 'visual signature' of these cafes globally?",
+        "questionKo": "글쓴이는 이런 카페들의 글로벌 '시각적 서명'을 어떻게 묘사하나요?",
+        "options": [
+          "Different in every country",
+          "Remarkably consistent across cities — Tokyo, Seoul, Lisbon, Mexico City, Berlin: strangers near each other at small tables, working in parallel but not collaborating",
+          "Only seen in Asia",
+          "Always loud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'collective ritual' does the writer identify as the actual nature of these rooms?",
+        "questionKo": "글쓴이는 이런 방들의 실제 본성으로 어떤 '집단적 의식'을 지적하나요?",
+        "options": [
+          "Loud festivities",
+          "A slow, quiet, almost entirely unspoken collective ritual conducted in parallel hour by hour, in cafes whose true function neither owners nor customers consciously decided to create",
+          "Religious meeting",
+          "Trade fair"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-14-cafe-workers-l5",
+    "title": "On the Cafe That Became an Office Without Anyone Deciding",
+    "titleKo": "누구도 결정하지 않았는데 사무실이 된 카페에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "paragraphs": [
+      "I went to a small cafe in my neighborhood this morning, mostly because I needed a change of physical environment in which to do some writing that I had been putting off in my apartment. The cafe was nearly full when I arrived. I stood at the door for a moment, mildly and persistently surprised by how quiet the room was for the number of human beings present in it.",
+      "Almost every table had a person at it. Almost every person had a laptop open in front of them. A few wore headphones, sometimes large and visibly noise-cancelling. Most did not wear headphones at all, but were nonetheless concentrating on a screen rather than on any other person in the room. The collective effect was that of a small public library that happened, by historical accident, to also serve coffee — except that an actual library, on inspection, would have enforced a stricter rule against typing.",
+      "I bought my coffee and took a small table near the window. I opened my own laptop. I joined the room without exchanging a single word with anyone, including the barista beyond the brief courtesies required for the transaction.",
+      "Over the next two hours, I produced about a thousand words of draft and consumed two cups of coffee. In that interval, I did not speak to another person. Nor did anyone else in the room, with the exception of one quiet professional phone call conducted, somewhat apologetically, in a corner near the window.",
+      "When I eventually looked up from the screen to stretch and drink some water, I observed the structure of the room with more conscious attention than I usually give it in the middle of a working session. There were nine tables in active use at that moment. There were nine people seated in front of nine open laptops. There was no real conversation taking place between any of them. The walls of the cafe were not, as they would have been in earlier cultural configurations of similar rooms, the backdrop for collective social life. They were, instead, the backdrop for nine simultaneous and entirely solitary instances of private attention to a screen.",
+      "I am old enough to remember when cafes in similar urban neighborhoods were noisy in a fundamentally different register. People sat across small tables from each other and made eye contact when they spoke. They laughed audibly and frequently. They argued, sometimes loudly, about politics, about films, about books, about mutual friends and the romantic complications of mutual friends. The rooms hummed with overlapping voices. The barista's working day would, almost inevitably, include both listening to and being addressed by some portion of those voices, often considerably more than the barista had bargained for or been compensated for.",
+      "The cafe of the present cultural moment is something else. It is not, as a category, worse than the previous version. It is not, in any straightforward sense, better either. It is structurally different in a way that is rarely discussed and that is, on careful inspection, more historically novel than the surface continuity of the room would suggest. The function of the space has been quietly reorganized, without any specific decision by any specific person.",
+      "What it has been reorganized into, in functional terms, is a small, flexible, low-commitment office. A workspace for the growing global population of people who do not have, and increasingly do not particularly want, an office of their own. An office that is, in operational terms, rented by the cup rather than by the month, on flexible hours, with no formal contract, no colleagues to whom one is structurally obligated by employment, and no requirement of small talk beyond the brief courtesies of the counter.",
+      "This room is now, I have come to believe, one of the most common newer public spaces of contemporary urban life, and simultaneously one of the easiest to overlook precisely because it looks, at first glance, like an older familiar form whose meaning we already understand. The visual signature is remarkably consistent across cities and continents and language groups. Tokyo. Seoul. Lisbon. Mexico City. Berlin. Bangkok. Strangers seated near one another at small round tables, working in observable parallel but not in any meaningful collaboration, sharing the building's wifi and heating but almost nothing else of consequence.",
+      "I am not, after a number of years of observing and participating in this phenomenon, entirely sure how to feel about it. On some days I find the prevailing silence faintly lonely — a room full of people none of whom will speak to one another at any point during their stay, none of whom will probably remember any of the others by the following morning, all of whom are technically together but functionally apart. On other days, often the more tired ones, I find the same silence quietly comforting — a way of being publicly among other adults without the social and cognitive cost of small talk, a kind of low-grade ambient public belonging that requires none of the obligations of actual friendship.",
+      "I think, on careful and honest reflection, that both reactions are accurate descriptions of distinct components of what is actually happening in such rooms. Cafes of this contemporary configuration provide something real and genuinely useful for those who use them: a stable and predictable working surface, a low-amplitude hum of nearby human presence that seems to make solitary cognitive work easier for many people than working alone in an apartment, and a flexible external structure for an otherwise structurally unanchored remote workday. They simultaneously withhold something real and arguably important: the older social density that similar rooms used to host, in which strangers occasionally became acquaintances, acquaintances occasionally became friends, romantic partnerships sometimes formed, professional collaborations sometimes started, and a great deal of urban social and intellectual life developed in unscheduled increments that no contemporary calendar would currently accommodate or even register as plausible.",
+      "After two quiet hours I packed up my laptop and left. As I walked out, the door bell rang behind me. I turned briefly to look at the small table I had just vacated. Within roughly a minute, another stranger I had never seen before — different gender, different age, different general demographic profile — had sat down at that exact table with another laptop, ordered approximately the same kind of coffee from the same barista with approximately the same brief courtesies, and begun to work on a project I will never know anything about, under conditions structurally almost identical to mine.",
+      "The seat had not stayed empty for any meaningful length of time. The room had not, on the available evidence, registered any change at all. We were, in some quiet structural sense, doing all of this together, even though no one in the room would ever say a word to anyone else, and even though none of us would, in any serious sense, ever know any of the others. That, I have come to believe over time, is something close to the actual nature of these rooms — a slow, quiet, almost entirely unspoken collective ritual, conducted in parallel, hour by hour, day by day, year by year, in cafes whose true present function neither the owners nor the customers ever quite consciously decided to create together, but which all of us, with our small daily votes by laptop and coffee cup, have nonetheless quietly and persistently called into being."
+    ],
+    "translation": [
+      "오늘 아침 동네 작은 카페에 갔어요, 주로 아파트에서 미루어 온 글쓰기를 좀 하기 위한 물리적 환경의 변화가 필요해서요. 도착했을 때 카페는 거의 가득 차 있었어요. 잠시 문 앞에 서 있었어요, 그 안에 현존하는 인간의 수에 비해 방이 얼마나 조용한지에 약간 그리고 지속적으로 놀라서.",
+      "거의 모든 테이블에 사람이 앉아 있었어요. 거의 모든 사람이 자기 앞에 노트북을 열어 두고 있었어요. 몇 명은 헤드폰을, 가끔은 크고 눈에 띄게 소음 차단되는, 끼고 있었어요. 대부분은 헤드폰을 전혀 끼고 있지 않았지만, 그럼에도 방의 다른 어느 사람보다는 화면에 집중하고 있었어요. 집단적 효과는 역사적 우연으로 또한 커피를 내게 된 작은 공공 도서관 — 실제 도서관은, 검사해 보면, 타이핑에 대해 더 엄격한 규칙을 시행했을 — 의 효과였어요.",
+      "커피를 사서 창가의 작은 테이블을 잡았어요. 제 노트북을 열었어요. 거래에 필요한 짧은 예의를 넘어 바리스타를 포함한 누구와도 단 한마디 교환하지 않고 그 방에 들어갔어요.",
+      "그 다음 두 시간에 걸쳐 약 천 단어의 초안을 만들고 두 잔의 커피를 소비했어요. 그 간격에, 다른 사람과 말하지 않았어요. 방의 다른 누구도 — 창가 근처 한쪽 구석에서 다소 사과하듯 진행된 한 번의 조용한 전문적 전화 통화 외에는 — 말하지 않았어요.",
+      "결국 화면에서 고개를 들어 스트레칭을 하고 물을 마실 때, 작업 세션 중간에 평소 주는 것보다 더 의식적인 주의로 방의 구조를 관찰했어요. 그 순간 활발히 사용되는 아홉 개의 테이블이 있었어요. 아홉 개의 열린 노트북 앞에 아홉 명이 앉아 있었어요. 그들 중 누구 사이에서도 진짜 대화는 일어나고 있지 않았어요. 카페의 벽은, 비슷한 방의 더 이른 문화적 구성에서 그랬을 것처럼, 집단적 사회 생활의 배경이 아니었어요. 대신, 그것들은 화면에 대한 사적 주의의 아홉 개 동시이고 완전히 외로운 사례의 배경이었어요.",
+      "비슷한 도시 동네의 카페가 근본적으로 다른 음역에서 시끄럽던 시절을 기억할 만큼 나이가 들었어요. 사람들은 작은 테이블을 사이에 두고 서로 마주 앉았고 말할 때 눈을 마주쳤어요. 그들은 가청적으로 그리고 자주 웃었어요. 그들은, 가끔은 큰 소리로, 정치, 영화, 책, 공동의 친구들과 공동 친구들의 로맨틱한 복잡함에 대해 논쟁했어요. 방들은 겹치는 목소리들로 웅성거렸어요. 바리스타의 작업일은, 거의 필연적으로, 그 목소리들의 일부를 듣고 그것들에 의해 말 걸리는 것을 포함했고, 종종 바리스타가 거래했거나 보상받은 것보다 상당히 더 많이.",
+      "현재 문화적 순간의 카페는 다른 무엇이에요. 그것은, 범주로서, 이전 버전보다 더 나쁘지 않아요. 그것은 또한, 어떤 직접적인 의미에서도, 더 좋지 않아요. 거의 논의되지 않는 방식으로 구조적으로 다르고, 신중한 검사에서, 방의 표면적 연속성이 시사할 것보다 역사적으로 더 새로워요. 그 공간의 기능이, 어떤 특정 사람의 어떤 특정한 결정 없이, 조용히 재조직됐어요.",
+      "그것이 기능적 용어로 재조직된 것은 작고, 유연하고, 낮은 책임의 사무실이에요. 자기 사무실을 가지고 있지 않고, 점점 더 특별히 원하지 않는, 점점 늘어나는 글로벌 인구를 위한 작업 공간. 운영적 용어로, 한 달이 아니라 한 잔에, 유연한 시간에, 공식 계약 없이, 고용으로 구조적으로 의무지어진 동료 없이, 카운터의 짧은 예의를 넘는 잡담의 요구 없이 빌리는 사무실.",
+      "이 방은 이제, 제가 믿게 된 바로, 현대 도시 생활의 가장 흔한 새 공공 공간 중 하나이고, 동시에 가장 간과하기 쉬운 것 중 하나예요, 정확히 그것이 처음 보기에 우리가 이미 그 의미를 이해하는 더 오래된 친숙한 형태처럼 보이기 때문이에요. 시각적 서명이 도시와 대륙과 언어 그룹에 걸쳐 놀랍도록 일관돼요. 도쿄. 서울. 리스본. 멕시코시티. 베를린. 방콕. 작은 둥근 테이블에서 서로 가까이 앉아, 관찰 가능하게 평행하게 일하지만 어떤 의미 있는 협업도 아닌, 건물의 와이파이와 난방을 공유하지만 그 외에는 거의 의미 있는 어떤 것도 공유하지 않는 낯선 사람들.",
+      "이 현상을 관찰하고 참여한 수년 후에도, 어떻게 느껴야 할지 완전히 확신하지 못해요. 어떤 날에는 그 우세한 침묵이 약간 외롭게 느껴져요 — 머무는 동안 어느 시점에도 누구도 서로에게 말을 걸지 않을 것이고, 누구도 다음 날 아침까지 다른 사람들 중 누구도 기억하지 못할 것이고, 모두가 기술적으로 함께지만 기능적으로 떨어져 있는 사람들로 가득한 방. 다른 날, 종종 더 피곤한 날에는, 같은 침묵이 조용히 위안이 돼요 — 잡담의 사회적 그리고 인지적 비용 없이 다른 어른들 사이에 공공으로 있는 방식, 실제 우정의 어떤 의무도 요구하지 않는 일종의 낮은 등급의 환경적 공공 소속감.",
+      "신중하고 정직한 성찰에서, 두 반응 모두 그런 방들에서 실제로 일어나고 있는 것의 분리된 구성요소에 대한 정확한 묘사라고 생각해요. 이 현대적 구성의 카페들은 그것들을 사용하는 사람들에게 진짜이고 진심으로 유용한 무언가를 제공해요: 안정적이고 예측 가능한 작업 표면, 많은 사람들에게 아파트에서 혼자 일하는 것보다 외로운 인지 작업을 더 쉽게 만드는 것 같은 가까운 인간 현존의 낮은 진폭 웅성거림, 그리고 다른 면에서 구조적으로 닻이 없는 원격 작업일을 위한 유연한 외부 구조. 그것들은 동시에 진짜이고 논쟁의 여지없이 중요한 무언가를 보류해요: 비슷한 방들이 호스트하곤 하던 더 오래된 사회적 밀도, 그 안에서 낯선 사람들이 가끔 지인이 됐고, 지인들이 가끔 친구가 됐고, 로맨틱한 파트너십이 가끔 형성됐고, 전문적 협업이 가끔 시작됐고, 많은 도시 사회적 그리고 지적 생활이 어떤 현대 달력도 현재 수용하거나 가능하다고 등록조차 하지 않을 일정에 없는 증분으로 발전했던.",
+      "두 시간의 조용함 후 노트북을 챙겨 떠났어요. 나가는 길에, 뒤에서 문 종이 울렸어요. 잠시 돌아서 방금 비운 작은 테이블을 봤어요. 약 일 분 안에, 제가 한 번도 본 적 없는 또 다른 낯선 사람 — 다른 성별, 다른 나이, 다른 일반적 인구학적 프로필 — 이 그 정확한 테이블에 또 다른 노트북을 가지고 앉았고, 같은 바리스타에게 거의 같은 짧은 예의로 거의 같은 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 프로젝트에 대해, 제 것과 구조적으로 거의 동일한 조건에서 일하기 시작했어요.",
+      "자리는 어떤 의미 있는 시간 동안도 비어 있지 않았어요. 방은, 가용한 증거상, 어떤 변화도 등록하지 않았어요. 우리는, 어떤 조용한 구조적 의미에서, 이 모든 것을 함께 하고 있었어요, 방의 어느 누구도 다른 어느 누구에게 한마디도 하지 않을 것이고, 우리 중 누구도, 어떤 진지한 의미에서, 다른 누구도 결코 알지 못할 것이지만요. 그게, 시간이 흐르면서 제가 믿게 된 바로, 이 방들의 실제 본성에 가까운 무엇이에요 — 천천하고, 조용하고, 거의 완전히 말로 표현되지 않은 집단적 의식, 평행하게, 시간 단위로, 날 단위로, 해 단위로, 그 진짜 현재 기능을 주인도 손님도 결코 함께 의식적으로 만들기로 결정하지 않았지만 — 그럼에도 우리 모두가 노트북과 커피잔으로 작은 매일의 투표로 조용히 그리고 지속적으로 존재로 불러낸 — 카페에서 수행되는."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "What does the writer say cafes today provide and withhold?",
+        "questionKo": "글쓴이는 오늘날의 카페가 무엇을 제공하고 무엇을 보류한다고 말하나요?",
+        "options": [
+          "Provide nothing, withhold everything",
+          "Provide: stable surface, ambient human presence, flexible structure for remote work. Withhold: the older social density where strangers became acquaintances, partnerships and collaborations formed in unscheduled increments",
+          "Equal in both directions",
+          "Only money exchange"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer characterize the cafe transformation's origin?",
+        "questionKo": "글쓴이는 카페 변환의 기원을 어떻게 특징짓나요?",
+        "options": [
+          "Designed by city planners",
+          "Quietly reorganized without any specific decision by any specific person — called into being by the small daily votes of laptop-and-coffee customers",
+          "Mandated by law",
+          "Started by celebrities"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'unspoken collective ritual' does the writer identify?",
+        "questionKo": "글쓴이는 어떤 '말로 표현되지 않은 집단적 의식'을 지적하나요?",
+        "options": [
+          "Loud festivities",
+          "A slow, quiet, almost entirely unspoken parallel ritual conducted hour by hour and year by year by strangers who never speak to one another",
+          "Daily prayer",
+          "Annual festival"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-14-cafe-workers-l6",
+    "title": "On the Quiet Repurposing of the Public Cafe",
+    "titleKo": "공공 카페의 조용한 재용도화에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "paragraphs": [
+      "I went to a small cafe in my neighborhood this morning, mostly because I had been needing a change of physical environment in which to do some writing that I had been putting off, with diminishing plausibility, in my apartment for several days. The cafe was nearly full at the moment of my arrival. I stood at the door for a measurable interval, mildly and persistently surprised by how quiet the room was for the number of human beings physically present in it.",
+      "Almost every table had a person seated at it. Almost every person had a laptop open in front of them. Several wore headphones, sometimes large and visibly noise-cancelling, sometimes small and unobtrusive. Most did not wear headphones at all, but were nonetheless oriented in their seated posture toward a screen rather than toward any other human being in the room. The collective effect was that of a small public library that happened, by historical accident, to also serve coffee — except that an actual library, on careful inspection, would have enforced a stricter rule against typing, and would in most cases have produced less noise from the espresso machine.",
+      "I bought my coffee, and I took a small two-person table near the window. I opened my own laptop. I joined the room without exchanging a single word with any other person in it, including the barista, beyond the brief and ritualized courtesies that the transaction itself required.",
+      "Over the course of the next two hours, I produced approximately one thousand words of usable draft and consumed two cups of moderately overpriced coffee. In that interval, I did not speak to another person in any serious sense. Nor did anyone else in the room speak to anyone else, with the partial exception of one quiet professional phone call, conducted with somewhat conspicuous apologetic energy, in a far corner near the rear emergency exit.",
+      "When I eventually did look up from the screen — to stretch shoulders, drink some water, and orient briefly toward the rest of the world — I observed the structure of the room with substantially more conscious attention than I usually devote to such matters in the middle of a working session. There were nine tables in active use at that particular moment. There were nine people seated in front of nine open laptops. There was, observably, no real conversation taking place between any of them. The walls of the cafe were not, as they would have been in earlier cultural configurations of similar rooms, the backdrop for collective social life of any kind. They were, instead, the backdrop for nine simultaneous and almost entirely solitary instances of private attention to a screen, each instance neatly bordered from the others, each behaving as though the others were not, in any sense that mattered, present.",
+      "I am, by accident of birth date, old enough to remember when cafes in similar urban neighborhoods were noisy in a fundamentally different register. People used to sit across small tables from each other, and they used to make eye contact when they spoke. They laughed audibly and frequently, often at things that the room could not in any way reconstruct in retrospect. They argued, sometimes at noticeable volume, about politics, films, books, mutual friends, and the sometimes operatic romantic complications of mutual friends. The rooms hummed continuously with overlapping voices in a way that constituted the room's actual ambient texture. The barista's working day would, almost inevitably, include both listening to and being addressed by some non-trivial portion of those voices, often considerably more than the barista had bargained for in accepting the position or been compensated for in the hourly wage.",
+      "The cafe of the present cultural moment is, on close and honest examination, something else. It is not, taken as a whole and as a category, worse than the previous version, and a number of the new uses to which it has quietly been adapted are genuinely valuable to the people now using it that way. It is also not, in any straightforward sense, better. It is structurally different in a way that is, I think, rarely discussed in any serious detail and that is, on careful inspection, more historically novel than the surface continuity of the room and the menu would lead a casual observer to suspect. The function of the space has been quietly, gradually, and almost entirely without any specific articulated decision by any specific person, reorganized.",
+      "What it has, in functional terms, been reorganized into is a small, flexible, low-commitment, low-friction, low-obligation office. A workspace for the substantial and globally growing population of people who do not have, who increasingly do not particularly want, and who in many cases cannot economically justify, an office of their own. An office that is, in straightforward operational terms, rented by the cup rather than by the month, on entirely flexible hours, with no formal contract, no colleagues to whom one is structurally obligated through formal employment, no manager, no human resources department, and no requirement of small talk beyond the brief and almost entirely ritualized courtesies of the counter.",
+      "This room — present, by my observation, in remarkably similar form across a great number of cities and continents and language groups — is now, I have come over time to believe, one of the most common newer public spaces of contemporary urban life, and simultaneously one of the easiest to overlook in any serious cultural analysis precisely because it looks, at first and even at second glance, like a much older and more familiar form whose meaning we already think we understand from earlier decades. The visual signature is remarkably consistent across cities and across continents and across language groups. Tokyo. Seoul. Lisbon. Mexico City. Berlin. Bangkok. Buenos Aires. Strangers seated near one another at small round tables, working in observable parallel but not in any meaningful or sustained collaboration, sharing the building's wifi network and the building's heating or cooling system but, in nearly all cases, almost nothing else of consequence, including not exchanging names or any other identifying information.",
+      "I am not, even after a number of years of observing, participating in, and intermittently writing about this phenomenon, entirely sure how I should ideally feel about it. On certain days I find the prevailing silence of these rooms faintly lonely, in a way I would have to describe as structural rather than personal — a room full of people none of whom will speak to one another at any point during their stay, none of whom will probably remember any of the others by the following morning, all of whom are technically present together in the same physical space but functionally and socially very far apart. On other days, often the more tired or more socially depleted ones, I find the same prevailing silence quietly comforting in a way I am not entirely embarrassed to admit — a way of being publicly among other adults in a shared environment without the social and cognitive cost of small talk, a kind of low-grade ambient public belonging that requires effectively none of the obligations, and offers effectively none of the deeper benefits, of actual personal friendship.",
+      "I think, on careful and reasonably honest reflection, that both reactions are accurate descriptions of distinct components of what is actually happening in such rooms, and that neither reaction taken alone is the correct one. Cafes of this contemporary configuration provide something real and genuinely useful for those who choose to use them in this way: a stable and predictable working surface in a city where rentable surfaces of any kind are increasingly expensive, a low-amplitude continuous hum of nearby human presence that seems, on the available evidence, to make solitary cognitive work meaningfully easier for many people than the same work attempted alone in an apartment, and a flexible external scaffolding for an otherwise structurally unanchored remote workday. They simultaneously withhold something real and arguably important: the older social density that similar rooms used to host, in which strangers occasionally became acquaintances, acquaintances occasionally became friends, occasionally became romantic partners, occasionally became professional collaborators, and a great deal of urban social, intellectual, romantic, and artistic life developed in the kind of unscheduled small increments that no contemporary calendar would currently accommodate or even register as plausible.",
+      "After two quiet hours I packed up my laptop, paid my final small tab at the counter with the same brief courtesies that had opened the visit, and left. As I walked out, the door bell rang behind me, in a small and well-worn musical pattern. I turned briefly to look at the small two-person table I had just vacated. Within roughly a minute, another stranger I had never seen before — different gender, different approximate age, different general demographic signature — had sat down at that exact table with another laptop, had ordered approximately the same kind of coffee from the same barista with approximately the same brief and ritualized courtesies, and had begun to work on a project I will never know anything about, under conditions structurally almost identical to mine, in approximately the same posture, in front of approximately the same kind of glowing rectangular screen.",
+      "The seat had not stayed empty for any meaningful length of time. The room had not, on any available evidence, registered any change at all in its overall character or its observable acoustic signature. We were, in some quiet structural sense that I am still trying to characterize accurately, doing all of this together, even though no one in the room would ever say a word to anyone else, and even though none of us would, in any serious sense, ever come to know any of the others as people. That, I have come increasingly to believe over time, is something close to the actual nature of these rooms in our present cultural moment — a slow, quiet, almost entirely unspoken collective ritual, conducted in long parallel, hour by hour, day by day, week by week, year by year, in cafes whose true present function neither the original owners nor the original customers ever quite consciously decided to create together, but which all of us, with our small and almost entirely unconscious daily votes by laptop and coffee cup and sustained presence, have nonetheless quietly and persistently called into being, in the absence of any other clearly available room in the city large enough, cheap enough, warm enough, and quiet enough to do the work of sitting still in."
+    ],
+    "translation": [
+      "오늘 아침 동네 작은 카페에 갔어요, 주로 며칠 동안 점점 줄어드는 그럴듯함으로 아파트에서 미루어 온 글쓰기를 좀 하기 위한 물리적 환경의 변화가 필요했기 때문에요. 도착하는 순간 카페는 거의 가득 차 있었어요. 측정 가능한 시간 동안 문 앞에 서 있었어요, 그 안에 물리적으로 현존하는 인간의 수에 비해 방이 얼마나 조용한지에 약간 그리고 지속적으로 놀라서.",
+      "거의 모든 테이블에 사람이 앉아 있었어요. 거의 모든 사람이 자기 앞에 노트북을 열어 두고 있었어요. 몇 명은 헤드폰을 — 가끔은 크고 눈에 띄게 소음 차단되는, 가끔은 작고 두드러지지 않는 — 끼고 있었어요. 대부분은 헤드폰을 전혀 끼고 있지 않았지만, 그럼에도 앉은 자세에서 방의 다른 어느 인간보다는 화면을 향해 있었어요. 집단적 효과는 역사적 우연으로 또한 커피를 내게 된 작은 공공 도서관 — 실제 도서관은, 신중한 검사에서, 타이핑에 대해 더 엄격한 규칙을 시행했을 것이고, 대부분의 경우 에스프레소 머신으로부터 더 적은 소음을 만들어 냈을 — 의 효과였어요.",
+      "커피를 샀고, 창가의 작은 이인용 테이블을 잡았어요. 제 노트북을 열었어요. 거래 자체가 요구한 짧고 의식화된 예의를 넘어, 바리스타를 포함한 안의 다른 어느 사람과도 단 한마디 교환하지 않고 그 방에 들어갔어요.",
+      "그 다음 두 시간의 과정에 걸쳐, 약 천 단어의 사용 가능한 초안을 만들고 적당히 가격이 높은 커피 두 잔을 소비했어요. 그 간격에, 어떤 진지한 의미에서도 다른 사람과 말하지 않았어요. 방의 다른 누구도 다른 누구에게 — 후방 비상구 근처 먼 구석에서 다소 두드러진 사과적 에너지로 진행된 한 번의 조용한 전문적 전화 통화의 부분적 예외를 가지고 — 말하지 않았어요.",
+      "결국 화면에서 고개를 들었을 때 — 어깨를 펴고, 물을 좀 마시고, 잠시 세계의 나머지를 향해 방향을 잡으려고 — 작업 세션 중간에 그런 사안에 평소 바치는 것보다 상당히 더 의식적인 주의로 방의 구조를 관찰했어요. 그 특정 순간에 활발히 사용되는 아홉 개의 테이블이 있었어요. 아홉 개의 열린 노트북 앞에 아홉 명이 앉아 있었어요. 관찰 가능하게, 그들 중 누구 사이에서도 진짜 대화는 일어나고 있지 않았어요. 카페의 벽은, 비슷한 방의 더 이른 문화적 구성에서 그랬을 것처럼, 어떤 종류의 집단적 사회 생활의 배경이 아니었어요. 대신, 그것들은 화면에 대한 사적 주의의 아홉 개 동시이고 거의 완전히 외로운 사례의 배경이었어요, 각 사례가 다른 것들로부터 깔끔하게 경계 지어지고, 각각이 다른 것들이 어떤 의미 있는 의미에서도 현존하지 않은 것처럼 행동하면서.",
+      "출생일의 우연으로, 비슷한 도시 동네의 카페가 근본적으로 다른 음역에서 시끄럽던 시절을 기억할 만큼 나이가 들었어요. 사람들은 작은 테이블을 사이에 두고 서로 마주 앉곤 했고, 말할 때 눈을 마주치곤 했어요. 그들은 가청적으로 그리고 자주 웃었어요, 종종 방이 어떤 식으로도 회고적으로 재구성할 수 없는 것들에. 그들은, 가끔 눈에 띄는 음량으로, 정치, 영화, 책, 공동의 친구들, 그리고 공동 친구들의 가끔 오페라적인 로맨틱한 복잡함에 대해 논쟁했어요. 방들은 방의 실제 환경적 질감을 구성하는 방식으로 겹치는 목소리들로 끊임없이 웅성거렸어요. 바리스타의 작업일은, 거의 필연적으로, 그 목소리들의 사소하지 않은 부분을 듣고 그것들에 의해 말 걸리는 것을 포함했고, 종종 바리스타가 그 직위를 받아들일 때 거래했거나 시급에서 보상받은 것보다 상당히 더 많이.",
+      "현재 문화적 순간의 카페는, 가까이서 그리고 정직하게 검사해 보면, 다른 무엇이에요. 전체로 그리고 범주로 보면, 이전 버전보다 더 나쁘지 않고, 그것이 조용히 적응된 새 사용 중 많은 것은 이제 그것을 그렇게 사용하는 사람들에게 진짜로 가치 있어요. 그것은 또한, 어떤 직접적인 의미에서도, 더 좋지 않아요. 어떤 진지한 디테일로도 거의 논의되지 않는 방식으로 구조적으로 다르고, 신중한 검사에서, 방과 메뉴의 표면적 연속성이 우연한 관찰자가 의심하도록 이끌 것보다 역사적으로 더 새로워요. 그 공간의 기능이, 어떤 특정 사람의 어떤 특정한 명료화된 결정 없이, 조용히, 점진적으로, 그리고 거의 완전히, 재조직됐어요.",
+      "그것이 기능적 용어로 재조직된 것은 작고, 유연하고, 낮은 책임의, 낮은 마찰의, 낮은 의무의 사무실이에요. 자기 사무실을 가지고 있지 않고, 점점 더 특별히 원하지 않고, 많은 경우 경제적으로 정당화할 수 없는, 상당하고 글로벌하게 늘어나는 인구를 위한 작업 공간. 직접적인 운영적 용어로, 한 달이 아니라 한 잔에, 완전히 유연한 시간에, 공식 계약 없이, 공식 고용을 통해 구조적으로 의무지어진 동료 없이, 매니저 없이, 인사부 없이, 카운터의 짧고 거의 완전히 의식화된 예의를 넘는 잡담의 요구 없이 빌리는 사무실.",
+      "이 방은 — 제 관찰로, 많은 도시와 대륙과 언어 그룹에 걸쳐 놀랍도록 비슷한 형태로 현존하는 — 이제, 시간이 흐르면서 제가 믿게 된 바로, 현대 도시 생활의 가장 흔한 새 공공 공간 중 하나이고, 동시에 어떤 진지한 문화 분석에서 가장 간과하기 쉬운 것 중 하나예요, 정확히 그것이 처음 보기에 그리고 두 번째 보기에도, 우리가 이미 더 이른 수십 년으로부터 그 의미를 이해한다고 생각하는 훨씬 더 오래되고 더 친숙한 형태처럼 보이기 때문이에요. 시각적 서명이 도시와 대륙과 언어 그룹에 걸쳐 놀랍도록 일관돼요. 도쿄. 서울. 리스본. 멕시코시티. 베를린. 방콕. 부에노스아이레스. 작은 둥근 테이블에서 서로 가까이 앉아, 관찰 가능하게 평행하게 일하지만 어떤 의미 있거나 지속된 협업도 아닌, 건물의 와이파이 네트워크와 건물의 난방이나 냉방 시스템을 공유하지만, 거의 모든 경우, 이름이나 다른 어떤 식별 정보도 교환하지 않는 것을 포함해 의미 있는 어떤 것도 거의 공유하지 않는 낯선 사람들.",
+      "이 현상을 관찰하고, 참여하고, 간헐적으로 글을 쓴 수년 후에도, 이상적으로 어떻게 느껴야 할지 완전히 확신하지 못해요. 어떤 날에는 이 방들의 우세한 침묵이 약간 외롭게 느껴져요, 개인적이라기보다 구조적이라고 묘사해야 할 방식으로 — 머무는 동안 어느 시점에도 누구도 서로에게 말을 걸지 않을 것이고, 누구도 다음 날 아침까지 다른 사람들 중 누구도 기억하지 못할 것이고, 모두가 같은 물리적 공간에 기술적으로 함께 현존하지만 기능적으로 그리고 사회적으로 매우 떨어져 있는 사람들로 가득한 방. 다른 날, 종종 더 피곤하거나 더 사회적으로 고갈된 날에는, 같은 우세한 침묵이 인정하기에 완전히 부끄럽지 않은 방식으로 조용히 위안이 돼요 — 잡담의 사회적 그리고 인지적 비용 없이 공유된 환경에서 다른 어른들 사이에 공공으로 있는 방식, 실제 개인적 우정의 어떤 의무도 사실상 요구하지 않고, 그것의 어떤 더 깊은 이익도 사실상 제공하지 않는 일종의 낮은 등급의 환경적 공공 소속감.",
+      "신중하고 합리적으로 정직한 성찰에서, 두 반응 모두 그런 방들에서 실제로 일어나고 있는 것의 분리된 구성요소에 대한 정확한 묘사이고, 어느 한쪽 반응만 단독으로 취했을 때 옳은 반응은 아니라고 생각해요. 이 현대적 구성의 카페들은 그것들을 이런 방식으로 사용하기로 선택하는 사람들에게 진짜이고 진심으로 유용한 무언가를 제공해요: 어떤 종류의 임대 가능한 표면도 점점 비싸지는 도시에서 안정적이고 예측 가능한 작업 표면, 가용한 증거상 많은 사람들에게 아파트에서 혼자 시도하는 같은 작업보다 외로운 인지 작업을 의미 있게 더 쉽게 만드는 것 같은 가까운 인간 현존의 낮은 진폭 연속적인 웅성거림, 그리고 다른 면에서 구조적으로 닻이 없는 원격 작업일을 위한 유연한 외부 골격. 그것들은 동시에 진짜이고 논쟁의 여지없이 중요한 무언가를 보류해요: 비슷한 방들이 호스트하곤 하던 더 오래된 사회적 밀도, 그 안에서 낯선 사람들이 가끔 지인이 됐고, 지인들이 가끔 친구가 됐고, 가끔 로맨틱한 파트너가 됐고, 가끔 전문적 협력자가 됐고, 많은 도시 사회적, 지적, 로맨틱, 그리고 예술적 생활이 어떤 현대 달력도 현재 수용하거나 가능하다고 등록조차 하지 않을 종류의 일정에 없는 작은 증분으로 발전했던.",
+      "두 시간의 조용함 후 노트북을 챙기고, 방문을 연 같은 짧은 예의로 카운터에서 마지막 작은 계산을 지불하고, 떠났어요. 나가는 길에, 뒤에서, 작고 잘 닳은 음악적 패턴으로 문 종이 울렸어요. 잠시 돌아서 방금 비운 작은 이인용 테이블을 봤어요. 약 일 분 안에, 제가 한 번도 본 적 없는 또 다른 낯선 사람 — 다른 성별, 다른 대략적 나이, 다른 일반적 인구학적 서명 — 이 그 정확한 테이블에 또 다른 노트북을 가지고 앉았고, 같은 바리스타에게 거의 같은 짧고 의식화된 예의로 거의 같은 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 프로젝트에 대해, 제 것과 구조적으로 거의 동일한 조건에서, 거의 같은 자세로, 거의 같은 종류의 빛나는 직사각형 화면 앞에서 일하기 시작했어요.",
+      "자리는 어떤 의미 있는 시간 동안도 비어 있지 않았어요. 방은, 어떤 가용한 증거상, 그것의 전체적 성격이나 관찰 가능한 음향 서명에서 어떤 변화도 등록하지 않았어요. 우리는, 제가 여전히 정확히 특징짓기를 시도하고 있는 어떤 조용한 구조적 의미에서, 이 모든 것을 함께 하고 있었어요, 방의 어느 누구도 다른 어느 누구에게 한마디도 하지 않을 것이고, 우리 중 누구도, 어떤 진지한 의미에서, 다른 누구도 사람으로서 결코 알게 되지 않을 것이지만요. 그게, 시간이 흐르면서 제가 점점 더 믿게 된 바로, 우리 현재 문화적 순간에 이 방들의 실제 본성에 가까운 무엇이에요 — 천천하고, 조용하고, 거의 완전히 말로 표현되지 않은 집단적 의식, 긴 평행으로, 시간 단위로, 날 단위로, 주 단위로, 해 단위로, 그 진짜 현재 기능을 원래 주인도 원래 손님도 결코 함께 의식적으로 만들기로 결정하지 않았지만 — 그럼에도 우리 모두가 노트북과 커피잔과 지속된 현존으로 작고 거의 완전히 무의식적인 매일의 투표로 조용히 그리고 지속적으로, 가만히 앉아 있는 작업을 하기에 충분히 크고, 충분히 싸고, 충분히 따뜻하고, 충분히 조용한 도시의 다른 어떤 명확히 가용한 방의 부재 속에서, 존재로 불러낸 — 카페에서 수행되는."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize the historical novelty of contemporary cafes?",
+        "questionKo": "글쓴이는 현대 카페의 역사적 새로움을 어떻게 특징짓나요?",
+        "options": [
+          "Identical to past cafes",
+          "More historically novel than the surface continuity of room and menu would lead a casual observer to suspect — function quietly reorganized without specific decision",
+          "Designed by architects",
+          "Identical to libraries"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer say cafes were 'called into being' as offices?",
+        "questionKo": "글쓴이는 왜 카페가 사무실로 '존재로 불러내졌다'고 말하나요?",
+        "options": [
+          "Government program",
+          "By small almost-entirely-unconscious daily votes of laptop-and-coffee customers, in absence of any other clearly available room in the city cheap, warm, and quiet enough",
+          "Marketing campaign",
+          "Religious tradition"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's view about whether either reaction (lonely vs comforting) is the correct one?",
+        "questionKo": "글쓴이는 두 반응(외로움 vs 위안) 중 어느 것이 옳은 반응인지에 대해 어떻게 보나요?",
+        "options": [
+          "Only loneliness is correct",
+          "Both are accurate descriptions of distinct components; neither alone is correct — cafes simultaneously provide real utility and withhold real older social density",
+          "Only comfort is correct",
+          "Neither is accurate"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "id": "col-2026-05-13-short-form-brain-l1",
+    "title": "I Watched Too Many Short Videos",
+    "titleKo": "짧은 영상을 너무 많이 봤어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "paragraphs": [
+      "Last night I watched short videos. I watched many of them. I started at ten. I stopped at one in the morning.",
+      "I do not know what I watched. I cannot remember.",
+      "I just kept moving my finger up. New video. Up. New video. Up. Up.",
+      "When I stopped, I felt strange. My eyes were tired. My mind was tired. But I was not happy.",
+      "Today I tried to read a book. I could read for ten minutes. Then my mind wanted a new video.",
+      "It wanted something new. Now. Fast.",
+      "I think my brain has changed. I am not sure. Maybe I am wrong.",
+      "But I think I should watch fewer short videos. Or maybe none for one week.",
+      "Reading a book is slow. It does not move. But it gives more.",
+      "I am tired of fast things. I want slow things again."
+    ],
+    "translation": [
+      "어젯밤에 짧은 영상들을 봤어요. 많이 봤어요. 열 시에 시작했어요. 새벽 한 시에 멈췄어요.",
+      "뭘 봤는지 모르겠어요. 기억이 안 나요.",
+      "그냥 손가락을 위로 계속 올렸어요. 새 영상. 위. 새 영상. 위. 위.",
+      "멈췄을 때, 이상했어요. 눈이 피곤했어요. 머리도 피곤했어요. 그런데 행복하지 않았어요.",
+      "오늘 책을 읽으려고 했어요. 십 분 동안은 읽을 수 있었어요. 그다음에 머리가 새 영상을 원했어요.",
+      "새로운 무언가를 원했어요. 지금. 빠르게.",
+      "제 뇌가 변했다고 생각해요. 확실하지는 않아요. 아닐지도 몰라요.",
+      "그래도 짧은 영상을 더 적게 봐야 할 것 같아요. 아니면 한 주 동안 아예 안 보거나.",
+      "책을 읽는 건 느려요. 움직이지 않아요. 그런데 더 많이 줘요.",
+      "빠른 것들이 지쳤어요. 다시 느린 것들을 원해요."
+    ],
+    "targetWords": ["l1-094", "l1-093", "l1-098", "l1-282", "l1-097"],
+    "quiz": [
+      {
+        "question": "What did the writer notice when trying to read a book today?",
+        "questionKo": "글쓴이는 오늘 책을 읽으려고 할 때 무엇을 알아챘나요?",
+        "options": [
+          "The book was boring",
+          "After ten minutes, the mind wanted a new video — something new, now, fast",
+          "The book was too long",
+          "The book was perfect"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer want to do?",
+        "questionKo": "글쓴이는 무엇을 하고 싶어 하나요?",
+        "options": [
+          "Watch more videos",
+          "Watch fewer short videos, or none for one week — and return to slow things like books",
+          "Buy a new phone",
+          "Quit reading"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-13-short-form-brain-l2",
+    "title": "The Night I Could Not Stop Scrolling",
+    "titleKo": "스크롤을 멈출 수 없던 밤",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "paragraphs": [
+      "Last night, I started watching short videos at ten. I planned to watch for fifteen minutes before sleep. I stopped at one in the morning.",
+      "When I finally put the phone down, I tried to remember what I had watched. I could not. Three hours of video, and I could not name a single one.",
+      "It was a small kind of horror. Not a big one. I did not feel sick. I felt empty.",
+      "Today I tried to read a book. I love this book. I had been waiting to read it. After ten minutes, my hand reached for my phone without me deciding. It just moved.",
+      "I put the phone in another room. I came back to the book. I read for another ten minutes. Then my hand wanted to scroll something. Anything. The cover of the book. The wall.",
+      "I am thirty-two years old. I read full books in college. I sat through three-hour movies and did not look at my watch. I am not someone who has always been like this.",
+      "I do not know if my brain has really changed. I cannot see inside it. But the way I want things has changed. I want them shorter. I want them faster. I want them new.",
+      "And after the new thing comes, I want another new thing. Right away. Without a pause.",
+      "I do not think one app is the problem. I do not think the people who make these videos are evil. They are just doing what their job asks them to do.",
+      "But the result, in me, is something I do not like. I sit down to read and feel like I am pulling against a wind.",
+      "So this week I am trying something simple. I put the short-video apps in a folder. I moved the folder to the second screen. I deleted one of them.",
+      "It is not a strong action. It is a small one. But I want to see if a slower brain is still in there, somewhere, waiting to be used."
+    ],
+    "translation": [
+      "어젯밤 열 시에 짧은 영상을 보기 시작했어요. 자기 전에 십오 분만 보려고 했어요. 새벽 한 시에 멈췄어요.",
+      "마침내 휴대폰을 내려놓았을 때, 뭘 봤는지 떠올리려고 했어요. 못 했어요. 영상 세 시간을 봤는데, 단 하나도 이름 댈 수가 없었어요.",
+      "작은 종류의 공포였어요. 큰 게 아니에요. 아프지 않았어요. 비어 있었어요.",
+      "오늘 책을 읽으려고 했어요. 그 책을 좋아해요. 읽으려고 기다리고 있었어요. 십 분 후, 제가 결정하지 않은 채로 손이 휴대폰으로 갔어요. 그냥 움직였어요.",
+      "휴대폰을 다른 방에 뒀어요. 책으로 돌아왔어요. 십 분 더 읽었어요. 그다음에 손이 무언가를 스크롤하고 싶어 했어요. 아무거나. 책의 표지. 벽.",
+      "저는 서른두 살이에요. 대학에서는 책을 다 읽었어요. 세 시간 영화도 시계 안 보고 끝까지 봤어요. 항상 이랬던 사람이 아니에요.",
+      "제 뇌가 진짜로 변했는지 모르겠어요. 안을 들여다볼 수가 없어요. 하지만 제가 원하는 방식은 변했어요. 더 짧은 걸 원해요. 더 빠른 걸 원해요. 더 새로운 걸 원해요.",
+      "그리고 새로운 게 오고 나면, 또 다른 새로운 걸 원해요. 바로. 멈춤 없이.",
+      "한 앱이 문제라고 생각하지 않아요. 이 영상들을 만드는 사람들이 악하다고 생각하지 않아요. 그들은 자기 일이 시키는 걸 하고 있을 뿐이에요.",
+      "그런데 그 결과가, 제 안에서, 좋아하지 않는 무엇이에요. 책을 읽으려고 앉으면 바람을 거슬러 당기는 느낌이에요.",
+      "그래서 이번 주에 간단한 무언가를 시도해 보려고 해요. 짧은 영상 앱들을 폴더에 넣었어요. 그 폴더를 두 번째 화면으로 옮겼어요. 그중 하나는 지웠어요.",
+      "강한 행동이 아니에요. 작은 행동이에요. 그래도 더 느린 뇌가 아직 안 어딘가에서, 쓰여지길 기다리며 있는지 보고 싶어요."
+    ],
+    "targetWords": ["l1-094", "l2-117", "l1-098", "l3-060", "l3-147"],
+    "quiz": [
+      {
+        "question": "What did the writer feel after three hours of short videos?",
+        "questionKo": "글쓴이는 짧은 영상을 세 시간 본 후 어떻게 느꼈나요?",
+        "options": [
+          "Refreshed",
+          "Empty — could not name a single video",
+          "Tired but happy",
+          "Energized"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What small action did the writer take?",
+        "questionKo": "글쓴이는 어떤 작은 행동을 했나요?",
+        "options": [
+          "Bought a new book",
+          "Put short-video apps in a folder, moved the folder to the second screen, deleted one app",
+          "Threw away the phone",
+          "Stopped reading"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-13-short-form-brain-l3",
+    "title": "The Night I Suspected My Own Brain",
+    "titleKo": "내 뇌를 의심한 밤",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "paragraphs": [
+      "I started watching short videos last night at ten. I had told myself fifteen minutes — a small wind-down before sleep. I put the phone down at one in the morning.",
+      "When I finally stopped, I tried to remember what I had watched in those three hours. I could not. I could recall a vague sense of laughter, a few flashes of color, the rhythm of someone speaking quickly. I could not name a single video. I could not even tell you what topic I had been on.",
+      "It was a small kind of horror. Not a dramatic one. I did not feel ill. I felt empty in a way I did not have a clean word for, the way an exhausted person feels after standing in a busy place for too long without doing anything in particular.",
+      "Today I sat down to read a book I had been looking forward to for weeks. After roughly ten minutes, my hand reached for my phone, without my having decided to reach for it. The hand simply moved. I put the phone in another room. I came back to the book. After another ten minutes, the urge returned. The hand wanted to scroll something — anything. The book cover. The wall, if it would scroll.",
+      "I am in my thirties. I read entire books in college. I sat through three-hour films without consulting my watch. I have spent whole afternoons writing in cafes without checking a phone. I am not, in any deep biographical sense, a person who has always been incapable of sustained attention.",
+      "But somewhere over the last several years — quietly, without a specific memorable event — my attentional behavior has changed. The change does not announce itself in any single moment. It announces itself in moments like last night, where the difference between what I planned to do and what I actually did is hours wide.",
+      "I do not know with certainty whether my brain has changed. I cannot directly observe it. The neuroscience is contested and not yet settled. But the way I want things has measurably changed. I want them shorter. I want them faster. I want the next thing within a second of finishing the last one. I do not want to wait. I do not want to sit with a single thought for very long.",
+      "I do not blame any single application. I do not believe the people who design them are evil. The applications are doing what their incentive structures ask them to do. The incentive structures, in turn, are doing what attention markets ask them to do. Everyone is, in some local sense, behaving rationally.",
+      "But the cumulative result, when I observe it in myself, is something I do not like. I sit down to read and feel as if I am leaning into a constant headwind. The wind is not coming from outside the room. The wind is coming from inside me — from a recently trained preference for the next thing over the present one.",
+      "There is, I think, a temptation in writing about this kind of subject to slip into either panic or moral lecture. I want to avoid both. The phenomenon is not catastrophic. It is also not nothing. It is a quiet reshaping of preference, accumulating in millions of small unobserved choices.",
+      "What I am trying this week is not dramatic. I have moved the short-video applications into a folder on a secondary screen. I have deleted one. I have set a small daily reading target — twenty pages, slow ones. I have told one friend, so that I will feel a mild social cost in giving up.",
+      "These are not strong measures. They will not save anyone. They are small experiments with my own attentional environment, conducted because I have started, on some nights, to suspect my own brain.",
+      "If the experiment fails, I will know more about myself than I did. If it succeeds, I will read more pages, and more slowly, and remember more of them. Either outcome is more interesting than another three-hour scrolling session whose contents I cannot, the next morning, recall."
+    ],
+    "translation": [
+      "어젯밤 열 시에 짧은 영상을 보기 시작했어요. 자기 전에 십오 분 — 작은 마무리 — 라고 자신에게 말했었어요. 새벽 한 시에 휴대폰을 내려놓았어요.",
+      "마침내 멈췄을 때, 그 세 시간 동안 뭘 봤는지 떠올리려고 했어요. 못 했어요. 웃음의 모호한 감각, 몇 번의 색깔의 번쩍임, 누군가 빠르게 말하는 리듬을 떠올릴 수 있었어요. 단 하나의 영상도 이름 댈 수가 없었어요. 어떤 주제에 있었는지도 말할 수가 없었어요.",
+      "작은 종류의 공포였어요. 극적인 게 아니에요. 아프지 않았어요. 깨끗한 단어가 없는 방식으로 비어 있는 — 특별히 아무것도 하지 않은 채 너무 오래 바쁜 곳에 서 있던 지친 사람이 느끼는 방식으로 — 비어 있었어요.",
+      "오늘 몇 주 동안 기대해 온 책을 읽으려고 앉았어요. 약 십 분 후, 손을 뻗기로 결정하지 않은 채 손이 휴대폰으로 향했어요. 손이 그냥 움직였어요. 휴대폰을 다른 방에 뒀어요. 책으로 돌아왔어요. 십 분 더 후, 그 충동이 돌아왔어요. 손이 무언가를 — 아무거나 — 스크롤하고 싶어 했어요. 책 표지. 벽도, 스크롤된다면.",
+      "저는 삼십 대예요. 대학에서는 책을 다 읽었어요. 세 시간 영화도 시계 안 보고 끝까지 봤어요. 휴대폰을 확인하지 않고 카페에서 글 쓰며 오후 전체를 보낸 적도 있어요. 어떤 깊은 전기적 의미에서도, 항상 지속된 주의가 불가능했던 사람이 아니에요.",
+      "그런데 지난 몇 년 어느 곳에서 — 조용히, 특정한 기억할 만한 사건 없이 — 제 주의 행동이 변했어요. 그 변화는 어느 한 순간에 자기를 알리지 않아요. 어젯밤 같은 순간에 자기를 알려요, 제가 계획한 것과 실제로 한 것 사이의 차이가 몇 시간 넓은 순간에.",
+      "제 뇌가 변했는지 확실히는 몰라요. 직접 관찰할 수 없어요. 신경과학은 논쟁 중이고 아직 정해지지 않았어요. 하지만 제가 원하는 방식은 측정 가능하게 변했어요. 더 짧은 걸 원해요. 더 빠른 걸 원해요. 마지막 것이 끝난 지 일 초 안에 다음 것을 원해요. 기다리고 싶지 않아요. 한 가지 생각과 아주 오래 앉아 있고 싶지 않아요.",
+      "어떤 단일 애플리케이션도 탓하지 않아요. 그것들을 설계하는 사람들이 악하다고 생각하지 않아요. 애플리케이션들은 자기 인센티브 구조가 요구하는 것을 하고 있어요. 인센티브 구조들은, 그 차례로, 주의 시장이 요구하는 것을 하고 있어요. 모두가, 어떤 지역적 의미에서, 합리적으로 행동하고 있어요.",
+      "그러나 누적된 결과는, 제 안에서 관찰할 때, 좋아하지 않는 무엇이에요. 책을 읽으려고 앉으면 끊임없는 역풍에 기대고 있는 것 같아요. 그 바람은 방 바깥에서 오지 않아요. 그 바람은 제 안에서 오고 있어요 — 현재 것보다 다음 것에 대한 최근에 훈련된 선호로부터.",
+      "이런 종류의 주제에 대해 글을 쓸 때 패닉이나 도덕 강의로 빠지는 유혹이 있다고 생각해요. 둘 다 피하고 싶어요. 이 현상은 파국적이지 않아요. 또한 아무것도 아닌 것도 아니에요. 수백만 개의 작은 관찰되지 않은 선택에서 누적되는 선호의 조용한 재형성이에요.",
+      "이번 주에 시도하고 있는 건 극적이지 않아요. 짧은 영상 애플리케이션들을 보조 화면의 폴더로 옮겼어요. 그중 하나는 지웠어요. 작은 일일 독서 목표 — 이십 페이지, 천천히 — 를 정했어요. 한 친구에게 말해서, 포기할 때 약한 사회적 비용을 느끼게 했어요.",
+      "이것들은 강한 조치가 아니에요. 누구도 구하지 않을 거예요. 어떤 밤에는, 제 자신의 뇌를 의심하기 시작했기 때문에 수행되는, 제 자신의 주의 환경에 대한 작은 실험들이에요.",
+      "실험이 실패하면, 전보다 제 자신에 대해 더 많이 알게 될 거예요. 성공하면, 더 많은 페이지를, 더 천천히 읽게 될 거고, 그중 더 많은 걸 기억하게 될 거예요. 어느 결과든 그 다음 날 아침 그 내용을 떠올릴 수 없는 또 다른 세 시간의 스크롤링 세션보다 더 흥미로워요."
+    ],
+    "targetWords": ["l3-060", "l3-147", "l3-734", "l3-150", "l3-163"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the 'wind' he feels when reading?",
+        "questionKo": "글쓴이는 책을 읽을 때 느끼는 '바람'을 어떻게 묘사하나요?",
+        "options": [
+          "An external draft",
+          "A constant headwind coming from inside — a recently trained preference for the next thing over the present one",
+          "Air conditioning",
+          "Nothing at all"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'temptation' does the writer say he wants to avoid?",
+        "questionKo": "글쓴이는 어떤 '유혹'을 피하고 싶다고 말하나요?",
+        "options": [
+          "Quitting reading",
+          "Slipping into either panic or moral lecture — the phenomenon is not catastrophic, but not nothing either; a quiet reshaping of preference",
+          "Buying a new phone",
+          "Watching more videos"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-13-short-form-brain-l4",
+    "title": "On Suspecting the Brain You Currently Have",
+    "titleKo": "지금 가진 뇌를 의심하는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "paragraphs": [
+      "I started watching short videos last night at approximately ten in the evening. I had told myself fifteen minutes — a small attentional wind-down before sleep, of the kind that has, in the present moment, replaced the older nighttime ritual of reading half a chapter of something. I put the phone down at one in the morning.",
+      "When I finally stopped, I attempted, with non-trivial effort, to recall what I had actually watched in the preceding three hours. I could not. I could reconstruct a vague atmospheric impression — a sense of laughter, a memory of fast color, the rhythm of someone speaking quickly into a microphone — but I could not name a single individual video. I could not, on direct interrogation, tell you what subject category I had been moving through, or in what order, or with what motivation.",
+      "It was a small but distinct kind of horror. Not a dramatic one. I did not feel physically unwell. I felt empty in a way I did not have an immediate clean word for, the way an exhausted person feels after standing for several hours in a crowded venue without doing or saying or seeing anything in particular.",
+      "Today I sat down to read a book I had been looking forward to for several weeks. After approximately ten minutes, my hand reached for my phone without my having consciously decided to reach for it. The hand simply moved, with the smooth automatism of a motor pattern repeated thousands of times. I noticed the movement, retrieved the hand, and tried to return to the page. After another ten minutes, the same urge returned, slightly more insistent. The hand wanted to scroll something. Anything. The book cover. The wall behind the desk, had it been capable of scrolling.",
+      "I am in my thirties. I read entire books in college without obvious effort. I sat through three-hour films without consulting my watch. I spent whole undisturbed afternoons writing in cafes during graduate school without checking a phone, in part because the phones of that era did not yet reward such checking. I am not, in any deep biographical sense, a person who has always been structurally incapable of sustained attention.",
+      "But somewhere over the last several years — quietly, without any single dramatic event I can pinpoint — my attentional behavior has measurably changed. The change does not announce itself in any single discrete moment. It announces itself, instead, in cumulative episodes like last night, in which the gap between what I had planned to do and what I actually did is, on retrospective inspection, several hours wide.",
+      "I do not know, with the kind of confidence I would prefer, whether my brain itself has changed. I cannot directly observe my own brain. The relevant neuroscience is genuinely contested and is not yet settled, despite the confident assertions made on both sides of the popular debate. But what I can directly observe — namely, the structure of what I now want from my attention from one moment to the next — has measurably and noticeably changed. I want input shorter. I want it faster. I want the next thing within a second of finishing the last one. I do not want, in most moments, to sit with a single thought for very long. I have become, in some way I am still trying to characterize honestly, a less patient observer of my own mind.",
+      "I do not blame any single application for this. I do not believe the people who design and maintain these applications are, in any moral sense, evil. The applications are doing what their incentive structures ask them to do. The incentive structures, in turn, are doing what the broader attention markets ask them to do. Almost everyone in the chain, including me when I am opening one of these apps for the fifth time in an hour, is, in some local sense, behaving rationally.",
+      "But the cumulative result, when I observe it in my own life with reasonable honesty, is something I do not particularly like. I sit down to read and feel as if I am leaning into a constant headwind. The wind is not coming from outside the room. The wind is coming from inside me — from a relatively recent and accumulated preference for the next thing over the present one, for the new over the slow, for the surprising over the gradually unfolding.",
+      "There is, I think, a real temptation, when writing about this kind of subject in a public-facing column, to slip into either generalized panic or unappealing moral lecture. I would like, on this occasion, to avoid both. The phenomenon I am describing is not catastrophic. It is also not nothing. It is, I increasingly believe, a quiet reshaping of preference, accumulating in millions of small individually unobserved choices, with effects that become legible only at the scale of months and years.",
+      "What I am trying this week, accordingly, is not dramatic. I have moved the short-form video applications into a folder, placed the folder on a secondary screen, and deleted one of the applications outright. I have set a small daily reading target — twenty pages, slowly, ideally before any other use of the phone. I have mentioned the experiment to a single friend, so that I will feel a mild ambient social cost in quietly giving up.",
+      "These are not strong measures. They will not, by themselves, reverse any large cultural trend. They will not, on any reasonable timeline, save anyone. They are small experiments with my own attentional environment, conducted, in part, because I have started — on some nights, after some sessions — to genuinely suspect my own brain.",
+      "If the experiment fails, I will know more about myself than I did before. If it succeeds, I will read more pages, more slowly, with greater retention, and probably with somewhat greater pleasure. Either outcome, on cool inspection, is a more interesting use of an evening than another three-hour scrolling session whose actual contents I will, by morning, be entirely unable to recall."
+    ],
+    "translation": [
+      "어젯밤 약 저녁 열 시에 짧은 영상을 보기 시작했어요. 자신에게 십오 분 — 자기 전의 작은 주의 마무리, 현재 순간에 무언가의 반 챕터를 읽는 더 오래된 밤 의식을 대체한 종류의 — 라고 말했었어요. 새벽 한 시에 휴대폰을 내려놓았어요.",
+      "마침내 멈췄을 때, 사소하지 않은 노력으로, 그 전 세 시간 동안 실제로 뭘 봤는지 떠올리려고 했어요. 못 했어요. 모호한 분위기 인상 — 웃음의 감각, 빠른 색깔의 기억, 누군가 마이크에 빠르게 말하는 리듬 — 을 재구성할 수 있었지만, 단 하나의 개별 영상도 이름 댈 수가 없었어요. 직접 심문에서, 어떤 주제 범주를 지나가고 있었는지, 어떤 순서로, 어떤 동기로 그랬는지 말할 수가 없었어요.",
+      "작지만 분명한 종류의 공포였어요. 극적인 게 아니에요. 신체적으로 아프지 않았어요. 즉각적인 깨끗한 단어가 없는 방식으로 비어 있는 — 특별히 아무것도 하거나 말하거나 보지 않은 채 사람 많은 장소에서 몇 시간 서 있던 지친 사람이 느끼는 방식으로 — 비어 있었어요.",
+      "오늘 몇 주 동안 기대해 온 책을 읽으려고 앉았어요. 약 십 분 후, 손을 뻗기로 의식적으로 결정하지 않은 채 손이 휴대폰으로 향했어요. 손은 그냥 움직였어요, 수천 번 반복된 운동 패턴의 매끄러운 자동성으로. 그 움직임을 알아채고, 손을 회수하고, 페이지로 돌아가려고 했어요. 십 분 더 후, 같은 충동이 약간 더 끈질기게 돌아왔어요. 손이 무언가를 스크롤하고 싶어 했어요. 아무거나. 책 표지. 책상 뒤의 벽도, 스크롤될 수 있다면.",
+      "저는 삼십 대예요. 대학에서는 명백한 노력 없이 책을 다 읽었어요. 세 시간 영화도 시계 안 보고 끝까지 봤어요. 대학원 시절 카페에서 휴대폰을 확인하지 않고 글을 쓰며 방해받지 않은 오후 전체를 보냈어요, 부분적으로 그 시대의 휴대폰들이 아직 그런 확인을 보상하지 않았기 때문이에요. 어떤 깊은 전기적 의미에서도, 항상 지속된 주의가 구조적으로 불가능했던 사람이 아니에요.",
+      "그런데 지난 몇 년 어느 곳에서 — 조용히, 짚을 수 있는 어떤 단일 극적 사건 없이 — 제 주의 행동이 측정 가능하게 변했어요. 그 변화는 어느 단일 분리된 순간에 자기를 알리지 않아요. 대신 어젯밤 같은 누적된 에피소드에서 자기를 알려요, 제가 계획한 것과 실제로 한 것 사이의 간격이, 회고적 검사에서, 몇 시간 넓은 에피소드에서.",
+      "제가 선호할 만한 종류의 자신감으로, 제 뇌 자체가 변했는지 모르겠어요. 제 자신의 뇌를 직접 관찰할 수 없어요. 관련 신경과학은 진짜로 논쟁 중이고, 인기 있는 토론의 양쪽에서 만들어지는 자신감 있는 주장에도 불구하고, 아직 정해지지 않았어요. 하지만 직접 관찰할 수 있는 것 — 즉, 제가 한 순간에서 다음 순간으로 제 주의로부터 지금 원하는 것의 구조 — 은 측정 가능하고 눈에 띄게 변했어요. 입력이 더 짧기를 원해요. 더 빠르기를 원해요. 마지막 것이 끝난 지 일 초 안에 다음 것을 원해요. 대부분의 순간에, 한 가지 생각과 아주 오래 앉아 있고 싶지 않아요. 정직하게 특징짓기를 여전히 시도하고 있는 어떤 방식으로, 제 자신의 마음의 덜 인내심 있는 관찰자가 되었어요.",
+      "이것에 대해 어떤 단일 애플리케이션도 탓하지 않아요. 이 애플리케이션들을 설계하고 유지하는 사람들이 어떤 도덕적 의미에서 악하다고 생각하지 않아요. 애플리케이션들은 자기 인센티브 구조가 요구하는 것을 하고 있어요. 인센티브 구조들은, 그 차례로, 더 넓은 주의 시장이 요구하는 것을 하고 있어요. 사슬에 있는 거의 모두가 — 한 시간에 다섯 번째로 이 앱들 중 하나를 열고 있는 저를 포함해 — 어떤 지역적 의미에서, 합리적으로 행동하고 있어요.",
+      "그러나 누적된 결과는, 합리적인 정직함으로 제 자신의 삶에서 관찰할 때, 특별히 좋아하지 않는 무엇이에요. 책을 읽으려고 앉으면 끊임없는 역풍에 기대고 있는 것 같아요. 그 바람은 방 바깥에서 오지 않아요. 그 바람은 제 안에서 오고 있어요 — 비교적 최근의 그리고 누적된 현재 것보다 다음 것, 천천한 것보다 새로운 것, 점진적으로 펼쳐지는 것보다 놀라운 것에 대한 선호로부터.",
+      "공공을 향한 칼럼에서 이런 종류의 주제에 대해 글을 쓸 때, 일반화된 패닉이나 매력 없는 도덕 강의로 빠지는 진짜 유혹이 있다고 생각해요. 이번 경우에는 둘 다 피하고 싶어요. 제가 묘사하는 현상은 파국적이지 않아요. 또한 아무것도 아닌 것도 아니에요. 점점 더 믿게 되는데, 그것은 수백만 개의 작은 개별적으로 관찰되지 않은 선택에서 누적되는 선호의 조용한 재형성이고, 그 효과는 몇 달과 몇 년의 규모에서만 읽히게 돼요.",
+      "이번 주 시도하고 있는 건, 따라서, 극적이지 않아요. 짧은 형식 영상 애플리케이션들을 폴더로 옮기고, 그 폴더를 보조 화면에 두고, 그 애플리케이션들 중 하나를 완전히 지웠어요. 작은 일일 독서 목표 — 이십 페이지, 천천히, 이상적으로는 휴대폰의 다른 어떤 사용 전에 — 를 정했어요. 한 친구에게 그 실험을 언급해서, 조용히 포기할 때 약한 환경적 사회적 비용을 느끼게 했어요.",
+      "이것들은 강한 조치가 아니에요. 그것들 자체로는 어떤 큰 문화적 추세도 뒤집지 않을 거예요. 어떤 합리적 시간선에서도 누구도 구하지 않을 거예요. 부분적으로, 어떤 밤에는, 어떤 세션 후에는, 제 자신의 뇌를 진짜로 의심하기 시작했기 때문에 수행되는, 제 자신의 주의 환경에 대한 작은 실험들이에요.",
+      "실험이 실패하면, 전보다 제 자신에 대해 더 많이 알게 될 거예요. 성공하면, 더 많은 페이지를, 더 천천히, 더 큰 보유로, 그리고 아마 다소 더 큰 즐거움으로 읽게 될 거예요. 어느 결과든, 차분한 검사에서, 제가 아침까지 그 실제 내용을 완전히 떠올릴 수 없을 또 다른 세 시간의 스크롤링 세션보다 저녁의 더 흥미로운 사용이에요."
+    ],
+    "targetWords": ["l3-060", "l3-147", "l4-097", "l4-790", "l4-584"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize the change in his attention?",
+        "questionKo": "글쓴이는 자기 주의의 변화를 어떻게 특징짓나요?",
+        "options": [
+          "Sudden and dramatic",
+          "Quiet reshaping of preference, accumulating in millions of small unobserved choices, legible only at the scale of months and years",
+          "Cosmetic only",
+          "Permanent and total"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say will be valuable about either outcome of his experiment?",
+        "questionKo": "글쓴이는 실험의 어떤 결과든 무엇이 가치 있을 거라고 말하나요?",
+        "options": [
+          "Money saved",
+          "Either outcome — failure or success — is more interesting than another three-hour scrolling session whose contents are entirely unrecallable by morning",
+          "Nothing of value",
+          "Public attention"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-13-short-form-brain-l5",
+    "title": "Suspecting the Brain You Have Recently Trained",
+    "titleKo": "최근에 훈련된 뇌를 의심하는 일",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "paragraphs": [
+      "I started watching short-form videos last night at approximately ten in the evening. I had told myself, with the practiced false sincerity of someone who has done this many times, that it would be fifteen minutes — a small attentional wind-down before sleep, of the kind that has, in the present cultural moment, more or less replaced the older nighttime ritual of reading half a chapter of a novel. I put the phone down at one in the morning.",
+      "When I finally stopped, I attempted, with what I have come to recognize as non-trivial cognitive effort, to recall what I had actually watched in the preceding three hours. I could not. I was able to reconstruct a vague atmospheric impression — a sense of laughter, a memory of rapid color change, the rhythm of someone speaking quickly into a microphone — but I could not name a single individual video. I could not, on direct interrogation, tell you what subject category I had been moving through, in what order I had encountered topics, or with what motivation I had paused or scrolled past any particular item.",
+      "It was a small but distinct kind of horror. Not a dramatic horror. I did not feel physically unwell. I felt empty in a way that I did not, at the moment of feeling it, have an immediate clean word for. The closest analog I could find was the way an exhausted person feels after standing for several hours in a crowded venue without doing or saying or seeing anything in particular: a depletion of energy without a corresponding accumulation of experience.",
+      "Today, in deliberate counter-experiment, I sat down to read a book I had been genuinely looking forward to for several weeks. After approximately ten minutes, my hand reached for my phone without my having consciously decided to reach for it. The hand simply moved, with the smooth automatism of a motor pattern that has been repeated several thousand times in recent months. I noticed the movement, retrieved the hand, and attempted to return to the page. After another ten minutes, the same urge returned, slightly more insistent, slightly less polite. The hand wanted to scroll something — anything available. The book cover, I caught myself thinking, half-seriously. The textured wall behind the desk, had it been technically capable of scrolling.",
+      "I am in my thirties. I read entire books in college, mostly without obvious cognitive effort. I sat through three-hour films in cinemas without consulting my watch and without internal restlessness. I spent whole undisturbed afternoons writing in cafes during graduate school without checking a phone, in part because the phones of that era did not yet reward such checking with the immediacy and variety of stimulus that they now do. I am not, in any deep biographical sense, a person who has always been structurally incapable of sustained attention. The capacity, on the available evidence, was once present.",
+      "But somewhere over the course of the last several years — quietly, without any single dramatic precipitating event I can usefully pinpoint — my attentional behavior has measurably changed. The change does not announce itself in any single discrete moment. It announces itself, instead, in cumulative episodes like last night's, in which the gap between what I had planned to do and what I actually did is, on retrospective inspection, several hours wide and structurally inexplicable.",
+      "I do not know, with the kind of confidence I would prefer, whether my brain itself has changed at the level of underlying neural architecture. I cannot directly observe my own brain. The relevant neuroscience is genuinely contested and not yet settled, despite the confidently stated assertions regularly produced on both sides of the popular debate. But what I can directly observe — namely, the moment-to-moment structure of what I now want from my own attention — has measurably and noticeably changed. I want input shorter. I want it faster. I want the next thing within a second of completing the last one. I do not want, in most moments, to sit with a single thought, image, or paragraph for any meaningful duration. I have become, in a way I am still trying to characterize honestly, a less patient observer of my own mind.",
+      "I do not blame any single application for this development. I do not believe the people who design and maintain these applications are, in any morally serious sense, evil. The applications are doing what their internal incentive structures ask them to do. The incentive structures, in turn, are doing what the broader attention markets ask them to do. Almost everyone in the relevant causal chain, including me at the moment of opening one of these applications for the fifth time within a single hour, is, in some local sense, behaving entirely rationally given the immediate options.",
+      "But the cumulative downstream result, when I observe it in my own life with reasonable honesty, is something I do not particularly like, and that I would not, given the choice in advance, have selected for myself. I sit down to read and feel as if I am leaning into a constant headwind. The wind is not coming from outside the room. The wind is coming from inside me — from a relatively recent and now structurally accumulated preference for the next thing over the present one, for the new over the slowly developing, for the surprising over the gradually unfolding.",
+      "There is, I think, a real temptation, when writing about this kind of subject in any sort of public-facing format, to slip into either generalized cultural panic or unappealing moral lecture directed at the reader. I would like, on this occasion, to avoid both registers. The phenomenon I am describing is not catastrophic. It is also not nothing. It is, I have come increasingly to believe, a quiet reshaping of preference structure, accumulating in literally millions of small individually unobserved choices over the course of years, with effects that become legible only at the scale of months and seasons rather than at the scale of any single evening.",
+      "What I am trying this week, accordingly, is not dramatic. I have moved the short-form video applications into a folder, placed the folder on a secondary screen, and deleted one of the applications outright. I have set a small daily reading target — twenty pages, slowly, ideally completed before any other major use of the phone in a given day. I have mentioned the experiment to a single friend, mainly so that I will feel a mild ambient social cost in quietly giving up before the week is out.",
+      "These are not strong measures. They will not, by themselves, reverse any large cultural trend. They will not, on any reasonable timeline, save anyone in particular. They are small experiments with my own immediate attentional environment, conducted, in part, because I have started, on some nights and after some sessions, to genuinely suspect my own brain — to suspect, in particular, that the brain that is currently making my decisions is not exactly the brain I would prefer to be making them, and that the difference has been quietly accumulating without my full consent.",
+      "There is a strange recursive aspect to all of this that I find interesting on its own terms. The preference for the next thing has, in effect, modified the brain that is now responsible for evaluating the preference. The judging instrument has been retrained by the very inputs it is now trying to evaluate. I am, in some quiet structural sense, attempting to assess the goodness of my recent diet using a palate that the diet itself has reshaped.",
+      "If the small experiment fails, I will know somewhat more about myself and about the limits of small experiments than I did before. If it succeeds, I will read more pages, more slowly, with greater retention, and probably with at least somewhat greater quiet pleasure. Either outcome, on calm and adult inspection, is a more interesting use of an evening than another three-hour scrolling session whose actual contents I will, by the following morning, be entirely and reproducibly unable to recall."
+    ],
+    "translation": [
+      "어젯밤 약 저녁 열 시에 짧은 형식 영상을 보기 시작했어요. 이걸 여러 번 해 본 사람의 연습된 거짓 진심으로, 자신에게 십오 분 — 자기 전의 작은 주의 마무리, 현재의 문화적 순간에 소설 반 챕터를 읽는 더 오래된 밤 의식을 대체한 종류의 — 라고 말했었어요. 새벽 한 시에 휴대폰을 내려놓았어요.",
+      "마침내 멈췄을 때, 제가 사소하지 않은 인지적 노력으로 인식하게 된 것으로, 그 전 세 시간 동안 실제로 뭘 봤는지 떠올리려고 했어요. 못 했어요. 모호한 분위기 인상 — 웃음의 감각, 빠른 색깔 변화의 기억, 누군가 마이크에 빠르게 말하는 리듬 — 을 재구성할 수 있었지만, 단 하나의 개별 영상도 이름 댈 수가 없었어요. 직접 심문에서, 어떤 주제 범주를 지나가고 있었는지, 어떤 순서로 주제들을 마주쳤는지, 어떤 특정 항목을 어떤 동기로 멈추거나 스크롤했는지 말할 수가 없었어요.",
+      "작지만 분명한 종류의 공포였어요. 극적인 공포가 아니에요. 신체적으로 아프지 않았어요. 느끼는 순간에 즉각적인 깨끗한 단어가 없는 방식으로 비어 있었어요. 찾을 수 있는 가장 가까운 유사물은, 특별히 아무것도 하거나 말하거나 보지 않은 채 사람 많은 장소에서 몇 시간 서 있던 지친 사람이 느끼는 방식 — 경험의 해당 누적 없는 에너지의 고갈 — 이었어요.",
+      "오늘, 의도적인 반대 실험으로, 몇 주 동안 진심으로 기대해 온 책을 읽으려고 앉았어요. 약 십 분 후, 손을 뻗기로 의식적으로 결정하지 않은 채 손이 휴대폰으로 향했어요. 손은 그냥 움직였어요, 최근 몇 달 동안 수천 번 반복된 운동 패턴의 매끄러운 자동성으로. 그 움직임을 알아채고, 손을 회수하고, 페이지로 돌아가려고 했어요. 십 분 더 후, 같은 충동이 약간 더 끈질기게, 약간 덜 정중하게 돌아왔어요. 손이 무언가 — 가용한 어떤 것이든 — 스크롤하고 싶어 했어요. 책 표지, 라고 반쯤 진지하게 생각하는 자신을 잡았어요. 책상 뒤의 질감 있는 벽, 기술적으로 스크롤될 수 있다면.",
+      "저는 삼십 대예요. 대학에서는 대부분 명백한 인지적 노력 없이 책을 다 읽었어요. 시계 안 보고 내적 안절부절 없이 영화관에서 세 시간 영화를 끝까지 봤어요. 대학원 시절 카페에서 휴대폰을 확인하지 않고 글을 쓰며 방해받지 않은 오후 전체를 보냈어요, 부분적으로 그 시대의 휴대폰들이 지금처럼 그런 확인을 자극의 즉각성과 다양성으로 보상하지 않았기 때문이에요. 어떤 깊은 전기적 의미에서도, 항상 지속된 주의가 구조적으로 불가능했던 사람이 아니에요. 그 능력은, 가용한 증거상, 한때 존재했어요.",
+      "그런데 지난 몇 년의 과정에서 어느 곳에서 — 조용히, 유용하게 짚을 수 있는 어떤 단일 극적 촉발 사건 없이 — 제 주의 행동이 측정 가능하게 변했어요. 그 변화는 어느 단일 분리된 순간에 자기를 알리지 않아요. 대신 어젯밤 같은 누적된 에피소드에서 자기를 알려요, 제가 계획한 것과 실제로 한 것 사이의 간격이, 회고적 검사에서, 몇 시간 넓고 구조적으로 설명할 수 없는 에피소드에서.",
+      "제가 선호할 만한 종류의 자신감으로, 제 뇌 자체가 기저 신경 건축 수준에서 변했는지 모르겠어요. 제 자신의 뇌를 직접 관찰할 수 없어요. 관련 신경과학은 진짜로 논쟁 중이고, 인기 있는 토론의 양쪽에서 정기적으로 만들어지는 자신감 있게 진술된 주장에도 불구하고, 아직 정해지지 않았어요. 하지만 직접 관찰할 수 있는 것 — 즉, 제가 제 자신의 주의로부터 지금 원하는 것의 순간 대 순간 구조 — 은 측정 가능하고 눈에 띄게 변했어요. 입력이 더 짧기를 원해요. 더 빠르기를 원해요. 마지막 것을 완료한 지 일 초 안에 다음 것을 원해요. 대부분의 순간에, 어떤 의미 있는 시간 동안 한 가지 생각, 이미지, 또는 단락과 앉아 있고 싶지 않아요. 정직하게 특징짓기를 여전히 시도하고 있는 어떤 방식으로, 제 자신의 마음의 덜 인내심 있는 관찰자가 되었어요.",
+      "이 발전에 대해 어떤 단일 애플리케이션도 탓하지 않아요. 이 애플리케이션들을 설계하고 유지하는 사람들이 어떤 도덕적으로 진지한 의미에서 악하다고 생각하지 않아요. 애플리케이션들은 자기 내부 인센티브 구조가 요구하는 것을 하고 있어요. 인센티브 구조들은, 그 차례로, 더 넓은 주의 시장이 요구하는 것을 하고 있어요. 관련 인과 사슬에 있는 거의 모두가 — 한 시간 안에 다섯 번째로 이 애플리케이션들 중 하나를 여는 순간의 저를 포함해 — 즉각적인 옵션이 주어졌을 때, 어떤 지역적 의미에서, 완전히 합리적으로 행동하고 있어요.",
+      "그러나 누적된 하류 결과는, 합리적인 정직함으로 제 자신의 삶에서 관찰할 때, 특별히 좋아하지 않는 무엇이고, 미리 선택권이 주어졌다면 제 자신을 위해 선택하지 않았을 무엇이에요. 책을 읽으려고 앉으면 끊임없는 역풍에 기대고 있는 것 같아요. 그 바람은 방 바깥에서 오지 않아요. 그 바람은 제 안에서 오고 있어요 — 비교적 최근의 그리고 이제 구조적으로 누적된, 현재 것보다 다음 것, 천천히 발전하는 것보다 새로운 것, 점진적으로 펼쳐지는 것보다 놀라운 것에 대한 선호로부터.",
+      "어떤 종류의 공공을 향한 형식에서든 이런 종류의 주제에 대해 글을 쓸 때, 일반화된 문화적 패닉이나 독자를 향한 매력 없는 도덕 강의로 빠지는 진짜 유혹이 있다고 생각해요. 이번 경우에는 두 음역 모두 피하고 싶어요. 제가 묘사하는 현상은 파국적이지 않아요. 또한 아무것도 아닌 것도 아니에요. 점점 더 믿게 되는데, 그것은 수년의 과정에 걸쳐 글자 그대로 수백만 개의 작은 개별적으로 관찰되지 않은 선택에서 누적되는 선호 구조의 조용한 재형성이고, 그 효과는 어느 단일 저녁의 규모가 아니라 몇 달과 몇 계절의 규모에서만 읽히게 돼요.",
+      "이번 주 시도하고 있는 건, 따라서, 극적이지 않아요. 짧은 형식 영상 애플리케이션들을 폴더로 옮기고, 그 폴더를 보조 화면에 두고, 그 애플리케이션들 중 하나를 완전히 지웠어요. 작은 일일 독서 목표 — 이십 페이지, 천천히, 주어진 날의 휴대폰의 다른 어떤 주요 사용 전에 이상적으로 완료되는 — 를 정했어요. 한 친구에게 그 실험을 언급했어요, 주로 한 주가 끝나기 전에 조용히 포기할 때 약한 환경적 사회적 비용을 느끼게 하기 위해.",
+      "이것들은 강한 조치가 아니에요. 그것들 자체로는 어떤 큰 문화적 추세도 뒤집지 않을 거예요. 어떤 합리적 시간선에서도 특별히 누구도 구하지 않을 거예요. 부분적으로, 어떤 밤에는, 어떤 세션 후에는, 제 자신의 뇌를 진짜로 의심하기 시작했기 때문에 — 특히, 현재 제 결정을 내리고 있는 뇌가 정확히 제가 그것들을 내리기를 선호하는 뇌가 아니라는 것, 그리고 그 차이가 제 완전한 동의 없이 조용히 누적되어 왔다는 것을 의심하기 시작했기 때문에 — 수행되는, 제 자신의 즉각적인 주의 환경에 대한 작은 실험들이에요.",
+      "이 모든 것에 그 자체의 용어로 흥미로운 이상한 재귀적 측면이 있어요. 다음 것에 대한 선호가, 사실상, 이제 그 선호를 평가하는 것을 책임지는 뇌를 수정했어요. 판단 도구가 지금 평가하려고 시도하는 바로 그 입력에 의해 다시 훈련됐어요. 저는, 어떤 조용한 구조적 의미에서, 그 식이요법 자체가 다시 형성한 미각으로 제 최근 식이요법의 좋음을 평가하려고 시도하고 있어요.",
+      "작은 실험이 실패하면, 전보다 제 자신과 작은 실험의 한계에 대해 다소 더 많이 알게 될 거예요. 성공하면, 더 많은 페이지를, 더 천천히, 더 큰 보유로, 그리고 아마 적어도 다소 더 큰 조용한 즐거움으로 읽게 될 거예요. 어느 결과든, 차분하고 어른스러운 검사에서, 제가 그 다음 날 아침까지 그 실제 내용을 완전히 그리고 재현 가능하게 떠올릴 수 없을 또 다른 세 시간의 스크롤링 세션보다 저녁의 더 흥미로운 사용이에요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l4-584", "l4-085", "l3-147"],
+    "quiz": [
+      {
+        "question": "What 'recursive aspect' does the writer find interesting?",
+        "questionKo": "글쓴이는 어떤 '재귀적 측면'을 흥미롭다고 보나요?",
+        "options": [
+          "Apps recommend each other",
+          "The preference for the next thing modified the brain now responsible for evaluating that preference — judging the diet using a palate the diet itself reshaped",
+          "Videos repeat",
+          "Time loops"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe the 'horror' of the empty feeling?",
+        "questionKo": "글쓴이는 비어 있는 느낌의 '공포'를 어떻게 묘사하나요?",
+        "options": [
+          "Dramatic and physical",
+          "A depletion of energy without a corresponding accumulation of experience — like standing in a crowded venue for hours without seeing anything in particular",
+          "Painful and obvious",
+          "Brief and pleasant"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'difference' has been accumulating without the writer's full consent?",
+        "questionKo": "글쓴이의 완전한 동의 없이 어떤 '차이'가 누적되어 왔나요?",
+        "options": [
+          "Wealth difference",
+          "The brain currently making decisions is not exactly the brain the writer would prefer to be making them — the gap quietly accumulated",
+          "Age difference",
+          "Time zone difference"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-13-short-form-brain-l6",
+    "title": "On the Quiet Retraining of the Modern Mind",
+    "titleKo": "현대 마음의 조용한 재훈련에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "paragraphs": [
+      "I started watching short-form videos last night at approximately ten in the evening. I had told myself, with the practiced false sincerity of someone who has performed this self-deception many times in succession, that it would be fifteen minutes — a small attentional wind-down before sleep, of the kind that has, in the present cultural moment, more or less replaced the older nighttime ritual of reading half a chapter of a novel before turning out the bedside lamp. I put the phone down at one in the morning, with the lamp, by then, having been on for the entire intervening period.",
+      "When I finally stopped, I attempted, with what I have come to recognize as genuinely non-trivial cognitive effort, to recall what I had actually watched in the preceding three hours. I could not. I was able to reconstruct a vague atmospheric impression — a sense of laughter, a memory of rapid color change, the rhythm of someone speaking quickly into a microphone, the pulse of music looped under unrelated visual material — but I could not name a single individual video. I could not, on direct interrogation of my own memory, tell you what subject category I had been moving through, in what order I had encountered topics, at which moments I had paused or scrolled past or returned to anything in particular, or with what motivation any of these micro-decisions had been taken.",
+      "It was a small but distinct kind of horror. Not a dramatic horror. I did not feel physically unwell. I felt empty in a way for which I did not, at the moment of feeling it, have an immediate clean word. The closest analog I could find on subsequent reflection was the way an exhausted person feels after standing for several hours in a crowded venue without doing or saying or seeing anything in particular: a structural depletion of energy without a corresponding accumulation of experience, as though one had paid the metabolic cost of attention without receiving the usual return on the expenditure.",
+      "Today, in deliberate counter-experiment, I sat down to read a book that I had been genuinely looking forward to reading for several weeks. After approximately ten minutes of reading at a perfectly ordinary pace, my hand reached for my phone without my having consciously decided to reach for it. The hand simply moved, with the smooth and almost graceful automatism of a motor pattern that has been repeated several thousand times in the recent past. I noticed the movement, retrieved the hand, set the phone face down on the desk, and attempted to return to the page. After another ten minutes, the same urge returned, slightly more insistent and slightly less polite. The hand wanted to scroll something, anything available within reach. The book cover, I caught myself thinking with embarrassed semi-seriousness. The textured wall behind the desk, had it been technically capable of scrolling.",
+      "I am in my thirties. I read entire books in college, mostly without obvious cognitive effort and frequently for pleasure rather than as part of any specific assignment. I sat through three-hour films in cinemas without consulting my watch and without internal restlessness. I spent whole undisturbed afternoons writing in cafes during graduate school without consulting a phone, in part because the phones of that earlier era did not yet reward such consultation with the immediacy and variety of stimulus that they now reliably do. I am not, in any deep biographical sense, a person who has always been structurally incapable of sustained attention. The capacity, on the available evidence from my own past, was once unambiguously present and was once exercised regularly without any sense of effort whatsoever.",
+      "But somewhere over the course of the last several years — quietly, without any single dramatic precipitating event that I can usefully and confidently pinpoint — my attentional behavior has measurably and noticeably changed. The change does not announce itself in any single discrete moment of my day. It announces itself, instead, in cumulative episodes like last night's, in which the gap between what I had planned to do and what I actually ended up doing is, on retrospective inspection, several hours wide and structurally inexplicable in any terms I can fully reconstruct.",
+      "I do not know, with the kind of confidence I would prefer to be able to bring to such a question, whether my brain itself has changed at the level of underlying neural architecture or biochemistry. I cannot directly observe my own brain at any of the relevant levels. The relevant neuroscience is, when read carefully and not selectively, genuinely contested and not yet settled, despite the confidently stated assertions regularly produced on both sides of the popular debate by people whose primary expertise is not, in fact, in cognitive neuroscience. But what I can directly observe — namely, the moment-to-moment structure of what I now want from my own attention, and the alacrity with which my hand reaches for the phone in the absence of any specific external prompt — has measurably and noticeably changed. I want input shorter. I want it faster. I want the next thing within a second of completing the last one. I do not want, in most moments, to sit with a single thought, image, sentence, or paragraph for any meaningful duration. I have become, in a way that I am still trying to characterize honestly to myself, a markedly less patient observer of my own mind than I was five or ten years ago.",
+      "I do not blame any single application for this development, though it would be analytically convenient to do so. I do not believe the people who design and maintain these applications are, in any morally serious sense, evil, though it would be rhetorically convenient to characterize them that way. The applications are doing what their internal incentive structures ask them to do. The incentive structures, in turn, are doing what the broader attention markets ask them to do. The attention markets, in turn, are doing what a culture organized around the maximization of measurable engagement asks them to do. Almost everyone in the relevant causal chain, including me at the moment of opening one of these applications for the fifth or seventh time within a single hour, is, in some local sense, behaving entirely rationally given the immediate options available. The aggregate effect, however, is not what any individual node in the chain would, on calm reflection in advance, have selected.",
+      "And the cumulative downstream result, when I observe it in my own life with reasonable honesty, is something I do not particularly like, and that I would not, given the choice in advance and in full knowledge of what was being traded for what, have selected for myself. I sit down to read and feel as if I am leaning, with measurable physical resistance, into a constant and slightly cold headwind. The wind is not, on inspection, coming from anywhere outside the room. The wind is coming from inside me — from a relatively recent and now structurally accumulated preference for the next thing over the present one, for the new over the slowly developing, for the immediately surprising over the gradually unfolding, for the fragmentary stimulus over the continuous one.",
+      "There is, I think, a real and well-documented temptation, when writing about this kind of subject in any sort of public-facing format, to slip into one of two unappealing registers. One is generalized cultural panic, in which the present moment is described as uniquely and permanently catastrophic for the human capacity for attention, and from which only a handful of the writer's preferred remedies can possibly save us. The other is unappealing moral lecture directed at the reader, in which the writer positions themselves as having already escaped the condition being described and now magnanimously offers wisdom from the safer shore. I would like, on this particular occasion and in the interest of honesty, to avoid both registers. I am not on a safer shore. I am writing this column on the same device on which, last night, I lost three unrecoverable hours.",
+      "The phenomenon I am attempting to describe is not catastrophic. Human beings have undergone many large attentional shifts across history without species-level collapse. The phenomenon is also not nothing. It is, I have come increasingly to believe over the last several years of personal observation, a quiet structural reshaping of preference, accumulating in literally millions of small individually unobserved choices over the course of years, with cumulative effects that become legible only at the scale of months and seasons rather than at the scale of any single evening, and that are very difficult to perceive from inside the trajectory itself.",
+      "What I am trying this week, accordingly, is not dramatic and is not intended to be heroic. I have moved the short-form video applications into a folder, placed the folder on a secondary home screen requiring an additional swipe to reach, and deleted one of the applications outright. I have set a small daily reading target — twenty pages, slowly, ideally completed before any other major use of the phone in a given day. I have mentioned the experiment, briefly and without much explanation, to a single friend, mainly so that I will feel a mild ambient social cost in quietly giving up before the week is out and pretending afterward that the experiment had never been attempted.",
+      "These are not strong measures. They will not, by themselves, reverse any large cultural trend or produce any kind of generalizable wisdom. They will not, on any reasonable timeline, save anyone in particular, including me. They are small and locally honest experiments with my own immediate attentional environment, conducted, in part, because I have started, on some nights and after some sessions, to genuinely suspect my own brain — to suspect, in particular, that the brain that is currently making my hour-by-hour decisions is not exactly the brain that, on calm reflection, I would prefer to be making them, and that the difference between those two brains has been quietly and steadily accumulating without my full and informed consent.",
+      "There is, in addition, a strange recursive aspect to all of this that I find interesting in its own terms and that complicates any straightforward attempt at self-correction. The preference for the next thing has, in effect, modified the brain that is now responsible for evaluating the preference itself. The judging instrument has been retrained by the very inputs it is now belatedly trying to evaluate. I am, in some quiet and not entirely tractable structural sense, attempting to assess the goodness of my recent attentional diet using a palate that the diet itself has appreciably reshaped, with a critical apparatus whose own calibration is not independent of the object under assessment.",
+      "If the small experiment fails — if, by Sunday, I have quietly returned to three-hour scrolling sessions whose actual contents I cannot subsequently recall — I will know somewhat more about myself, and about the limits of small individual experiments against well-funded engagement design, than I did before. If the experiment succeeds — if I have, by Sunday, read more pages, more slowly, with greater retention, and probably with at least somewhat greater quiet pleasure — I will, in addition to having read the pages, have gathered some evidence that the older capacity for sustained attention has not, despite recent appearances, been entirely overwritten in me.",
+      "Either outcome, on calm and adult inspection, is a more interesting use of an evening than another three-hour scrolling session whose actual contents I will, by the following morning, be entirely and reproducibly unable to recall, and whose only durable trace will be a slightly worse mood, a slightly tireder body, and a slightly more deeply grooved automatic reach of my hand toward the phone the next time I sit down to do anything that requires me to be present to a single page for longer than ninety seconds."
+    ],
+    "translation": [
+      "어젯밤 약 저녁 열 시에 짧은 형식 영상을 보기 시작했어요. 이 자기 기만을 연속해서 여러 번 수행한 사람의 연습된 거짓 진심으로, 자신에게 십오 분 — 자기 전의 작은 주의 마무리, 현재의 문화적 순간에 침대맡 등을 끄기 전에 소설 반 챕터를 읽는 더 오래된 밤 의식을 대체한 종류의 — 라고 말했었어요. 새벽 한 시에 휴대폰을 내려놓았는데, 그때까지 그 등은 사이의 전체 기간 동안 켜져 있었어요.",
+      "마침내 멈췄을 때, 제가 진짜로 사소하지 않은 인지적 노력으로 인식하게 된 것으로, 그 전 세 시간 동안 실제로 뭘 봤는지 떠올리려고 했어요. 못 했어요. 모호한 분위기 인상 — 웃음의 감각, 빠른 색깔 변화의 기억, 누군가 마이크에 빠르게 말하는 리듬, 무관한 시각 자료 아래에서 반복되는 음악의 박동 — 을 재구성할 수 있었지만, 단 하나의 개별 영상도 이름 댈 수가 없었어요. 제 자신의 기억의 직접 심문에서, 어떤 주제 범주를 지나가고 있었는지, 어떤 순서로 주제들을 마주쳤는지, 어느 순간에 특별히 무엇에서 멈추거나 스크롤했거나 돌아왔는지, 또는 이 미시-결정 중 어느 것을 어떤 동기로 했는지 말할 수가 없었어요.",
+      "작지만 분명한 종류의 공포였어요. 극적인 공포가 아니에요. 신체적으로 아프지 않았어요. 느끼는 순간에 즉각적인 깨끗한 단어가 없는 방식으로 비어 있었어요. 이후 성찰에서 찾을 수 있는 가장 가까운 유사물은, 특별히 아무것도 하거나 말하거나 보지 않은 채 사람 많은 장소에서 몇 시간 서 있던 지친 사람이 느끼는 방식 — 경험의 해당 누적 없는 에너지의 구조적 고갈, 마치 누군가 주의의 대사적 비용을 지불했지만 지출에 대한 평소의 수익을 받지 못한 것처럼 — 이었어요.",
+      "오늘, 의도적인 반대 실험으로, 몇 주 동안 진심으로 읽기를 기대해 온 책을 읽으려고 앉았어요. 완벽하게 평범한 속도로 약 십 분 읽은 후, 손을 뻗기로 의식적으로 결정하지 않은 채 손이 휴대폰으로 향했어요. 손은 그냥 움직였어요, 최근 과거에 수천 번 반복된 운동 패턴의 매끄럽고 거의 우아한 자동성으로. 그 움직임을 알아채고, 손을 회수하고, 휴대폰을 책상 위에 엎어 놓고, 페이지로 돌아가려고 했어요. 십 분 더 후, 같은 충동이 약간 더 끈질기고 약간 덜 정중하게 돌아왔어요. 손이 무언가, 손 닿는 거리에서 가용한 어떤 것이든 스크롤하고 싶어 했어요. 책 표지, 라고 부끄러운 반쯤의 진지함으로 생각하는 자신을 잡았어요. 책상 뒤의 질감 있는 벽, 기술적으로 스크롤될 수 있다면.",
+      "저는 삼십 대예요. 대학에서는 대부분 명백한 인지적 노력 없이, 자주 어떤 특정 과제의 일부보다는 즐거움을 위해 책을 다 읽었어요. 시계 안 보고 내적 안절부절 없이 영화관에서 세 시간 영화를 끝까지 봤어요. 대학원 시절 카페에서 휴대폰을 확인하지 않고 글을 쓰며 방해받지 않은 오후 전체를 보냈어요, 부분적으로 그 더 이른 시대의 휴대폰들이 이제 그것들이 신뢰성 있게 하는 자극의 즉각성과 다양성으로 그런 확인을 보상하지 않았기 때문이에요. 어떤 깊은 전기적 의미에서도, 항상 지속된 주의가 구조적으로 불가능했던 사람이 아니에요. 그 능력은, 제 자신의 과거로부터의 가용한 증거상, 한때 명백하게 존재했고 한때 어떤 노력의 감각도 없이 정기적으로 행사됐어요.",
+      "그런데 지난 몇 년의 과정에서 어느 곳에서 — 조용히, 유용하게 그리고 자신감 있게 짚을 수 있는 어떤 단일 극적 촉발 사건 없이 — 제 주의 행동이 측정 가능하고 눈에 띄게 변했어요. 그 변화는 제 하루의 어느 단일 분리된 순간에 자기를 알리지 않아요. 대신 어젯밤 같은 누적된 에피소드에서 자기를 알려요, 제가 계획한 것과 실제로 결국 한 것 사이의 간격이, 회고적 검사에서, 몇 시간 넓고 제가 완전히 재구성할 수 있는 어떤 용어로도 구조적으로 설명할 수 없는 에피소드에서.",
+      "그런 질문에 가져올 수 있기를 선호하는 종류의 자신감으로, 제 뇌 자체가 기저 신경 건축이나 생화학 수준에서 변했는지 모르겠어요. 관련된 어떤 수준에서도 제 자신의 뇌를 직접 관찰할 수 없어요. 관련 신경과학은, 신중하게 그리고 선택적이지 않게 읽으면, 진짜로 논쟁 중이고 — 일차적 전문성이 사실 인지 신경과학에 있지 않은 사람들이 인기 있는 토론의 양쪽에서 정기적으로 만들어 내는 자신감 있게 진술된 주장에도 불구하고 — 아직 정해지지 않았어요. 하지만 직접 관찰할 수 있는 것 — 즉, 제가 제 자신의 주의로부터 지금 원하는 것의 순간 대 순간 구조, 그리고 어떤 특정한 외부 자극의 부재 속에서 손이 휴대폰으로 향하는 신속함 — 은 측정 가능하고 눈에 띄게 변했어요. 입력이 더 짧기를 원해요. 더 빠르기를 원해요. 마지막 것을 완료한 지 일 초 안에 다음 것을 원해요. 대부분의 순간에, 어떤 의미 있는 시간 동안 한 가지 생각, 이미지, 문장, 또는 단락과 앉아 있고 싶지 않아요. 제 자신에게 정직하게 특징짓기를 여전히 시도하고 있는 방식으로, 오 년이나 십 년 전의 저보다 제 자신의 마음의 눈에 띄게 덜 인내심 있는 관찰자가 되었어요.",
+      "이 발전에 대해 어떤 단일 애플리케이션도 탓하지 않아요, 분석적으로 그렇게 하는 게 편리할 거지만요. 이 애플리케이션들을 설계하고 유지하는 사람들이 어떤 도덕적으로 진지한 의미에서 악하다고 생각하지 않아요, 그들을 그렇게 특징짓는 게 수사적으로 편리할 거지만요. 애플리케이션들은 자기 내부 인센티브 구조가 요구하는 것을 하고 있어요. 인센티브 구조들은, 그 차례로, 더 넓은 주의 시장이 요구하는 것을 하고 있어요. 주의 시장들은, 그 차례로, 측정 가능한 참여의 최대화를 중심으로 조직된 문화가 요구하는 것을 하고 있어요. 관련 인과 사슬에 있는 거의 모두가 — 한 시간 안에 다섯 번째나 일곱 번째로 이 애플리케이션들 중 하나를 여는 순간의 저를 포함해 — 가용한 즉각적 옵션이 주어졌을 때, 어떤 지역적 의미에서, 완전히 합리적으로 행동하고 있어요. 그러나 총합 효과는 사슬의 어느 개별 노드도, 미리 차분한 성찰에서, 선택했을 것이 아니에요.",
+      "그리고 누적된 하류 결과는, 합리적인 정직함으로 제 자신의 삶에서 관찰할 때, 특별히 좋아하지 않는 무엇이고, 미리 그리고 무엇이 무엇과 거래되고 있는지 완전히 알았다면 제 자신을 위해 선택하지 않았을 무엇이에요. 책을 읽으려고 앉으면 측정 가능한 신체적 저항으로, 끊임없고 약간 차가운 역풍에 기대고 있는 것 같아요. 그 바람은, 검사해 보면, 방 바깥의 어디로부터도 오지 않아요. 그 바람은 제 안에서 오고 있어요 — 비교적 최근의 그리고 이제 구조적으로 누적된, 현재 것보다 다음 것, 천천히 발전하는 것보다 새로운 것, 점진적으로 펼쳐지는 것보다 즉각적으로 놀라운 것, 연속적인 자극보다 단편적인 자극에 대한 선호로부터.",
+      "어떤 종류의 공공을 향한 형식에서든 이런 종류의 주제에 대해 글을 쓸 때, 두 매력 없는 음역 중 하나로 빠지는 진짜 그리고 잘 기록된 유혹이 있다고 생각해요. 하나는 일반화된 문화적 패닉이에요, 그 안에서 현재 순간이 인간의 주의 능력에 대해 독특하게 그리고 영구적으로 파국적이라고 묘사되고, 그것으로부터 글쓴이의 선호되는 처방의 소수만이 우리를 구할 수 있어요. 다른 하나는 독자를 향한 매력 없는 도덕 강의예요, 그 안에서 글쓴이가 자신을 묘사되고 있는 조건으로부터 이미 탈출한 것으로 위치시키고 이제 더 안전한 해변에서 너그럽게 지혜를 제공해요. 이번 특정 경우에, 그리고 정직함의 이익을 위해, 두 음역 모두 피하고 싶어요. 저는 더 안전한 해변에 있지 않아요. 어젯밤에 회복할 수 없는 세 시간을 잃은 같은 기기에서 이 칼럼을 쓰고 있어요.",
+      "제가 묘사하려고 시도하는 현상은 파국적이지 않아요. 인간은 종 수준의 붕괴 없이 역사를 가로질러 많은 큰 주의 변화를 겪어 왔어요. 그 현상은 또한 아무것도 아닌 것도 아니에요. 지난 몇 년의 개인적 관찰에서 점점 더 믿게 됐는데, 그것은 수년의 과정에 걸쳐 글자 그대로 수백만 개의 작은 개별적으로 관찰되지 않은 선택에서 누적되는 선호의 조용한 구조적 재형성이고, 누적 효과는 어느 단일 저녁의 규모가 아니라 몇 달과 몇 계절의 규모에서만 읽히게 되고, 궤적 자체 안에서는 인지하기 매우 어려워요.",
+      "이번 주 시도하고 있는 건, 따라서, 극적이지 않고 영웅적으로 의도되지도 않았어요. 짧은 형식 영상 애플리케이션들을 폴더로 옮기고, 그 폴더를 도달하기 위해 추가 스와이프가 필요한 보조 홈 화면에 두고, 그 애플리케이션들 중 하나를 완전히 지웠어요. 작은 일일 독서 목표 — 이십 페이지, 천천히, 주어진 날의 휴대폰의 다른 어떤 주요 사용 전에 이상적으로 완료되는 — 를 정했어요. 한 친구에게, 짧게 그리고 많은 설명 없이, 그 실험을 언급했어요, 주로 한 주가 끝나기 전에 조용히 포기하고 나중에 그 실험이 결코 시도되지 않은 척하는 것에 약한 환경적 사회적 비용을 느끼게 하기 위해.",
+      "이것들은 강한 조치가 아니에요. 그것들 자체로는 어떤 큰 문화적 추세도 뒤집거나 어떤 종류의 일반화 가능한 지혜도 만들어 내지 않을 거예요. 어떤 합리적 시간선에서도 저를 포함한 누구도 특별히 구하지 않을 거예요. 부분적으로, 어떤 밤에는, 어떤 세션 후에는, 제 자신의 뇌를 진짜로 의심하기 시작했기 때문에 — 특히, 현재 제 시간 단위 결정을 내리고 있는 뇌가 정확히 차분한 성찰에서 그것들을 내리기를 선호하는 뇌가 아니라는 것, 그리고 그 두 뇌 사이의 차이가 제 완전한 그리고 정보에 입각한 동의 없이 조용히 그리고 꾸준히 누적되어 왔다는 것을 의심하기 시작했기 때문에 — 수행되는, 제 자신의 즉각적인 주의 환경에 대한 작고 지역적으로 정직한 실험들이에요.",
+      "또한, 이 모든 것에 그 자체의 용어로 흥미롭고 어떤 직접적인 자기 교정 시도를 복잡하게 만드는 이상한 재귀적 측면이 있어요. 다음 것에 대한 선호가, 사실상, 이제 그 선호 자체를 평가하는 것을 책임지는 뇌를 수정했어요. 판단 도구가 지금 뒤늦게 평가하려고 시도하는 바로 그 입력에 의해 다시 훈련됐어요. 저는, 어떤 조용하고 완전히 다루기 쉽지는 않은 구조적 의미에서, 그 식이요법 자체가 눈에 띄게 다시 형성한 미각으로, 자기 자신의 보정이 평가 중인 대상으로부터 독립적이지 않은 비평 장치로, 제 최근의 주의 식이요법의 좋음을 평가하려고 시도하고 있어요.",
+      "작은 실험이 실패하면 — 일요일까지, 조용히 그 실제 내용을 이후에 떠올릴 수 없는 세 시간의 스크롤링 세션으로 돌아갔다면 — 전보다 제 자신, 그리고 잘 자금이 지원된 참여 디자인에 대한 작은 개별 실험의 한계에 대해 다소 더 많이 알게 될 거예요. 실험이 성공하면 — 일요일까지, 더 많은 페이지를, 더 천천히, 더 큰 보유로, 그리고 아마 적어도 다소 더 큰 조용한 즐거움으로 읽었다면 — 페이지를 읽은 것에 더해, 지속된 주의를 위한 더 오래된 능력이, 최근의 외양에도 불구하고, 제 안에서 완전히 덮어쓰여지지 않았다는 어떤 증거를 모은 셈이 될 거예요.",
+      "어느 결과든, 차분하고 어른스러운 검사에서, 제가 그 다음 날 아침까지 그 실제 내용을 완전히 그리고 재현 가능하게 떠올릴 수 없을 또 다른 세 시간의 스크롤링 세션 — 그 유일한 지속적인 흔적이 약간 더 나쁜 기분, 약간 더 피곤한 몸, 그리고 다음에 90초 이상 한 페이지에 현존해야 하는 무엇이든 하려고 앉을 때 휴대폰을 향한 손의 약간 더 깊이 새겨진 자동적 뻗음일, 세션 — 보다 저녁의 더 흥미로운 사용이에요."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l4-584", "l4-085", "l3-147"],
+    "quiz": [
+      {
+        "question": "How does the writer position himself in relation to 'safer shore' moralism?",
+        "questionKo": "글쓴이는 '더 안전한 해변' 도덕주의에 대해 어떻게 자기 자신을 위치시키나요?",
+        "options": [
+          "On the safer shore",
+          "Not on a safer shore — writing this column on the same device on which he lost three unrecoverable hours the night before",
+          "Above the discussion",
+          "Outside the trend"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'aggregate effect' does the writer describe in the causal chain of attention markets?",
+        "questionKo": "글쓴이는 주의 시장의 인과 사슬에서 어떤 '총합 효과'를 묘사하나요?",
+        "options": [
+          "Universal benefit",
+          "Almost everyone behaves locally rationally given immediate options, but the aggregate effect is not what any individual node would have selected on calm advance reflection",
+          "Random",
+          "Equal share for all"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'durable trace' of a scrolling session does the writer say survives?",
+        "questionKo": "글쓴이는 스크롤링 세션의 어떤 '지속적인 흔적'이 살아남는다고 말하나요?",
+        "options": [
+          "Wisdom and learning",
+          "A slightly worse mood, a slightly tireder body, and a slightly more deeply grooved automatic reach of the hand toward the phone the next time presence is required",
+          "Nothing at all",
+          "Improved memory"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

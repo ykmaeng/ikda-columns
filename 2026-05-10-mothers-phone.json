@@ -1,0 +1,428 @@
+[
+  {
+    "id": "col-2026-05-10-mothers-phone-l1",
+    "title": "My Mother's Phone",
+    "titleKo": "어머니의 휴대폰",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "paragraphs": [
+      "Today is Mother's Day. I called my mother.",
+      "She has a new phone. The phone is hard for her. The letters are too small.",
+      "I went to my parents' home. I helped her with the phone.",
+      "I made the letters bigger. I made them very big. Now she can read them.",
+      "Before, my mother could read very small books. She had good eyes.",
+      "Now her eyes are not so good. She is older. Her eyes get tired.",
+      "I felt sad. But I did not say it. I just helped her.",
+      "After the phone, she made tea. We sat and drank tea together.",
+      "She asked about my work. She asked about my food. She asked the same things she always asks.",
+      "The day was simple. It was a good day."
+    ],
+    "translation": [
+      "오늘은 어머니의 날이에요. 저는 어머니께 전화했어요.",
+      "어머니는 새 휴대폰이 있어요. 그 휴대폰이 어머니에게 어려워요. 글씨가 너무 작아요.",
+      "저는 부모님 댁에 갔어요. 어머니의 휴대폰을 도와드렸어요.",
+      "글씨를 더 크게 만들었어요. 아주 크게 만들었어요. 이제 어머니가 읽으실 수 있어요.",
+      "예전에 어머니는 아주 작은 책도 읽으실 수 있었어요. 눈이 좋으셨어요.",
+      "지금은 눈이 그렇게 좋지 않아요. 더 나이가 드셨어요. 눈이 쉽게 피곤해지세요.",
+      "저는 슬펐어요. 하지만 말하지 않았어요. 그냥 도와드렸어요.",
+      "휴대폰 일이 끝나고, 어머니가 차를 끓이셨어요. 우리는 함께 앉아 차를 마셨어요.",
+      "제 일을 물으셨어요. 제 식사를 물으셨어요. 항상 묻는 같은 질문들을 물으셨어요.",
+      "그 날은 단순했어요. 좋은 날이었어요."
+    ],
+    "targetWords": ["l1-068", "l1-074", "l1-094", "l1-098", "l1-252"],
+    "quiz": [
+      {
+        "question": "What did the writer help the mother do?",
+        "questionKo": "글쓴이는 어머니의 무엇을 도와드렸나요?",
+        "options": [
+          "Buy a phone",
+          "Make the letters on the phone bigger",
+          "Make tea",
+          "Read a book"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the writer feel?",
+        "questionKo": "글쓴이는 어떤 기분이었나요?",
+        "options": [
+          "Angry",
+          "A little sad, but did not say it",
+          "Hungry",
+          "Bored"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-10-mothers-phone-l2",
+    "title": "Bigger Letters on Mom's Phone",
+    "titleKo": "엄마 휴대폰의 큰 글씨",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "paragraphs": [
+      "Today is Mother's Day. I went to my parents' house. I did not bring flowers. I went to fix my mother's phone.",
+      "She had a new phone for two months. She did not say anything, but I could see that she was using it less. She was sending fewer photos. She was reading my messages later than before.",
+      "I sat down next to her on the sofa. I asked, 'Mom, can you read this?' She held the phone close to her face. She looked. Then she said, 'It's a little small.'",
+      "She always says 'a little.' That is her word. A little tired. A little cold. A little dizzy. I have learned, over the years, that 'a little' usually means more than a little.",
+      "I opened the settings. I found the font size. I moved the slider. The letters on the screen grew. I made them very large. I asked, 'Better?' She nodded. She smiled, but she also looked away.",
+      "I think she did not want me to see her face. She is the kind of mother who does not like to need help.",
+      "When I was a child, she could read very small print. She read books late at night, with only one small lamp. She read the back of medicine bottles for our whole family. Her eyes were the eyes of the house.",
+      "Now her eyes are tired. The doctor says it is normal. The body changes. I know it is normal. But knowing it does not make it easy.",
+      "After the phone, she made tea. We sat at the kitchen table. She asked about my work. She asked if I was eating well. She asked the same questions she always asks.",
+      "I gave the same answers I always give. She did not really need new information. The questions are how she touches my life when she cannot be there.",
+      "Before I left, I changed the font size of two of her other apps. I increased the screen brightness. I added one of her old friends to her favorite contacts.",
+      "Mother's Day is a strange holiday. We try to thank our mothers in big ways. Big gifts, big dinners, big words. But sometimes the most useful thing is small. A bigger font. A simpler menu.",
+      "On the way home, I sent her a message. I made the message short. I made the words simple. I knew she would read it slowly, with the larger letters I had set."
+    ],
+    "translation": [
+      "오늘은 어머니의 날이에요. 부모님 댁에 갔어요. 꽃은 사 가지 않았어요. 어머니의 휴대폰을 고쳐 드리러 갔어요.",
+      "어머니는 두 달째 새 휴대폰을 쓰고 계셨어요. 아무 말씀 안 하셨지만, 점점 덜 쓰시는 게 보였어요. 사진도 덜 보내시고, 제 메시지도 예전보다 늦게 읽으셨어요.",
+      "저는 어머니 옆 소파에 앉았어요. \"엄마, 이거 보이세요?\" 하고 여쭤봤어요. 어머니는 휴대폰을 얼굴 가까이 가져갔어요. 보셨어요. 그러고는 \"조금 작네\"라고 하셨어요.",
+      "어머니는 늘 \"조금\"이라고 하세요. 그게 어머니의 말버릇이에요. 조금 피곤하다. 조금 춥다. 조금 어지럽다. 세월이 지나면서 알게 됐어요. \"조금\"은 보통 조금보다 더 큰 의미예요.",
+      "설정을 열었어요. 글자 크기 메뉴를 찾았어요. 슬라이더를 옮겼어요. 화면 글씨가 커졌어요. 아주 크게 키웠어요. \"이러면 괜찮으세요?\" 여쭤봤어요. 어머니는 고개를 끄덕이셨어요. 웃으셨지만, 시선은 다른 곳으로 돌리셨어요.",
+      "제가 어머니 얼굴을 보는 게 싫으셨던 것 같아요. 도움 받는 걸 좋아하지 않으시는 어머니예요.",
+      "제가 어렸을 때, 어머니는 아주 작은 글씨도 잘 읽으셨어요. 작은 등불 하나만 켜 놓고 밤늦게 책을 읽으셨어요. 우리 가족의 약병 뒷면도 어머니가 읽어 주셨어요. 어머니의 눈은 우리 집의 눈이었어요.",
+      "이제 그 눈이 피곤하세요. 의사 선생님은 정상이라고 하셨어요. 몸은 변하니까요. 정상이라는 걸 알아요. 하지만 안다고 받아들이기 쉬워지지는 않아요.",
+      "휴대폰 일이 끝나고, 어머니가 차를 끓여 주셨어요. 부엌 식탁에 마주 앉았어요. 제 일을 물으셨어요. 잘 먹고 다니냐고 물으셨어요. 늘 묻는 같은 질문들을 물으셨어요.",
+      "저는 늘 드리는 같은 대답을 드렸어요. 어머니가 새 정보를 원하셨던 게 아니에요. 그 질문들은 곁에 계실 수 없을 때 어머니가 제 삶을 만지는 방법이에요.",
+      "떠나기 전에 다른 앱 두 개의 글자 크기도 바꿔 드렸어요. 화면 밝기를 올려 드렸어요. 어머니의 오랜 친구 한 분을 즐겨찾기 연락처에 추가해 드렸어요.",
+      "어머니의 날은 이상한 기념일이에요. 우리는 큰 방식으로 어머니께 감사하려고 해요. 큰 선물, 큰 저녁, 큰 말들. 하지만 가장 도움이 되는 건 작을 때가 있어요. 더 큰 글씨. 더 단순한 메뉴.",
+      "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 짧게 썼어요. 단어를 단순하게 했어요. 제가 키워 드린 큰 글씨로 천천히 읽으실 거란 걸 알았어요."
+    ],
+    "targetWords": ["l1-068", "l2-080", "l2-117", "l2-087", "l2-078"],
+    "quiz": [
+      {
+        "question": "Why did the writer go to the parents' house?",
+        "questionKo": "글쓴이는 왜 부모님 댁에 갔나요?",
+        "options": [
+          "To bring flowers",
+          "To fix the mother's phone — make the letters bigger",
+          "For dinner",
+          "To borrow money"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer mean about the mother's same questions?",
+        "questionKo": "글쓴이는 어머니의 같은 질문들에 대해 어떤 의미를 두나요?",
+        "options": [
+          "She has memory problems",
+          "The questions are how she touches the writer's life when she cannot be there",
+          "She is bored",
+          "She wants new information"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-10-mothers-phone-l3",
+    "title": "The Day I Made the Letters Bigger",
+    "titleKo": "글씨를 키워 드린 날",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "paragraphs": [
+      "Today is Mother's Day. I drove to my parents' house. I did not bring flowers, and I did not bring a card. I brought myself, and I brought the small intention of fixing my mother's phone.",
+      "She had been using the new phone for two months. She had not complained — she rarely does — but I had been noticing the small signs. Fewer photos sent. Replies that came hours late. Calls instead of messages.",
+      "When I asked her, she said the phone was 'a little small.' My mother says 'a little' the way some people say 'tomorrow.' It is a way of putting off the truth without quite lying.",
+      "I sat next to her on the sofa. I opened the settings. I found the slider for font size. I moved it almost all the way to the right.",
+      "When the screen redrew, the letters were enormous. They almost filled the display. She blinked. She nodded. She said, 'Oh.' She did not look at me when she said it.",
+      "I have learned to recognize that small turning of the head. It is the way she protects me from her own emotions. She does not want me to see her face when something has changed about her body that she does not want to discuss.",
+      "When I was a child, my mother could read the print on a medicine bottle in dim kitchen light. She would explain dosages to my father, who never put on his glasses. She read bedtime stories to me past midnight, with one tiny lamp. Her eyes did the work for the entire family.",
+      "Now her eyes are tired in a way that no font size will fully fix. The doctor says this is normal. The body, after a certain point, begins to negotiate downward. I understand that this is normal. I have always understood it intellectually. The understanding does not make sitting next to her on the sofa any easier.",
+      "After the phone, she made tea. The kettle is the same one we have had since I was in middle school. She moved around the kitchen exactly the way she used to. She asked the same questions she always asks. Have you eaten? Are you sleeping enough? Is the work going well?",
+      "I gave the same answers I always give. She does not need new information. The questions are her way of placing her hand briefly on the surface of my life when she cannot be inside it. The repetition is the point.",
+      "Before I left, I changed the font size of her message app, her bank app, and her photo gallery. I made the screen brighter. I added one of her old friends to her favorite contacts so she could call her with one tap.",
+      "Mother's Day, in most countries, is built around big gestures. Big bouquets, big dinners, big public expressions of love. The bigness is supposed to balance, in a single afternoon, the unrepayable accumulation of years.",
+      "It does not balance. Nothing balances. The accumulation is too large for any single day to address.",
+      "What we can do, sometimes, is make some small thing slightly easier. A larger font. A brighter screen. A favorite contact one tap away. These are not symbols of love. They are love, expressed through the only medium our parents now spend much of their day looking at.",
+      "On the drive home, I sent her a message. I kept the words simple. I knew she would read it slowly, with the larger letters I had set. That was, I realize now, the gift."
+    ],
+    "translation": [
+      "오늘은 어머니의 날이에요. 부모님 댁으로 운전해 갔어요. 꽃도 안 가져갔고, 카드도 안 가져갔어요. 저 자신을 가져갔고, 어머니의 휴대폰을 고쳐 드리겠다는 작은 의도를 가져갔어요.",
+      "어머니는 두 달째 새 휴대폰을 쓰고 계셨어요. 불평하신 적은 없었어요 — 평소에도 거의 안 하세요 — 하지만 저는 작은 신호들을 알아채고 있었어요. 사진을 덜 보내시고. 답장이 몇 시간 늦게 오고. 메시지 대신 전화를 거시고.",
+      "여쭤보니, 휴대폰이 \"조금 작다\"고 하셨어요. 어머니는 \"조금\"이라는 말을 어떤 사람들이 \"내일\"이라고 말하듯이 쓰세요. 거의 거짓말은 아니면서 진실을 미루는 방식이에요.",
+      "어머니 옆 소파에 앉았어요. 설정을 열었어요. 글자 크기 슬라이더를 찾았어요. 거의 끝까지 오른쪽으로 옮겼어요.",
+      "화면이 다시 그려졌을 때, 글씨는 어마어마하게 컸어요. 화면을 거의 다 채웠어요. 어머니는 눈을 깜빡이셨어요. 끄덕이셨어요. \"오\" 하셨어요. 그렇게 말씀하시면서 저를 보지 않으셨어요.",
+      "그 작은 고개 돌림을 알아보는 법을 배웠어요. 어머니가 자신의 감정으로부터 저를 보호하시는 방식이에요. 자기 몸에 대해 의논하고 싶지 않은 무언가가 변했을 때, 어머니는 제가 자기 얼굴을 보는 걸 원치 않으세요.",
+      "제가 어렸을 때, 어머니는 어두운 부엌 불빛에서 약병의 글씨를 읽으셨어요. 안경을 끼지 않는 아버지께 복용량을 설명해 주셨어요. 작은 등불 하나로 자정 넘게 제게 동화책을 읽어 주셨어요. 어머니의 눈이 가족 전체를 위한 노동을 했어요.",
+      "이제 그 눈이 어떤 글자 크기로도 완전히 해결되지 않을 방식으로 피곤하세요. 의사 선생님은 정상이라고 하세요. 몸은 어느 시점이 지나면 아래로 협상을 시작해요. 정상이라는 걸 알아요. 머리로는 늘 알았어요. 하지만 그 앎이 어머니 옆 소파에 앉아 있는 걸 더 쉽게 만들어 주지는 않아요.",
+      "휴대폰 일이 끝나고, 어머니가 차를 끓이셨어요. 제가 중학생일 때부터 쓰던 똑같은 주전자예요. 예전에 그러시던 모습 그대로 부엌을 움직이셨어요. 늘 묻는 같은 질문들을 물으셨어요. 밥은 먹었니. 잠은 잘 자고 있어. 일은 잘 되고 있어.",
+      "저는 늘 드리는 같은 대답을 드렸어요. 어머니가 새 정보를 원하셨던 게 아니에요. 그 질문들은 어머니가 제 삶 안으로 들어올 수 없을 때 잠시 그 표면 위에 손을 얹는 방식이에요. 반복이 핵심이에요.",
+      "떠나기 전, 메시지 앱과 은행 앱과 사진첩의 글자 크기도 바꿔 드렸어요. 화면 밝기도 올려 드렸어요. 어머니의 오랜 친구 한 분을 즐겨찾기 연락처에 추가해 드려서 한 번 누름으로 전화하실 수 있게 했어요.",
+      "대부분의 나라에서 어머니의 날은 큰 제스처를 중심으로 만들어져요. 큰 꽃다발, 큰 저녁 식사, 큰 사랑의 공개적인 표현들. 그 큰 정도는 한 번의 오후 안에 갚을 수 없는 세월의 누적을 균형 맞춰야 해요.",
+      "균형이 맞지 않아요. 어떤 것도 균형이 맞지 않아요. 그 누적은 단 하루로 다루기에는 너무 커요.",
+      "우리가 가끔 할 수 있는 일은 어떤 작은 것을 조금 더 쉽게 만들어 드리는 거예요. 더 큰 글자. 더 밝은 화면. 한 번 누름으로 닿는 즐겨찾기 연락처. 이것들은 사랑의 상징이 아니에요. 우리 부모님이 이제 하루의 많은 시간을 들여다보고 계시는 유일한 매체를 통해 표현된 사랑 그 자체예요.",
+      "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 단순하게 유지했어요. 제가 키워 드린 큰 글씨로 천천히 읽으실 거란 걸 알았어요. 그게 — 이제 깨닫는데 — 선물이었어요."
+    ],
+    "targetWords": ["l3-060", "l3-143", "l3-180", "l1-068", "l2-117"],
+    "quiz": [
+      {
+        "question": "What does the mother mean when she says 'a little'?",
+        "questionKo": "어머니가 \"조금\"이라고 하실 때 그 의미는?",
+        "options": [
+          "Exactly a small amount",
+          "A way of putting off the truth without quite lying — usually meaning more than a little",
+          "She is uncertain",
+          "She is fine"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why are the mother's repeated questions meaningful?",
+        "questionKo": "어머니가 반복하시는 질문들은 왜 의미 있나요?",
+        "options": [
+          "She has memory problems",
+          "They are her way of placing her hand briefly on the surface of the writer's life when she cannot be inside it",
+          "She wants new answers",
+          "She is making conversation"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-10-mothers-phone-l4",
+    "title": "Adjusting My Mother's Font Size",
+    "titleKo": "어머니의 글자 크기를 조정하는 일",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "paragraphs": [
+      "Today is Mother's Day. I went to my parents' house. I did not bring a bouquet, and I did not bring an envelope of cash. I brought, instead, the small operational intention of opening my mother's new phone and adjusting its font size to something she could actually read.",
+      "She had been using the device for nearly two months. She had not complained, because she rarely does, but the indirect signals had been accumulating. Fewer photos sent to the family chat. Replies that arrived four hours after the message. Voice calls in place of texts. A subtle reorganization of her behavior around the limitations of her vision, performed without comment.",
+      "When I asked, she said the phone was 'a little small.' My mother uses 'a little' the way other people use 'tomorrow.' It is a polite delay, a way of acknowledging a problem without admitting it deserves attention.",
+      "I sat down next to her on the sofa. I opened the system settings. I found the slider for display text size and moved it almost to the maximum. The interface redrew itself with letters that nearly overflowed the screen.",
+      "She blinked. She nodded. She said, 'Oh.' She turned her head slightly away. I have learned to recognize that micro-rotation. It is one of her oldest gestures, a way of protecting me from feelings she does not want me to see — particularly feelings about her own body, about which she would prefer not to be witnessed.",
+      "I am the wrong age for this. I am old enough to perform the maintenance her phone now requires and young enough to remember her at thirty-five, reading the back of medicine bottles in dim kitchen light, explaining dosages to my father (who refused to wear his glasses), reading bedtime stories to me past midnight under the small reading lamp on her side of the bed. Her eyes did the visual work of the entire household.",
+      "Those eyes are now, in a perfectly ordinary biological way, tired. The cells that read fine print do not regenerate as they once did. The doctor describes this as normal. I understand that it is normal. I have always understood it intellectually. The understanding does not change what it feels like to sit next to her on the sofa and move a slider that announces, in a small visual increment, how far she has traveled away from the version of herself I keep in my head.",
+      "After the phone, she made tea. The kettle is the same one I remember from middle school. She moved through the kitchen with the choreography of forty years. She asked the same questions she always asks. Have I been eating. Am I sleeping enough. Is the work all right. Are there any problems she should know about.",
+      "I gave her the answers I always give. She does not, in any informational sense, need them. The questions are not really requests for data. They are an act of light contact — a way for her to place her hand briefly on the surface of my adult life when she can no longer be located inside it.",
+      "Before I left, I made a few additional adjustments. Larger font in her bank app, in her messaging app, in her photo gallery. Increased screen brightness. One of her old friends added to her favorite contacts so the call was a single tap rather than three menu screens.",
+      "Mother's Day, almost everywhere it is observed, is constructed around large gestures. Bouquets, dinner reservations, public expressions of gratitude. The size of the gesture is implicitly meant to balance, within a single afternoon, the structurally unbalanceable accumulation of years of care.",
+      "The arithmetic does not work. The accumulation is too large for any single day to address. The bouquet, however expensive, never quite covers the distance.",
+      "What is sometimes available is something smaller and more useful. A larger font. A brighter display. A simplified menu. A favorite contact one tap away. These are not symbols of love, decorating the relationship from outside. They are love itself, expressed through the only medium our aging parents now spend most of their attentional time inside.",
+      "On the drive home, I sent her a message. I kept the words deliberately simple, the sentences short. I knew she would read them slowly, with the enlarged letters I had set, sitting in her kitchen with the cold remainder of the tea. That, I now realize, was the gift. Not the visit. Not the adjustment. The legible message arriving in a font size large enough that her tired eyes could meet it without effort."
+    ],
+    "translation": [
+      "오늘은 어머니의 날이에요. 부모님 댁에 갔어요. 꽃다발도 안 가져갔고, 현금 봉투도 안 가져갔어요. 대신, 어머니의 새 휴대폰을 열어서 글자 크기를 어머니가 실제로 읽을 수 있는 무엇으로 조정해 드리겠다는 작은 운영적 의도를 가져갔어요.",
+      "어머니는 거의 두 달째 그 기기를 쓰고 계셨어요. 불평하신 적은 없었어요. 평소에도 거의 안 하시니까요. 하지만 간접적인 신호들이 쌓이고 있었어요. 가족 채팅에 보내는 사진이 줄었어요. 메시지 보낸 지 네 시간 뒤에 도착하는 답장. 문자 대신의 음성 통화. 어머니의 시야의 한계 주변에서 행동이 미묘하게 재조직되는 것이, 어떤 코멘트도 없이 수행되고 있었어요.",
+      "여쭤보니, 휴대폰이 \"조금 작다\"고 하셨어요. 어머니는 \"조금\"이라는 말을 다른 사람들이 \"내일\"이라고 쓰듯이 쓰세요. 정중한 지연이에요. 문제를 인정하지 않으면서 인정하는 방식, 주의 받을 가치가 있다고 시인하지는 않으면서요.",
+      "어머니 옆 소파에 앉았어요. 시스템 설정을 열었어요. 디스플레이 텍스트 크기 슬라이더를 찾아 거의 최대까지 옮겼어요. 인터페이스는 화면을 거의 넘칠 듯한 글씨로 다시 그려졌어요.",
+      "어머니는 눈을 깜빡이셨어요. 끄덕이셨어요. \"오\" 하셨어요. 고개를 살짝 돌리셨어요. 저는 그 작은 회전을 알아보는 법을 배웠어요. 어머니의 가장 오래된 제스처 중 하나예요. 제가 보는 걸 원치 않는 감정으로부터 저를 보호하시는 방식 — 특히 자기 몸에 대한 감정, 그 감정에 증인이 되는 걸 어머니가 선호하지 않는 감정으로부터요.",
+      "저는 이 일에 잘못된 나이에 있어요. 어머니의 휴대폰이 지금 요구하는 정비를 수행할 만큼은 충분히 나이가 들었고, 서른다섯 살의 어머니를 — 어두운 부엌 불빛에서 약병 뒷면을 읽고, 안경을 끼지 않는 아버지께 복용량을 설명하고, 침대 머리맡 작은 독서등 아래에서 자정 넘게 제게 동화를 읽어 주시던 — 기억할 만큼 충분히 어려요. 그 눈이 가구 전체의 시각적 노동을 했어요.",
+      "그 눈은 이제 완벽하게 평범한 생물학적 방식으로 피곤하세요. 작은 글씨를 읽던 세포들이 예전처럼 재생되지 않아요. 의사 선생님은 이걸 정상이라고 묘사하세요. 정상이라는 걸 알아요. 머리로는 늘 알았어요. 그 앎은 어머니 옆 소파에 앉아 슬라이더를 옮기는 — 작은 시각적 증분으로, 제 머릿속에 가지고 있는 버전의 어머니로부터 어머니가 얼마나 멀리 이동했는지를 알리는 — 일이 어떤 느낌인지를 바꾸지 않아요.",
+      "휴대폰 일이 끝나고, 어머니가 차를 끓이셨어요. 주전자는 제가 중학생일 때부터 기억하는 똑같은 거예요. 사십 년의 안무로 부엌을 움직이셨어요. 늘 묻는 같은 질문들을 물으셨어요. 밥은 먹고 다니냐. 잠은 충분히 자느냐. 일은 괜찮으냐. 알아야 할 문제는 없느냐.",
+      "저는 늘 드리는 답을 드렸어요. 정보적 의미에서 어머니가 그것들을 필요로 하지 않으세요. 그 질문들은 정말로 데이터 요청이 아니에요. 그것들은 가벼운 접촉의 행위 — 어머니가 더 이상 제 어른의 삶 안에 위치할 수 없을 때, 그 표면 위에 잠시 손을 얹는 방식 — 예요.",
+      "떠나기 전, 추가로 몇 가지를 조정해 드렸어요. 은행 앱, 메시지 앱, 사진첩의 글자 크기를 키웠어요. 화면 밝기를 올렸어요. 어머니의 오랜 친구 한 분을 즐겨찾기 연락처에 추가해서, 통화가 세 번의 메뉴 화면이 아니라 한 번의 누름이 되도록 했어요.",
+      "어머니의 날은 그것이 지켜지는 거의 모든 곳에서 큰 제스처를 중심으로 구성돼요. 꽃다발, 저녁 예약, 감사의 공개적 표현. 제스처의 크기는 한 번의 오후 안에 구조적으로 균형 맞출 수 없는 수년의 돌봄의 누적을 균형 맞추도록 암묵적으로 의도되어 있어요.",
+      "산수가 맞지 않아요. 누적은 단 하루로 다루기에는 너무 커요. 꽃다발은, 아무리 비싸도, 그 거리를 결코 완전히 덮지 못해요.",
+      "가끔 가능한 것은 더 작고 더 유용한 무엇이에요. 더 큰 글자. 더 밝은 디스플레이. 단순화된 메뉴. 한 번 누름으로 닿는 즐겨찾기 연락처. 이것들은 관계를 바깥에서 장식하는 사랑의 상징이 아니에요. 우리의 늙어 가는 부모님이 이제 대부분의 주의 시간을 그 안에서 보내시는 유일한 매체를 통해 표현된 사랑 그 자체예요.",
+      "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 의도적으로 단순하게, 문장을 짧게 유지했어요. 제가 설정한 확대된 글씨로, 차가워진 차의 잔여물을 옆에 둔 부엌에 앉아, 어머니가 천천히 읽으실 거란 걸 알았어요. 그게 — 이제 깨닫는데 — 선물이었어요. 방문이 아니에요. 조정이 아니에요. 어머니의 피곤한 눈이 노력 없이 만날 수 있을 만큼 큰 글자 크기로 도착하는, 읽힐 수 있는 메시지."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-180", "l1-068", "l2-117"],
+    "quiz": [
+      {
+        "question": "What 'micro-rotation' does the writer recognize in the mother?",
+        "questionKo": "글쓴이는 어머니의 어떤 '작은 회전'을 알아보나요?",
+        "options": [
+          "She is bored",
+          "An old protective gesture — turning her head away to hide feelings about her own body that she does not want witnessed",
+          "She is angry",
+          "She does not understand"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer conclude about Mother's Day's big gestures?",
+        "questionKo": "글쓴이는 어머니의 날의 큰 제스처에 대해 어떤 결론을 내리나요?",
+        "options": [
+          "They are perfect",
+          "The arithmetic does not work — the accumulation of years of care is too large for any single day; smaller, more useful adjustments often express love better",
+          "Bouquets are best",
+          "Cash is best"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-10-mothers-phone-l5",
+    "title": "On Setting the Font Size of My Mother's Phone",
+    "titleKo": "어머니 휴대폰 글자 크기를 맞추는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "paragraphs": [
+      "Today is Mother's Day, observed in much of the world on the second Sunday of May. I drove to my parents' house. I did not bring a bouquet. I did not bring an envelope. I brought, instead, the modest operational intention of opening my mother's new phone and adjusting its display text size until the interface became something her eyes could comfortably meet.",
+      "She had been using the device for nearly two months. She had not complained — she rarely does, on principle — but the indirect signals had accumulated to a point I could no longer ignore. Fewer photographs sent to the family chat. Text replies that arrived four hours after the original message. Voice calls in place of messages, sometimes for trivial questions. The shape of her interaction with the device had quietly reorganized itself around the limits of her vision, without explicit acknowledgment.",
+      "When I asked her directly, she said the phone was 'a little small.' My mother deploys 'a little' the way other people deploy 'tomorrow.' It is a politeness, a deferral, a way of conceding a problem without granting it the dignity of full attention. I have, over the decades, become a moderately reliable translator of this dialect.",
+      "I sat down next to her on the sofa. I opened the system settings. I located the slider for display text size and moved it almost to its maximum. The interface redrew itself, the letters now nearly overflowing their containers, the layout suddenly almost comically large.",
+      "She blinked once. She nodded. She said, 'Oh.' She turned her head slightly away from me as she said it. I have learned, over years of accumulated attention, to recognize that micro-rotation. It is one of her oldest protective gestures: a way of withholding from me the precise expression on her face when something has changed about her body that she would prefer not to discuss.",
+      "I am, in this scene, in the wrong relation to time. I am old enough to perform the maintenance her phone now requires of someone, and young enough to retain a clear visual memory of her at thirty-five, reading the back of medicine bottles in dim kitchen light, explaining dosages to my father, who refused to wear his reading glasses; reading bedtime stories to me past midnight by the small lamp on her side of the bed. Her eyes did the focal visual labor of the entire household.",
+      "Those eyes are now, in a perfectly ordinary biological way, tired. The cellular machinery that distinguishes small print does not regenerate at the rate it once did. The ophthalmologist describes the trajectory as normal. I understand intellectually that it is normal. The understanding does not perceptibly alter the experience of sitting next to her on a sofa and dragging a slider that announces, in a small visual increment, the distance she has traveled away from the version of her I have continued to keep available in my head.",
+      "After the phone, she made tea. The kettle is the same one I remember from middle school. She moved through the kitchen with the practiced choreography of four decades, and asked, in sequence, the questions she always asks. Have I been eating. Am I sleeping enough. Is the work proceeding satisfactorily. Are there problems she ought to be informed about.",
+      "I supplied the answers I always supply. She does not, in any informational sense, require them. The questions are not requests for data. They are an act of light maternal contact — a way for her to place her hand briefly on the textured surface of my adult life, in which she can no longer be permanently located, and reassure herself, by touch rather than by sight, that the surface is still there.",
+      "Before I left, I made several additional adjustments. Increased font size in her banking application, in her messaging client, in her photograph gallery. Raised the global screen brightness. Added one of her oldest friends to her favorite contacts so that the call could be initiated by a single tap rather than three menu transitions.",
+      "Mother's Day, in almost every country in which it is formally observed, is structurally constituted around large gestures. Bouquets of disproportionate cost. Dinner reservations at slightly aspirational restaurants. Public expressions of gratitude on social media. The implicit logic of the holiday is that the size of the gesture must somehow balance, within a single afternoon, the structurally unbalanceable accumulation of years of unpaid attentional labor.",
+      "The arithmetic, of course, does not work. The accumulation is far too large for any single day to address. No bouquet, however expensive, ever quite covers the distance between what was given over decades and what is being acknowledged in an afternoon.",
+      "What is sometimes available, in place of the unworkable equation, is something smaller and more useful. A larger font. A brighter display. A simplified menu structure. A favorite contact removed from a submenu and placed at the top of a screen. These are not external symbols of love decorating an underlying relationship. They are, in a quiet structural sense, love itself — expressed through the medium our aging parents now spend most of their waking attentional time inside.",
+      "There is, I think, a generational asymmetry that this kind of small maintenance partially repairs. Our parents adjusted, every day for years, the dimensions of the world to make us legible to ourselves. They cut food into smaller pieces, lowered counters with stepstools, slowed their walking pace to ours, simplified explanations until we could enter them. It is now, in a small but cumulative way, our turn to make the shrinking interface of the world legible back to them.",
+      "On the drive home, I sent her a message. I kept the words deliberately simple. I kept the sentences short. I knew she would read them slowly, with the enlarged letters I had set, sitting in her kitchen beside the cold remainder of the tea, with the late afternoon light coming through the window the way it always has.",
+      "That, I have come to understand, was the actual gift. Not the visit, not the adjustment, not the bouquet I did not bring. The legible message arriving in a font size large enough that her tired eyes could meet it without strain. A small, deliberate act of removing one obstacle from her ordinary day."
+    ],
+    "translation": [
+      "오늘은 어머니의 날이에요, 세계의 많은 곳에서 5월 둘째 일요일에 지켜지는. 부모님 댁으로 운전해 갔어요. 꽃다발도 안 가져갔어요. 봉투도 안 가져갔어요. 대신, 어머니의 새 휴대폰을 열어서 디스플레이 텍스트 크기를 어머니의 눈이 편안하게 만날 수 있는 무엇이 될 때까지 조정해 드리겠다는 소박한 운영적 의도를 가져갔어요.",
+      "어머니는 거의 두 달째 그 기기를 쓰고 계셨어요. 불평하신 적은 없었어요 — 원칙적으로, 어머니는 거의 안 하세요 — 하지만 간접적인 신호들이 더 이상 무시할 수 없는 지점까지 쌓였어요. 가족 채팅에 보내시는 사진이 줄었어요. 원래 메시지보다 네 시간 늦게 도착하는 답장. 메시지 대신의 음성 통화, 가끔 사소한 질문에도. 그 기기와의 상호작용의 모양이 어머니의 시야의 한계 주변에서, 명시적 인정 없이, 조용히 자기 자신을 재조직했어요.",
+      "직접 여쭤보니, 휴대폰이 \"조금 작다\"고 하셨어요. 어머니는 \"조금\"을 다른 사람들이 \"내일\"이라고 쓰듯이 배치하세요. 정중함이고, 미룸이고, 문제를 인정하면서 그것에 충분한 주의의 존엄을 부여하지는 않는 방식이에요. 수십 년에 걸쳐 저는 이 방언의 적당히 신뢰할 만한 번역가가 되었어요.",
+      "어머니 옆 소파에 앉았어요. 시스템 설정을 열었어요. 디스플레이 텍스트 크기 슬라이더를 찾아 거의 최대까지 옮겼어요. 인터페이스가 다시 그려졌고, 글씨는 이제 컨테이너를 거의 넘쳤고, 레이아웃은 갑자기 거의 우스꽝스럽게 컸어요.",
+      "어머니는 한 번 깜빡이셨어요. 끄덕이셨어요. \"오\" 하셨어요. 그렇게 말씀하시면서 고개를 살짝 저로부터 돌리셨어요. 저는 누적된 주의의 세월을 통해 그 작은 회전을 알아보는 법을 배웠어요. 어머니의 가장 오래된 보호 제스처 중 하나예요: 자기 몸에 대해 의논하기를 선호하지 않는 무언가가 변했을 때, 자기 얼굴의 정확한 표정을 저로부터 보류하시는 방식이에요.",
+      "이 장면에서 저는 시간에 대해 잘못된 관계에 있어요. 어머니의 휴대폰이 이제 누군가에게 요구하는 정비를 수행할 만큼은 충분히 나이가 들었고, 서른다섯 살의 어머니를 — 어두운 부엌 불빛에서 약병 뒷면을 읽고, 독서 안경을 끼지 않는 아버지께 복용량을 설명하시고, 침대 머리맡의 작은 등 옆에서 자정 넘게 제게 동화를 읽어 주시던 — 명확한 시각적 기억으로 보유할 만큼 충분히 어려요. 어머니의 눈이 가구 전체의 초점 시각 노동을 했어요.",
+      "그 눈은 이제 완벽하게 평범한 생물학적 방식으로 피곤하세요. 작은 글씨를 구별하던 세포 기계가 예전 속도로 재생되지 않아요. 안과의는 그 궤적을 정상이라고 묘사하세요. 머리로는 정상이라는 걸 이해해요. 그 이해는 어머니 옆 소파에 앉아, 슬라이더를 — 작은 시각적 증분으로, 제 머릿속에 계속 가용하게 보유해 온 어머니의 버전으로부터 어머니가 이동한 거리를 알리는 슬라이더를 — 끄는 경험을 지각 가능하게 바꾸지 않아요.",
+      "휴대폰 일이 끝나고, 어머니가 차를 끓이셨어요. 주전자는 제가 중학생일 때부터 기억하는 똑같은 거예요. 사십 년의 연습된 안무로 부엌을 움직이셨고, 순서대로, 늘 묻는 질문들을 물으셨어요. 밥은 먹고 다녀. 잠은 충분히 자고 있어. 일은 만족스럽게 진행되고 있어. 알아야 할 문제는 있어.",
+      "저는 늘 공급하는 답을 공급해 드렸어요. 정보적 의미에서 어머니는 그것들을 필요로 하지 않으세요. 그 질문들은 데이터 요청이 아니에요. 그것들은 가벼운 모성 접촉의 행위예요 — 어머니가 더 이상 영구적으로 위치할 수 없는 제 어른 삶의 질감 있는 표면 위에, 잠시 손을 얹고, 시각이 아닌 촉각으로, 그 표면이 여전히 거기 있다고 자신을 안심시키는 방식이에요.",
+      "떠나기 전, 추가로 몇 가지를 조정해 드렸어요. 은행 애플리케이션, 메시지 클라이언트, 사진 갤러리의 글자 크기를 늘렸어요. 전역 화면 밝기를 올렸어요. 어머니의 가장 오랜 친구 한 분을 즐겨찾기 연락처에 추가해서, 세 번의 메뉴 전환이 아니라 한 번의 누름으로 통화가 시작되도록 했어요.",
+      "어머니의 날은, 공식적으로 지켜지는 거의 모든 나라에서, 큰 제스처를 중심으로 구조적으로 구성돼요. 비례에 맞지 않는 비용의 꽃다발. 약간 동경하는 식당의 저녁 예약. 소셜 미디어의 감사의 공개적 표현. 이 기념일의 암묵적 논리는 제스처의 크기가 한 번의 오후 안에 — 구조적으로 균형 맞출 수 없는 수년의 무급 주의 노동의 누적을 — 어떻게든 균형 맞춰야 한다는 것이에요.",
+      "산수는, 물론, 맞지 않아요. 그 누적은 단 하루로 다루기에는 너무 커요. 어떤 꽃다발도, 아무리 비싸도, 수십 년에 걸쳐 주어진 것과 한 번의 오후에 인정되고 있는 것 사이의 거리를 결코 완전히 덮지 못해요.",
+      "그 작동하지 않는 방정식 대신 가끔 가용한 것은, 더 작고 더 유용한 무엇이에요. 더 큰 글자. 더 밝은 디스플레이. 단순화된 메뉴 구조. 서브메뉴에서 제거되어 화면 상단에 놓인 즐겨찾기 연락처. 이것들은 기본 관계를 장식하는 사랑의 외적 상징이 아니에요. 그것들은 조용한 구조적 의미에서 사랑 그 자체예요 — 우리의 늙어 가는 부모님이 이제 깨어 있는 주의 시간의 대부분을 그 안에서 보내시는 매체를 통해 표현된.",
+      "이런 작은 정비가 부분적으로 수리하는 세대 간 비대칭이 있다고 생각해요. 우리 부모님은 수년 동안 매일, 우리가 우리 자신에게 읽힐 수 있도록 세계의 차원들을 조정하셨어요. 음식을 더 작은 조각으로 자르고, 카운터를 발판으로 낮추고, 우리 속도에 맞춰 걸음을 늦추고, 우리가 들어올 수 있을 때까지 설명을 단순화하셨어요. 이제는, 작지만 누적되는 방식으로, 우리가 줄어드는 세계의 인터페이스를 그분들에게 다시 읽힐 수 있게 만들 차례예요.",
+      "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 의도적으로 단순하게 유지했어요. 문장을 짧게 유지했어요. 제가 설정한 확대된 글씨로, 차의 차가운 잔여물 옆에 부엌에 앉아, 늘 그래 왔던 방식으로 창문으로 들어오는 늦은 오후의 빛 속에서, 어머니가 천천히 읽으실 거란 걸 알았어요.",
+      "그게, 제가 이제 이해하게 된 것은, 실제 선물이었어요. 방문이 아니에요. 조정이 아니에요. 제가 가져가지 않은 꽃다발이 아니에요. 어머니의 피곤한 눈이 긴장 없이 만날 수 있을 만큼 큰 글자 크기로 도착하는, 읽힐 수 있는 메시지. 어머니의 평범한 하루에서 한 가지 장애물을 제거하는, 작고 의도적인 행위."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-180", "l4-648", "l3-143"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize the mother's questions and 'a little' phrasing?",
+        "questionKo": "글쓴이는 어머니의 질문들과 \"조금\"이라는 표현을 어떻게 특징짓나요?",
+        "options": [
+          "Confused speech",
+          "Politeness/deferral and an act of light maternal contact — touch on the surface of the writer's adult life rather than data requests",
+          "Random small talk",
+          "Memory failure"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'generational asymmetry' does the writer identify?",
+        "questionKo": "글쓴이는 어떤 '세대 간 비대칭'을 지적하나요?",
+        "options": [
+          "Income gap",
+          "Parents adjusted the dimensions of the world to make it legible for their children for years; now it is the children's turn to make the shrinking interface of the world legible back to aging parents",
+          "Education differences",
+          "Technology preferences"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's conclusion about the 'actual gift'?",
+        "questionKo": "'실제 선물'에 대한 글쓴이의 결론은?",
+        "options": [
+          "The bouquet",
+          "Not the visit or bouquet, but the legible message arriving in a font size large enough that the mother's tired eyes could meet it without strain — a small act of removing one obstacle from her ordinary day",
+          "The dinner",
+          "The cash envelope"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-10-mothers-phone-l6",
+    "title": "The Quiet Distance Inside a Font Size Slider",
+    "titleKo": "글자 크기 슬라이더 안의 조용한 거리",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "paragraphs": [
+      "Today is the second Sunday of May, which in the calendar of a substantial portion of the world is observed as Mother's Day. The afternoon was unremarkable. I drove the familiar route to my parents' house. I did not bring a bouquet. I did not bring an envelope of cash. I brought instead the small, almost technical, intention of opening my mother's recently acquired phone and adjusting its display text size until the interface became something her eyes could meet without effort.",
+      "She had been using the device for nearly two months. She had not, characteristically, complained — my mother considers most complaint a form of poor manners — but the indirect signals had accumulated to a point at which a sufficiently attentive child could no longer reasonably ignore them. A noticeable reduction in the number of photographs she sent to the family group chat. Text replies arriving four to six hours after the original message rather than within minutes. Voice calls substituted, increasingly often, for the briefest factual exchanges. Her interaction with the device had quietly reorganized itself around the limits of her vision, performed without acknowledgment and without external commentary.",
+      "When I asked her directly, she said, in the formula she has used for at least four decades to describe such matters, that the phone was 'a little small.' My mother deploys the phrase 'a little' the way other people deploy the phrase 'tomorrow.' It is a politeness, a deferral, a way of conceding the existence of a problem while declining to grant it the dignity of full attention. It is one of the few habits of speech that I have, over the course of years, become a moderately competent translator of.",
+      "I sat down beside her on the sofa, the same sofa whose upholstery I have known for longer than I have lived in my current city. I opened the system settings. I located the slider for display text size and moved it nearly to its maximum value. The interface redrew itself with letters now almost overflowing their containers, a layout suddenly so generous in scale as to verge on the comical.",
+      "She blinked once. She nodded, briefly. She produced a small 'oh.' She turned her head, as she did so, slightly away from me. I have learned, through a long and largely unconscious training, to recognize that micro-rotation. It is among her oldest protective gestures: a way of withholding from me the precise expression on her face at moments when something has changed about her body that she would prefer not to be witnessed acknowledging.",
+      "I am, in this scene, in the wrong relation to time. I am old enough to perform the technical maintenance her phone now requires of someone close to her, and young enough to retain a clear and continuous visual memory of her at thirty-five — a woman who could read the small print on the back of a medicine bottle in dim kitchen light without effort, who explained dosages to my father (who refused, on principle, to wear his reading glasses) with no perceptible difficulty, who read bedtime stories to me past midnight by the small reading lamp on her side of the bed. The eyes that performed all of this work were the focal visual organ of the entire household.",
+      "Those eyes are now, in a perfectly ordinary biological way, tired. The cellular machinery responsible for the resolution of small print does not regenerate at the rate it once did. The ophthalmologist describes the trajectory as normal — as one of the standard modifications that the human visual apparatus undergoes after a certain decade. I understand intellectually that this is normal. I have always understood it intellectually. The intellectual understanding does not perceptibly alter the felt experience of sitting beside her on the sofa and dragging a slider that announces, in the form of a small visual increment, the distance she has traveled away from the version of her I have continued to keep available in my interior.",
+      "After the phone, she made tea. The kettle on the stove is the same kettle I remember from middle school. She moved through the kitchen with the practiced and unconsidered choreography of four decades of domestic competence, and she asked, in their habitual sequence, the questions she always asks. Have I been eating properly. Am I sleeping enough. Is the work proceeding satisfactorily. Are there problems she ought, in her view, to be informed about.",
+      "I supplied the answers I always supply. She does not, in any informational sense, require these answers. The questions are not, properly speaking, requests for data. They are an act of light maternal contact — a way for her to place her hand briefly on the textured surface of my adult life, an interior in which she can no longer be permanently located, and to reassure herself, by touch rather than by sight, that the surface remains intact.",
+      "Before I left, I made several additional adjustments to her interface. Larger font in the banking application, in the messaging client, in the photograph gallery. An incremental increase in global screen brightness. The promotion of one of her oldest friends from a buried address-book entry to a position in her favorite contacts, where the call could now be initiated by a single tap rather than by three sequential menu transitions.",
+      "Mother's Day, in almost every cultural context in which it is formally observed, is structurally constituted around large gestures. Disproportionately expensive bouquets. Dinner reservations at slightly aspirational restaurants. Public expressions of gratitude on social platforms whose architecture rewards the visibility of the gesture rather than its operational substance. The implicit logic of the holiday is that the magnitude of the annual gesture is supposed somehow to balance, within a single afternoon, the structurally unbalanceable accumulation of years of largely unrecognized attentional labor.",
+      "The arithmetic, of course, does not work and was never designed to. The accumulation in question is far too large for any single annual occasion to address even symbolically, much less actually. No bouquet, however expensive; no dinner, however thoughtfully chosen; no caption, however earnestly composed, ever quite covers the distance between what was given over decades and what is being acknowledged in the course of a single afternoon.",
+      "What is sometimes available, in place of the unworkable equation, is something smaller and more useful — and, I have come to believe, more honest. A larger font. A brighter display. A simplified menu structure. A favorite contact removed from a submenu and placed at the visual top of a screen. These adjustments are not, properly, external symbols of love appended to an underlying relationship. They are, in a quiet structural sense, love itself — expressed through the only medium our aging parents now spend the majority of their waking attentional time inside.",
+      "There is, I think, a generational asymmetry that this kind of small maintenance partially repairs. Our parents, for years, performed continuous adjustments to the dimensions of the world in order to make it legible to us as we grew into it. They cut food into pieces small enough for our mouths. They lowered counters with stepstools. They slowed their walking pace to ours. They simplified their explanations until we could enter them. They translated the world's small print into a register we could comprehend, repeatedly, for years, almost certainly without thinking of it as translation.",
+      "It is now, in a small but cumulatively significant way, our turn. The world's interface — the print on labels, the small icons on screens, the audio levels in unfamiliar environments — is in slow decline relative to their sensory capacity. The translation now runs the other way. We adjust the font size of the phone. We brighten the screen. We promote the friend to the favorites bar. We remove, where we can, the small obstacles that have begun, almost without our parents' explicit notice, to interpose themselves between them and the ordinary continuation of their lives.",
+      "On the drive home, I sent her a message. I kept the words deliberately simple. I kept the sentences short. I knew she would read them slowly, with the enlarged letters I had set, sitting at her kitchen table beside the cold remainder of the tea, with the late afternoon light coming through the window in the way the late afternoon light has always come through that particular window.",
+      "That, I have come to understand, was the actual gift. Not the visit, although the visit was real. Not the slider adjustment, although the adjustment was technically what the visit produced. Not the bouquet I deliberately did not bring. The actual gift was the legible message arriving on her screen in a font size large enough that her tired eyes could meet it without strain. A small, deliberate act of removing one obstacle, however briefly, from the ordinary continuation of her day. A quiet redirection of my own attention, at the level of font sizes and menu hierarchies, toward the specific and presently aging human being to whom I happen, irrevocably, to belong."
+    ],
+    "translation": [
+      "오늘은 5월 둘째 일요일이고, 세계의 상당 부분의 달력에서 어머니의 날로 지켜져요. 오후는 평범했어요. 부모님 댁으로 가는 익숙한 경로를 운전했어요. 꽃다발은 가져가지 않았어요. 현금 봉투는 가져가지 않았어요. 대신, 어머니가 최근에 얻은 휴대폰을 열어 디스플레이 텍스트 크기를 어머니의 눈이 노력 없이 만날 수 있는 무엇이 될 때까지 조정해 드리겠다는 작고 거의 기술적인 의도를 가져갔어요.",
+      "어머니는 거의 두 달째 그 기기를 쓰고 계셨어요. 특유의 방식으로 불평하시지 않았어요 — 어머니는 대부분의 불평을 일종의 부족한 예의로 여기세요 — 하지만 간접적인 신호들이 충분히 주의 깊은 자녀가 더 이상 합리적으로 무시할 수 없는 지점까지 쌓였어요. 가족 단체 채팅에 보내시는 사진의 눈에 띄는 감소. 원래 메시지보다 분 단위가 아니라 네 시간에서 여섯 시간 늦게 도착하는 답장. 점점 더 자주, 가장 짧은 사실 교환을 위해서도 음성 통화로 대체된 메시지. 그 기기와의 상호작용이 어머니의 시야의 한계 주변에서, 인정 없이 그리고 외부 코멘트 없이, 조용히 자기 자신을 재조직했어요.",
+      "직접 여쭤보니, 어머니는 그런 사안들을 묘사할 때 적어도 사십 년간 사용해 오신 공식대로, 휴대폰이 \"조금 작다\"고 하셨어요. 어머니는 \"조금\"이라는 표현을 다른 사람들이 \"내일\"이라는 표현을 배치하듯이 배치하세요. 정중함이고, 미룸이고, 문제의 존재를 인정하면서 그것에 충분한 주의의 존엄을 부여하기를 거절하는 방식이에요. 수년에 걸쳐 제가 적당히 유능한 번역가가 된, 몇 안 되는 말의 습관 중 하나예요.",
+      "어머니 옆 소파에 앉았어요. 제가 현재 도시에 살아온 시간보다 더 오래 그 천을 알아 온 같은 소파예요. 시스템 설정을 열었어요. 디스플레이 텍스트 크기 슬라이더를 찾아 거의 최대값까지 옮겼어요. 인터페이스가 다시 그려졌고, 글씨는 이제 컨테이너를 거의 넘쳤고, 레이아웃은 갑자기 너무 너그러운 규모로 거의 우스꽝스럽게 변했어요.",
+      "어머니는 한 번 깜빡이셨어요. 짧게 끄덕이셨어요. 작은 \"오\"를 만드셨어요. 그렇게 하면서, 고개를 살짝 저로부터 돌리셨어요. 길고 대체로 무의식적인 훈련을 통해, 저는 그 작은 회전을 알아보는 법을 배웠어요. 어머니의 가장 오래된 보호 제스처 중 하나예요: 자기 몸에 대해 인정하는 것을 목격당하기를 선호하지 않는 무언가가 변한 순간에, 자기 얼굴의 정확한 표정을 저로부터 보류하시는 방식이에요.",
+      "이 장면에서 저는 시간에 대해 잘못된 관계에 있어요. 어머니의 휴대폰이 이제 가까운 누군가에게 요구하는 기술적 정비를 수행할 만큼은 충분히 나이가 들었고, 서른다섯 살의 어머니에 대한 명확하고 연속적인 시각적 기억을 — 어두운 부엌 불빛에서 약병 뒷면의 작은 글씨를 노력 없이 읽으실 수 있던 여인, 원칙적으로 독서 안경을 끼지 않으시던 아버지께 지각 가능한 어려움 없이 복용량을 설명하시던 여인, 침대 머리맡의 작은 독서등 옆에서 자정 넘게 제게 동화를 읽어 주시던 여인을 — 보유할 만큼 충분히 어려요. 이 모든 노동을 수행한 그 눈이 가구 전체의 초점 시각 기관이었어요.",
+      "그 눈은 이제 완벽하게 평범한 생물학적 방식으로 피곤하세요. 작은 글씨의 해상도를 책임지던 세포 기계가 예전 속도로 재생되지 않아요. 안과의는 그 궤적을 정상이라고 묘사하세요 — 인간 시각 장치가 어떤 십 년이 지난 후 겪는 표준 수정 중 하나라고. 머리로는 이게 정상이라는 걸 이해해요. 머리로는 늘 이해했어요. 그 지적 이해는 어머니 옆 소파에 앉아, 슬라이더를 — 작은 시각적 증분의 형태로, 제 내면에 계속 가용하게 보유해 온 어머니의 버전으로부터 어머니가 이동한 거리를 알리는 슬라이더를 — 끄는 느낌적 경험을 지각 가능하게 바꾸지 않아요.",
+      "휴대폰 일이 끝나고, 어머니가 차를 끓이셨어요. 가스레인지 위의 주전자는 제가 중학생일 때부터 기억하는 똑같은 주전자예요. 사십 년의 가정적 유능함의 연습되고 의식하지 않은 안무로 부엌을 움직이셨고, 그것들의 습관적인 순서로, 늘 묻는 질문들을 물으셨어요. 밥은 제대로 먹고 다녀. 잠은 충분히 자고 있어. 일은 만족스럽게 진행되고 있어. 어머니의 견해로, 알아야 할 문제는 있어.",
+      "저는 늘 공급하는 답을 공급해 드렸어요. 정보적 의미에서 어머니는 이 답들을 필요로 하지 않으세요. 그 질문들은 정확히 말해 데이터 요청이 아니에요. 그것들은 가벼운 모성 접촉의 행위예요 — 어머니가 더 이상 영구적으로 위치할 수 없는 내면인 제 어른 삶의 질감 있는 표면 위에 잠시 손을 얹고, 시각이 아닌 촉각으로, 그 표면이 여전히 온전하다고 자신을 안심시키는 방식이에요.",
+      "떠나기 전, 어머니의 인터페이스에 추가로 몇 가지 조정을 해 드렸어요. 은행 애플리케이션, 메시지 클라이언트, 사진 갤러리의 더 큰 글자. 전역 화면 밝기의 점진적 증가. 어머니의 가장 오랜 친구 중 한 분을 묻혀 있던 주소록 항목에서 즐겨찾기 연락처의 위치로 승격시켜서, 통화가 이제 세 번의 순차적 메뉴 전환이 아니라 한 번의 누름으로 시작될 수 있도록 했어요.",
+      "어머니의 날은, 공식적으로 지켜지는 거의 모든 문화적 맥락에서, 큰 제스처를 중심으로 구조적으로 구성돼요. 비례에 맞지 않게 비싼 꽃다발. 약간 동경하는 식당의 저녁 예약. 그 건축이 제스처의 운영적 실체보다 가시성을 보상하는 소셜 플랫폼에서의 감사의 공개적 표현. 이 기념일의 암묵적 논리는 연례 제스처의 규모가 어떻게든, 한 번의 오후 안에, 수년의 대체로 인정받지 못한 주의 노동의 구조적으로 균형 맞출 수 없는 누적을 균형 맞춰야 한다는 것이에요.",
+      "산수는, 물론, 작동하지 않고 작동하도록 설계되지도 않았어요. 문제의 누적은 어떤 단일 연례 행사도 — 상징적으로조차, 실제로는 더더욱 — 다루기에는 너무 커요. 어떤 꽃다발도, 아무리 비싸도, 어떤 저녁도, 아무리 신중하게 선택되어도, 어떤 캡션도, 아무리 진심으로 작성되어도, 수십 년에 걸쳐 주어진 것과 단 한 번의 오후의 과정에서 인정되고 있는 것 사이의 거리를 결코 완전히 덮지 못해요.",
+      "그 작동하지 않는 방정식 대신 가끔 가용한 것은, 더 작고 더 유용한 — 그리고, 제가 믿게 된 바로, 더 정직한 — 무엇이에요. 더 큰 글자. 더 밝은 디스플레이. 단순화된 메뉴 구조. 서브메뉴에서 제거되어 화면의 시각적 상단에 놓인 즐겨찾기 연락처. 이 조정들은 정확히 말해 기본 관계에 덧붙여진 사랑의 외적 상징이 아니에요. 그것들은 조용한 구조적 의미에서 사랑 그 자체예요 — 우리의 늙어 가는 부모님이 이제 깨어 있는 주의 시간의 대부분을 그 안에서 보내시는 유일한 매체를 통해 표현된.",
+      "이런 작은 정비가 부분적으로 수리하는 세대 간 비대칭이 있다고 생각해요. 우리 부모님은 수년 동안, 우리가 그것 안으로 자라 들어갈 때 우리에게 읽힐 수 있도록 세계의 차원들에 대한 지속적인 조정을 수행하셨어요. 음식을 우리 입에 충분히 작은 조각으로 자르셨어요. 발판으로 카운터를 낮추셨어요. 우리 속도에 맞춰 걸음을 늦추셨어요. 우리가 들어올 수 있을 때까지 설명을 단순화하셨어요. 우리가 이해할 수 있는 음역으로 세계의 작은 글씨를 번역하셨어요, 반복적으로, 수년 동안, 거의 확실히 그것을 번역으로 생각하지 않으신 채로.",
+      "이제는, 작지만 누적적으로 의미 있는 방식으로, 우리 차례예요. 세계의 인터페이스 — 라벨의 글씨, 화면의 작은 아이콘, 낯선 환경의 음향 수준 — 는 그분들의 감각 능력에 비해 천천히 쇠퇴하고 있어요. 번역은 이제 반대 방향으로 흘러요. 우리가 휴대폰의 글자 크기를 조정해요. 화면을 밝혀요. 친구를 즐겨찾기 막대로 승격시켜요. 가능한 곳에서, 거의 우리 부모님의 명시적 알아챔 없이, 그분들과 그분들 삶의 평범한 지속 사이에 끼어들기 시작한 작은 장애물들을 제거해요.",
+      "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 의도적으로 단순하게 유지했어요. 문장을 짧게 유지했어요. 제가 설정한 확대된 글씨로, 차의 차가운 잔여물 옆에 부엌 식탁에 앉아, 늦은 오후의 빛이 그 특정 창문으로 늘 들어오던 방식대로 늦은 오후의 빛이 들어오는 가운데, 어머니가 천천히 읽으실 거란 걸 알았어요.",
+      "그게, 제가 이해하게 된 것은, 실제 선물이었어요. 방문이 아니에요, 비록 방문은 진짜였지만. 슬라이더 조정이 아니에요, 비록 그 조정이 기술적으로 그 방문이 만들어 낸 것이었지만. 제가 의도적으로 가져가지 않은 꽃다발이 아니에요. 실제 선물은 어머니의 피곤한 눈이 긴장 없이 만날 수 있을 만큼 큰 글자 크기로 어머니의 화면에 도착하는, 읽힐 수 있는 메시지였어요. 어머니의 평범한 하루의 평범한 지속에서, 아무리 짧게라도, 한 가지 장애물을 제거하는, 작고 의도적인 행위. 글자 크기와 메뉴 위계의 수준에서, 제가 우연히, 돌이킬 수 없게, 속해 있는 특정한 그리고 현재 늙어 가는 인간 존재에게로의, 제 자신의 주의의 조용한 재방향."
+    ],
+    "targetWords": ["l4-097", "l4-790", "l3-180", "l4-648", "l3-143"],
+    "quiz": [
+      {
+        "question": "How does the writer characterize Mother's Day's structural logic?",
+        "questionKo": "글쓴이는 어머니의 날의 구조적 논리를 어떻게 특징짓나요?",
+        "options": [
+          "It works perfectly",
+          "Built around large gestures supposed to balance — within one afternoon — the structurally unbalanceable accumulation of years of largely unrecognized attentional labor; the arithmetic does not work",
+          "It is a recent invention",
+          "It is purely commercial"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'translation' direction does the writer identify in aging parents?",
+        "questionKo": "글쓴이는 늙어 가는 부모에게서 어떤 '번역' 방향을 지적하나요?",
+        "options": [
+          "Foreign language translation",
+          "Parents translated the world's small print for years to make it legible to growing children; now the translation runs the other way — children adjust the world's interface back for aging parents",
+          "Word-for-word translation",
+          "No translation involved"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What 'actual gift' does the writer finally identify?",
+        "questionKo": "글쓴이는 마지막에 어떤 '실제 선물'을 지적하나요?",
+        "options": [
+          "The bouquet",
+          "Not the visit, slider, or unbought bouquet — but the legible message arriving in a font large enough for tired eyes to meet without strain; a quiet redirection of attention toward the specific aging human being one belongs to",
+          "The dinner",
+          "The card"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
