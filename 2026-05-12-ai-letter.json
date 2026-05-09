@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "tags": [
+      "column",
+      "col-2026-05-12-ai-letter"
+    ],
     "paragraphs": [
       "I had to write a letter. The letter was for an old friend. He helped me a long time ago.",
       "I tried to write the letter. I could not find the words. I sat at my desk for an hour.",
@@ -32,7 +35,13 @@
       "그걸 보냈어요.",
       "어떤 편지는 기계가 만들 수 없다고 생각해요. 사람이 만들어야만 해요."
     ],
-    "targetWords": ["l1-134", "l1-094", "l1-098", "l2-080", "l1-282"],
+    "targetWords": [
+      "l1-134",
+      "l1-094",
+      "l1-098",
+      "l2-080",
+      "l1-282"
+    ],
     "quiz": [
       {
         "question": "Why did the writer not send the AI's letter?",
@@ -56,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "AIが書いた手紙を読んで、泣いてしまった",
+      "es": "Una IA Me Escribió una Carta y Lloré",
+      "id": "Sebuah AI Menulis Surat untuk Saya, dan Saya Menangis",
+      "vi": "Một AI Đã Viết Cho Tôi Một Lá Thư, và Tôi Đã Khóc",
+      "hi": "एक AI ने मुझे पत्र लिखा, और मैं रो पड़ा",
+      "th": "AI เขียนจดหมายถึงฉัน แล้วฉันก็ร้องไห้",
+      "pt-BR": "Uma IA Me Escreveu uma Carta e Eu Chorei"
+    }
   },
   {
     "id": "col-2026-05-12-ai-letter-l2",
@@ -66,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "tags": [
+      "column",
+      "col-2026-05-12-ai-letter"
+    ],
     "paragraphs": [
       "I needed to write a letter. It was not for work. It was for an old friend who had helped me at a difficult time, more than ten years ago.",
       "I sat at my desk on a Tuesday evening. I opened a blank document. I tried to start. After an hour, I had only one line, and I did not even like that line.",
@@ -99,7 +120,13 @@
       "그런데 오랜 친구에게 보내는 편지는 초안이 아니었어요. 한 특정한 사람으로부터 한 특정한 사람에게 보내는 작은 메시지였어요.",
       "어떤 것들은 우리가 기계에게 대신 쓰게 하는 순간 의미를 잃는다고 생각해요. 친구에게 보내는 편지가 그중 하나예요. 사과, 연애 편지, 그리고 작별 인사도 그 짧은 목록에 들어갈지 몰라요."
     ],
-    "targetWords": ["l1-134", "l2-080", "l2-079", "l2-287", "l2-117"],
+    "targetWords": [
+      "l1-134",
+      "l2-080",
+      "l2-079",
+      "l2-287",
+      "l2-117"
+    ],
     "quiz": [
       {
         "question": "Why did the writer feel the AI's letter was 'from no one'?",
@@ -123,7 +150,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "外注できなかった手紙",
+      "es": "La Carta que No Pude Delegar",
+      "id": "Surat yang Tidak Bisa Saya Serahkan ke Orang Lain",
+      "vi": "Lá Thư Tôi Không Thể Nhờ Người Khác Viết",
+      "hi": "वह पत्र जिसे मैं किसी और से नहीं लिखवा सका",
+      "th": "จดหมายที่ฉันไม่อาจให้ใครเขียนแทน",
+      "pt-BR": "A Carta Que Eu Não Pude Terceirizar"
+    }
   },
   {
     "id": "col-2026-05-12-ai-letter-l3",
@@ -133,7 +169,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "tags": [
+      "column",
+      "col-2026-05-12-ai-letter"
+    ],
     "paragraphs": [
       "I needed to write a letter this week. It was not for work. It was for an old friend who, more than ten years ago, did something quietly significant for me at a difficult time. I had owed him this letter for years.",
       "I sat down at my desk on a Tuesday evening. I opened a blank document. I tried to begin. After an hour I had one sentence, and I did not even like that sentence. I had erased it twice.",
@@ -170,7 +209,13 @@
       "이 메시지들의 전체 가치는, 특정한 한 인간이 어느 정도 시간 동안 또 다른 특정한 인간에 대해 생각했고, 그 생각을 — 불완전하게, 어색하게, 자기 자신의 더듬는 목소리로 — 단어로 옮기려고 시도했다는 사실에 있어요. 그 글의 기술적 결함은 글쓴이의 현존을 증명하는 것의 일부예요.",
       "이 편지들을 모델에게 넘길 때, 우리는 십 분을 절약해요. 또한 그것들이 애초에 존재했던 유일한 이유를 잃어요."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l3-734", "l3-147"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l3-734",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize the AI letter's voice?",
@@ -194,7 +239,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "送れなかった手紙",
+      "es": "La Carta que No Pude Enviar",
+      "id": "Surat yang Tidak Bisa Saya Kirim",
+      "vi": "Lá Thư Tôi Không Thể Gửi",
+      "hi": "वह पत्र जो मैं भेज नहीं सका",
+      "th": "จดหมายที่ฉันส่งไม่ได้",
+      "pt-BR": "A Carta Que Eu Não Pude Enviar"
+    }
   },
   {
     "id": "col-2026-05-12-ai-letter-l4",
@@ -204,7 +258,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "tags": [
+      "column",
+      "col-2026-05-12-ai-letter"
+    ],
     "paragraphs": [
       "I needed to write a letter this week. It was not for work, and it was not, in any structural sense, urgent. It was for an old friend who had, more than ten years ago, done something quietly significant for me at a difficult passage in my life. I had owed him the letter for years and had repeatedly failed to write it.",
       "I sat at my desk on a Tuesday evening with the deliberate intention of finally producing it. I opened a blank document. I tried, with what I considered reasonable concentration, to begin. After an hour, I had produced exactly one sentence, and I had erased that sentence twice. The blinking cursor was, in its small way, beginning to seem accusatory.",
@@ -241,7 +298,13 @@
       "이 메시지들의 전체 가치는, 검사해 보면, 특정한 한 인간이 어느 특정한 시간 동안 그 메시지와 함께 앉아, 또 다른 특정한 인간에 대해 생각했고, 그 생각을 — 불완전하게, 어색하게, 자기 자신의 약간 더듬는 목소리로 — 단어로 옮기려고 시도했다는 사실에 있어요. 결과로 나온 글의 작은 기술적 결함은 고쳐야 할 흠이 아니에요. 그것은 메시지 안에서 글쓴이의 현존을 증명하는 것의 일부예요.",
       "그런 편지들을 언어 모델에게 초안을 위해 넘길 때, 우리는 우리 자신의 불편함의 십 분을 절약해요. 또한 같은 제스처로, 거의 알아채지 못한 채로, 그 편지가 애초에 존재했던 유일한 이유를 잃어요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "What kind of writing does the writer say AI is excellent for?",
@@ -265,7 +328,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "旧友への手紙を外注することについて",
+      "es": "Sobre Delegar la Carta a un Viejo Amigo",
+      "id": "Tentang Menyerahkan Surat untuk Teman Lama kepada Mesin",
+      "vi": "Về Việc Nhờ Máy Viết Thư Cho Bạn Cũ",
+      "hi": "पुराने दोस्त के लिए पत्र किसी और से लिखवाने पर",
+      "th": "ว่าด้วยการให้คนอื่นเขียนจดหมายถึงเพื่อนเก่า",
+      "pt-BR": "Sobre Terceirizar a Carta Para Um Velho Amigo"
+    }
   },
   {
     "id": "col-2026-05-12-ai-letter-l5",
@@ -275,7 +347,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "tags": [
+      "column",
+      "col-2026-05-12-ai-letter"
+    ],
     "paragraphs": [
       "I needed to write a letter this week. It was not for work, and it was not, in any structural sense, urgent. It was for an old friend who had, more than ten years ago, done something quietly significant for me at a difficult passage in my life. I had owed him the letter for years, had thought about it intermittently, and had repeatedly failed to produce it.",
       "I sat at my desk on a Tuesday evening with the deliberate intention of finally writing it. I opened a blank document. I tried, with what I considered a reasonable degree of concentration, to begin. After roughly an hour, I had produced exactly one sentence, and I had erased that sentence twice. The blinking cursor was, in its small typographical way, beginning to seem mildly accusatory.",
@@ -314,7 +389,13 @@
       "그런 편지들을 언어 모델에게 초안을 위해 넘길 때, 우리는 아마 십 분의 불편함을 절약해요. 많은 개별 사례에서 더 다듬어진 텍스트를 만들어 낼 수도 있어요. 그러나 우리는 이걸, 다듬어진 텍스트 자체가 결코 완전히 보여 줄 수 없는 비용을 치르고 해요: 그런 편지가 애초에, 구조적으로, 존재해야 했던 유일한 이유의 손실.",
       "오랜 친구의 답장은 제가 계속 생각하는 한 문장으로 끝났어요. 그는 부분적으로, 최근에 자기 인생의 다른 사람들로부터 다듬어지고 완벽하게 구조화된 여러 메시지를 받았고, 그것들에 감사하면서도, 그중 어느 것도 제 것이 느껴진 방식으로 느껴지지 않았다고 썼어요. 의심되는 이유를 명명하지 않았어요. 그럴 필요가 없었어요. 그 이유는, 짐작하건대, 이 칼럼이 쓰여지고 있는 이유예요: 새로운 도구들이 사실상 쓸 수 없는 편지의 범주가 있어요 — 그 능력이 부족해서가 아니라, 이 범주에서 그 능력이 정확히 가져오기에 잘못된 것이기 때문이에요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize the AI's letter as a 'voice'?",
@@ -349,7 +430,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "外注できない手紙について",
+      "es": "Sobre las Cartas que No Pueden Ser Delegadas",
+      "id": "Tentang Surat-surat yang Tidak Bisa Diserahkan",
+      "vi": "Về Những Lá Thư Không Thể Nhờ Người Khác",
+      "hi": "उन पत्रों के बारे में जिन्हें किसी और से नहीं लिखवाया जा सकता",
+      "th": "ว่าด้วยจดหมายที่มอบหมายให้ใครไม่ได้",
+      "pt-BR": "Sobre as Cartas Que Não Podem Ser Terceirizadas"
+    }
   },
   {
     "id": "col-2026-05-12-ai-letter-l6",
@@ -359,7 +449,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-12-ai-letter"],
+    "tags": [
+      "column",
+      "col-2026-05-12-ai-letter"
+    ],
     "paragraphs": [
       "I needed to write a letter this week. It was not for work, and it was not, in any structural sense, urgent. It was for an old friend who had, more than ten years ago, done something quietly significant for me at a difficult and now-distant passage in my life. I had owed him the letter for years, had thought about it intermittently, and had repeatedly failed to actually produce it.",
       "I sat at my desk on a Tuesday evening with the deliberate and somewhat ritualized intention of finally writing it. I opened a blank document. I tried, with what I considered to be a reasonable degree of concentration, to begin. After approximately an hour, I had produced exactly one sentence, and I had erased that sentence twice. The blinking cursor at the end of the empty line was, in its small typographical way, beginning to seem mildly accusatory.",
@@ -402,7 +495,13 @@
       "현재의 문화적 순간으로부터 떠오르는 조용한 실용적 규칙이 있다고 생각해요, 아무도 아직 깔끔하게 형식화하지 않았더라도. 그것은 다음에 가까운 무엇이에요: 특정한 글이 특히 당신으로부터, 특히 한 특정한 다른 사람에게로, 같은 형태로 다시는 일어나지 않을 한 특정한 경우에 와야 한다고 더 많이 의도될수록, 자기 자신이 아닌 어떤 것에도 그것을 덜 넘겨야 해요. 그것을 자기 자신의 목소리로 천천히 쓰는 불편함은 장애물이 아니에요. 가까이서 검사해 보면, 그 불편함은 메시지가 수신자가 어떤 깊은 의미에서 바라고 있던 유일한 자질을 획득하는 매체예요.",
       "제가 마침내 보낸 편지는 십 분 걸렸고 모델이 일 분도 안 되어 만들어 낸 것보다 기술적으로 열등했어요. 모델 자체가 평가할 수 없는 모든 가용한 척도로, 더 나은 편지였어요. 어떤 구조적이고 위조 불가능한 의미에서도, 실제로 저로부터 온 유일한 것이었어요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "What 'extended short list' of letter categories does the writer claim cannot be outsourced?",
@@ -437,6 +536,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "言語モデルが、実は書けないもの",
+      "es": "Lo Que el Modelo de Lenguaje, en Realidad, No Puede Escribir",
+      "id": "Apa yang Sebenarnya Tidak Bisa Ditulis oleh Model Bahasa",
+      "vi": "Điều Mà Mô Hình Ngôn Ngữ Thật Sự Không Thể Viết",
+      "hi": "जो भाषा मॉडल वास्तव में नहीं लिख सकता",
+      "th": "สิ่งที่โมเดลภาษาที่จริงแล้วเขียนไม่ได้",
+      "pt-BR": "O Que o Modelo de Linguagem, na Verdade, Não Consegue Escrever"
+    }
   }
 ]

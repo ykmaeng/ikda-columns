@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "tags": [
+      "column",
+      "col-2026-05-15-untranslatable-word"
+    ],
     "paragraphs": [
       "There is one word in my language that I cannot say in English.",
       "I tried many times. I used long sentences. I used pictures. I used short stories. People still did not understand it well.",
@@ -32,7 +35,13 @@
       "그 단어도 간직할 거예요.",
       "함께, 우리는 조금 더 부유해질 거예요."
     ],
-    "targetWords": ["l1-134", "l1-094", "l1-093", "l1-097", "l1-098"],
+    "targetWords": [
+      "l1-134",
+      "l1-094",
+      "l1-093",
+      "l1-097",
+      "l1-098"
+    ],
     "quiz": [
       {
         "question": "Why does the writer say some words don't translate well?",
@@ -56,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "この韓国語は、英語に絶対訳せない",
+      "es": "Esta Palabra Coreana No Se Puede Traducir",
+      "id": "Kata Korea Ini Tidak Bisa Diterjemahkan",
+      "vi": "Từ Tiếng Hàn Này Không Thể Dịch Được",
+      "hi": "इस कोरियाई शब्द का अनुवाद नहीं हो सकता",
+      "th": "คำเกาหลีคำนี้แปลไม่ได้",
+      "pt-BR": "Esta Palavra Coreana Não Pode Ser Traduzida"
+    }
   },
   {
     "id": "col-2026-05-15-untranslatable-word-l2",
@@ -66,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "tags": [
+      "column",
+      "col-2026-05-15-untranslatable-word"
+    ],
     "paragraphs": [
       "There is a word in my first language that I have never been able to say in English. I have tried for years.",
       "I have used long sentences. I have used pictures. I have used short stories. People nod, but I can see they have not really understood. The word lands somewhere near, but not on, what I meant.",
@@ -93,7 +114,13 @@
       "그리고 제 언어가 모양을 가지고 있지 않은 그들의 언어의 단어들을 계속 들을 거예요.",
       "함께, 우리는 조금 더 부유해져요. 누군가 이기기 때문이 아니에요. 누구도 그래야 할 필요가 없기 때문이에요."
     ],
-    "targetWords": ["l1-134", "l1-282", "l1-097", "l2-079", "l2-287"],
+    "targetWords": [
+      "l1-134",
+      "l1-282",
+      "l1-097",
+      "l2-079",
+      "l2-287"
+    ],
     "quiz": [
       {
         "question": "How does the writer describe the difference between translation's meaning and weight?",
@@ -117,7 +144,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "故郷を離れない言葉",
+      "es": "Las Palabras que Se Quedan en Casa",
+      "id": "Kata-kata yang Tinggal di Rumah",
+      "vi": "Những Từ Không Rời Quê",
+      "hi": "वे शब्द जो घर पर ही रहते हैं",
+      "th": "คำที่ยังอยู่บ้าน",
+      "pt-BR": "As Palavras Que Ficam em Casa"
+    }
   },
   {
     "id": "col-2026-05-15-untranslatable-word-l3",
@@ -127,7 +163,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "tags": [
+      "column",
+      "col-2026-05-15-untranslatable-word"
+    ],
     "paragraphs": [
       "There is a word in my first language that I have never quite been able to say in English. I have tried for years, in hundreds of small conversations, with patient and impatient listeners alike.",
       "I have used long sentences. I have used pictures. I have used carefully constructed short stories that approach the word from the side, hoping to reveal it without naming it directly. People nod. They look thoughtful. Then I can see, in their faces, that the word has landed somewhere near my meaning but not exactly on it. The center of the meaning has remained behind, in the original language, untranslated.",
@@ -154,7 +193,13 @@
       "그리고 어떤 특별한 긴급함 없이, 제 언어가 모양을 가지고 있지 않은 그들의 언어의 단어들을 계속 들을 거예요.",
       "함께, 이 천천하고 비대칭적인 교환에서, 우리는 시간이 흐르면서 조금 더 부유해져요. 대화의 누군가 이기기 때문이 아니에요. 대화의 누구도 이길 필요가 없기 때문이에요."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l3-734", "l3-147"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l3-734",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "What does the writer say is the problem with translating four English words for one untranslatable word?",
@@ -178,7 +223,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "ひとつの言語にしか住まない言葉",
+      "es": "Las Palabras que Viven Solo en Un Idioma",
+      "id": "Kata-kata yang Hanya Hidup dalam Satu Bahasa",
+      "vi": "Những Từ Chỉ Sống Trong Một Ngôn Ngữ",
+      "hi": "वे शब्द जो केवल एक ही भाषा में रहते हैं",
+      "th": "คำที่อยู่ได้เพียงในภาษาเดียว",
+      "pt-BR": "As Palavras Que Vivem Apenas em Uma Língua"
+    }
   },
   {
     "id": "col-2026-05-15-untranslatable-word-l4",
@@ -188,7 +242,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "tags": [
+      "column",
+      "col-2026-05-15-untranslatable-word"
+    ],
     "paragraphs": [
       "There is a word in my first language that I have never quite been able to render adequately in English. I have tried for many years, in hundreds of small conversations across two continents, with patient and impatient listeners alike, and the result has never been entirely satisfactory.",
       "I have used long English sentences. I have used metaphors. I have used carefully constructed short anecdotes that approach the meaning of the word from the side, in the hope of revealing the contour of the feeling without naming it directly. People nod. They look thoughtful. Then I can see, in their facial expression, that the meaning has landed somewhere near what I intended but not exactly on it. The center of the original meaning has, in nearly every case, remained behind, in the original language, untranslated and untranslatable.",
@@ -215,7 +272,13 @@
       "그리고 어떤 특별한 긴급함 없이, 제 모국어가 가용한 모양을 가지고 있지 않은 다른 사람들의 언어의 단어들을 수년에 걸쳐 계속 들을 거예요. 그런 단어들의 목록은, 인내심 있는 관찰에서, 제가 처음에 예상한 것보다 더 길어요.",
       "함께, 이 천천하고 구조적으로 비대칭적인 교환에서 — 대부분 서로 만나지 않을 사람들에 의해, 대부분 단일한 공유 단어에 결코 정확히 도착하지 않는 대화에서 진행되는 — 우리 모두가 수십 년의 과정에 걸쳐 조금 조용히 더 부유해져요. 교환의 누군가 이기기 때문이 아니에요. 가까이서 검사해 보면, 교환의 누구도 이길 필요가 없기 때문이에요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "What does the writer suggest about cultures that lack a particular untranslatable word?",
@@ -239,7 +302,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "旅をしない言葉について",
+      "es": "Sobre las Palabras que Se Niegan a Viajar",
+      "id": "Tentang Kata-kata yang Menolak Berpergian",
+      "vi": "Về Những Từ Không Chịu Lên Đường",
+      "hi": "उन शब्दों के बारे में जो यात्रा नहीं करना चाहते",
+      "th": "ว่าด้วยคำที่ปฏิเสธการเดินทาง",
+      "pt-BR": "Sobre as Palavras Que Se Recusam a Viajar"
+    }
   },
   {
     "id": "col-2026-05-15-untranslatable-word-l5",
@@ -249,7 +321,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "tags": [
+      "column",
+      "col-2026-05-15-untranslatable-word"
+    ],
     "paragraphs": [
       "There is a particular word in my first language that I have never quite been able to render adequately in English. I have tried for many years, in hundreds of small conversations across two continents, with patient and impatient listeners alike, in formal and informal settings, with and without the assistance of dictionaries, and the result has never been entirely satisfactory in a way that I have come to find structurally interesting rather than personally frustrating.",
       "I have used long English sentences. I have used metaphors borrowed from physics, from cooking, from music. I have used carefully constructed short anecdotes that approach the meaning of the word from the side, in the hope of revealing the contour of the feeling without ever naming it directly. People nod. They look thoughtful in the appropriate way. Then I can see, in the configuration of their facial expression, that the meaning has landed somewhere near what I intended but not exactly on it. The center of the original meaning has, in nearly every case I can recall, remained behind in the original language, untranslated and ultimately untranslatable in any straightforward way.",
@@ -278,7 +353,13 @@
       "함께, 이 천천하고 구조적으로 비대칭적인 교환에서 — 대부분 직접 서로 만나지 않을 사람들에 의해, 대부분 단일한 공유 단어에 결코 정확히 도착하지 않는 대화에서 진행되는 — 우리 모두가 수십 년의 과정에 걸쳐 조금 조용히 더 부유해져요. 교환의 누군가 이기기 때문이 아니에요. 교환의 누군가 중요한 무언가를 포기하도록 강요받았기 때문이 아니에요. 가까이서 검사해 보면, 교환의 누구도 이길 필요가 없고, 누구도 어떤 것도 포기할 필요가 없기 때문이에요; 거래는 대체가 아니라 거의 전적으로 추가로 진행돼요.",
       "제 모국어에서 번역할 수 없었던 그 단어는 제 모국어 안에서 손상되지 않은 채 계속 살아요. 친구들이 제게 소개한 포르투갈어, 독일어, 일본어, 한국어 단어들은 그들의 언어 안에서 대부분 손상되지 않은 채 계속 살아요. 그것들 중 어느 것도 자리에서 밀려나지 않았어요. 그것들 각각이 이제 또한 제 자신의 내적 어휘 어딘가에 작고, 약간 비공식적인 방을 차지해요, 적절한 경험이 일어날 때 번역 없이 가용하고, 그것들을 사용할 공식적 자격이 있는지의 질문에 영향받지 않은 채로."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "What does the writer say is gained 'almost embarrassingly intimate' from learning new languages?",
@@ -313,7 +394,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "あなたと旅をしない言葉を抱えることについて",
+      "es": "Sobre Llevar una Palabra que No Viajará Contigo",
+      "id": "Tentang Membawa Kata yang Tidak Mau Ikut Bepergian dengan Anda",
+      "vi": "Về Việc Mang Theo Một Từ Không Đi Cùng Bạn",
+      "hi": "उस शब्द को साथ ले जाने पर जो आपके साथ यात्रा नहीं करेगा",
+      "th": "ว่าด้วยการพกคำที่ไม่ยอมเดินทางไปกับคุณ",
+      "pt-BR": "Sobre Carregar Uma Palavra Que Não Vai Viajar Com Você"
+    }
   },
   {
     "id": "col-2026-05-15-untranslatable-word-l6",
@@ -323,7 +413,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-15-untranslatable-word"],
+    "tags": [
+      "column",
+      "col-2026-05-15-untranslatable-word"
+    ],
     "paragraphs": [
       "There is a particular word in my first language that I have never quite been able to render adequately in English. I have been trying for many years now, in hundreds of small conversations across two continents and several professional and personal settings, with patient and impatient listeners alike, in formal and informal contexts, with and without the assistance of dictionaries and machine translation, and the result has never been entirely satisfactory in a way that I have come, over time, to find structurally interesting rather than personally frustrating, and which has gradually become part of how I think about language itself.",
       "I have used long English sentences. I have used metaphors borrowed from physics, from cooking, from music, from architecture. I have used carefully constructed short anecdotes that approach the meaning of the word from the side, in the hope of revealing the contour of the underlying feeling without ever naming it directly, the way one sometimes describes a person by describing their shadow rather than their face. People nod. They look thoughtful in approximately the appropriate way. Then I can see, in the precise configuration of their facial expression, that the meaning has landed somewhere near what I intended but not exactly on it. The structural center of the original meaning has, in nearly every case I can recall in detail, remained behind in the original language, untranslated and ultimately untranslatable in any straightforward way that I have so far been able to construct.",
@@ -358,7 +451,13 @@
       "제 모국어에서 번역할 수 없었던 그 특정한 단어는 제 모국어 안에서 손상되지 않은 그리고 변경되지 않은 채 계속 살아요, 적절한 경험이 일어날 때마다 노력 없이 가용해요. 다양한 곳에서 온 친구들이 수년에 걸쳐 제게 소개한 포르투갈어, 독일어, 일본어, 한국어, 그리고 다른 단어들은 그것들의 각각의 언어 안에서 대부분 손상되지 않은 그리고 대체로 변경되지 않은 채 계속 살아요. 그것들 중 어느 것도 다른 어느 것에 의해 그것의 원래 위치에서 밀려나지 않았어요. 그것들 각각이 이제 또한 제 자신의 내적 어휘 어딘가에 작고, 약간 비공식적이고, 약간 영토 외적인 방을 차지해요, 적절한 경험이 제 자신의 삶에서 일어날 때마다 번역 없이 사용 가능하고, 그것들을 사용할 공식적 자격이 있는지의 질문에 영향받지 않은 채로, 그리고 제가 우연히 어느 이 언어들 중 하나에 태어났는지의 질문에 전적으로 무관심한 채로.",
       "그게, 듣는 많은 해의 차분한 성찰에서, 번역하기를 거부하는 단어들에 대한 가장 조용히 중요한 것일지 몰라요. 그것들은, 결국, 다른 언어의 화자들을 서로로부터 나누지 않아요. 그것들은 — 천천히 그리고 어떤 특별한 팡파르 없이 — 우리 모두가 함께, 인간이 되는 것의 같은 연속적이고 결코 완전히 지도화 가능하지 않은 기저 경험의, 다른 방향으로의 부분 지도를 만들어 왔다는 것, 그리고 그 지도들이, 정중하게 그리고 인내심 있게 공유될 때, 누적된 이익으로 그리고 그것들 중 어느 것도 지워질 필요 없이 서로 함께 읽힐 수 있다는 것을 드러내요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "What 'structural lesson' does the writer find buried in untranslatable words?",
@@ -393,6 +492,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "ひとつの言語にしか住まない言葉と、それが静かに明かすもの",
+      "es": "Sobre las Palabras que Viven Solo en Un Idioma y Lo Que Silenciosamente Revelan",
+      "id": "Tentang Kata-kata yang Hanya Hidup dalam Satu Bahasa dan Apa yang Diungkapkannya Diam-diam",
+      "vi": "Về Những Từ Chỉ Sống Trong Một Ngôn Ngữ và Những Gì Chúng Lặng Lẽ Tiết Lộ",
+      "hi": "उन शब्दों के बारे में जो केवल एक ही भाषा में रहते हैं, और वे चुपचाप क्या प्रकट करते हैं",
+      "th": "ว่าด้วยคำที่อยู่ได้เพียงในภาษาเดียวและสิ่งที่มันเปิดเผยอย่างเงียบงัน",
+      "pt-BR": "Sobre as Palavras Que Vivem Apenas em Uma Língua e o Que Elas Silenciosamente Revelam"
+    }
   }
 ]

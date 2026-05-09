@@ -65,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "結局、GTA VIを諦めた",
+      "es": "Por Fin Me Rendí con GTA VI",
+      "id": "Akhirnya Saya Menyerah Menunggu GTA VI",
+      "vi": "Cuối Cùng Tôi Đã Bỏ Cuộc với GTA VI",
+      "hi": "मैंने आखिरकार GTA VI का इंतजार छोड़ दिया",
+      "th": "ในที่สุดฉันก็ยอมแพ้กับ GTA VI",
+      "pt-BR": "Finalmente Desisti de GTA VI"
+    }
   },
   {
     "id": "col-2026-05-08-gta6-l2",
@@ -139,7 +148,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "GTA VI、十三年の待ち時間",
+      "es": "GTA VI: Trece Años de Espera",
+      "id": "GTA VI: Tiga Belas Tahun Menunggu",
+      "vi": "GTA VI: Mười Ba Năm Chờ Đợi",
+      "hi": "GTA VI: तेरह साल का इंतजार",
+      "th": "GTA VI: สิบสามปีแห่งการรอคอย",
+      "pt-BR": "GTA VI: Treze Anos de Espera"
+    }
   },
   {
     "id": "col-2026-05-08-gta6-l3",
@@ -217,7 +235,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "GTA VI、13年の待ち時間が意味するもの",
+      "es": "GTA VI: Lo Que Significan 13 Años de Espera",
+      "id": "GTA VI: Apa Arti 13 Tahun Menunggu",
+      "vi": "GTA VI: 13 Năm Chờ Đợi Có Nghĩa Gì",
+      "hi": "GTA VI: 13 साल के इंतजार का क्या मतलब है",
+      "th": "GTA VI: 13 ปีแห่งการรอคอยหมายความว่าอย่างไร",
+      "pt-BR": "GTA VI: O Que Significam 13 Anos de Espera"
+    }
   },
   {
     "id": "col-2026-05-08-gta6-l4",
@@ -295,7 +322,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "GTA VI、待つことという静かな修練",
+      "es": "GTA VI: La Práctica Silenciosa de Esperar",
+      "id": "GTA VI: Latihan Tenang dari Menunggu",
+      "vi": "GTA VI: Sự Thực Hành Lặng Lẽ của Chờ Đợi",
+      "hi": "GTA VI: इंतजार का शांत अभ्यास",
+      "th": "GTA VI: ศิลปะเงียบสงบของการรอคอย",
+      "pt-BR": "GTA VI: A Prática Silenciosa de Esperar"
+    }
   },
   {
     "id": "col-2026-05-08-gta6-l5",
@@ -388,7 +424,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "GTA VI、十三年と失われた期待の技法",
+      "es": "GTA VI: Trece Años y el Arte Perdido de la Anticipación",
+      "id": "GTA VI: Tiga Belas Tahun dan Seni Antisipasi yang Hilang",
+      "vi": "GTA VI: Mười Ba Năm và Nghệ Thuật Mong Đợi Đã Mất",
+      "hi": "GTA VI: तेरह साल और प्रत्याशा की खोई कला",
+      "th": "GTA VI: สิบสามปีและศิลปะแห่งการรอคอยที่หายไป",
+      "pt-BR": "GTA VI: Treze Anos e a Arte Perdida da Antecipação"
+    }
   },
   {
     "id": "col-2026-05-08-gta6-l6",
@@ -483,6 +528,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "GTA VI、消えゆく『待つ』という規律",
+      "es": "GTA VI: La Disciplina que Desaparece de Esperar",
+      "id": "GTA VI: Disiplin Menunggu yang Memudar",
+      "vi": "GTA VI: Kỷ Luật Đang Mai Một của Việc Chờ Đợi",
+      "hi": "GTA VI: इंतजार का लुप्त होता अनुशासन",
+      "th": "GTA VI: วินัยแห่งการรอคอยที่กำลังเลือนหาย",
+      "pt-BR": "GTA VI: A Disciplina de Esperar Que Está Sumindo"
+    }
   }
 ]

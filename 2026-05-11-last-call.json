@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-11-last-call"],
+    "tags": [
+      "column",
+      "col-2026-05-11-last-call"
+    ],
     "paragraphs": [
       "Today I called my friend. I called her with my phone. We did not text.",
       "I tried to remember the last time I called her. I could not remember. It was many months ago.",
@@ -32,7 +35,13 @@
       "그런데 통화는 달라요. 그 사람을 들을 수 있어요.",
       "다시 전화할 거예요. 어쩌면 다음 주에. 다시 그렇게 오래 기다리고 싶지 않아요."
     ],
-    "targetWords": ["l1-134", "l1-213", "l1-097", "l1-098", "l1-252"],
+    "targetWords": [
+      "l1-134",
+      "l1-213",
+      "l1-097",
+      "l1-098",
+      "l1-252"
+    ],
     "quiz": [
       {
         "question": "What did the writer do today?",
@@ -56,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "5年ぶりに電話したら、友達が泣いた",
+      "es": "Llamé Después de Cinco Años, y Mi Amigo Lloró",
+      "id": "Saya Menelepon Setelah Lima Tahun, dan Teman Saya Menangis",
+      "vi": "Tôi Gọi Sau Năm Năm, Bạn Tôi Đã Khóc",
+      "hi": "पाँच साल बाद फोन किया, और मेरा दोस्त रो पड़ा",
+      "th": "โทรหาเพื่อนหลังห่าง 5 ปี เพื่อนร้องไห้",
+      "pt-BR": "Liguei Depois de Cinco Anos, e Meu Amigo Chorou"
+    }
   },
   {
     "id": "col-2026-05-11-last-call-l2",
@@ -66,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-11-last-call"],
+    "tags": [
+      "column",
+      "col-2026-05-11-last-call"
+    ],
     "paragraphs": [
       "Today I called a friend. Not a video call. Not a message. Just a phone call, with nothing on the screen.",
       "Before I called her, I tried to remember the last time we had spoken — really spoken, with our voices. I could not remember. It was somewhere in the previous winter. Months ago.",
@@ -95,7 +116,13 @@
       "우리 채팅을 지우진 않을 거예요. 채팅은 좋아요. 채팅이 우리를 연결해 줘요.",
       "그런데 이번 주, 친구 한 명에게 더 전화하고 싶어요. 그냥 그 사람을 듣기 위해. 한 시간만. 더 많은 시간이 흐르기 전에, 진짜 목소리의 질감을 다시 기억하기 위해."
     ],
-    "targetWords": ["l1-134", "l2-087", "l2-096", "l2-287", "l1-213"],
+    "targetWords": [
+      "l1-134",
+      "l2-087",
+      "l2-096",
+      "l2-287",
+      "l1-213"
+    ],
     "quiz": [
       {
         "question": "Why did the friend ask 'are you okay?' when answering?",
@@ -119,7 +146,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "最後に友達に電話したのはいつだろう",
+      "es": "¿Cuándo Llamé por Última Vez a Mi Amigo?",
+      "id": "Kapan Terakhir Saya Menelepon Teman Saya?",
+      "vi": "Lần Cuối Tôi Gọi Cho Bạn Là Khi Nào?",
+      "hi": "मैंने आखिरी बार अपने दोस्त को कब फोन किया था?",
+      "th": "ฉันโทรหาเพื่อนครั้งสุดท้ายเมื่อไหร่?",
+      "pt-BR": "Quando Foi a Última Vez que Liguei Para Meu Amigo?"
+    }
   },
   {
     "id": "col-2026-05-11-last-call-l3",
@@ -129,7 +165,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-11-last-call"],
+    "tags": [
+      "column",
+      "col-2026-05-11-last-call"
+    ],
     "paragraphs": [
       "I called a friend today. Not a video call. Not a voice message. A regular phone call, with nothing on the screen but the rising and falling line of her voice.",
       "Before I dialed, I tried to remember the last time we had actually spoken — voice to voice, in real time. I could not place it. It was somewhere in the previous winter, possibly around her father's birthday, possibly not.",
@@ -164,7 +203,13 @@
       "채팅 스레드를 지우진 않을 거예요. 문자는 괜찮아요. 문자는 긴 거리와 바쁜 삶을 가로질러 사람들을 느슨하게 연결해 둬요.",
       "그런데 이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 그냥 그 사람을 듣기 위해. 한 시간만. 또 한 계절이 지나서 다시 달을 세야 하기 전에, 진짜 목소리의 질감을 다시 기억하기 위해."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l1-134", "l3-147"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l1-134",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "What 'most telling sentence' does the writer identify in the call?",
@@ -188,7 +233,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "かけられなかった電話",
+      "es": "La Llamada que No Hice",
+      "id": "Panggilan Telepon yang Tidak Saya Buat",
+      "vi": "Cuộc Gọi Tôi Đã Không Thực Hiện",
+      "hi": "वह फोन जो मैंने नहीं किया",
+      "th": "สายโทรศัพท์ที่ฉันไม่ได้โทร",
+      "pt-BR": "A Ligação que Não Fiz"
+    }
   },
   {
     "id": "col-2026-05-11-last-call-l4",
@@ -198,7 +252,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-11-last-call"],
+    "tags": [
+      "column",
+      "col-2026-05-11-last-call"
+    ],
     "paragraphs": [
       "I called a friend today. Not a video call. Not a voice message left on a chat thread. A real, old-fashioned phone call, with nothing on the screen but the slow rising and falling line of her voice.",
       "Before I dialed, I tried to reconstruct the last time we had actually spoken — voice to voice, in real time, with both of us paying attention to the same conversation simultaneously. I could not place it. The most likely candidate was sometime in the previous winter, possibly around her father's birthday, possibly a few weeks before. The exact date had become irrelevant by the time I was trying to recover it.",
@@ -235,7 +292,13 @@
       "하지만 유지는 실제 관계와 같지 않아요. 관계는 근본적으로, 두 사람이 타협 없이 서로의 완전한 주의를 허용하는 순간에 살아요 — 그리고 그 순간들은 채팅 스레드 안에서 우리 둘 다 알아채는 경향이 있는 것보다 상당히 더 부족해졌어요.",
       "이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 어떤 특정한 이유로가 아니에요. 그냥 그들을 듣기 위해. 한 시간만. 또 한 분기가 지나서 마지막으로 우리가 실제로 이야기한 게 언제인지 다시 기억할 수 없게 되기 전에, 실시간 목소리의 질감을 다시 기억하기 위해."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l4-097", "l4-790"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l4-097",
+      "l4-790"
+    ],
     "quiz": [
       {
         "question": "What is the writer's actual subject — 'more than anything else'?",
@@ -259,7 +322,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "旧友には文字ではなく、電話を",
+      "es": "Sobre Llamar, en lugar de Escribir, a un Viejo Amigo",
+      "id": "Tentang Menelepon, Bukan Mengirim Pesan, kepada Teman Lama",
+      "vi": "Về Việc Gọi Điện, Không Phải Nhắn Tin, Cho Một Người Bạn Cũ",
+      "hi": "पुराने दोस्त को संदेश नहीं, फोन करने पर",
+      "th": "ว่าด้วยการโทร ไม่ใช่ส่งข้อความ ไปหาเพื่อนเก่า",
+      "pt-BR": "Sobre Ligar, em Vez de Mandar Mensagem, Para Um Velho Amigo"
+    }
   },
   {
     "id": "col-2026-05-11-last-call-l5",
@@ -269,7 +341,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-11-last-call"],
+    "tags": [
+      "column",
+      "col-2026-05-11-last-call"
+    ],
     "paragraphs": [
       "I called a friend today. Not a video call. Not a voice memo left on a chat thread. A regular, old-fashioned, audio-only phone call, with nothing on the screen but the slow rising and falling pattern of her voice and an indicator of the elapsed time.",
       "Before I dialed, I tried, with some difficulty, to reconstruct the last time we had actually spoken in real time — voice to voice, both of us paying attention to the same conversation simultaneously and exclusively. I could not place the previous occasion. The most plausible candidate was sometime during the preceding winter, possibly in proximity to her father's birthday. The exact date had become irrelevant by the time I was attempting to recover it.",
@@ -308,7 +383,13 @@
       "하지만 유지는 관계 그 자체와 같지 않아요. 관계는 근본적으로, 두 사람이 타협이나 동시 활동 없이 서로의 완전한 주의를 허용하는 그 더 짧고 점점 드물어지는 순간들에 살아요. 그 순간들은 채팅 스레드의 편안하고 진행 중인 리듬 안에서 어느 쪽이든 알아채는 경향이 있는 것보다 상당히 더 부족해졌어요.",
       "이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 어떤 특정한 이유로가 아니에요. 그냥 그들을 실시간에 듣기 위해. 한 시간만. 또 한 분기가 지나서 마지막으로 우리가 실제로 이야기한 날짜를 다시 떠올릴 수 없게 되기 전에, 공기 중의 실제 목소리의 질감을 다시 기억하기 위해."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l4-097", "l4-790"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l4-097",
+      "l4-790"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize 'the slow decline' of voice calls?",
@@ -343,7 +424,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "音声通話の、ゆっくりとした消失",
+      "es": "La Lenta Desaparición de la Llamada de Voz",
+      "id": "Hilangnya Panggilan Suara secara Perlahan",
+      "vi": "Sự Biến Mất Chậm Rãi của Cuộc Gọi Giọng Nói",
+      "hi": "वॉयस कॉल का धीमा लोप",
+      "th": "การจางหายไปอย่างช้าๆ ของสายเสียง",
+      "pt-BR": "O Desaparecimento Lento da Chamada de Voz"
+    }
   },
   {
     "id": "col-2026-05-11-last-call-l6",
@@ -353,7 +443,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-11-last-call"],
+    "tags": [
+      "column",
+      "col-2026-05-11-last-call"
+    ],
     "paragraphs": [
       "I called a friend today. Not a video call. Not a voice memo deposited on a chat thread. A regular, audio-only telephone call, with nothing on the screen but the slow rising and falling pattern of her voice and a small numerical indicator of the elapsed time.",
       "Before I dialed, I attempted, with non-trivial difficulty, to reconstruct the last occasion on which we had actually spoken in real time — voice to voice, both of us paying attention to the same conversation simultaneously and exclusively. I was unable to place the previous occasion with any confidence. The most plausible candidate was sometime during the preceding winter, possibly in proximity to her father's birthday, possibly several weeks earlier or later. The exact date had become irrelevant by the time I was attempting to recover it.",
@@ -394,7 +487,13 @@
       "하지만 유지는 관계 그 자체와 같지 않아요. 관계는 근본적으로, 두 사람이 서로의 완전하고, 분할되지 않고, 동시적인 주의를 허용하는 그 더 짧고 점점 드물어지는 순간들에 살아요. 그 순간들은 채팅 스레드의 편안하고 진행 중인 리듬 안에서 어느 쪽이든 알아채는 경향이 있는 것보다 상당히 더 부족해졌어요. 채팅 스레드는 현존의 외양을 만들어 내는 데는 능해요. 현존 그 자체를 만들어 내는 데는 서툴러요.",
       "이번 주, 옛 친구 한 명에게 더 전화하고 싶어요. 어떤 특정한 이유로가 아니에요. 설명을 요구하는 무엇이 일어났기 때문이 아니에요. 그냥 그들을 실시간에, 목소리 대 목소리로, 둘 다 잠시 다른 어떤 것에도 사용 불가능한 채로 듣기 위해. 한 시간만. 또 한 분기가 지나서 마지막으로 우리가 실제로 이야기한 날짜를 다시 떠올릴 수 없게 되기 전에, 공기 중의 실제 목소리의 특정 질감을 다시 기억하기 위해."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l4-097", "l4-790"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l4-097",
+      "l4-790"
+    ],
     "quiz": [
       {
         "question": "What 'generational version' of the decline does the writer notice?",
@@ -429,6 +528,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "友情がメッセージの流れになるとき、私たちが失うもの",
+      "es": "Lo Que Perdemos Cuando la Amistad Se Convierte en un Flujo de Mensajes",
+      "id": "Apa yang Hilang Ketika Persahabatan Menjadi Aliran Pesan",
+      "vi": "Điều Chúng Ta Mất Khi Tình Bạn Trở Thành Dòng Tin Nhắn",
+      "hi": "जब दोस्ती संदेशों की धारा बन जाए तो हम क्या खोते हैं",
+      "th": "สิ่งที่เราสูญเสียเมื่อมิตรภาพกลายเป็นกระแสข้อความ",
+      "pt-BR": "O Que Perdemos Quando a Amizade Vira um Fluxo de Mensagens"
+    }
   }
 ]

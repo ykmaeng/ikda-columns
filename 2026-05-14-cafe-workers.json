@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "tags": [
+      "column",
+      "col-2026-05-14-cafe-workers"
+    ],
     "paragraphs": [
       "Today I went to a small cafe. I went there to write.",
       "The cafe was full. But it was very quiet.",
@@ -32,7 +35,13 @@
       "조금 슬펐어요. 그런데 집에 온 것 같기도 했어요. 이 방을 알아요. 저도 이 사람들 중 한 명이에요.",
       "오늘날의 카페는 어쩌면 새로운 종류의 장소예요. 이야기하기 위한 곳이 아니에요. 그냥 다른 사람들과 함께, 혼자 있기 위한 곳이에요."
     ],
-    "targetWords": ["l1-074", "l1-282", "l1-097", "l1-098", "l1-134"],
+    "targetWords": [
+      "l1-074",
+      "l1-282",
+      "l1-097",
+      "l1-098",
+      "l1-134"
+    ],
     "quiz": [
       {
         "question": "What were the people in the cafe doing?",
@@ -56,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "カフェで耳にした一言が忘れられない",
+      "es": "No Puedo Olvidar lo que Oí en una Cafetería",
+      "id": "Saya Tidak Bisa Melupakan Apa yang Saya Dengar di Kafe",
+      "vi": "Tôi Không Thể Quên Câu Nói Tôi Nghe Lỏm ở Quán Cà Phê",
+      "hi": "एक कैफ़े में सुनी बात मैं भुला नहीं पाता",
+      "th": "ฉันลืมคำพูดที่ได้ยินในร้านกาแฟไม่ลง",
+      "pt-BR": "Não Consigo Esquecer o Que Ouvi Em Um Café"
+    }
   },
   {
     "id": "col-2026-05-14-cafe-workers-l2",
@@ -66,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "tags": [
+      "column",
+      "col-2026-05-14-cafe-workers"
+    ],
     "paragraphs": [
       "I went to a small cafe today to do some work. The cafe was almost full when I arrived.",
       "But it was strangely quiet. I stood at the door for a moment, surprised.",
@@ -97,7 +118,13 @@
       "오늘, 두 시간의 침묵 후, 짐을 쌌어요. 나가는 길에 문 종이 울렸어요. 일 초 동안 돌아서서 제가 떠난 자리를 봤어요. 일 분 안에 또 다른 낯선 사람이 또 다른 노트북을 가지고 그 자리에 앉았어요.",
       "자리는 오래 비어 있지 않았어요. 우리는 한마디도 안 해도 이걸 함께 하고 있어요."
     ],
-    "targetWords": ["l1-074", "l1-282", "l1-098", "l2-079", "l3-060"],
+    "targetWords": [
+      "l1-074",
+      "l1-282",
+      "l1-098",
+      "l2-079",
+      "l3-060"
+    ],
     "quiz": [
       {
         "question": "What does the writer compare the cafe to?",
@@ -121,7 +148,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "ひとりで、けれど共に働く",
+      "es": "Trabajando Solo, Juntos",
+      "id": "Bekerja Sendiri, Bersama-sama",
+      "vi": "Làm Việc Một Mình, Cùng Nhau",
+      "hi": "अकेले, मिलकर काम करते हुए",
+      "th": "ทำงานคนเดียว แต่อยู่ด้วยกัน",
+      "pt-BR": "Trabalhando Sozinhos, Juntos"
+    }
   },
   {
     "id": "col-2026-05-14-cafe-workers-l3",
@@ -131,7 +167,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "tags": [
+      "column",
+      "col-2026-05-14-cafe-workers"
+    ],
     "paragraphs": [
       "I went to a small cafe today, mostly to do some writing. The cafe was almost full when I arrived. I stood at the door for a moment because of how quiet it was — not the kind of quiet I had expected from a busy room.",
       "Almost every table held a person. Almost every person held a laptop. Some wore headphones. Some did not. All of them, in their slightly different postures, were looking at a screen.",
@@ -162,7 +201,13 @@
       "두 시간의 침묵 후, 짐을 쌌어요. 나가는 길에, 뒤에서 문 종이 울렸어요. 잠시 돌아서 방금 떠난 자리를 봤어요. 일 분 안에, 또 다른 낯선 사람이 또 다른 노트북을 가지고 앉았고, 같은 일반적인 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 무언가에 대해 일하기 시작했어요.",
       "자리는 오래 비어 있지 않았어요. 우리는 서로에게 한마디도 안 해도 이걸 함께 하고 있어요. 그게, 제 생각에는, 이런 방들의 실제 본성일지 몰라요 — 천천하고, 조용하고, 말로 표현되지 않은 집단적 의식, 평행하게, 시간 단위로, 그 진짜 기능을 주인도 손님도 완전히 계획하지 않은 카페에서 수행되는."
     ],
-    "targetWords": ["l3-036", "l3-150", "l3-163", "l3-060", "l3-147"],
+    "targetWords": [
+      "l3-036",
+      "l3-150",
+      "l3-163",
+      "l3-060",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "How does the writer describe the cafe's function in cities today?",
@@ -186,7 +231,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "見知らぬ者たちの静かなオフィス",
+      "es": "La Oficina Silenciosa de los Extraños",
+      "id": "Kantor Sunyi para Orang Asing",
+      "vi": "Văn Phòng Lặng Lẽ của Những Người Lạ",
+      "hi": "अजनबियों का शांत दफ्तर",
+      "th": "สำนักงานเงียบสงบของคนแปลกหน้า",
+      "pt-BR": "O Escritório Silencioso de Estranhos"
+    }
   },
   {
     "id": "col-2026-05-14-cafe-workers-l4",
@@ -196,7 +250,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "tags": [
+      "column",
+      "col-2026-05-14-cafe-workers"
+    ],
     "paragraphs": [
       "I went to a small cafe in my neighborhood this morning, mostly because I needed a change of room in which to do some writing. The cafe was nearly full when I arrived. I stood at the door for a moment, mildly surprised by how quiet the room was for the number of people in it.",
       "Almost every table had a person at it. Almost every person had a laptop open in front of them. A few had headphones on. Most did not, but were nonetheless concentrating on a screen rather than on anyone else in the room. The collective effect was of a small library that happened to serve coffee, except that the library would, on inspection, have had a stricter rule against typing.",
@@ -227,7 +284,13 @@
       "두 시간의 조용함 후, 노트북을 챙겨 떠났어요. 나가는 길에, 뒤에서 문 종이 울렸어요. 잠시 돌아서 방금 비운 자리를 봤어요. 일 분 안에, 제가 한 번도 본 적 없는 또 다른 낯선 사람이 또 다른 노트북을 가지고 그 테이블에 앉았고, 거의 같은 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 프로젝트에 대해, 거의 제 것과 동일한 조건에서 일하기 시작했어요.",
       "자리는 어떤 의미 있는 시간 동안도 비어 있지 않았어요. 우리는, 어떤 조용한 구조적 의미에서, 이 모든 것을 함께 하고 있었어요, 방의 어느 누구도 다른 어느 누구에게 한마디도 하지 않을 것이지만요. 그게, 제가 믿게 된 바로, 이 방들의 실제 본성에 가까운 무엇이에요 — 천천하고, 조용하고, 거의 완전히 말로 표현되지 않은 집단적 의식, 평행하게, 시간 단위로, 날 단위로, 그 진짜 현재 기능을 주인도 손님도 결코 의식적으로 만들기로 결정하지 않은 카페에서 수행되는."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "How does the writer describe the 'visual signature' of these cafes globally?",
@@ -251,7 +314,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "無所属者たちの新しいオフィスとしてのカフェ",
+      "es": "El Café como Nueva Oficina de los No Afiliados",
+      "id": "Kafe Sebagai Kantor Baru bagi Mereka yang Tidak Berafiliasi",
+      "vi": "Quán Cà Phê Như Văn Phòng Mới của Những Người Không Trực Thuộc",
+      "hi": "अनबंधित लोगों के नए दफ्तर के रूप में कैफ़े",
+      "th": "ร้านกาแฟในฐานะออฟฟิศใหม่ของผู้ไม่สังกัดองค์กร",
+      "pt-BR": "O Café Como o Novo Escritório dos Desafiliados"
+    }
   },
   {
     "id": "col-2026-05-14-cafe-workers-l5",
@@ -261,7 +333,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "tags": [
+      "column",
+      "col-2026-05-14-cafe-workers"
+    ],
     "paragraphs": [
       "I went to a small cafe in my neighborhood this morning, mostly because I needed a change of physical environment in which to do some writing that I had been putting off in my apartment. The cafe was nearly full when I arrived. I stood at the door for a moment, mildly and persistently surprised by how quiet the room was for the number of human beings present in it.",
       "Almost every table had a person at it. Almost every person had a laptop open in front of them. A few wore headphones, sometimes large and visibly noise-cancelling. Most did not wear headphones at all, but were nonetheless concentrating on a screen rather than on any other person in the room. The collective effect was that of a small public library that happened, by historical accident, to also serve coffee — except that an actual library, on inspection, would have enforced a stricter rule against typing.",
@@ -292,7 +367,13 @@
       "두 시간의 조용함 후 노트북을 챙겨 떠났어요. 나가는 길에, 뒤에서 문 종이 울렸어요. 잠시 돌아서 방금 비운 작은 테이블을 봤어요. 약 일 분 안에, 제가 한 번도 본 적 없는 또 다른 낯선 사람 — 다른 성별, 다른 나이, 다른 일반적 인구학적 프로필 — 이 그 정확한 테이블에 또 다른 노트북을 가지고 앉았고, 같은 바리스타에게 거의 같은 짧은 예의로 거의 같은 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 프로젝트에 대해, 제 것과 구조적으로 거의 동일한 조건에서 일하기 시작했어요.",
       "자리는 어떤 의미 있는 시간 동안도 비어 있지 않았어요. 방은, 가용한 증거상, 어떤 변화도 등록하지 않았어요. 우리는, 어떤 조용한 구조적 의미에서, 이 모든 것을 함께 하고 있었어요, 방의 어느 누구도 다른 어느 누구에게 한마디도 하지 않을 것이고, 우리 중 누구도, 어떤 진지한 의미에서, 다른 누구도 결코 알지 못할 것이지만요. 그게, 시간이 흐르면서 제가 믿게 된 바로, 이 방들의 실제 본성에 가까운 무엇이에요 — 천천하고, 조용하고, 거의 완전히 말로 표현되지 않은 집단적 의식, 평행하게, 시간 단위로, 날 단위로, 해 단위로, 그 진짜 현재 기능을 주인도 손님도 결코 함께 의식적으로 만들기로 결정하지 않았지만 — 그럼에도 우리 모두가 노트북과 커피잔으로 작은 매일의 투표로 조용히 그리고 지속적으로 존재로 불러낸 — 카페에서 수행되는."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "What does the writer say cafes today provide and withhold?",
@@ -327,7 +408,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "誰も決めないうちにオフィスになったカフェについて",
+      "es": "Sobre la Cafetería que Se Volvió Oficina Sin que Nadie lo Decidiera",
+      "id": "Tentang Kafe yang Menjadi Kantor Tanpa Ada yang Memutuskan",
+      "vi": "Về Quán Cà Phê Trở Thành Văn Phòng Mà Không Ai Quyết Định",
+      "hi": "उस कैफ़े के बारे में जो बिना किसी निर्णय के दफ्तर बन गया",
+      "th": "ว่าด้วยร้านกาแฟที่กลายเป็นสำนักงานโดยไม่มีใครตัดสินใจ",
+      "pt-BR": "Sobre o Café Que Virou Escritório Sem Que Ninguém Decidisse"
+    }
   },
   {
     "id": "col-2026-05-14-cafe-workers-l6",
@@ -337,7 +427,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-14-cafe-workers"],
+    "tags": [
+      "column",
+      "col-2026-05-14-cafe-workers"
+    ],
     "paragraphs": [
       "I went to a small cafe in my neighborhood this morning, mostly because I had been needing a change of physical environment in which to do some writing that I had been putting off, with diminishing plausibility, in my apartment for several days. The cafe was nearly full at the moment of my arrival. I stood at the door for a measurable interval, mildly and persistently surprised by how quiet the room was for the number of human beings physically present in it.",
       "Almost every table had a person seated at it. Almost every person had a laptop open in front of them. Several wore headphones, sometimes large and visibly noise-cancelling, sometimes small and unobtrusive. Most did not wear headphones at all, but were nonetheless oriented in their seated posture toward a screen rather than toward any other human being in the room. The collective effect was that of a small public library that happened, by historical accident, to also serve coffee — except that an actual library, on careful inspection, would have enforced a stricter rule against typing, and would in most cases have produced less noise from the espresso machine.",
@@ -368,7 +461,13 @@
       "두 시간의 조용함 후 노트북을 챙기고, 방문을 연 같은 짧은 예의로 카운터에서 마지막 작은 계산을 지불하고, 떠났어요. 나가는 길에, 뒤에서, 작고 잘 닳은 음악적 패턴으로 문 종이 울렸어요. 잠시 돌아서 방금 비운 작은 이인용 테이블을 봤어요. 약 일 분 안에, 제가 한 번도 본 적 없는 또 다른 낯선 사람 — 다른 성별, 다른 대략적 나이, 다른 일반적 인구학적 서명 — 이 그 정확한 테이블에 또 다른 노트북을 가지고 앉았고, 같은 바리스타에게 거의 같은 짧고 의식화된 예의로 거의 같은 종류의 커피를 주문했고, 제가 결코 아무것도 알지 못할 프로젝트에 대해, 제 것과 구조적으로 거의 동일한 조건에서, 거의 같은 자세로, 거의 같은 종류의 빛나는 직사각형 화면 앞에서 일하기 시작했어요.",
       "자리는 어떤 의미 있는 시간 동안도 비어 있지 않았어요. 방은, 어떤 가용한 증거상, 그것의 전체적 성격이나 관찰 가능한 음향 서명에서 어떤 변화도 등록하지 않았어요. 우리는, 제가 여전히 정확히 특징짓기를 시도하고 있는 어떤 조용한 구조적 의미에서, 이 모든 것을 함께 하고 있었어요, 방의 어느 누구도 다른 어느 누구에게 한마디도 하지 않을 것이고, 우리 중 누구도, 어떤 진지한 의미에서, 다른 누구도 사람으로서 결코 알게 되지 않을 것이지만요. 그게, 시간이 흐르면서 제가 점점 더 믿게 된 바로, 우리 현재 문화적 순간에 이 방들의 실제 본성에 가까운 무엇이에요 — 천천하고, 조용하고, 거의 완전히 말로 표현되지 않은 집단적 의식, 긴 평행으로, 시간 단위로, 날 단위로, 주 단위로, 해 단위로, 그 진짜 현재 기능을 원래 주인도 원래 손님도 결코 함께 의식적으로 만들기로 결정하지 않았지만 — 그럼에도 우리 모두가 노트북과 커피잔과 지속된 현존으로 작고 거의 완전히 무의식적인 매일의 투표로 조용히 그리고 지속적으로, 가만히 앉아 있는 작업을 하기에 충분히 크고, 충분히 싸고, 충분히 따뜻하고, 충분히 조용한 도시의 다른 어떤 명확히 가용한 방의 부재 속에서, 존재로 불러낸 — 카페에서 수행되는."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-150", "l3-163", "l4-584"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-150",
+      "l3-163",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize the historical novelty of contemporary cafes?",
@@ -403,6 +502,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "公共のカフェが静かに役割を変えることについて",
+      "es": "Sobre la Silenciosa Reutilización de la Cafetería Pública",
+      "id": "Tentang Perubahan Fungsi Senyap Kafe Publik",
+      "vi": "Về Việc Quán Cà Phê Công Cộng Đang Lặng Lẽ Đổi Vai Trò",
+      "hi": "सार्वजनिक कैफ़े के मौन पुनर्उपयोग पर",
+      "th": "ว่าด้วยการเปลี่ยนหน้าที่อย่างเงียบงันของคาเฟ่สาธารณะ",
+      "pt-BR": "Sobre a Silenciosa Repropriação do Café Público"
+    }
   }
 ]

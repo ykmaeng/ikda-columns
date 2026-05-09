@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "tags": [
+      "column",
+      "col-2026-05-10-mothers-phone"
+    ],
     "paragraphs": [
       "Today is Mother's Day. I called my mother.",
       "She has a new phone. The phone is hard for her. The letters are too small.",
@@ -32,7 +35,13 @@
       "제 일을 물으셨어요. 제 식사를 물으셨어요. 항상 묻는 같은 질문들을 물으셨어요.",
       "그 날은 단순했어요. 좋은 날이었어요."
     ],
-    "targetWords": ["l1-068", "l1-074", "l1-094", "l1-098", "l1-252"],
+    "targetWords": [
+      "l1-068",
+      "l1-074",
+      "l1-094",
+      "l1-098",
+      "l1-252"
+    ],
     "quiz": [
       {
         "question": "What did the writer help the mother do?",
@@ -56,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "母は私のメッセージを一度も読めなかった",
+      "es": "Mi Madre Nunca Ha Leído Mis Mensajes",
+      "id": "Ibu Saya Tidak Pernah Membaca Pesan Saya",
+      "vi": "Mẹ Tôi Chưa Bao Giờ Đọc Tin Nhắn của Tôi",
+      "hi": "मेरी माँ ने कभी मेरे संदेश नहीं पढ़े",
+      "th": "แม่ของฉันไม่เคยอ่านข้อความของฉัน",
+      "pt-BR": "Minha Mãe Nunca Leu Minhas Mensagens"
+    }
   },
   {
     "id": "col-2026-05-10-mothers-phone-l2",
@@ -66,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "tags": [
+      "column",
+      "col-2026-05-10-mothers-phone"
+    ],
     "paragraphs": [
       "Today is Mother's Day. I went to my parents' house. I did not bring flowers. I went to fix my mother's phone.",
       "She had a new phone for two months. She did not say anything, but I could see that she was using it less. She was sending fewer photos. She was reading my messages later than before.",
@@ -97,7 +118,13 @@
       "어머니의 날은 이상한 기념일이에요. 우리는 큰 방식으로 어머니께 감사하려고 해요. 큰 선물, 큰 저녁, 큰 말들. 하지만 가장 도움이 되는 건 작을 때가 있어요. 더 큰 글씨. 더 단순한 메뉴.",
       "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 짧게 썼어요. 단어를 단순하게 했어요. 제가 키워 드린 큰 글씨로 천천히 읽으실 거란 걸 알았어요."
     ],
-    "targetWords": ["l1-068", "l2-080", "l2-117", "l2-087", "l2-078"],
+    "targetWords": [
+      "l1-068",
+      "l2-080",
+      "l2-117",
+      "l2-087",
+      "l2-078"
+    ],
     "quiz": [
       {
         "question": "Why did the writer go to the parents' house?",
@@ -121,7 +148,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "母のスマホ、文字を大きく",
+      "es": "Letras Más Grandes en el Móvil de Mamá",
+      "id": "Huruf Lebih Besar di HP Ibu",
+      "vi": "Chữ Lớn Hơn trên Điện Thoại của Mẹ",
+      "hi": "माँ के फोन में बड़े अक्षर",
+      "th": "ตัวอักษรใหญ่ขึ้นบนมือถือแม่",
+      "pt-BR": "Letras Maiores no Celular da Mamãe"
+    }
   },
   {
     "id": "col-2026-05-10-mothers-phone-l3",
@@ -131,7 +167,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "tags": [
+      "column",
+      "col-2026-05-10-mothers-phone"
+    ],
     "paragraphs": [
       "Today is Mother's Day. I drove to my parents' house. I did not bring flowers, and I did not bring a card. I brought myself, and I brought the small intention of fixing my mother's phone.",
       "She had been using the new phone for two months. She had not complained — she rarely does — but I had been noticing the small signs. Fewer photos sent. Replies that came hours late. Calls instead of messages.",
@@ -166,7 +205,13 @@
       "우리가 가끔 할 수 있는 일은 어떤 작은 것을 조금 더 쉽게 만들어 드리는 거예요. 더 큰 글자. 더 밝은 화면. 한 번 누름으로 닿는 즐겨찾기 연락처. 이것들은 사랑의 상징이 아니에요. 우리 부모님이 이제 하루의 많은 시간을 들여다보고 계시는 유일한 매체를 통해 표현된 사랑 그 자체예요.",
       "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 단순하게 유지했어요. 제가 키워 드린 큰 글씨로 천천히 읽으실 거란 걸 알았어요. 그게 — 이제 깨닫는데 — 선물이었어요."
     ],
-    "targetWords": ["l3-060", "l3-143", "l3-180", "l1-068", "l2-117"],
+    "targetWords": [
+      "l3-060",
+      "l3-143",
+      "l3-180",
+      "l1-068",
+      "l2-117"
+    ],
     "quiz": [
       {
         "question": "What does the mother mean when she says 'a little'?",
@@ -190,7 +235,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "文字を大きくした日",
+      "es": "El Día en que Agrandé las Letras",
+      "id": "Hari Saya Memperbesar Huruf",
+      "vi": "Ngày Tôi Phóng To Chữ",
+      "hi": "जिस दिन मैंने अक्षर बड़े किए",
+      "th": "วันที่ฉันขยายตัวอักษรให้ใหญ่ขึ้น",
+      "pt-BR": "O Dia em Que Aumentei as Letras"
+    }
   },
   {
     "id": "col-2026-05-10-mothers-phone-l4",
@@ -200,7 +254,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "tags": [
+      "column",
+      "col-2026-05-10-mothers-phone"
+    ],
     "paragraphs": [
       "Today is Mother's Day. I went to my parents' house. I did not bring a bouquet, and I did not bring an envelope of cash. I brought, instead, the small operational intention of opening my mother's new phone and adjusting its font size to something she could actually read.",
       "She had been using the device for nearly two months. She had not complained, because she rarely does, but the indirect signals had been accumulating. Fewer photos sent to the family chat. Replies that arrived four hours after the message. Voice calls in place of texts. A subtle reorganization of her behavior around the limitations of her vision, performed without comment.",
@@ -233,7 +290,13 @@
       "가끔 가능한 것은 더 작고 더 유용한 무엇이에요. 더 큰 글자. 더 밝은 디스플레이. 단순화된 메뉴. 한 번 누름으로 닿는 즐겨찾기 연락처. 이것들은 관계를 바깥에서 장식하는 사랑의 상징이 아니에요. 우리의 늙어 가는 부모님이 이제 대부분의 주의 시간을 그 안에서 보내시는 유일한 매체를 통해 표현된 사랑 그 자체예요.",
       "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 의도적으로 단순하게, 문장을 짧게 유지했어요. 제가 설정한 확대된 글씨로, 차가워진 차의 잔여물을 옆에 둔 부엌에 앉아, 어머니가 천천히 읽으실 거란 걸 알았어요. 그게 — 이제 깨닫는데 — 선물이었어요. 방문이 아니에요. 조정이 아니에요. 어머니의 피곤한 눈이 노력 없이 만날 수 있을 만큼 큰 글자 크기로 도착하는, 읽힐 수 있는 메시지."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-180", "l1-068", "l2-117"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-180",
+      "l1-068",
+      "l2-117"
+    ],
     "quiz": [
       {
         "question": "What 'micro-rotation' does the writer recognize in the mother?",
@@ -257,7 +320,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "母のフォントサイズを調整する",
+      "es": "Ajustando el Tamaño de Letra de Mi Madre",
+      "id": "Menyesuaikan Ukuran Huruf Ibu",
+      "vi": "Chỉnh Cỡ Chữ trên Máy của Mẹ",
+      "hi": "माँ का फॉन्ट साइज समायोजित करना",
+      "th": "ปรับขนาดตัวอักษรในเครื่องของแม่",
+      "pt-BR": "Ajustando o Tamanho da Fonte da Minha Mãe"
+    }
   },
   {
     "id": "col-2026-05-10-mothers-phone-l5",
@@ -267,7 +339,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "tags": [
+      "column",
+      "col-2026-05-10-mothers-phone"
+    ],
     "paragraphs": [
       "Today is Mother's Day, observed in much of the world on the second Sunday of May. I drove to my parents' house. I did not bring a bouquet. I did not bring an envelope. I brought, instead, the modest operational intention of opening my mother's new phone and adjusting its display text size until the interface became something her eyes could comfortably meet.",
       "She had been using the device for nearly two months. She had not complained — she rarely does, on principle — but the indirect signals had accumulated to a point I could no longer ignore. Fewer photographs sent to the family chat. Text replies that arrived four hours after the original message. Voice calls in place of messages, sometimes for trivial questions. The shape of her interaction with the device had quietly reorganized itself around the limits of her vision, without explicit acknowledgment.",
@@ -304,7 +379,13 @@
       "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 의도적으로 단순하게 유지했어요. 문장을 짧게 유지했어요. 제가 설정한 확대된 글씨로, 차의 차가운 잔여물 옆에 부엌에 앉아, 늘 그래 왔던 방식으로 창문으로 들어오는 늦은 오후의 빛 속에서, 어머니가 천천히 읽으실 거란 걸 알았어요.",
       "그게, 제가 이제 이해하게 된 것은, 실제 선물이었어요. 방문이 아니에요. 조정이 아니에요. 제가 가져가지 않은 꽃다발이 아니에요. 어머니의 피곤한 눈이 긴장 없이 만날 수 있을 만큼 큰 글자 크기로 도착하는, 읽힐 수 있는 메시지. 어머니의 평범한 하루에서 한 가지 장애물을 제거하는, 작고 의도적인 행위."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-180", "l4-648", "l3-143"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-180",
+      "l4-648",
+      "l3-143"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize the mother's questions and 'a little' phrasing?",
@@ -339,7 +420,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "母のスマホのフォントサイズを設定する",
+      "es": "Sobre Configurar el Tamaño de Letra del Móvil de Mi Madre",
+      "id": "Tentang Mengatur Ukuran Huruf di HP Ibu",
+      "vi": "Về Việc Cài Cỡ Chữ trên Điện Thoại của Mẹ",
+      "hi": "माँ के फोन का फॉन्ट साइज सेट करने पर",
+      "th": "ว่าด้วยการตั้งขนาดตัวอักษรในมือถือของแม่",
+      "pt-BR": "Sobre Configurar o Tamanho da Fonte do Celular da Minha Mãe"
+    }
   },
   {
     "id": "col-2026-05-10-mothers-phone-l6",
@@ -349,7 +439,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-10-mothers-phone"],
+    "tags": [
+      "column",
+      "col-2026-05-10-mothers-phone"
+    ],
     "paragraphs": [
       "Today is the second Sunday of May, which in the calendar of a substantial portion of the world is observed as Mother's Day. The afternoon was unremarkable. I drove the familiar route to my parents' house. I did not bring a bouquet. I did not bring an envelope of cash. I brought instead the small, almost technical, intention of opening my mother's recently acquired phone and adjusting its display text size until the interface became something her eyes could meet without effort.",
       "She had been using the device for nearly two months. She had not, characteristically, complained — my mother considers most complaint a form of poor manners — but the indirect signals had accumulated to a point at which a sufficiently attentive child could no longer reasonably ignore them. A noticeable reduction in the number of photographs she sent to the family group chat. Text replies arriving four to six hours after the original message rather than within minutes. Voice calls substituted, increasingly often, for the briefest factual exchanges. Her interaction with the device had quietly reorganized itself around the limits of her vision, performed without acknowledgment and without external commentary.",
@@ -388,7 +481,13 @@
       "집으로 돌아가는 길에 어머니께 메시지를 보냈어요. 단어를 의도적으로 단순하게 유지했어요. 문장을 짧게 유지했어요. 제가 설정한 확대된 글씨로, 차의 차가운 잔여물 옆에 부엌 식탁에 앉아, 늦은 오후의 빛이 그 특정 창문으로 늘 들어오던 방식대로 늦은 오후의 빛이 들어오는 가운데, 어머니가 천천히 읽으실 거란 걸 알았어요.",
       "그게, 제가 이해하게 된 것은, 실제 선물이었어요. 방문이 아니에요, 비록 방문은 진짜였지만. 슬라이더 조정이 아니에요, 비록 그 조정이 기술적으로 그 방문이 만들어 낸 것이었지만. 제가 의도적으로 가져가지 않은 꽃다발이 아니에요. 실제 선물은 어머니의 피곤한 눈이 긴장 없이 만날 수 있을 만큼 큰 글자 크기로 어머니의 화면에 도착하는, 읽힐 수 있는 메시지였어요. 어머니의 평범한 하루의 평범한 지속에서, 아무리 짧게라도, 한 가지 장애물을 제거하는, 작고 의도적인 행위. 글자 크기와 메뉴 위계의 수준에서, 제가 우연히, 돌이킬 수 없게, 속해 있는 특정한 그리고 현재 늙어 가는 인간 존재에게로의, 제 자신의 주의의 조용한 재방향."
     ],
-    "targetWords": ["l4-097", "l4-790", "l3-180", "l4-648", "l3-143"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l3-180",
+      "l4-648",
+      "l3-143"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize Mother's Day's structural logic?",
@@ -423,6 +522,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "フォントサイズのスライダーに潜む静かな距離",
+      "es": "La Silenciosa Distancia Dentro de un Control de Tamaño de Letra",
+      "id": "Jarak Sunyi di Dalam Slider Ukuran Huruf",
+      "vi": "Khoảng Cách Lặng Lẽ trong Một Thanh Trượt Cỡ Chữ",
+      "hi": "फॉन्ट साइज स्लाइडर के भीतर की शांत दूरी",
+      "th": "ระยะห่างเงียบสงบในแถบเลื่อนปรับขนาดตัวอักษร",
+      "pt-BR": "A Distância Silenciosa Dentro de um Controle de Tamanho de Fonte"
+    }
   }
 ]

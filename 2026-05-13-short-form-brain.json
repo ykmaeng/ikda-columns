@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "tags": [
+      "column",
+      "col-2026-05-13-short-form-brain"
+    ],
     "paragraphs": [
       "Last night I watched short videos. I watched many of them. I started at ten. I stopped at one in the morning.",
       "I do not know what I watched. I cannot remember.",
@@ -32,7 +35,13 @@
       "책을 읽는 건 느려요. 움직이지 않아요. 그런데 더 많이 줘요.",
       "빠른 것들이 지쳤어요. 다시 느린 것들을 원해요."
     ],
-    "targetWords": ["l1-094", "l1-093", "l1-098", "l1-282", "l1-097"],
+    "targetWords": [
+      "l1-094",
+      "l1-093",
+      "l1-098",
+      "l1-282",
+      "l1-097"
+    ],
     "quiz": [
       {
         "question": "What did the writer notice when trying to read a book today?",
@@ -56,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "ショート動画を1週間やめた。何かが壊れた。",
+      "es": "Dejé los Videos Cortos por una Semana. Algo se Rompió.",
+      "id": "Saya Berhenti Menonton Video Pendek Seminggu. Ada Sesuatu yang Rusak.",
+      "vi": "Tôi Bỏ Video Ngắn Một Tuần. Có Gì Đó Đã Vỡ.",
+      "hi": "मैंने एक हफ्ते शॉर्ट वीडियो छोड़े। कुछ टूट गया।",
+      "th": "ฉันเลิกดูคลิปสั้นหนึ่งสัปดาห์ บางอย่างพังลง",
+      "pt-BR": "Larguei os Vídeos Curtos por Uma Semana. Algo Quebrou."
+    }
   },
   {
     "id": "col-2026-05-13-short-form-brain-l2",
@@ -66,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "tags": [
+      "column",
+      "col-2026-05-13-short-form-brain"
+    ],
     "paragraphs": [
       "Last night, I started watching short videos at ten. I planned to watch for fifteen minutes before sleep. I stopped at one in the morning.",
       "When I finally put the phone down, I tried to remember what I had watched. I could not. Three hours of video, and I could not name a single one.",
@@ -95,7 +116,13 @@
       "그래서 이번 주에 간단한 무언가를 시도해 보려고 해요. 짧은 영상 앱들을 폴더에 넣었어요. 그 폴더를 두 번째 화면으로 옮겼어요. 그중 하나는 지웠어요.",
       "강한 행동이 아니에요. 작은 행동이에요. 그래도 더 느린 뇌가 아직 안 어딘가에서, 쓰여지길 기다리며 있는지 보고 싶어요."
     ],
-    "targetWords": ["l1-094", "l2-117", "l1-098", "l3-060", "l3-147"],
+    "targetWords": [
+      "l1-094",
+      "l2-117",
+      "l1-098",
+      "l3-060",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "What did the writer feel after three hours of short videos?",
@@ -119,7 +146,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "スクロールを止められなかった夜",
+      "es": "La Noche que No Pude Dejar de Deslizar",
+      "id": "Malam Saya Tidak Bisa Berhenti Scrolling",
+      "vi": "Đêm Tôi Không Thể Dừng Lướt Màn Hình",
+      "hi": "वह रात जब मैं स्क्रॉल करना नहीं रोक सका",
+      "th": "คืนที่ฉันหยุดเลื่อนหน้าจอไม่ได้",
+      "pt-BR": "A Noite Em Que Não Consegui Parar de Rolar"
+    }
   },
   {
     "id": "col-2026-05-13-short-form-brain-l3",
@@ -129,7 +165,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "tags": [
+      "column",
+      "col-2026-05-13-short-form-brain"
+    ],
     "paragraphs": [
       "I started watching short videos last night at ten. I had told myself fifteen minutes — a small wind-down before sleep. I put the phone down at one in the morning.",
       "When I finally stopped, I tried to remember what I had watched in those three hours. I could not. I could recall a vague sense of laughter, a few flashes of color, the rhythm of someone speaking quickly. I could not name a single video. I could not even tell you what topic I had been on.",
@@ -160,7 +199,13 @@
       "이것들은 강한 조치가 아니에요. 누구도 구하지 않을 거예요. 어떤 밤에는, 제 자신의 뇌를 의심하기 시작했기 때문에 수행되는, 제 자신의 주의 환경에 대한 작은 실험들이에요.",
       "실험이 실패하면, 전보다 제 자신에 대해 더 많이 알게 될 거예요. 성공하면, 더 많은 페이지를, 더 천천히 읽게 될 거고, 그중 더 많은 걸 기억하게 될 거예요. 어느 결과든 그 다음 날 아침 그 내용을 떠올릴 수 없는 또 다른 세 시간의 스크롤링 세션보다 더 흥미로워요."
     ],
-    "targetWords": ["l3-060", "l3-147", "l3-734", "l3-150", "l3-163"],
+    "targetWords": [
+      "l3-060",
+      "l3-147",
+      "l3-734",
+      "l3-150",
+      "l3-163"
+    ],
     "quiz": [
       {
         "question": "How does the writer describe the 'wind' he feels when reading?",
@@ -184,7 +229,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "自分の脳を疑った夜",
+      "es": "La Noche que Sospeché de Mi Propio Cerebro",
+      "id": "Malam Saya Mencurigai Otak Sendiri",
+      "vi": "Đêm Tôi Nghi Ngờ Chính Bộ Não của Mình",
+      "hi": "वह रात जब मुझे अपने ही दिमाग पर शक हुआ",
+      "th": "คืนที่ฉันสงสัยสมองตัวเอง",
+      "pt-BR": "A Noite Em Que Suspeitei do Meu Próprio Cérebro"
+    }
   },
   {
     "id": "col-2026-05-13-short-form-brain-l4",
@@ -194,7 +248,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "tags": [
+      "column",
+      "col-2026-05-13-short-form-brain"
+    ],
     "paragraphs": [
       "I started watching short videos last night at approximately ten in the evening. I had told myself fifteen minutes — a small attentional wind-down before sleep, of the kind that has, in the present moment, replaced the older nighttime ritual of reading half a chapter of something. I put the phone down at one in the morning.",
       "When I finally stopped, I attempted, with non-trivial effort, to recall what I had actually watched in the preceding three hours. I could not. I could reconstruct a vague atmospheric impression — a sense of laughter, a memory of fast color, the rhythm of someone speaking quickly into a microphone — but I could not name a single individual video. I could not, on direct interrogation, tell you what subject category I had been moving through, or in what order, or with what motivation.",
@@ -225,7 +282,13 @@
       "이것들은 강한 조치가 아니에요. 그것들 자체로는 어떤 큰 문화적 추세도 뒤집지 않을 거예요. 어떤 합리적 시간선에서도 누구도 구하지 않을 거예요. 부분적으로, 어떤 밤에는, 어떤 세션 후에는, 제 자신의 뇌를 진짜로 의심하기 시작했기 때문에 수행되는, 제 자신의 주의 환경에 대한 작은 실험들이에요.",
       "실험이 실패하면, 전보다 제 자신에 대해 더 많이 알게 될 거예요. 성공하면, 더 많은 페이지를, 더 천천히, 더 큰 보유로, 그리고 아마 다소 더 큰 즐거움으로 읽게 될 거예요. 어느 결과든, 차분한 검사에서, 제가 아침까지 그 실제 내용을 완전히 떠올릴 수 없을 또 다른 세 시간의 스크롤링 세션보다 저녁의 더 흥미로운 사용이에요."
     ],
-    "targetWords": ["l3-060", "l3-147", "l4-097", "l4-790", "l4-584"],
+    "targetWords": [
+      "l3-060",
+      "l3-147",
+      "l4-097",
+      "l4-790",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "How does the writer characterize the change in his attention?",
@@ -249,7 +312,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "今の自分の脳を疑うことについて",
+      "es": "Sobre Sospechar del Cerebro que Tienes Ahora",
+      "id": "Tentang Mencurigai Otak yang Anda Miliki Sekarang",
+      "vi": "Về Việc Nghi Ngờ Bộ Não Mà Bạn Đang Có",
+      "hi": "अभी आपके पास जो दिमाग है उस पर शक करने पर",
+      "th": "ว่าด้วยการสงสัยสมองที่คุณมีอยู่ในขณะนี้",
+      "pt-BR": "Sobre Suspeitar do Cérebro Que Você Tem Agora"
+    }
   },
   {
     "id": "col-2026-05-13-short-form-brain-l5",
@@ -259,7 +331,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "tags": [
+      "column",
+      "col-2026-05-13-short-form-brain"
+    ],
     "paragraphs": [
       "I started watching short-form videos last night at approximately ten in the evening. I had told myself, with the practiced false sincerity of someone who has done this many times, that it would be fifteen minutes — a small attentional wind-down before sleep, of the kind that has, in the present cultural moment, more or less replaced the older nighttime ritual of reading half a chapter of a novel. I put the phone down at one in the morning.",
       "When I finally stopped, I attempted, with what I have come to recognize as non-trivial cognitive effort, to recall what I had actually watched in the preceding three hours. I could not. I was able to reconstruct a vague atmospheric impression — a sense of laughter, a memory of rapid color change, the rhythm of someone speaking quickly into a microphone — but I could not name a single individual video. I could not, on direct interrogation, tell you what subject category I had been moving through, in what order I had encountered topics, or with what motivation I had paused or scrolled past any particular item.",
@@ -292,7 +367,13 @@
       "이 모든 것에 그 자체의 용어로 흥미로운 이상한 재귀적 측면이 있어요. 다음 것에 대한 선호가, 사실상, 이제 그 선호를 평가하는 것을 책임지는 뇌를 수정했어요. 판단 도구가 지금 평가하려고 시도하는 바로 그 입력에 의해 다시 훈련됐어요. 저는, 어떤 조용한 구조적 의미에서, 그 식이요법 자체가 다시 형성한 미각으로 제 최근 식이요법의 좋음을 평가하려고 시도하고 있어요.",
       "작은 실험이 실패하면, 전보다 제 자신과 작은 실험의 한계에 대해 다소 더 많이 알게 될 거예요. 성공하면, 더 많은 페이지를, 더 천천히, 더 큰 보유로, 그리고 아마 적어도 다소 더 큰 조용한 즐거움으로 읽게 될 거예요. 어느 결과든, 차분하고 어른스러운 검사에서, 제가 그 다음 날 아침까지 그 실제 내용을 완전히 그리고 재현 가능하게 떠올릴 수 없을 또 다른 세 시간의 스크롤링 세션보다 저녁의 더 흥미로운 사용이에요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l4-584", "l4-085", "l3-147"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l4-584",
+      "l4-085",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "What 'recursive aspect' does the writer find interesting?",
@@ -327,7 +408,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "最近訓練した自分の脳を疑う",
+      "es": "Sospechar del Cerebro que Has Entrenado Recientemente",
+      "id": "Mencurigai Otak yang Baru-baru Ini Anda Latih",
+      "vi": "Nghi Ngờ Bộ Não Mà Bạn Vừa Huấn Luyện",
+      "hi": "हाल में प्रशिक्षित किए गए अपने दिमाग पर शक करना",
+      "th": "การสงสัยสมองที่คุณเพิ่งฝึกฝนมา",
+      "pt-BR": "Suspeitando do Cérebro Que Você Treinou Recentemente"
+    }
   },
   {
     "id": "col-2026-05-13-short-form-brain-l6",
@@ -337,7 +427,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-13-short-form-brain"],
+    "tags": [
+      "column",
+      "col-2026-05-13-short-form-brain"
+    ],
     "paragraphs": [
       "I started watching short-form videos last night at approximately ten in the evening. I had told myself, with the practiced false sincerity of someone who has performed this self-deception many times in succession, that it would be fifteen minutes — a small attentional wind-down before sleep, of the kind that has, in the present cultural moment, more or less replaced the older nighttime ritual of reading half a chapter of a novel before turning out the bedside lamp. I put the phone down at one in the morning, with the lamp, by then, having been on for the entire intervening period.",
       "When I finally stopped, I attempted, with what I have come to recognize as genuinely non-trivial cognitive effort, to recall what I had actually watched in the preceding three hours. I could not. I was able to reconstruct a vague atmospheric impression — a sense of laughter, a memory of rapid color change, the rhythm of someone speaking quickly into a microphone, the pulse of music looped under unrelated visual material — but I could not name a single individual video. I could not, on direct interrogation of my own memory, tell you what subject category I had been moving through, in what order I had encountered topics, at which moments I had paused or scrolled past or returned to anything in particular, or with what motivation any of these micro-decisions had been taken.",
@@ -374,7 +467,13 @@
       "작은 실험이 실패하면 — 일요일까지, 조용히 그 실제 내용을 이후에 떠올릴 수 없는 세 시간의 스크롤링 세션으로 돌아갔다면 — 전보다 제 자신, 그리고 잘 자금이 지원된 참여 디자인에 대한 작은 개별 실험의 한계에 대해 다소 더 많이 알게 될 거예요. 실험이 성공하면 — 일요일까지, 더 많은 페이지를, 더 천천히, 더 큰 보유로, 그리고 아마 적어도 다소 더 큰 조용한 즐거움으로 읽었다면 — 페이지를 읽은 것에 더해, 지속된 주의를 위한 더 오래된 능력이, 최근의 외양에도 불구하고, 제 안에서 완전히 덮어쓰여지지 않았다는 어떤 증거를 모은 셈이 될 거예요.",
       "어느 결과든, 차분하고 어른스러운 검사에서, 제가 그 다음 날 아침까지 그 실제 내용을 완전히 그리고 재현 가능하게 떠올릴 수 없을 또 다른 세 시간의 스크롤링 세션 — 그 유일한 지속적인 흔적이 약간 더 나쁜 기분, 약간 더 피곤한 몸, 그리고 다음에 90초 이상 한 페이지에 현존해야 하는 무엇이든 하려고 앉을 때 휴대폰을 향한 손의 약간 더 깊이 새겨진 자동적 뻗음일, 세션 — 보다 저녁의 더 흥미로운 사용이에요."
     ],
-    "targetWords": ["l4-097", "l4-790", "l4-584", "l4-085", "l3-147"],
+    "targetWords": [
+      "l4-097",
+      "l4-790",
+      "l4-584",
+      "l4-085",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "How does the writer position himself in relation to 'safer shore' moralism?",
@@ -409,6 +508,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "現代の精神が静かに再訓練されることについて",
+      "es": "Sobre el Silencioso Reentrenamiento de la Mente Moderna",
+      "id": "Tentang Pelatihan Ulang Senyap Pikiran Modern",
+      "vi": "Về Việc Tâm Trí Hiện Đại Đang Bị Tái Huấn Luyện Lặng Lẽ",
+      "hi": "आधुनिक मन के मौन पुनर्प्रशिक्षण पर",
+      "th": "ว่าด้วยการฝึกฝนใหม่อย่างเงียบงันของจิตใจสมัยใหม่",
+      "pt-BR": "Sobre o Silencioso Retreinamento da Mente Moderna"
+    }
   }
 ]

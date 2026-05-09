@@ -7,7 +7,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 1,
-    "tags": ["column", "col-2026-05-09-birdsong"],
+    "tags": [
+      "column",
+      "col-2026-05-09-birdsong"
+    ],
     "paragraphs": [
       "This morning, I heard a bird. The window was open. The sound was very clear.",
       "I live in a big city. There are many cars. There is a lot of noise.",
@@ -32,12 +35,23 @@
       "우리는 큰 것들을 이야기해요. 높은 건물. 빠른 기차. 큰 상점. 하지만 새들도 도시의 일부예요.",
       "오늘은 새들의 날이에요. '세계 철새의 날'이에요. 한 마리라도 들어서 기뻐요."
     ],
-    "targetWords": ["l1-052", "l1-079", "l1-094", "l1-097", "l1-282"],
+    "targetWords": [
+      "l1-052",
+      "l1-079",
+      "l1-094",
+      "l1-097",
+      "l1-282"
+    ],
     "quiz": [
       {
         "question": "What did the writer hear this morning?",
         "questionKo": "글쓴이는 오늘 아침 무엇을 들었나요?",
-        "options": ["A car", "A bird", "A train", "A phone"],
+        "options": [
+          "A car",
+          "A bird",
+          "A train",
+          "A phone"
+        ],
         "correctIndex": 1
       },
       {
@@ -51,7 +65,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "最後に鳥の声を聞いたのはいつですか",
+      "es": "¿Cuándo Fue la Última Vez Que Oíste un Pájaro?",
+      "id": "Kapan Terakhir Anda Mendengar Suara Burung?",
+      "vi": "Lần Cuối Bạn Nghe Tiếng Chim Là Khi Nào?",
+      "hi": "आपने आखिरी बार पक्षी की आवाज कब सुनी थी?",
+      "th": "ครั้งสุดท้ายที่คุณได้ยินเสียงนกคือเมื่อไหร่?",
+      "pt-BR": "Quando Foi a Última Vez Que Você Ouviu um Pássaro?"
+    }
   },
   {
     "id": "col-2026-05-09-birdsong-l2",
@@ -61,7 +84,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 2,
-    "tags": ["column", "col-2026-05-09-birdsong"],
+    "tags": [
+      "column",
+      "col-2026-05-09-birdsong"
+    ],
     "paragraphs": [
       "I heard a bird sing this morning. The strange thing was that I noticed.",
       "I live in a city with millions of people. Cars, buses, talking, building work, music from every shop. The noise is normal. Most days I do not even hear it.",
@@ -92,7 +118,13 @@
       "저한테 그걸 증명할 데이터는 없어요. 그냥 한 마리의 새, 한 번의 아침, 열린 창문 하나뿐이에요.",
       "그래도, 무언가 의미가 있다고 생각해요."
     ],
-    "targetWords": ["l1-213", "l2-037", "l2-079", "l2-142", "l2-131"],
+    "targetWords": [
+      "l1-213",
+      "l2-037",
+      "l2-079",
+      "l2-142",
+      "l2-131"
+    ],
     "quiz": [
       {
         "question": "Why did the writer notice the bird this morning?",
@@ -116,7 +148,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "都市が静かになるとき",
+      "es": "Cuando la Ciudad se Vuelve Silenciosa",
+      "id": "Ketika Kota Menjadi Sunyi",
+      "vi": "Khi Thành Phố Trở Nên Tĩnh Lặng",
+      "hi": "जब शहर शांत हो जाता है",
+      "th": "เมื่อเมืองเงียบสงบ",
+      "pt-BR": "Quando a Cidade Fica Silenciosa"
+    }
   },
   {
     "id": "col-2026-05-09-birdsong-l3",
@@ -126,7 +167,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 3,
-    "tags": ["column", "col-2026-05-09-birdsong"],
+    "tags": [
+      "column",
+      "col-2026-05-09-birdsong"
+    ],
     "paragraphs": [
       "This morning I heard a bird through an open window. It was a brief thing — maybe two minutes — but it stayed with me. The strange part was not that the bird was there; it was that I noticed.",
       "I live in a city of nine million people. Construction, traffic, sirens, conversation, the bass leaking from every car. The noise is so constant that it has become a kind of silence. I no longer hear it the way I would hear a foreign language.",
@@ -161,7 +205,13 @@
       "오늘 아침의 새는 그저 한 마리의 새였어요. 어떤 정책도 바꾸지 않을 거예요. 어떤 도시 계획 보고서에도 등장하지 않을 거예요.",
       "그런데 작은 노래 한 곡이 무언가를 시사할 수 있는 한도 안에서 부드럽게, 그것은 새들을 위한 자리가 아직 남아 있는 도시들이 인간이 자기 자신으로 머무를 수 있는 자리도 남아 있는 도시일지 모른다는 것을 시사하고 있었어요."
     ],
-    "targetWords": ["l3-060", "l3-147", "l3-433", "l3-462", "l3-734"],
+    "targetWords": [
+      "l3-060",
+      "l3-147",
+      "l3-433",
+      "l3-462",
+      "l3-734"
+    ],
     "quiz": [
       {
         "question": "Why does the writer say the bird's song felt 'almost surgical'?",
@@ -185,7 +235,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "都市を住みやすくするものとは",
+      "es": "¿Qué Hace que una Ciudad Sea Habitable?",
+      "id": "Apa yang Membuat Kota Layak Huni?",
+      "vi": "Điều Gì Khiến Một Thành Phố Đáng Sống?",
+      "hi": "क्या एक शहर को रहने योग्य बनाता है?",
+      "th": "อะไรทำให้เมืองน่าอยู่?",
+      "pt-BR": "O Que Torna Uma Cidade Habitável?"
+    }
   },
   {
     "id": "col-2026-05-09-birdsong-l4",
@@ -195,7 +254,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 4,
-    "tags": ["column", "col-2026-05-09-birdsong"],
+    "tags": [
+      "column",
+      "col-2026-05-09-birdsong"
+    ],
     "paragraphs": [
       "The bird arrived this morning at the corner of my open window. I was making coffee. The kettle had not yet boiled. The street outside, in that brief gray interval before the commute begins, was still mostly empty.",
       "The song lasted perhaps ninety seconds. It was not unusual in any ornithological sense. It was, in fact, the most ordinary kind of moment. What was unusual was that I noticed.",
@@ -230,7 +292,13 @@
       "오늘 아침의 새는 어떤 의미에서 감사 같은 것이었어요. 도시 환경이 천천히 빼 간 것이 무엇인지를 잠시 떠올리게 했어요. 정책을 제안하는 건 아니에요. 가끔, 이른 시간에, 창문을 열어 두고, 아직 거기 있는 것을 들어 보는 연습만 제안해요.",
       "어쨌든 오늘은 새들의 날이에요. 새들은 우리가 알아챘는지 알 수 없을 거예요. 그래도 알아챔은 우리의 것이에요. 그것이 한 해의 나머지 시간 동안 우리가 도시에서 사는 방식을 작은 방식으로 바꿔요."
     ],
-    "targetWords": ["l4-085", "l4-097", "l4-425", "l4-573", "l4-584"],
+    "targetWords": [
+      "l4-085",
+      "l4-097",
+      "l4-425",
+      "l4-573",
+      "l4-584"
+    ],
     "quiz": [
       {
         "question": "Why does the writer say birdsong is 'inaudible' on most days?",
@@ -254,7 +322,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "都市が忘れたものに耳を澄ます",
+      "es": "Escuchar lo que la Ciudad Olvida",
+      "id": "Mendengarkan Apa yang Dilupakan Kota",
+      "vi": "Lắng Nghe Những Gì Thành Phố Đã Quên",
+      "hi": "शहर जो भूल गया उसे सुनना",
+      "th": "ฟังสิ่งที่เมืองลืมเลือน",
+      "pt-BR": "Ouvindo o Que a Cidade Esquece"
+    }
   },
   {
     "id": "col-2026-05-09-birdsong-l5",
@@ -264,7 +341,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 5,
-    "tags": ["column", "col-2026-05-09-birdsong"],
+    "tags": [
+      "column",
+      "col-2026-05-09-birdsong"
+    ],
     "paragraphs": [
       "The bird arrived at my open window this morning at some point between the kettle going on and its first whistle. I cannot have heard it for more than ninety seconds. The street below was still in that brief, almost undocumented interval before the commute starts — the few minutes when a major city is briefly less than itself.",
       "The song was, in any ornithological sense, unremarkable. The remarkable thing, on reflection, was the simple fact of having registered it at all. In a normal acoustic environment of dense urban life, a sound that small does not survive long enough to reach attention.",
@@ -303,7 +383,13 @@
       "중요할 수 있는 것은, 90초 동안, 평범한 아침이 도시가 만들지 않았고 소유할 수 없는 무언가에 대한 주의의 한 사례를 잠시 담고 있었다는 사실이에요. 그런 종류의 주의는 예전보다 더 부족해졌어요. 그것이 사라질 때 무엇이 그 자리를 대신하는지는 완전히 분명하지 않아요.",
       "오늘은 새들의 날이에요. 그들은 우리가 알아챘는지 알 수 없을 거예요. 하지만 알아채는 연습은 — 조용한 아침에 가끔 열린 창문에서 작은 방식으로 보존되는 — 도시가 시간이 흐르면서 사람으로 살기 좋은 곳이 되는지를 결정하는 것들 중 하나예요."
     ],
-    "targetWords": ["l5-090", "l4-097", "l4-425", "l4-584", "l3-147"],
+    "targetWords": [
+      "l5-090",
+      "l4-097",
+      "l4-425",
+      "l4-584",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "What does the writer mean by 'present and inaudible at the same time'?",
@@ -338,7 +424,16 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "鳥の声、都市の静かな指標として",
+      "es": "El Canto de los Pájaros como Índice Silencioso de una Ciudad",
+      "id": "Kicau Burung Sebagai Penanda Sunyi Sebuah Kota",
+      "vi": "Tiếng Chim Như Một Chỉ Số Lặng Lẽ của Thành Phố",
+      "hi": "पक्षी का गीत: शहर का शांत सूचक",
+      "th": "เสียงนกในฐานะดัชนีเงียบของเมือง",
+      "pt-BR": "O Canto dos Pássaros Como Índice Silencioso de Uma Cidade"
+    }
   },
   {
     "id": "col-2026-05-09-birdsong-l6",
@@ -348,7 +443,10 @@
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
     "level": 6,
-    "tags": ["column", "col-2026-05-09-birdsong"],
+    "tags": [
+      "column",
+      "col-2026-05-09-birdsong"
+    ],
     "paragraphs": [
       "The episode that prompted this column was minor in every formal sense and difficult to date precisely. At some interval between the heating element of my electric kettle ascending toward boiling and its eventual whistle, a bird, perched somewhere just beyond my open window, produced a sequence of notes that lasted, by my best reconstruction, no more than ninety seconds. I did not see the bird. I cannot identify the species. I have no recording. The street below was, at that hour, in the brief and almost undocumented interval before the morning commute begins to fill it — the few minutes during which a metropolitan area of several million people is, transiently and without ceremony, briefly less than fully itself.",
       "The song was unremarkable in any ornithological sense. The remarkable matter, on reflection, was the simple fact that it had registered at all. The acoustic ecology of a contemporary dense city is, in most places and at most times, dominated by mechanical sound at a level and constancy that effectively renders quieter biological signals inaudible to all but the most attentive listeners. Hearing a single bird, fully and without distraction, has become, in such environments, an event sufficiently rare to merit reflection.",
@@ -389,7 +487,13 @@
       "의미 있을 수 있는 것은, 5월의 평범한 아침 90초 동안, 비범하지 않은 도시 실내가 도시가 설계하지 않았고 상업화할 수 없는 무언가에 대한 주의의 한 사례를 잠시 담고 있었다는 사실이에요. 그런 종류의 주의는 가용한 대부분의 증거상, 도시 밀도와 그것을 둘러싼 플랫폼들이 강화된 것에 비례해 더 부족해졌어요. 그것이 사라질 때 우리가 그것이 떠난 자리에 무엇을 놓고 있는지는 완전히 분명하지 않아요.",
       "오늘은, 어떻게든 형식적으로, 새들의 날이에요. 새들은 우리가 알아챘다는 것을 배우지 못할 거예요. 그러나 알아채는 연습은 — 이른 아침의 가끔 열린 창문에서, 화면과 일정에서 잠시 다른 곳으로 돌려진 주의의 순간에 작은 방식으로 보존되는 — 시간이 흐르면서 어떤 도시가 처리량 단위 이상의 무엇으로 살 수 있는 곳이 되는지를 조용히 결정하는 것들 중 하나라고, 점점 더 확신하게 돼요."
     ],
-    "targetWords": ["l5-090", "l4-097", "l4-584", "l4-425", "l3-147"],
+    "targetWords": [
+      "l5-090",
+      "l4-097",
+      "l4-584",
+      "l4-425",
+      "l3-147"
+    ],
     "quiz": [
       {
         "question": "How does the writer describe the relation between modern urban noise and birdsong?",
@@ -424,6 +528,15 @@
         ],
         "correctIndex": 1
       }
-    ]
+    ],
+    "titles": {
+      "ja": "鳥を抱き続ける都市であることについて",
+      "es": "Sobre Ser Una Ciudad que Aún Conserva Sus Pájaros",
+      "id": "Tentang Menjadi Kota yang Masih Memelihara Burungnya",
+      "vi": "Về Việc Là Một Thành Phố Vẫn Giữ Được Tiếng Chim",
+      "hi": "उस शहर के बारे में जो अब भी अपने पक्षियों को रखता है",
+      "th": "ว่าด้วยการเป็นเมืองที่ยังคงรักษานกของตน",
+      "pt-BR": "Sobre Ser Uma Cidade Que Ainda Mantém Seus Pássaros"
+    }
   }
 ]
