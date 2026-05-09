@@ -1,8 +1,8 @@
 [
   {
     "id": "col-2026-05-15-untranslatable-word-l1",
-    "title": "A Word That Will Not Translate",
-    "titleKo": "번역되지 않는 단어",
+    "title": "This Korean Word Cannot Be Translated",
+    "titleKo": "이 한국말은 영어로 절대 번역되지 않는다",
     "source": "knowledge",
     "sourceName": "Column · 칼럼",
     "subCategory": "kn-trivia",
