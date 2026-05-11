@@ -1,0 +1,480 @@
+[
+  {
+    "id": "col-2026-05-19-everyone-but-me-rich-l1",
+    "title": "Everyone But Me Got Rich",
+    "titleKo": "나만 빼고 다 부자가 됐어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-05-19-everyone-but-me-rich"
+    ],
+    "paragraphs": [
+      "Last week I had dinner with friends.",
+      "They talked about money. About stocks. About a company called \"the chip company.\"",
+      "They said the chip company went up many times. They smiled big.",
+      "I had nothing to say. I do not buy stocks. I put my money in the bank.",
+      "I went home. I looked at the chip company. It was true. It went up a lot.",
+      "I felt small. I am the only one who is not rich.",
+      "I felt scared too. If I start now, am I late? If I do not start, am I more late?",
+      "I told my mother. She said, \"You did the right thing. The bank is safe.\"",
+      "But I am not sure anymore. The safe thing made me lose.",
+      "I think I will start. But small. One little bit.",
+      "Not to be rich. Just to learn.",
+      "And next time at dinner, I want to ask one real question. Not just smile."
+    ],
+    "translation": [
+      "지난주에 친구들이랑 저녁을 먹었어요.",
+      "그들은 돈 얘기를 했어요. 주식 얘기. \"그 칩 회사\"라는 회사 얘기.",
+      "그 칩 회사가 몇 배 올랐다고 했어요. 그들은 크게 웃었어요.",
+      "저는 할 말이 없었어요. 저는 주식을 안 사요. 돈을 은행에 넣어요.",
+      "집에 갔어요. 그 칩 회사를 찾아봤어요. 진짜였어요. 많이 올랐어요.",
+      "저는 작아진 기분이 들었어요. 저만 부자가 아니에요.",
+      "무섭기도 했어요. 지금 시작하면, 늦었나? 시작 안 하면, 더 늦나?",
+      "엄마한테 말했어요. 엄마가 말했어요, \"잘했어. 은행이 안전해.\"",
+      "그런데 이제 잘 모르겠어요. 안전한 게 저를 잃게 했어요.",
+      "시작할까 봐요. 그런데 작게. 조금만.",
+      "부자가 되려고가 아니에요. 그냥 배우려고요.",
+      "그리고 다음에 저녁 자리에서, 진짜 질문 하나를 하고 싶어요. 그냥 웃지 말고."
+    ],
+    "targetWords": [
+      "l1-094",
+      "l1-093",
+      "l1-149",
+      "l1-200",
+      "l1-160"
+    ],
+    "quiz": [
+      {
+        "question": "Why did the writer have nothing to say at dinner?",
+        "questionKo": "글쓴이는 왜 저녁 자리에서 할 말이 없었나요?",
+        "options": [
+          "She was tired",
+          "She does not buy stocks — she puts her money in the bank",
+          "She does not like her friends",
+          "She did not understand the food"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer want to start investing, even just a little?",
+        "questionKo": "글쓴이는 왜 조금이라도 투자를 시작하고 싶어 하나요?",
+        "options": [
+          "To become rich",
+          "Not to become rich — just to learn, so next time she can ask one real question instead of just smiling",
+          "Her parents told her to",
+          "She is bored"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "私だけ取り残された",
+      "es": "Todos Menos Yo Se Hicieron Ricos",
+      "id": "Semua Orang Kecuali Saya Jadi Kaya",
+      "vi": "Mọi Người Trừ Tôi Đều Giàu Lên",
+      "hi": "मेरे सिवा सब अमीर हो गए",
+      "th": "ทุกคนยกเว้นฉันรวยขึ้น",
+      "pt-BR": "Todos Menos Eu Ficaram Ricos"
+    }
+  },
+  {
+    "id": "col-2026-05-19-everyone-but-me-rich-l2",
+    "title": "I Am the Only One Who Did Not Invest",
+    "titleKo": "나만 투자를 안 했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-05-19-everyone-but-me-rich"
+    ],
+    "paragraphs": [
+      "Last weekend I had dinner with a group of old friends. Somewhere between the main course and dessert, the conversation turned to investing.",
+      "They talked about a chip company. They talked about coins on the computer. They talked about index funds. One friend showed his phone and laughed about how much his account had grown.",
+      "I had nothing to add. I have never bought a stock in my life. My money sits in a regular bank account, the way my parents taught me when I was young.",
+      "I went home that night and quietly looked up the things they had mentioned. The chip company was up several times since two or three years ago. The coin was up many times. The index fund had also grown well.",
+      "I felt small at my kitchen table. While I had been doing the careful, responsible, parent-approved thing, everyone around me had quietly become richer than me.",
+      "And I felt afraid. If I start now, am I just buying at the top? If I do not start, am I going to fall further behind every year?",
+      "I told my mother. She said, \"You did the right thing. The bank is safe.\" Her voice was warm. She really believed it.",
+      "But I am not as sure as she is anymore. The safe thing turned out to be its own quiet kind of loss.",
+      "I think, slowly, I am going to start. Not to make back the years I missed. Not to be rich.",
+      "Just enough to learn what my friends are actually talking about. Just enough so that the next time the conversation turns this way, I can ask one honest question instead of nodding and smiling like a person who has been quietly left behind.",
+      "I do not want to win at this. I just want to no longer be the silent person at the table.",
+      "Maybe that is its own small kind of starting."
+    ],
+    "translation": [
+      "지난 주말에 오래된 친구들과 저녁을 먹었어요. 메인 코스와 디저트 사이 어딘가에서, 대화가 투자로 바뀌었어요.",
+      "그들은 칩 회사 얘기를 했어요. 컴퓨터의 코인 얘기를 했어요. 인덱스 펀드 얘기를 했어요. 한 친구가 자기 폰을 보여주면서 자기 계좌가 얼마나 커졌는지 웃었어요.",
+      "저는 보탤 게 없었어요. 평생 주식을 사본 적이 없어요. 어렸을 때 부모님이 가르쳐준 방식대로, 제 돈은 평범한 은행 계좌에 앉아 있어요.",
+      "그날 밤 집에 가서 조용히 그들이 언급한 것들을 찾아봤어요. 그 칩 회사는 2-3년 전부터 몇 배 올라 있었어요. 그 코인은 몇 배 올라 있었어요. 인덱스 펀드도 잘 자라 있었어요.",
+      "부엌 식탁에서 작아진 기분이 들었어요. 제가 신중하고, 책임감 있고, 부모님이 인정하는 일을 해오는 동안, 제 주변 모든 사람이 조용히 저보다 부자가 됐어요.",
+      "그리고 무서웠어요. 지금 시작하면, 그저 꼭대기에서 사는 건가? 시작 안 하면, 매년 더 뒤처지는 건가?",
+      "엄마한테 말했어요. 엄마가 말했어요, \"잘했어. 은행이 안전해.\" 엄마 목소리가 따뜻했어요. 진심으로 믿고 있었어요.",
+      "그런데 저는 이제 엄마만큼 확신하지 않아요. 안전한 게 그 자체로 어떤 조용한 종류의 손실이라는 게 밝혀졌어요.",
+      "천천히, 시작할 것 같아요. 놓친 해들을 되찾으려고가 아니에요. 부자가 되려고가 아니에요.",
+      "친구들이 실제로 무슨 얘기를 하는지 배울 정도만. 다음에 대화가 이쪽으로 바뀔 때, 끄덕이며 웃는 — 조용히 뒤처진 사람처럼 — 대신, 정직한 질문 하나를 할 수 있을 정도만.",
+      "이걸 이기고 싶지 않아요. 그저 더 이상 테이블에서 침묵하는 사람이 되고 싶지 않아요.",
+      "어쩌면 그게 그 자체로 작은 종류의 시작일지 몰라요."
+    ],
+    "targetWords": [
+      "l2-264",
+      "l2-130",
+      "l1-160",
+      "l2-304",
+      "l2-488"
+    ],
+    "quiz": [
+      {
+        "question": "What did the writer find when she looked up the stocks her friends had mentioned?",
+        "questionKo": "글쓴이는 친구들이 언급한 주식을 찾아봤을 때 무엇을 발견했나요?",
+        "options": [
+          "They had fallen sharply",
+          "The chip company, the coin, and the index fund had all grown significantly over the past two or three years",
+          "They did not exist",
+          "They were all the same"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say she actually wants from starting to invest?",
+        "questionKo": "글쓴이는 투자를 시작하는 것에서 사실 무엇을 원한다고 말하나요?",
+        "options": [
+          "To become very rich",
+          "Not to win — just to no longer be the silent person at the table, and to ask one honest question instead of nodding and smiling",
+          "To prove her parents wrong",
+          "To beat her friends"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "投資をしなかったのは私だけだった",
+      "es": "Soy la Única Que No Invirtió",
+      "id": "Hanya Saya yang Tidak Berinvestasi",
+      "vi": "Chỉ Có Mình Tôi Không Đầu Tư",
+      "hi": "मैं ही अकेला हूँ जिसने निवेश नहीं किया",
+      "th": "มีแต่ฉันเท่านั้นที่ไม่ลงทุน",
+      "pt-BR": "Eu Sou a Única Que Não Investiu"
+    }
+  },
+  {
+    "id": "col-2026-05-19-everyone-but-me-rich-l3",
+    "title": "The Shame of Choosing the Safe Thing",
+    "titleKo": "안전한 쪽을 고른 부끄러움",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-05-19-everyone-but-me-rich"
+    ],
+    "paragraphs": [
+      "Last weekend I had dinner with five old friends, the same kind of slow Saturday dinner we have been having, on and off, since university. Somewhere between the main course and dessert, the conversation drifted, in the casual way that conversations between adults in their thirties now tend to drift, into the territory of personal investing.",
+      "Someone mentioned a particular chip company. Someone else mentioned cryptocurrency. A third friend pulled out her phone, half embarrassed and half not, and showed the table how much her index fund had grown over the past two years. They laughed in that particular shared way that people laugh when they have all made roughly the same right decision around the same time.",
+      "I had nothing to add. I have never bought a stock in my life. My money sits, the way my parents quietly trained me as a child to make it sit, in a perfectly ordinary savings account at a perfectly ordinary bank.",
+      "I went home that evening and, with a small undefined sense of unease, looked up the names they had been throwing around so easily over dessert. The chip company was up several multiples since I had last not bought it. The cryptocurrency was up several multiples since I had last not bought it. The boring index fund had been quietly returning more, year after year, than my savings interest rate had even attempted.",
+      "Sitting at my kitchen table afterward, I felt, very quietly, small. While I had been doing the careful, responsible, prudent, broadly parent-approved thing for the better part of a decade, everyone in my own approximate peer group had been quietly and steadily becoming meaningfully richer than me without anyone needing to mention it.",
+      "And I felt, underneath the small embarrassment, a sharper feeling — a quiet fear. If I begin investing now, after all of this has already happened, am I just buying in at the top of something that is about to give back? If I do not begin investing now, am I committing to falling further behind, every single quarter, for the rest of my working life?",
+      "I called my mother the next morning to talk it through. She said, with the warm certainty I have known my whole life, \"You did exactly the right thing. The bank is safe. We always told you that.\" Her voice meant it. She still believes it. For most of her life, in most economic weather, she was correct.",
+      "I am, however, not as certain as my mother is anymore. The safe thing has, very quietly, turned out to be its own particular kind of slow loss — a loss measured not in disappeared money but in disappeared distance between me and everyone I sat next to last Saturday.",
+      "I think, slowly and a little late, I am going to begin. Not to recover the years of compounding I missed by sitting it out. Not to suddenly be rich. Not even, really, to win.",
+      "I am going to begin just enough to learn what my friends are actually saying when they say the things they say. Just enough so that the next time this kind of conversation arrives over dessert, I can ask a small honest question — not a brave question, not a smart question, just a real one — instead of nodding and smiling like the one quiet adult who has, without quite meaning to, fallen years behind.",
+      "I do not, on honest reflection, expect to win at any of this. I just no longer want to be the silent and slightly ashamed person at the end of the table. That, for now, is the small private starting point. The rest can take, as the saying allegedly goes, its careful time."
+    ],
+    "translation": [
+      "지난 주말에 다섯 명의 오래된 친구들과 저녁을 먹었어요, 대학 때부터 띄엄띄엄 해온 같은 종류의 천천한 토요일 저녁이었어요. 메인 코스와 디저트 사이 어딘가에서, 대화가, 30대 어른들 사이의 대화가 이제 흘러가는 경향이 있는 그 캐주얼한 방식으로, 개인 투자의 영역으로 흘러갔어요.",
+      "누군가가 특정 칩 회사를 언급했어요. 다른 누군가가 암호화폐를 언급했어요. 세 번째 친구가 자기 폰을 꺼내서, 반쯤 부끄럽고 반쯤 그렇지 않은 채로, 자기 인덱스 펀드가 지난 2년 동안 얼마나 자랐는지 테이블에 보여줬어요. 그들은 사람들이 같은 시기에 거의 같은 옳은 결정을 모두 내렸을 때 사람들이 웃는 그 특정한 공유된 방식으로 웃었어요.",
+      "저는 보탤 게 없었어요. 평생 주식을 사본 적이 없어요. 제 돈은, 어렸을 때 부모님이 그렇게 두라고 조용히 훈련시킨 방식대로, 완벽히 평범한 은행의 완벽히 평범한 저축 계좌에 앉아 있어요.",
+      "그날 저녁 집에 가서, 작고 정의되지 않은 불안 감각으로, 그들이 디저트 위에서 그렇게 쉽게 던지던 이름들을 찾아봤어요. 그 칩 회사는 제가 마지막으로 안 산 이후 몇 배 올라 있었어요. 그 암호화폐는 제가 마지막으로 안 산 이후 몇 배 올라 있었어요. 지루한 인덱스 펀드는, 매년, 제 저축 이자율이 시도조차 했던 것보다 더 많이 조용히 돌려주고 있었어요.",
+      "이후 부엌 식탁에 앉아서, 매우 조용히, 작아진 기분이 들었어요. 제가 신중하고, 책임감 있고, 사려 깊고, 대체로 부모님이 인정하는 일을 거의 10년 동안 해오는 동안, 제 자기 대략적인 또래 그룹의 모든 사람이 누가 언급할 필요도 없이 조용히 그리고 꾸준히 저보다 의미 있게 부자가 되고 있었어요.",
+      "그리고 작은 부끄러움 아래에서, 더 날카로운 감정 — 조용한 두려움 — 을 느꼈어요. 이 모든 일이 이미 일어난 후에 지금 투자를 시작하면, 곧 되돌려 줄 것의 꼭대기에서 사는 건가? 지금 투자를 시작 안 하면, 제 근무 인생의 나머지 동안, 매 분기마다, 더 뒤처지는 데 헌신하는 건가?",
+      "다음 날 아침에 엄마한테 전화해서 얘기했어요. 엄마가, 제 평생 알아온 그 따뜻한 확신으로, 말했어요, \"네가 정확히 옳은 일을 했어. 은행이 안전해. 우리가 항상 그렇게 말해줬잖아.\" 엄마 목소리는 그 뜻을 담고 있었어요. 엄마는 아직 그것을 믿어요. 엄마 인생의 대부분, 대부분의 경제적 날씨에서, 엄마는 맞았어요.",
+      "그러나 저는 이제 엄마만큼 확신하지 않아요. 안전한 일은, 매우 조용히, 그 자체로 어떤 특정한 종류의 천천한 손실로 밝혀졌어요 — 사라진 돈으로 측정되는 손실이 아니라, 저와 지난 토요일에 옆에 앉은 모든 사람 사이의 사라진 거리로 측정되는 손실이에요.",
+      "천천히 그리고 살짝 늦게, 시작할 것 같아요. 그저 빠져서 놓친 복리의 해들을 회복하려고가 아니에요. 갑자기 부자가 되려고가 아니에요. 심지어, 사실, 이기려고도 아니에요.",
+      "친구들이 그 말들을 할 때 실제로 무슨 말을 하는지 배울 정도만 시작할 거예요. 이런 종류의 대화가 디저트 위에 다음에 도착할 때, 끄덕이고 웃는 — 의도하지 않은 채로 몇 년 뒤처진 한 명의 조용한 어른처럼 — 대신, 작은 정직한 질문 — 용감한 질문도 아니고, 똑똑한 질문도 아니고, 그냥 진짜 질문 — 하나를 할 수 있을 정도만.",
+      "정직한 성찰에서, 이 어떤 것에서도 이길 거라 기대하지 않아요. 그저 더 이상 테이블 끝의 조용하고 살짝 부끄러운 사람이고 싶지 않아요. 그게, 지금으로서는, 작은 사적 시작점이에요. 나머지는, 그 속담이 그렇게 말한다고 하는 대로, 자기의 신중한 시간을 가질 수 있어요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l2-264",
+      "l2-130"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer realize the \"safe thing\" has actually turned out to be?",
+        "questionKo": "글쓴이는 \"안전한 일\"이 실제로 무엇으로 밝혀졌다고 깨닫나요?",
+        "options": [
+          "A win",
+          "Its own particular kind of slow loss — measured not in disappeared money but in disappeared distance between her and everyone she sat next to last Saturday",
+          "A neutral choice",
+          "A clever long-term plan"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's small private starting point at the end of the column?",
+        "questionKo": "글쓴이의 칼럼 끝에서의 작은 사적 시작점은 무엇인가요?",
+        "options": [
+          "To become rich",
+          "To no longer be the silent and slightly ashamed person at the end of the table — and to be able to ask one small honest question next time",
+          "To stop seeing those friends",
+          "To work harder"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「安全」を選んだことの恥ずかしさ",
+      "es": "La Vergüenza de Haber Elegido lo Seguro",
+      "id": "Malu Karena Memilih yang Aman",
+      "vi": "Nỗi Xấu Hổ Vì Đã Chọn Điều An Toàn",
+      "hi": "सुरक्षित रास्ता चुनने की शर्म",
+      "th": "ความอายของการเลือกทางปลอดภัย",
+      "pt-BR": "A Vergonha de Ter Escolhido o Caminho Seguro"
+    }
+  },
+  {
+    "id": "col-2026-05-19-everyone-but-me-rich-l4",
+    "title": "I Was the One Who Chose Safety, and Safety Quietly Became a Loss",
+    "titleKo": "안전을 고른 사람은 나였고, 안전은 조용히 손실이 됐다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-05-19-everyone-but-me-rich"
+    ],
+    "paragraphs": [
+      "Last Saturday evening I had dinner with five old friends, the same loose group of friends I have been having slow weekend dinners with, on and off, since our university years. Somewhere between the main course and the long shared dessert, the conversation drifted, in the entirely casual and entirely unforced way that conversations between adults in their thirties now tend to drift, into the broad shared territory of personal investing.",
+      "Someone first mentioned a particular very well-known chip company. Someone else then mentioned cryptocurrency, more specifically the two or three coins everyone at the table seemed to have at least heard of. A third friend pulled out her phone, half embarrassed and half not embarrassed at all, and quietly showed the rest of the table how much her perfectly ordinary index fund had grown over the past two and a bit years. They all laughed at this in the particular shared register that people laugh in when they have, more or less by accident and more or less around the same time, all made roughly the same broadly correct decision.",
+      "I had nothing to add. I have never, in my entire actually lived life, bought a single individual stock. My money sits, in the careful, slightly old-fashioned way my parents quietly trained me to make it sit when I was a child, in a perfectly ordinary savings account at a perfectly ordinary local bank, earning a perfectly ordinary small amount of yearly interest.",
+      "I went home that evening, and with a small previously-unnamed sense of unease, looked up several of the names that everyone at the table had been throwing around so easily and so naturally over dessert. The chip company was, on inspection, up several full multiples since the rough year I had last not bought it. The headline cryptocurrency was up several full multiples since the rough year I had also last not bought it. Even the deliberately boring broadly diversified index fund had, year after recent year, returned considerably more than my carefully chosen savings account interest rate had so much as attempted.",
+      "Sitting alone at my own kitchen table a little later, I felt, very quietly and very privately, small. While I had spent the better part of an entire working decade dutifully doing the careful, responsible, prudent, broadly parent-approved thing with my modest monthly leftover money, everyone in my own approximate peer group had been quietly, steadily, and almost without comment becoming meaningfully and visibly richer than me, without ever needing to mention it openly to anyone.",
+      "And underneath that quiet small embarrassment, I noticed, sitting more sharply and more uncomfortably, a different and more pointed feeling — a small quiet fear. If I now finally begin investing, after several years of all of this large compounding growth has already very visibly happened to other people, am I simply quietly buying in near the top of something that is about to give a good portion of itself back? But if I do not finally begin investing now, am I in effect quietly committing myself to falling further visibly behind, every single passing quarter, for whatever remains of my actual working financial life?",
+      "I called my mother the next morning and tried, in the slightly indirect way one does these things, to talk it through with her. She said, with the warm and entirely consistent certainty I have known across her entire long life, \"You did exactly the right thing all along, my dear. The bank is safe. We always told you that.\" Her voice clearly meant it. She still entirely believes it. For most of her own actually lived adult life, in most of the economic weather she had personally lived through, she had, on patient honest historical inspection, been more or less straightforwardly correct.",
+      "I am, however, no longer quite as confidently certain as my mother is. The safe thing, when patiently and honestly examined across the actual decade just past, has, very quietly and almost invisibly, turned out to be its own particular and specific kind of slow loss — a loss measured not directly in disappeared money but rather in the gradually opening, accumulating, quietly disappeared distance between me and almost everyone else I had quite comfortably sat next to over dessert last Saturday evening.",
+      "I think, slowly and a small but real number of years too late, I am going, finally and quietly, to begin. Not to magically recover the many quietly missed years of compounding growth I lost by carefully sitting all of it out. Not, in any realistic accounting, to suddenly and dramatically become rich at this point in my actual life. Not even, on really honest reflection, to win at this game in any visible competitive sense.",
+      "I am going to begin just enough, and just slowly enough, to actually learn what my friends are in fact saying when they say the various things they have learned, over the past several years, to say so easily and so naturally to each other. Just enough so that the next time this same kind of conversation finally arrives once again at our shared dinner table somewhere over dessert, I can ask, instead of merely nodding and smiling like the one quiet adult at the table who has somehow, without quite meaning to, quietly fallen several full years behind everyone else, a small honest question. Not a brave question. Not a particularly smart question. Just a real and genuinely curious one.",
+      "On really honest reflection, I do not actually expect to win at any of this, and I am increasingly comfortable, on cooler adult inspection, with not winning. I simply no longer want to be the silent and faintly ashamed person sitting at the quiet end of the long shared table. That, for now and very privately, is the small honest starting point. The rest of it, as the very old saying allegedly correctly goes, is allowed to take its own careful, slow, patient, and entirely unromantic time."
+    ],
+    "translation": [
+      "지난 토요일 저녁에 다섯 명의 오래된 친구들과 저녁을 먹었어요, 대학 시절부터 띄엄띄엄 천천한 주말 저녁을 함께해 온 같은 느슨한 그룹의 친구들이에요. 메인 코스와 길게 공유하는 디저트 사이 어딘가에서, 대화가, 30대 어른들 사이의 대화가 이제 흘러가는 경향이 있는 완전히 캐주얼하고 완전히 강제되지 않은 방식으로, 개인 투자의 넓은 공유된 영역으로 흘러갔어요.",
+      "누군가가 먼저 특정한 매우 잘 알려진 칩 회사를 언급했어요. 다른 누군가가 그 다음에 암호화폐를 언급했어요, 더 구체적으로는 테이블의 모든 사람이 적어도 들어본 듯한 두세 개의 코인을. 세 번째 친구가 자기 폰을 꺼내서, 반쯤 부끄럽고 반쯤 전혀 부끄럽지 않게, 자기의 완벽히 평범한 인덱스 펀드가 지난 2년 조금 더 동안 얼마나 자랐는지 테이블의 나머지에게 조용히 보여줬어요. 그들 모두는 거의 우연에 의해 그리고 거의 같은 시기에 모두 거의 같은 대체로 옳은 결정을 내렸을 때 사람들이 웃는 그 특정한 공유된 음역대로 웃었어요.",
+      "저는 보탤 게 없었어요. 제 실제로 살아온 전체 인생에서, 단 한 번도 개별 주식을 사본 적이 없어요. 제 돈은, 제가 어렸을 때 부모님이 그렇게 두라고 조용히 훈련시킨 신중하고, 살짝 구식인 방식대로, 완벽히 평범한 동네 은행의 완벽히 평범한 저축 계좌에 앉아, 완벽히 평범한 작은 양의 연간 이자를 벌고 있어요.",
+      "그날 저녁 집에 가서, 이전에는 이름 짓지 못한 작은 불안 감각으로, 디저트 위에서 테이블의 모든 사람이 그렇게 쉽게 그리고 그렇게 자연스럽게 던지던 이름 여러 개를 찾아봤어요. 그 칩 회사는, 검사에서, 제가 마지막으로 안 산 대략적인 해 이후로 몇 배 통째로 올라 있었어요. 헤드라인 암호화폐는 제가 또한 마지막으로 안 산 대략적인 해 이후로 몇 배 통째로 올라 있었어요. 의도적으로 지루하고 대체로 분산된 인덱스 펀드조차도, 매 최근 해마다, 제가 신중히 고른 저축 계좌 이자율이 시도조차 했던 것보다 상당히 더 많이 돌려주고 있었어요.",
+      "조금 뒤 제 자기 부엌 식탁에 혼자 앉아서, 매우 조용히 그리고 매우 사적으로, 작아진 기분이 들었어요. 제가 거의 한 전체 근무 십년의 더 큰 부분 동안 제 조촐한 월간 남은 돈으로 신중하고, 책임감 있고, 사려 깊고, 대체로 부모님이 인정하는 일을 꾸준히 해 오는 동안, 제 자기 대략적인 또래 그룹의 모든 사람이 누구에게도 공개적으로 언급할 필요 없이, 조용히, 꾸준히, 그리고 거의 코멘트 없이 저보다 의미 있게 그리고 눈에 띄게 부자가 되고 있었어요.",
+      "그리고 그 조용한 작은 부끄러움 아래에서, 더 날카롭고 더 불편하게 앉아 있는, 다른 그리고 더 뾰족한 감정 — 작은 조용한 두려움 — 을 알아챘어요. 다른 사람들에게 이 모든 큰 복리 성장이 이미 매우 눈에 띄게 일어난 몇 년 후 이제 마침내 투자를 시작하면, 곧 자기의 좋은 부분을 돌려줄 것의 꼭대기 근처에서 그저 조용히 사는 건가? 그런데 지금 마침내 투자를 시작 안 하면, 사실상, 제 실제 근무 재정 인생의 남은 것이 무엇이든 동안, 매 지나가는 분기마다, 더 눈에 띄게 뒤처지는 데 조용히 헌신하는 건가?",
+      "다음 날 아침에 엄마한테 전화해서, 이런 일을 하는 약간 간접적인 방식으로, 함께 얘기해 보려고 했어요. 엄마가, 엄마의 전체 긴 인생을 가로질러 제가 알아온 그 따뜻하고 완전히 일관된 확신으로, 말했어요, \"네가 항상 정확히 옳은 일을 했어, 얘야. 은행이 안전해. 우리가 항상 그렇게 말해줬잖아.\" 엄마 목소리는 분명히 그 뜻을 담고 있었어요. 엄마는 여전히 그것을 전적으로 믿어요. 엄마 자기 실제로 살아온 어른 인생의 대부분, 엄마가 개인적으로 살아온 대부분의 경제적 날씨에서, 엄마는, 인내심 있는 정직한 역사적 검사에서, 더 또는 덜한 채로 명백히 옳았어요.",
+      "그러나 저는 더 이상 엄마만큼 자신 있게 확신하지 않아요. 안전한 일은, 방금 지나간 실제 십 년을 가로질러 인내심 있게 그리고 정직하게 검사하면, 매우 조용히 그리고 거의 보이지 않게, 그 자체로 어떤 특정하고 구체적인 종류의 천천한 손실로 밝혀졌어요 — 사라진 돈으로 직접 측정되는 손실이 아니라, 오히려 점차 열리고, 누적되고, 조용히 사라진 — 저와 지난 토요일 저녁 디저트 위에서 꽤 편안히 옆에 앉아 있었던 거의 모든 다른 사람 사이의 — 거리로 측정되는 손실이에요.",
+      "천천히 그리고 작지만 실제 숫자의 해만큼 너무 늦게, 마침내 그리고 조용히, 시작할 것 같아요. 신중히 모든 것에 빠져 잃은 많은 조용히 놓친 복리 성장의 해를 마법처럼 회복하려고가 아니에요. 어떤 현실적 회계로도, 갑자기 그리고 극적으로 제 실제 인생의 이 시점에 부자가 되려고가 아니에요. 정말 정직한 성찰에서, 어떤 눈에 보이는 경쟁적 의미에서든 이 게임에서 이기려고조차 아니에요.",
+      "친구들이 지난 몇 년에 걸쳐 서로에게 그렇게 쉽게 그리고 그렇게 자연스럽게 말하도록 배운 그 여러 가지를 말할 때 사실 무슨 말을 하는지 실제로 배울 정도만, 그리고 그저 충분히 천천히, 시작할 거예요. 이 같은 종류의 대화가 마침내 다시 어딘가 디저트 위에서 우리의 공유된 저녁 테이블에 도착할 때, 의도하지 않은 채로 어떻게든 다른 모든 사람보다 몇 년 전체 뒤처진 한 명의 조용한 어른처럼 그저 끄덕이며 웃는 대신, 작은 정직한 질문 하나를 할 수 있을 정도만. 용감한 질문이 아니에요. 특별히 똑똑한 질문이 아니에요. 그저 진짜로 그리고 진심으로 호기심 있는 질문.",
+      "정말 정직한 성찰에서, 사실 이 어떤 것에서도 이길 거라 기대하지 않고, 차가운 어른 검사에서 이기지 않는 것에 점점 편해지고 있어요. 그저 더 이상 길게 공유한 테이블의 조용한 끝에 앉아 있는 침묵하고 희미하게 부끄러운 사람이 되고 싶지 않아요. 그게, 지금으로서는 그리고 매우 사적으로, 작은 정직한 시작점이에요. 그것의 나머지는, 매우 오래된 그 속담이 그렇게 말한다고 하는 대로, 자기의 신중하고, 천천하고, 인내심 있고, 완전히 비낭만적인 시간을 가지도록 허락돼요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-264"
+    ],
+    "quiz": [
+      {
+        "question": "How does the writer reframe the meaning of the \"slow loss\" that came from playing it safe?",
+        "questionKo": "글쓴이는 안전을 고른 데서 온 \"천천한 손실\"의 의미를 어떻게 재구성하나요?",
+        "options": [
+          "It is the lost interest",
+          "It is measured not in disappeared money but in the slowly opening, quietly accumulated distance between her and almost everyone she sat next to over dessert",
+          "It is a tax problem",
+          "It is the cost of dinner itself"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer want from finally beginning to invest?",
+        "questionKo": "글쓴이는 마침내 투자를 시작하는 데서 무엇을 원하나요?",
+        "options": [
+          "To outperform her friends",
+          "Just enough to actually learn what her friends are saying — and to be able to ask one small honest question instead of nodding silently as someone who has fallen years behind",
+          "To make up for all the missed years immediately",
+          "To prove her mother wrong"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「安全」を選んだのは私で、安全は静かに損失になった",
+      "es": "Yo Fui Quien Eligió la Seguridad, y la Seguridad Se Convirtió Silenciosamente en Pérdida",
+      "id": "Saya yang Memilih Keamanan, dan Keamanan Diam-diam Menjadi Kerugian",
+      "vi": "Tôi Là Người Chọn Sự An Toàn, Và Sự An Toàn Lặng Lẽ Trở Thành Mất Mát",
+      "hi": "मैंने ही सुरक्षा चुनी थी, और सुरक्षा चुपचाप घाटा बन गई",
+      "th": "ฉันคือคนที่เลือกความปลอดภัย และความปลอดภัยเงียบๆ กลายเป็นการสูญเสีย",
+      "pt-BR": "Fui Eu Que Escolhi a Segurança, e a Segurança Silenciosamente Virou Perda"
+    }
+  },
+  {
+    "id": "col-2026-05-19-everyone-but-me-rich-l5",
+    "title": "On Being the One Who Did Not Buy In",
+    "titleKo": "사지 않은 사람이 되는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-05-19-everyone-but-me-rich"
+    ],
+    "paragraphs": [
+      "Last Saturday evening, I had a long, slow, generously poured dinner with five old friends, the same loose and broadly affectionate group of friends I have been having unhurried weekend dinners with, on and off, since our shared university years. Somewhere between the carefully chosen main course and the long, slowly demolished shared dessert, the conversation drifted, in the entirely casual and entirely unforced way that long evening conversations between adults in their early thirties now consistently tend to drift, into the broad, well-tilled shared territory of personal financial investing.",
+      "Someone at the table first mentioned, with the small offhand confidence of a person who has clearly bought in, a particular very well-known semiconductor company. Someone else then mentioned, with even more casual self-assurance, cryptocurrency, by which they appeared to mean specifically the two or three particular coins that everyone at the table, on quiet inspection, seemed to have at least already heard of. A third friend then pulled out her phone, somewhere between half-embarrassed and not embarrassed at all, and quietly showed the rest of the rather quiet table how much her ordinary, deliberately unspectacular, broadly diversified index fund had quietly grown across the slow steady course of the past two and a bit calendar years. They all laughed, at this point in the slow conversation, in that particular shared quiet register people laugh in when they have, more or less by accident and more or less around the same overlapping window of time, all somehow made roughly the same broadly correct underlying financial decision.",
+      "I had nothing, in any defensible sense, to add. I have never, across the entire actually lived course of my adult life, bought a single individual stock of any kind, in any market, in any country. My modest monthly leftover money sits, in the careful, slightly old-fashioned, slightly emotionally inherited way my own parents had quietly trained me to make it sit when I was very small, in a perfectly ordinary savings account at a perfectly ordinary local high-street bank, quietly earning a perfectly ordinary, by today's standards perfectly disappointing, small amount of fully predictable yearly interest.",
+      "I went home alone that evening and, with a small previously-unnamed but unmistakable sense of slow internal unease, sat down at my own kitchen table and looked up, one careful name at a time, several of the various tickers and currencies that everyone at the table had been throwing around so easily, so naturally, and so unselfconsciously over their dessert plates. The chip company was, on plain inspection, up several full numerical multiples since the rough year I had last not bought it. The major headline cryptocurrency was up several full multiples since the rough year I had also last not bought it. Even the deliberately and almost ostentatiously boring broadly diversified low-cost index fund had, year after recent year, returned considerably more, after fees, than my carefully chosen savings account interest rate had during any of the same years so much as bothered to attempt.",
+      "Sitting alone at my own kitchen table somewhere on the wrong side of midnight, I felt, very quietly and very privately, small. While I had spent the better part of almost an entire actually-lived working decade dutifully doing the careful, responsible, prudent, broadly parent-approved, broadly culturally celebrated thing with my own modest monthly leftover money, almost every single person in my own approximate peer group had been quietly, steadily, and almost without ever needing to mention it openly, becoming meaningfully and visibly richer than me, in some cases significantly so, without anyone at the table ever feeling any apparent need to comment on the unspoken accumulating fact of it.",
+      "And, sitting at that quiet kitchen table at a little after midnight, I also noticed, underneath the small private embarrassment, a different and slightly more pointed quiet feeling sitting more sharply and more uncomfortably beside the embarrassment — a small specific quiet fear. If I now finally and somewhat belatedly begin investing, after several full years of all of this very visible large compounding growth has already plainly happened to other other-people-shaped people in roughly my position, am I in fact simply quietly buying in near the eventual top of something that is about to give a meaningful portion of itself, embarrassingly, back? But if, alternatively, I do not finally and quietly begin investing right now, am I in effect quietly and almost ceremonially committing myself, in advance, to visibly falling further behind, every single passing calendar quarter, for whatever remains of my actual remaining working financial life?",
+      "I called my own mother the next morning, in the slightly indirect way one tends to call one's mother about exactly this kind of slightly embarrassing late-thirties financial conversation, and tried, somewhat awkwardly and somewhat in real time, to talk it through with her. She said back to me, with the same warm, entirely consistent, entirely uncomplicated certainty that I have known across her entire long actually-lived life, \"You did exactly the right thing all along, my dear. The bank is safe. We always told you that, didn't we.\" Her voice clearly entirely meant the sentence. She still entirely and uncomplicatedly believes it. For most of her own actually-lived adult life, in most of the actual economic weather that she had personally lived directly through, she had, on patient and honest historical inspection, been, more or less, plainly, straightforwardly, and historically correct.",
+      "I am, however, no longer, on slightly cooler honest adult reflection, quite as confidently and uncomplicatedly certain as my own mother still remains. The safe thing, when patiently and honestly examined across the actual entire decade just past, has, very quietly and almost invisibly and almost without my conscious notice while it was actually happening to me, turned out, in the end, to be its own particular and specific and somewhat new kind of slow loss — a loss measured not directly and visibly in disappeared money on a statement, but rather measured indirectly in the gradually opening, slowly accumulating, almost completely invisible, quietly disappeared sociable distance between me and almost every single one of the other people I had quite comfortably sat next to over dessert last Saturday evening.",
+      "I think, slowly and quietly and a small but real number of years too late, I am, finally, going to begin. Not, on any honest accounting, to magically and dramatically recover the long line of quietly missed years of underlying compounding growth I quietly lost by carefully sitting all of it patiently out. Not, on any realistic accounting available to me at this present moment, to suddenly and dramatically and visibly become rich at this particular present age of my actual life. Not even, on really genuinely honest adult reflection, in any defensible way, to win at this particular underlying game in any visible competitive social sense.",
+      "I am going to begin just slowly enough, and just modestly enough, and just curiously enough, to actually learn, from the inside, what my own friends are in plain fact saying when they say the various particular financial things they have all, by various easy and not-so-easy accidents, learned over the past several years to say to each other so easily and so naturally and so unselfconsciously over their slowly emptying dessert plates. Just enough so that the next time this same kind of slowly drifting conversation arrives once again at our shared evening table somewhere over a slowly emptying dessert plate of my own, I can ask, instead of merely nodding and smiling and politely murmuring like the one slightly quiet adult at the table who has somehow, without ever quite quite meaning to, quietly fallen several full years behind every single one of the other people sitting next to me, one small genuinely honest question. Not a particularly brave question. Not a particularly clever question. Not a particularly impressive question. Just a real, genuinely curious, sincerely interested, fully owned one.",
+      "On really honest and slightly cooler late-thirties reflection, I do not, in fact, actually expect, in any reasonable sense, to win at any of this even after I do quietly begin. I am increasingly comfortable, on cool steady adult inspection, with the underlying private fact of not winning. I simply no longer particularly want, with any private dignity intact, to be the one continually silent, faintly mildly ashamed, faintly mildly embarrassed adult sitting at the quiet end of the long shared and entirely affectionate dinner table while everyone else slowly compares notes. That, for now and for me at present and entirely privately and entirely unromantically, is the small specific honest starting point. The rest of it, as the very old saying allegedly correctly and reliably goes, is, in the end, allowed to take its own careful, slow, patient, entirely unromantic, entirely unphotographable time."
+    ],
+    "translation": [
+      "지난 토요일 저녁에, 다섯 명의 오래된 친구들과 길고, 천천하고, 넉넉히 따라진 저녁을 함께했어요, 대학 시절부터 띄엄띄엄 서두르지 않는 주말 저녁을 함께해 온 같은 느슨하고 대체로 애정 있는 친구 그룹이에요. 신중히 고른 메인 코스와 천천히 부숴진 길게 공유하는 디저트 사이 어딘가에서, 대화가, 30대 초반 어른들 사이의 긴 저녁 대화가 이제 일관되게 흘러가는 경향이 있는 완전히 캐주얼하고 완전히 강제되지 않은 방식으로, 개인 재정 투자의 넓고, 잘 갈아진 공유된 영역으로 흘러갔어요.",
+      "테이블의 누군가가 먼저, 분명히 사 둔 사람의 작은 무심한 자신감으로, 특정한 매우 잘 알려진 반도체 회사를 언급했어요. 다른 누군가가 그 다음에, 훨씬 더 캐주얼한 자기 확신으로, 암호화폐를 언급했어요, 그것에 의해 그들은 구체적으로 — 조용한 검사에서 — 테이블의 모든 사람이 적어도 이미 들어본 듯한 그 특정한 두세 개의 코인을 의미하는 것 같았어요. 세 번째 친구가 자기 폰을 꺼내서, 반쯤 부끄럽고 전혀 부끄럽지 않은 채로의 사이 어딘가에서, 자기의 평범하고, 의도적으로 두드러지지 않고, 대체로 분산된 인덱스 펀드가 지난 2년 조금 더 달력 해의 천천하고 꾸준한 과정을 가로질러 얼마나 조용히 자랐는지 다소 조용한 테이블의 나머지에게 조용히 보여줬어요. 그들 모두는, 천천한 대화의 이 시점에, 거의 우연에 의해 그리고 거의 같은 겹치는 시간 창 즈음에 모두 어떻게든 거의 같은 대체로 옳은 기저 재정 결정을 내렸을 때 사람들이 웃는 그 특정한 공유된 조용한 음역대로 웃었어요.",
+      "저는, 어떤 옹호 가능한 의미에서도, 보탤 게 없었어요. 제 어른 인생의 실제로 살아온 전체 과정을 가로질러, 어떤 시장에서, 어떤 나라에서, 어떤 종류의 단일한 개별 주식도 사본 적이 없어요. 제 조촐한 월간 남은 돈은, 제가 매우 어렸을 때 제 자기 부모님이 그렇게 두라고 조용히 훈련시킨 신중하고, 살짝 구식이고, 살짝 감정적으로 상속된 방식대로, 완벽히 평범한 동네 큰길의 은행의 완벽히 평범한 저축 계좌에 앉아, 오늘날 기준으로 완벽히 실망스러운, 완전히 예측 가능한 작은 양의 연간 이자를 조용히 벌고 있어요.",
+      "그 저녁 혼자 집에 가서, 이전에는 이름 짓지 못한 그러나 틀림없는 천천한 내적 불안 감각으로, 제 자기 부엌 식탁에 앉아서, 한 신중한 이름에 한 번씩, 테이블의 모든 사람이 디저트 접시 위에서 그렇게 쉽게, 그렇게 자연스럽게, 그리고 그렇게 자의식 없이 던지던 여러 다양한 티커와 통화 중 여럿을 찾아봤어요. 그 칩 회사는, 평이한 검사에서, 제가 마지막으로 안 산 대략적인 해 이후 몇 배 통째로 올라 있었어요. 주요 헤드라인 암호화폐는 제가 또한 마지막으로 안 산 대략적인 해 이후 몇 배 통째로 올라 있었어요. 의도적으로 그리고 거의 과시적으로 지루한 대체로 분산된 저비용 인덱스 펀드조차도, 매 최근 해마다, 같은 해 중 어느 해에 제가 신중히 고른 저축 계좌 이자율이 시도라도 했던 것보다, 수수료 후에, 상당히 더 많이 돌려주고 있었어요.",
+      "자정의 잘못된 쪽 어딘가에서 제 자기 부엌 식탁에 혼자 앉아서, 매우 조용히 그리고 매우 사적으로, 작아진 기분이 들었어요. 제가 거의 한 전체 실제로 살아온 근무 십년의 더 큰 부분을, 제 자기 조촐한 월간 남은 돈으로 신중하고, 책임감 있고, 사려 깊고, 대체로 부모님이 인정하는, 대체로 문화적으로 칭송받는 일을 꾸준히 해 오는 동안, 제 자기 대략적인 또래 그룹의 거의 모든 단일 사람이 누구에게도 공개적으로 언급할 필요 없이, 어떤 경우에는 의미 있게 그렇게, 조용히, 꾸준히, 그리고 거의 한 번도 그것을 공개적으로 언급할 필요 없이 저보다 의미 있게 그리고 눈에 띄게 부자가 되고 있었어요, 테이블의 누구도 그것의 말해지지 않은 누적되는 사실에 대해 어떤 명백한 코멘트의 필요도 느끼지 않은 채로요.",
+      "그리고, 자정 조금 지나 그 조용한 부엌 식탁에 앉아서, 또한, 작은 사적 부끄러움 아래에서, 부끄러움 옆에 더 날카롭고 더 불편하게 앉아 있는 다른 그리고 살짝 더 뾰족한 조용한 감정 — 작고 구체적인 조용한 두려움 — 을 알아챘어요. 다른 다른-사람-모양의 사람들에게 거의 제 위치에 이 모든 매우 눈에 띄는 큰 복리 성장이 이미 평이하게 일어난 몇 년 후 이제 마침내 그리고 다소 늦게 투자를 시작하면, 사실, 곧 자기의 의미 있는 부분을 부끄럽게 돌려줄 것의 결국의 꼭대기 근처에서 그저 조용히 사는 건가? 그러나 만약, 대안적으로, 지금 마침내 그리고 조용히 투자를 시작 안 하면, 사실상, 제 실제 남은 근무 재정 인생의 남은 것이 무엇이든 동안, 매 지나가는 달력 분기마다, 미리, 눈에 띄게 뒤처지는 데 조용히 그리고 거의 의례적으로 헌신하는 건가?",
+      "다음 날 아침에 제 자기 어머니한테 전화했어요, 이런 종류의 살짝 부끄러운 30대 후반 재정 대화에 대해 자기 어머니한테 전화하는 약간 간접적인 방식으로, 그리고 함께 얘기해 보려고 시도했어요, 다소 어색하게 그리고 다소 실시간으로요. 엄마가 저에게 답했어요, 엄마의 전체 긴 실제로 살아온 인생을 가로질러 제가 알아온 같은 따뜻하고, 완전히 일관되고, 완전히 복잡하지 않은 확신으로, \"네가 항상 정확히 옳은 일을 했어, 얘야. 은행이 안전해. 우리가 항상 그렇게 말해줬잖아, 그렇지.\" 엄마 목소리는 그 문장을 분명히 그리고 완전히 그 뜻을 담았어요. 엄마는 여전히 그것을 전적으로 그리고 복잡하지 않게 믿어요. 엄마 자기 실제로 살아온 어른 인생의 대부분, 엄마가 개인적으로 직접 살아온 대부분의 실제 경제적 날씨에서, 엄마는, 인내심 있고 정직한 역사적 검사에서, 더 또는 덜한 채로, 평이하게, 명백히, 그리고 역사적으로 옳았어요.",
+      "그러나 저는, 살짝 더 차분한 정직한 어른 성찰에서, 더 이상 제 자기 어머니가 여전히 남아 있는 만큼 자신 있게 그리고 복잡하지 않게 확신하지 않아요. 안전한 일은, 방금 지나간 실제 전체 십 년을 가로질러 인내심 있게 그리고 정직하게 검사하면, 매우 조용히 그리고 거의 보이지 않게 그리고 저에게 실제로 일어나고 있는 동안 거의 의식적 알아챔 없이, 결국, 그 자체로 어떤 특정하고 구체적이고 다소 새로운 종류의 천천한 손실로 밝혀졌어요 — 명세서에 사라진 돈으로 직접 그리고 눈에 띄게 측정되는 손실이 아니라, 오히려 점차 열리고, 천천히 누적되고, 거의 완전히 보이지 않고, 조용히 사라진 — 저와 지난 토요일 저녁 디저트 위에서 꽤 편안히 옆에 앉아 있었던 거의 모든 단일한 다른 사람 사이의 — 사교적 거리로 간접적으로 측정되는 손실이에요.",
+      "천천히 그리고 조용히 그리고 작지만 실제 숫자의 해만큼 너무 늦게, 마침내, 시작할 것 같아요. 어떤 정직한 회계로도, 신중히 모든 것에 인내심 있게 빠져 조용히 잃은 기저 복리 성장의 긴 줄의 조용히 놓친 해들을 마법처럼 그리고 극적으로 회복하려고가 아니에요. 지금 이 순간 저에게 가용한 어떤 현실적 회계로도, 갑자기 그리고 극적으로 그리고 눈에 띄게 제 실제 인생의 이 특정한 현재 나이에 부자가 되려고가 아니에요. 정말로 진심으로 정직한 어른 성찰에서조차, 어떤 옹호 가능한 방식으로든, 어떤 눈에 보이는 경쟁적 사회적 의미에서든 이 특정한 기저 게임에서 이기려고가 아니에요.",
+      "제 자기 친구들이, 다양한 쉬운 그리고 그렇게-쉽지-않은 우연들에 의해, 지난 몇 년에 걸쳐 천천히 비어가는 디저트 접시 위에서 서로에게 그렇게 쉽게 그리고 그렇게 자연스럽게 그리고 그렇게 자의식 없이 말하도록 모두 배운 그 다양한 특정 재정적 것들을 말할 때, 평이한 사실에서 무슨 말을 하는지, 안에서, 실제로 배울 정도만 천천히, 정도만 조촐하게, 그리고 정도만 호기심 있게, 시작할 거예요. 이 같은 종류의 천천히 흘러가는 대화가 다시 어딘가 제 자기의 천천히 비어가는 디저트 접시 위에서 우리의 공유된 저녁 테이블에 다시 도착할 때, 그저 끄덕이고 웃고, 정중히 웅얼거리는 — 어떻게든, 의도하지 않은 채로, 제 옆에 앉은 다른 모든 단일 사람보다 몇 년 전체 조용히 뒤처진 한 명의 살짝 조용한 어른처럼 — 대신, 작고 진심으로 정직한 질문 하나를 할 수 있을 정도만. 특별히 용감한 질문이 아니에요. 특별히 영리한 질문이 아니에요. 특별히 인상적인 질문이 아니에요. 그저 진짜이고, 진심으로 호기심 있고, 진심으로 흥미 있고, 완전히 소유한 것.",
+      "정말 정직하고 살짝 더 차분한 30대 후반 성찰에서, 사실, 어떤 합리적 의미에서든, 제가 조용히 시작한 후에도 이 어떤 것에서도 이길 거라 실제로 기대하지 않아요. 이기지 않는 것의 기저 사적 사실에 차분한 꾸준한 어른 검사에서 점점 편해지고 있어요. 그저 더 이상 사적 위신이 손상되지 않은 채, 다른 모든 사람이 천천히 노트를 비교하는 동안 길게 공유한 그리고 전적으로 애정 있는 저녁 테이블의 조용한 끝에 앉아 있는, 계속 침묵하고, 희미하게 부드럽게 부끄럽고, 희미하게 부드럽게 부끄러워하는 사람이 특별히 되고 싶지 않아요. 그게, 지금으로서는 그리고 현재 저에게 그리고 전적으로 사적으로 그리고 전적으로 비낭만적으로, 작고 구체적이고 정직한 시작점이에요. 그것의 나머지는, 매우 오래된 그 속담이 그렇게 옳고 신뢰할 수 있게 말한다고 하는 대로, 결국, 자기의 신중하고, 천천하고, 인내심 있고, 전적으로 비낭만적이고, 전적으로 사진 찍기 불가능한 시간을 가지도록 허락돼요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-264"
+    ],
+    "quiz": [
+      {
+        "question": "What two competing fears does the writer identify at her kitchen table after the dinner?",
+        "questionKo": "글쓴이는 저녁 식사 후 부엌 식탁에서 어떤 두 가지 경쟁하는 두려움을 짚어내나요?",
+        "options": [
+          "Fear of friends and fear of family",
+          "If she starts now, she may be buying near the top; if she does not start, she commits to falling further behind every passing quarter",
+          "Fear of failure and fear of success",
+          "Fear of bosses and fear of debt"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say is the small specific honest starting point she has reached?",
+        "questionKo": "글쓴이는 자기가 도달한 작고 구체적이고 정직한 시작점이 무엇이라고 말하나요?",
+        "options": [
+          "To become richer than her friends",
+          "To no longer be the continually silent, faintly ashamed adult at the quiet end of the table — the rest is allowed to take its own slow, patient, unromantic time",
+          "To copy whatever her friends do exactly",
+          "To stop having these dinners"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「買わなかった人」になるということについて",
+      "es": "Sobre Ser la Que No Compró",
+      "id": "Tentang Menjadi Orang yang Tidak Ikut Membeli",
+      "vi": "Về Việc Là Người Đã Không Tham Gia Mua Vào",
+      "hi": "उस इंसान होने पर जिसने नहीं ख़रीदा",
+      "th": "ว่าด้วยการเป็นคนที่ไม่ได้ลงทุนตาม",
+      "pt-BR": "Sobre Ser Aquela Que Não Comprou"
+    }
+  },
+  {
+    "id": "col-2026-05-19-everyone-but-me-rich-l6",
+    "title": "On the Quiet Cost of Having Done the Prudent Thing",
+    "titleKo": "신중한 일을 한 것의 조용한 비용에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-05-19-everyone-but-me-rich"
+    ],
+    "paragraphs": [
+      "Last Saturday evening, I had a long, slow, generously poured weekend dinner with five long-standing old friends, the same broadly loose and broadly affectionate small group of friends I have, on and off and with varying degrees of attendance, been having unhurried weekend dinners together with since our shared university years many quietly accumulating years ago. Somewhere in the unhurried space between the carefully chosen main course and the long, slowly demolished, generously shared dessert, the broader evening conversation drifted, in the entirely casual and entirely unforced and entirely undirected way that long, slow weekend evening conversations between broadly comfortable adults in their early thirties now consistently tend to drift on a Saturday evening, into the broad, well-tilled, and increasingly culturally inescapable shared adult conversational territory of personal financial investing.",
+      "Someone at the table first mentioned, with the small offhand experienced confidence of a person who has clearly already bought in and held on, a particular very well-known semiconductor company whose share price has, in fact, multiplied many times over the past several years. Someone else then mentioned, with even more casual self-assurance and even less self-consciousness, cryptocurrency, by which they appeared to mean specifically the two or three particular major coins that everyone seated around our shared table, on quiet patient inspection of the surrounding conversational responses, seemed at the very least to have already heard mentioned. A third friend then, with characteristic and pleasing self-deprecation, pulled out her phone, suspended halfway between half-embarrassment and not-embarrassed-at-all, and quietly tilted the screen toward the rest of the by-then rather quiet table, in order to show all of us very calmly how much her ordinary, deliberately unspectacular, broadly diversified, generally and famously boring low-cost index fund had quietly grown across the slow steady undramatic course of the past two and a bit calendar years. They all then laughed together, at exactly this small natural beat in the slow drifting conversation, in that particular shared comfortable quiet register people quietly laugh in together when they have, more or less by accident and more or less around the same overlapping passing window of historical time, all of them somehow managed to make roughly the same broadly correct, broadly approved, and broadly socially celebrated underlying personal financial decision.",
+      "I had nothing, in any sociably defensible sense of the verb, to add. I have never, across the entire actually-lived course of my whole adult so-far, bought a single individual stock of any sort, in any market, in any country, at any actually historical price level. My modest, broadly predictable, broadly unspectacular monthly leftover money sits, in the careful, slightly old-fashioned, slightly emotionally inherited, slightly culturally specific way my own actual parents had quietly trained me to make it sit when I was very young, in a perfectly ordinary low-yield savings account at a perfectly ordinary local high-street commercial bank, quietly and faithfully and consistently earning a perfectly ordinary, by today's slightly bewildered economic standards perfectly disappointing, fully and reliably predictable small amount of plain yearly interest, almost none of which has, in any economically meaningful real-purchasing-power sense, in fact actually kept up with the slow steady recent ambient real-world inflation rate.",
+      "I went home alone that evening, and, with a small previously unnamed but unmistakable slow internal sense of unease, sat down at my own kitchen table sometime well after midnight and looked up, one careful name at a time, several of the various tickers and currencies and fund symbols that all of the other adults at the table had been throwing around so easily, so naturally, so unselfconsciously, and so apparently effortlessly across their slowly emptying late-evening dessert plates. The semiconductor company was, on plain quick inspection, up several full numerical multiples since the rough year I had last not happened to buy any of it. The major headline cryptocurrency was up, on quick further inspection, several further full multiples since the rough year I had also last not happened to buy any of that one either. Even the deliberately, almost ostentatiously, almost performatively boring broadly diversified low-cost index fund had, on slow patient quiet inspection, year after recent calendar year, returned considerably and noticeably more, after all fees were properly subtracted, than my carefully and conservatively chosen savings account interest rate had, during any of those same recent calendar years, so much as quite bothered to attempt to attempt to attempt.",
+      "Sitting alone at my own quiet kitchen table somewhere on the noticeably wrong side of midnight, in the small ambient circle of light from my own slightly outdated kitchen lamp, I felt, very quietly and very privately and almost completely without any external witness, small. While I had patiently spent the better part of almost an entire actually-lived adult working decade dutifully doing the careful, responsible, broadly prudent, broadly parent-approved, broadly culturally praised and broadly culturally celebrated thing with my own modest monthly leftover income, almost every single one of the other adult people in my own approximate peer group had been, very quietly, very steadily, almost without anyone ever quite feeling any specific need to openly mention any of it to anyone, becoming meaningfully and visibly richer than me by every honest reasonable measure, in some cases significantly so, without anyone seated comfortably around the long evening dinner table ever even appearing to feel any apparent immediate need to comment openly on the small unspoken accumulating quiet fact of any of it.",
+      "And, sitting at that same quiet kitchen table at well past midnight, in the small circle of light from my own lamp, I also noticed, sitting more sharply and more pointedly underneath the layer of the small private quiet embarrassment, a different and rather more pointed and rather more specifically anxious quiet feeling pressing in beside the broader sense of embarrassment — a small, specific, fully-formed quiet fear. If I now, finally, after all of this large compounding growth has very visibly happened to other other-people-shaped people, begin investing in any way that meaningfully counts, am I in plain fact, in some entirely defensible reading of the present economic moment, simply quietly buying in near the eventual top of something that is fairly soon about to give a meaningful and possibly even embarrassingly visible portion of itself, somewhat humiliatingly, back? But if, alternatively, I do not now, finally, quietly begin investing in any meaningful way right at this present specific moment, am I, in some other equally defensible reading of the present economic moment, in effect quietly and almost ceremonially and almost masochistically committing myself, in advance and in writing, to visibly and continuously falling further behind every single one of those other adults at my own table, every single passing calendar quarter, for whatever quietly remains of my own quietly remaining actual working financial life?",
+      "I called my own mother the next morning, in that slightly indirect and slightly conversationally roundabout way one tends to call one's own actually living parent about exactly this sort of slightly embarrassing late-thirties-financial-realization sort of slightly delayed adult financial conversation, and tried, somewhat awkwardly and somewhat in real conversational time, to talk it through with her properly. She said back to me, with the warm, entirely consistent, entirely uncomplicated, entirely uncomplicated-by-recent-data certainty I have known her to deploy with similarly warm consistency across the whole long actually-lived span of her actual life, \"You did exactly the right thing all along, my dear. The bank is safe. We always told you that, didn't we.\" Her voice clearly fully entirely meant the sentence she had spoken. She still entirely and uncomplicatedly believes the sentence. For most of her own actually-lived adult financial life, in most of the actual economic weather that she herself had personally lived directly through unmediated and at first hand, she had been, on patient and quiet and honest historical inspection, more or less and broadly and plainly and rather impressively straightforwardly correct in this view.",
+      "I am, however, no longer, on slightly cooler and slightly more clear-eyed and slightly more cynical honest contemporary adult reflection, quite as confidently and quite as uncomplicatedly certain as my own mother still entirely uncomplicatedly remains. The safe thing, when patiently and honestly and somewhat painfully examined across the actual specific entire decade just very recently past, has, very quietly and almost entirely invisibly and almost entirely without my conscious notice while it was actually slowly happening to me month by month, turned out, in the end, to have been its own particular and specific and somewhat newly visible and somewhat newly named kind of slow, ongoing, deeply socially uncomfortable loss — a loss measured not directly and visibly in disappeared money on any monthly bank statement, but rather measured indirectly in the gradually opening, slowly accumulating, almost completely invisible, quietly disappeared, increasingly socially specific and socially meaningful interpersonal distance between me and almost every single one of the other adult people I had quite comfortably and confidently sat next to over dessert last Saturday evening at our shared affectionate dinner table.",
+      "I think, slowly and quietly and a small but real number of years rather too late, I am, finally, going to begin. Not, on any honest accounting available to me at this particular present moment, to magically and dramatically and somehow retroactively recover the long quiet line of quietly missed years of underlying compounding growth I quietly and patiently and entirely deliberately lost by carefully sitting all of it patiently and dutifully out. Not, on any realistic accounting available to me at this particular present specific late moment, to suddenly and dramatically and visibly become rich at this particular present age of my own actually-lived life. Not even, on really genuinely honest later-thirties adult reflection, in any defensible competitive sense whatsoever, to win at this particular underlying broadly economically competitive game in any visible socially competitive socially measurable sense.",
+      "I am going to begin just slowly enough, and just modestly enough, and just curiously enough, and just self-protectively enough, to actually learn, from the inside and at first hand, what my own old long-standing friends are in plain honest demonstrable fact saying when they say the various particular financial things they have all, by various small easy and small not-so-easy accidents of timing and exposure, learned over the past several recent calendar years to say to each other so easily and so naturally and so unselfconsciously and so apparently effortlessly across their slowly emptying late-evening dessert plates. Just enough so that the next time this same kind of slowly drifting Saturday-evening dinner-table conversation arrives once again at our shared evening table somewhere over some slowly emptying late-evening dessert plate of my own actual making, I can, instead of merely nodding and politely smiling and politely murmuring quietly along like the one slightly continually quiet adult at the table who has, somehow and without ever quite quite quite meaning to, quietly fallen several full real calendar years behind every single one of the other adult people seated around the table beside me, ask one small genuinely and openly and unembarrassedly honest question. Not, on close examination, a particularly brave question. Not a particularly clever or showy question. Not, on any honest count, a particularly impressive or socially elevating question. Just one real, genuinely curious, sincerely interested, fully privately owned question.",
+      "On really honest and slightly cooler late-thirties slightly disabused contemporary adult reflection, I do not, in fact, in any reasonable sense, actually any longer expect, even after I do at last quietly begin, to win at any of this in any visibly defensible socially specific way. I am increasingly, slowly, and quite uncomplicatedly comfortable, on cool steady patient adult inspection, with the underlying simple private fact of not winning at this. I simply no longer particularly want, with any small remaining adult private dignity reasonably intact, to be the continually silent, faintly mildly ashamed, faintly mildly slightly embarrassed adult sitting quietly at the quiet end of the long shared and entirely affectionate Saturday-evening dinner table while everyone else, slowly and gently and entirely without malice, finishes politely comparing notes about the various small financial decisions they happened to make some quietly accumulating number of years before I did. That, for now and for me at this present specific moment in this present specific late-thirties life and entirely privately and entirely unromantically and entirely unsentimentally, is the small, specific, plainly honest starting point. The rest of it, as the very old saying allegedly correctly and reliably and historically goes, is, in the patient end, allowed and indeed expected to take its own careful, slow, patient, entirely unromantic, entirely unphotographable, entirely unbroadcast, entirely unmarketable, quietly accumulating real time."
+    ],
+    "translation": [
+      "지난 토요일 저녁에, 다섯 명의 오랫동안 알아온 오래된 친구들과 길고, 천천하고, 넉넉히 따라진 주말 저녁을 함께했어요, 대학 시절부터 — 많은 조용히 누적되는 해 전부터 — 띄엄띄엄, 다양한 정도의 출석으로, 서두르지 않는 주말 저녁을 함께해 온 같은 대체로 느슨하고 대체로 애정 있는 작은 친구 그룹이에요. 신중히 고른 메인 코스와 길고, 천천히 부숴지고, 넉넉히 공유된 디저트 사이의 서두르지 않는 공간 어딘가에서, 더 넓은 저녁 대화가, 토요일 저녁에 30대 초반의 대체로 편안한 어른들 사이의 길고, 천천한 주말 저녁 대화가 이제 일관되게 흘러가는 경향이 있는 완전히 캐주얼하고 완전히 강제되지 않고 완전히 지시되지 않은 방식으로, 개인 재정 투자의 넓고, 잘 갈아지고, 점점 문화적으로 피할 수 없는 공유된 어른의 대화적 영역으로 흘러갔어요.",
+      "테이블의 누군가가 먼저, 분명히 이미 사 두고 보유해 온 사람의 작은 무심한 경험 있는 자신감으로, 사실 지난 몇 년에 걸쳐 주가가 몇 배 곱해진, 특정한 매우 잘 알려진 반도체 회사를 언급했어요. 다른 누군가가 그 다음에, 훨씬 더 캐주얼한 자기 확신으로 그리고 훨씬 더 적은 자의식으로, 암호화폐를 언급했어요, 그것에 의해 그들은 구체적으로 — 주변 대화 응답의 조용한 인내심 있는 검사에서 — 우리의 공유 테이블 주위에 앉은 모든 사람이 적어도 적어도 이미 언급되는 것을 들어본 듯한 그 특정한 두세 개의 주요 코인을 의미하는 것 같았어요. 세 번째 친구가 그 다음에, 특유의 그리고 즐거운 자기 비하로, 자기 폰을 꺼내서, 반쯤 부끄럽고 전혀-부끄럽지-않은 사이에 매달려서, 그때까지 다소 조용해진 테이블의 나머지를 향해 화면을 조용히 기울였어요, 우리 모두에게 매우 차분히 보여주기 위해서 — 자기의 평범하고, 의도적으로 두드러지지 않고, 대체로 분산되고, 일반적으로 그리고 유명하게 지루한 저비용 인덱스 펀드가 지난 2년 조금 더 달력 해의 천천하고 꾸준한 비극적이지 않은 과정을 가로질러 얼마나 조용히 자랐는지를요. 그러고 그들 모두가 함께, 천천히 흘러가는 대화의 정확히 이 작은 자연스러운 박자에, 사람들이 함께, 거의 우연에 의해 그리고 거의 같은 겹치는 지나가는 역사적 시간의 창 즈음에, 그들 모두가 어떻게든 거의 같은 대체로 옳고, 대체로 인정받고, 대체로 사회적으로 칭송받는 기저 개인 재정 결정을 내리는 데 성공했을 때, 함께 조용히 웃는 그 특정한 공유된 편안한 조용한 음역대로 함께 웃었어요.",
+      "저는, 그 동사의 어떤 사회적으로 옹호 가능한 의미에서도, 보탤 게 없었어요. 제 지금까지의 전체 어른의 실제로-살아온 과정을 가로질러, 어떤 시장에서, 어떤 나라에서, 어떤 실제 역사적 가격 수준에서, 어떤 종류의 단일한 개별 주식도 사본 적이 없어요. 제 조촐하고, 대체로 예측 가능하고, 대체로 두드러지지 않은 월간 남은 돈은, 제가 매우 어렸을 때 제 자기 실제 부모님이 그렇게 두라고 조용히 훈련시킨 신중하고, 살짝 구식이고, 살짝 감정적으로 상속되고, 살짝 문화적으로 특정한 방식대로, 완벽히 평범한 동네 큰길의 상업 은행의 완벽히 평범한 저수익 저축 계좌에 앉아, 오늘날의 살짝 당황한 경제적 기준으로 완벽히 실망스러운, 완전히 그리고 신뢰할 수 있게 예측 가능한 작은 양의 평범한 연간 이자를 조용히 그리고 충실히 그리고 일관되게 벌고 있어요 — 그 중 거의 어떤 것도, 어떤 경제적으로 의미 있는 실제-구매력 의미에서도, 사실 천천하고 꾸준한 최근 주변의 실제-세계 인플레이션율을 따라잡지 못했어요.",
+      "그 저녁 혼자 집에 가서, 이전에는 이름 짓지 못한 그러나 틀림없는 천천한 내적 불안 감각으로, 자정 한참 후 어느 때 제 자기 부엌 식탁에 앉아서, 한 신중한 이름에 한 번씩, 테이블의 모든 다른 어른이 자기들의 천천히 비어가는 늦은 저녁 디저트 접시 위에서 그렇게 쉽게, 그렇게 자연스럽게, 그렇게 자의식 없이, 그리고 그렇게 명백히 노력 없이 던지던 여러 다양한 티커와 통화와 펀드 심볼 중 여럿을 찾아봤어요. 반도체 회사는, 평이한 빠른 검사에서, 제가 마지막으로 사지 않은 대략적인 해 이후 몇 배 통째로 올라 있었어요. 주요 헤드라인 암호화폐는, 빠른 추가 검사에서, 제가 또한 그것 어떤 것도 마지막으로 사지 않은 대략적인 해 이후 몇 배 더 통째로 올라 있었어요. 의도적으로, 거의 과시적으로, 거의 연기 같이 지루한 대체로 분산된 저비용 인덱스 펀드조차도, 천천한 인내심 있는 조용한 검사에서, 매 최근 달력 해마다, 모든 수수료가 제대로 차감된 후, 그 같은 최근 달력 해 중 어느 해에 제가 신중히 그리고 보수적으로 고른 저축 계좌 이자율이 시도하기를 시도하기를 시도하기조차 별로 한 것보다, 상당히 그리고 눈에 띄게 더 많이 돌려주고 있었어요.",
+      "자정의 눈에 띄게 잘못된 쪽 어딘가에서 제 자기 조용한 부엌 식탁에 혼자 앉아, 제 자기 살짝 시대에 뒤떨어진 부엌 램프의 작은 주변 빛의 원 안에서, 매우 조용히 그리고 매우 사적으로 그리고 거의 완전히 어떤 외부 증인도 없이, 작아진 기분이 들었어요. 제가 거의 한 전체 실제로-살아온 어른의 근무 십년의 더 큰 부분을, 제 자기 조촐한 월간 남은 수입으로 신중하고, 책임감 있고, 대체로 사려 깊고, 대체로 부모님이 인정하는, 대체로 문화적으로 칭찬받고 대체로 문화적으로 칭송받는 일을 인내심 있게 해 오는 동안, 제 자기 대략적인 또래 그룹의 다른 어른 사람들 거의 모든 단일 사람이, 매우 조용히, 매우 꾸준히, 그것 어떤 것도 누구에게도 공개적으로 언급할 어떤 구체적 필요도 거의 한 번도 명확히 느끼지 않은 채, 모든 정직한 합리적 척도로 저보다 의미 있게 그리고 눈에 띄게 부자가 되고 있었어요, 어떤 경우에는 의미 있게 그렇게, 길게 저녁 식탁 주위에 편안히 앉은 누구도 그것의 어떤 것의 작고 말해지지 않은 누적되는 조용한 사실에 공개적으로 코멘트할 어떤 명백한 즉각적 필요를 심지어 느끼는 것조차 보이지 않은 채로요.",
+      "그리고, 자정 한참 지나 그 같은 조용한 부엌 식탁에 앉아서, 제 자기 램프의 작은 빛의 원 안에서, 또한, 작은 사적 조용한 부끄러움의 층 아래 더 날카롭고 더 뾰족하게 앉아 있는, 다른 그리고 다소 더 뾰족하고 다소 더 구체적으로 불안한 조용한 감정 — 부끄러움의 더 넓은 감각 옆으로 밀어 들어오는 — 작고, 구체적이고, 완전히 형성된 조용한 두려움 — 을 알아챘어요. 다른 다른-사람-모양의 사람들에게 이 모든 큰 복리 성장이 매우 눈에 띄게 일어난 후 이제, 마침내, 의미 있게 중요한 어떤 방식으로 투자를 시작하면, 평이한 사실에서, 현재 경제적 순간의 어떤 완전히 옹호 가능한 독해에서, 곧 자기의 의미 있는 그리고 어쩌면 심지어 부끄럽게 눈에 띄는 부분을 어느 정도 굴욕적으로 돌려줄 것의 결국의 꼭대기 근처에서 그저 조용히 사는 건가? 그러나 만약, 대안적으로, 지금, 마침내, 바로 이 현재 특정 순간에 어떤 의미 있는 방식으로든 투자를 조용히 시작 안 하면, 현재 경제적 순간의 어떤 다른 똑같이 옹호 가능한 독해에서, 사실상, 제 자기의 조용히 남은 실제 근무 재정 인생의 조용히 남은 것이 무엇이든 동안, 매 지나가는 달력 분기마다, 제 자기 테이블의 다른 어른들 매 단일 사람보다 눈에 띄게 그리고 연속적으로 더 뒤처지는 데, 미리 그리고 글로, 조용히 그리고 거의 의례적으로 그리고 거의 자학적으로 헌신하는 건가?",
+      "다음 날 아침에 제 자기 어머니한테 전화했어요, 정확히 이런 종류의 살짝 부끄러운 30대 후반-재정-깨달음의 종류의 살짝 늦어진 어른 재정 대화에 대해 자기 자기 실제로 살아 있는 부모에게 전화하는 약간 간접적이고 약간 대화적으로 우회적인 방식으로, 그리고 함께 제대로 얘기해 보려고 시도했어요, 다소 어색하게 그리고 다소 실제 대화 시간으로요. 엄마가 저에게 답했어요, 엄마의 실제 인생의 전체 긴 실제로-살아온 폭을 가로질러 비슷하게 따뜻한 일관성으로 배치하는 것을 제가 알아온 따뜻하고, 완전히 일관되고, 완전히 복잡하지 않고, 완전히 최근 데이터에 의해 복잡해지지 않은 확신으로, \"네가 항상 정확히 옳은 일을 했어, 얘야. 은행이 안전해. 우리가 항상 그렇게 말해줬잖아, 그렇지.\" 엄마 목소리는 엄마가 말한 그 문장을 완전히, 완전히 그 뜻을 담았어요. 엄마는 여전히 그 문장을 전적으로 그리고 복잡하지 않게 믿어요. 엄마 자기 실제로-살아온 어른 재정 인생의 대부분, 엄마 자신이 매개되지 않은 채 그리고 1차로 직접 살아온 대부분의 실제 경제적 날씨에서, 엄마는, 인내심 있고 조용하고 정직한 역사적 검사에서, 더 또는 덜한 채로 그리고 대체로 그리고 평이하게 그리고 다소 인상적으로 명백히 이 견해에서 옳았어요.",
+      "그러나 저는, 살짝 더 차분하고 살짝 더 명확한 눈을 가지고 살짝 더 냉소적인 정직한 동시대 어른 성찰에서, 더 이상 제 자기 어머니가 여전히 전적으로 복잡하지 않게 남아 있는 만큼 자신 있게 그리고 복잡하지 않게 확신하지 않아요. 안전한 일은, 매우 최근에 지나간 실제 특정 전체 십 년을 가로질러 인내심 있게 그리고 정직하게 그리고 어느 정도 고통스럽게 검사하면, 매우 조용히 그리고 거의 완전히 보이지 않게 그리고 저에게 그것이 매월 천천히 일어나고 있는 동안 거의 의식적 알아챔 없이, 결국, 그 자체로 어떤 특정하고 구체적이고 어느 정도 새롭게 보이고 어느 정도 새롭게 이름 지어진 종류의 천천하고, 진행 중이고, 깊이 사회적으로 불편한 손실로 — 어떤 월간 은행 명세서에서 사라진 돈으로 직접 그리고 눈에 띄게 측정되는 손실이 아니라, 오히려 점차 열리고, 천천히 누적되고, 거의 완전히 보이지 않고, 조용히 사라지고, 점점 사회적으로 구체적이고 사회적으로 의미 있는 — 저와 지난 토요일 저녁 우리의 공유된 애정 있는 저녁 테이블에서 디저트 위에 꽤 편안히 그리고 자신 있게 옆에 앉아 있었던 거의 모든 단일한 다른 어른 사람 사이의 — 대인 거리로 간접적으로 측정되는 손실로 — 밝혀졌어요.",
+      "천천히 그리고 조용히 그리고 작지만 실제 숫자의 해만큼 다소 너무 늦게, 마침내, 시작할 것 같아요. 이 특정한 현재 순간 저에게 가용한 어떤 정직한 회계로도, 신중히 모든 것에 인내심 있게 그리고 충실히 그리고 전적으로 의도적으로 빠져 조용히 그리고 인내심 있게 잃은 기저 복리 성장의 긴 조용한 줄의 조용히 놓친 해들을 마법처럼 그리고 극적으로 그리고 어떻게든 소급해서 회복하려고가 아니에요. 이 특정한 현재 특정 늦은 순간 저에게 가용한 어떤 현실적 회계로도, 갑자기 그리고 극적으로 그리고 눈에 띄게 제 자기 실제로-살아온 인생의 이 특정한 현재 나이에 부자가 되려고가 아니에요. 정말로 진심으로 정직한 30대 후반 어른 성찰에서조차, 어떤 옹호 가능한 경쟁적 의미에서든, 어떤 눈에 보이는 사회적으로 경쟁적이고 사회적으로 측정 가능한 의미에서든 이 특정한 기저 대체로 경제적으로 경쟁적인 게임에서 이기려고가 아니에요.",
+      "제 자기 오래 알아온 친구들이 — 시기와 노출의 다양한 작은 쉽고 작은 그렇게-쉽지-않은 우연들에 의해, 지난 몇 년의 최근 달력 해에 걸쳐 자기들의 천천히 비어가는 늦은 저녁 디저트 접시 위에서 서로에게 그렇게 쉽게 그리고 그렇게 자연스럽게 그리고 그렇게 자의식 없이 그리고 그렇게 명백히 노력 없이 말하도록 모두 배운 — 그 다양한 특정 재정적 것들을 말할 때, 평이한 정직한 입증 가능한 사실에서 무슨 말을 하는지, 안에서 그리고 1차로, 실제로 배울 정도만 천천히, 정도만 조촐하게, 정도만 호기심 있게, 그리고 정도만 자기 보호적으로 시작할 거예요. 이 같은 종류의 천천히 흘러가는 토요일-저녁 저녁-식탁 대화가 다시 어딘가 제 자기 실제 만들기의 천천히 비어가는 늦은 저녁 디저트 접시 위에서 우리의 공유된 저녁 테이블에 다시 도착할 때, 그저 끄덕이고 정중히 웃고, 정중히 조용히 따라 웅얼거리는 — 어떻게든 그리고 그렇게-그렇게-그렇게 의도하지 않은 채로 제 옆 테이블 주위에 앉은 다른 어른 사람들 매 단일 사람보다 몇 년 전체 실제 달력 해 조용히 뒤처진 한 명의 살짝 연속적으로 조용한 어른처럼 — 대신, 작고 진심으로 그리고 공개적으로 그리고 부끄럽지 않게 정직한 질문 하나를 할 수 있어요. 가까운 검사에서, 특별히 용감한 질문이 아니에요. 특별히 영리하거나 과시적인 질문이 아니에요. 어떤 정직한 카운트로도, 특별히 인상적이거나 사회적으로 끌어올리는 질문이 아니에요. 그저 하나의 진짜이고, 진심으로 호기심 있고, 진심으로 흥미 있고, 완전히 사적으로 소유한 질문.",
+      "정말로 정직하고 살짝 더 차분한 30대 후반 살짝 환상이 벗겨진 동시대 어른 성찰에서, 사실, 어떤 합리적 의미에서든, 마침내 제가 조용히 시작한 후에도, 이 어떤 것에서도 어떤 눈에 띄게 옹호 가능한 사회적으로 구체적인 방식으로든 이길 거라 더 이상 실제로 기대하지 않아요. 점점, 천천히, 그리고 꽤 복잡하지 않게, 차분한 꾸준한 인내심 있는 어른 검사에서, 이걸 이기지 않는 것의 기저 단순한 사적 사실에 편해지고 있어요. 그저 더 이상 어떤 작은 남은 어른 사적 위신이 합리적으로 손상되지 않은 채, 다른 모든 사람이, 천천히 그리고 부드럽게 그리고 전적으로 악의 없이, 제가 했던 것보다 몇 년의 조용히 누적되는 숫자만큼 이전에 우연히 내린 다양한 작은 재정 결정에 대해 정중히 노트 비교를 마치는 동안, 길게 공유한 그리고 전적으로 애정 있는 토요일-저녁 저녁 테이블의 조용한 끝에 조용히 앉아 있는, 연속적으로 침묵하고, 희미하게 부드럽게 부끄럽고, 희미하게 부드럽게 살짝 부끄러워하는 어른이 특별히 되고 싶지 않아요. 그게, 지금으로서는 그리고 이 현재 특정 30대 후반 인생의 이 현재 특정 순간 저에게 그리고 전적으로 사적으로 그리고 전적으로 비낭만적으로 그리고 전적으로 비감상적으로, 작고, 구체적이고, 평이하게 정직한 시작점이에요. 그것의 나머지는, 매우 오래된 그 속담이 그렇게 옳고 신뢰할 수 있고 역사적으로 말한다고 하는 대로, 인내심 있는 끝에, 자기 자기의 신중하고, 천천하고, 인내심 있고, 전적으로 비낭만적이고, 전적으로 사진 찍기 불가능하고, 전적으로 방송되지 않고, 전적으로 마케팅할 수 없는, 조용히 누적되는 실제 시간을 가지도록 허락되고 사실 기대돼요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-264"
+    ],
+    "quiz": [
+      {
+        "question": "Why does the writer say the safe path turned out to be its own kind of loss?",
+        "questionKo": "글쓴이는 왜 안전한 길이 그 자체로 일종의 손실로 밝혀졌다고 말하나요?",
+        "options": [
+          "Because the bank closed",
+          "Because the loss is not measured in disappeared money on a statement but in the slowly accumulated, socially specific interpersonal distance between her and the others at her shared table",
+          "Because of bad luck",
+          "Because of taxes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer accept about her likely outcome even after she begins investing?",
+        "questionKo": "글쓴이는 투자를 시작한 후에도 자기의 가능한 결과에 대해 무엇을 받아들이나요?",
+        "options": [
+          "She expects to catch up fully",
+          "She is increasingly comfortable with the simple private fact of not winning — the goal is no longer to be the silent, faintly ashamed adult at the quiet end of the affectionate table",
+          "She will outperform her friends within a year",
+          "She will retire early"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「賢明であること」が静かに支払わせた代償について",
+      "es": "Sobre el Costo Silencioso de Haber Hecho lo Prudente",
+      "id": "Tentang Biaya Pelan dari Melakukan Hal yang Bijaksana",
+      "vi": "Về Cái Giá Lặng Lẽ Của Việc Đã Làm Điều Khôn Ngoan",
+      "hi": "समझदारी का काम करने की चुपचाप कीमत पर",
+      "th": "ว่าด้วยต้นทุนเงียบงันของการได้ทำสิ่งที่รอบคอบ",
+      "pt-BR": "Sobre o Custo Silencioso de Ter Feito o Que Era Prudente"
+    }
+  }
+]

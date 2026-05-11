@@ -1,0 +1,480 @@
+[
+  {
+    "id": "col-2026-05-25-stopped-ukraine-news-l1",
+    "title": "I Stopped Reading the War News",
+    "titleKo": "전쟁 뉴스를 안 읽기 시작했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-05-25-stopped-ukraine-news"
+    ],
+    "paragraphs": [
+      "Three years ago, a war started in a country far from me.",
+      "I read the news every day. I felt sad. I wanted to help.",
+      "Two years ago, I read less. The news was always bad. I was tired.",
+      "Last week, I noticed something. I had not opened the war news in months.",
+      "I felt small. The war did not stop. People still died. I just looked away.",
+      "But I also know — reading every day did not help them.",
+      "Today is a day to remember soldiers and lost people.",
+      "I want to do one small thing. Once a week, I will open the news.",
+      "Not every day. That is too much for me.",
+      "Just once. So I do not forget that they are still there.",
+      "Not forgetting is small. But it is not nothing.",
+      "I cannot help. But I can remember."
+    ],
+    "translation": [
+      "3년 전, 저에게서 먼 나라에서 전쟁이 시작됐어요.",
+      "매일 뉴스를 읽었어요. 슬펐어요. 돕고 싶었어요.",
+      "2년 전엔, 덜 읽었어요. 뉴스는 늘 안 좋았어요. 지쳤어요.",
+      "지난주에, 뭔가를 알아챘어요. 몇 달 동안 전쟁 뉴스를 열지 않았어요.",
+      "작아진 기분이 들었어요. 전쟁은 멈추지 않았어요. 사람들이 여전히 죽었어요. 저만 눈을 돌렸어요.",
+      "그런데 알아요 — 매일 읽는 게 그들을 돕지 않았어요.",
+      "오늘은 군인들과 잃은 사람들을 기억하는 날이에요.",
+      "작은 한 가지를 하고 싶어요. 일주일에 한 번, 뉴스를 열 거예요.",
+      "매일은 아니에요. 그건 저한테 너무 많아요.",
+      "그냥 한 번. 그들이 여전히 거기 있다는 걸 잊지 않으려고.",
+      "잊지 않는 건 작아요. 그런데 아무것도 아닌 건 아니에요.",
+      "저는 도울 수 없어요. 그런데 기억할 수는 있어요."
+    ],
+    "targetWords": [
+      "l1-033",
+      "l1-038",
+      "l1-160",
+      "l2-103",
+      "l1-130"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer's reading of the war news change over three years?",
+        "questionKo": "글쓴이의 전쟁 뉴스 읽기는 3년 동안 어떻게 바뀌었나요?",
+        "options": [
+          "She read more each year",
+          "She read every day in year one, less in year two, and had not opened it in months by year three",
+          "She never read it",
+          "She wrote articles about it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What small thing does the writer decide to do?",
+        "questionKo": "글쓴이는 어떤 작은 한 가지를 하기로 결정하나요?",
+        "options": [
+          "Read the news every day again",
+          "Open the news once a week — just to remember the people are still there",
+          "Stop reading any news",
+          "Move to a different country"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "戦争のニュースを読むのをやめた",
+      "es": "Dejé de Leer las Noticias de la Guerra",
+      "id": "Saya Berhenti Membaca Berita Perang",
+      "vi": "Tôi Đã Ngừng Đọc Tin Tức Chiến Tranh",
+      "hi": "मैंने युद्ध की ख़बरें पढ़ना बंद कर दिया",
+      "th": "ฉันเลิกอ่านข่าวสงคราม",
+      "pt-BR": "Parei de Ler as Notícias da Guerra"
+    }
+  },
+  {
+    "id": "col-2026-05-25-stopped-ukraine-news-l2",
+    "title": "I Stopped Reading the Ukraine News",
+    "titleKo": "우크라이나 뉴스를 안 읽기 시작했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-05-25-stopped-ukraine-news"
+    ],
+    "paragraphs": [
+      "Three years ago a large war started in a country I had never visited. The first year, I read the news every single morning. I felt sad. I wanted to help.",
+      "The second year, I read it less often. The news was always bad. I was tired in a way I could not quite explain.",
+      "Last week I noticed something quietly uncomfortable. I had not opened the war news in months. The app icon was still there on my phone, but I had been walking past it.",
+      "I felt small for a moment. The war did not stop because I stopped looking. People were still being killed. Families were still being broken. I had just turned my eyes the other way.",
+      "But I also know, on honest reflection, that reading every single day for three years did not really help them either. My private grief at the breakfast table did not move a single soldier home.",
+      "Today, in many countries, is a day for remembering soldiers and the people who have died in wars across the years.",
+      "I have been thinking about what a person far from a war is supposed to do, when the war is not really over and not really winnable from where she sits.",
+      "I do not think the answer is to go back to reading every awful update every morning. That broke something in me without saving anyone there.",
+      "But I do not think the answer is silence either. Silence is too comfortable, and I am not allowed, I think, to be comfortable about this.",
+      "So I am going to try something small. Once a week, I will open the war news. I will read for a few minutes. I will not look away.",
+      "I cannot end the war from here. I cannot save anyone. But I can refuse to forget that they are still there.",
+      "Not forgetting is small. But it is not nothing."
+    ],
+    "translation": [
+      "3년 전 제가 한 번도 가본 적 없는 나라에서 큰 전쟁이 시작됐어요. 첫 해엔, 매일 아침마다 뉴스를 읽었어요. 슬펐어요. 돕고 싶었어요.",
+      "두 번째 해엔, 덜 자주 읽었어요. 뉴스는 항상 안 좋았어요. 정확히 설명할 수 없는 방식으로 지쳤어요.",
+      "지난주에 조용히 불편한 무언가를 알아챘어요. 몇 달째 전쟁 뉴스를 열지 않았어요. 앱 아이콘은 여전히 폰에 있었지만, 그걸 지나쳐 왔어요.",
+      "잠시 작아진 기분이 들었어요. 제가 보기를 멈췄다고 전쟁이 멈춘 게 아니에요. 사람들이 여전히 죽임을 당하고 있었어요. 가족들이 여전히 부서지고 있었어요. 저는 그저 눈을 다른 쪽으로 돌렸을 뿐이에요.",
+      "그런데 정직한 성찰에서, 3년 동안 매일 읽었다고 그들을 진짜로 도운 것도 아니라는 걸 알아요. 아침 식탁에서의 제 사적 슬픔은 단 한 명의 군인도 집으로 옮기지 못했어요.",
+      "오늘은, 많은 나라에서, 군인들과 여러 해의 전쟁 동안 죽은 사람들을 기억하는 날이에요.",
+      "전쟁에서 먼 한 사람이, 전쟁이 진짜로 끝나지 않았고, 그녀가 앉아 있는 곳에서 진짜로 이길 수 없는 그 전쟁에 대해 무엇을 해야 하는지 생각해 왔어요.",
+      "답이 매일 아침 모든 끔찍한 업데이트를 다시 읽으러 돌아가는 것이라고 생각하지 않아요. 그건 저 안의 무언가를 부쉈고, 거기 있는 누구도 구하지 못했어요.",
+      "그런데 답이 침묵이라고도 생각하지 않아요. 침묵은 너무 편안하고, 저는, 제 생각에, 이것에 대해 편안할 자격이 없어요.",
+      "그래서 작은 무언가를 해보려고 해요. 일주일에 한 번, 전쟁 뉴스를 열 거예요. 몇 분 동안 읽을 거예요. 눈을 돌리지 않을 거예요.",
+      "여기에서 전쟁을 끝낼 수 없어요. 누구도 구할 수 없어요. 그런데 그들이 여전히 거기 있다는 걸 잊기를 거부할 수는 있어요.",
+      "잊지 않는 건 작아요. 그런데 아무것도 아닌 건 아니에요."
+    ],
+    "targetWords": [
+      "l1-033",
+      "l1-038",
+      "l2-080",
+      "l2-103",
+      "l1-130"
+    ],
+    "quiz": [
+      {
+        "question": "Why does the writer say silence is not the right answer either?",
+        "questionKo": "글쓴이는 왜 침묵도 옳은 답이 아니라고 말하나요?",
+        "options": [
+          "Silence is rude",
+          "Silence is too comfortable — and she does not feel she is allowed to be comfortable about this",
+          "Silence is illegal",
+          "Silence is too loud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say not forgetting is?",
+        "questionKo": "글쓴이는 잊지 않는 것이 무엇이라고 말하나요?",
+        "options": [
+          "Everything",
+          "Small — but not nothing",
+          "The same as forgetting",
+          "A waste of time"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "ウクライナのニュースを読むのをやめた",
+      "es": "Dejé de Leer las Noticias de Ucrania",
+      "id": "Saya Berhenti Membaca Berita Ukraina",
+      "vi": "Tôi Đã Ngừng Đọc Tin Tức Ukraine",
+      "hi": "मैंने यूक्रेन की ख़बरें पढ़ना बंद कर दिया",
+      "th": "ฉันเลิกอ่านข่าวยูเครน",
+      "pt-BR": "Parei de Ler as Notícias da Ucrânia"
+    }
+  },
+  {
+    "id": "col-2026-05-25-stopped-ukraine-news-l3",
+    "title": "Once a Week, I Will Open the News Again",
+    "titleKo": "일주일에 한 번, 나는 뉴스를 다시 열 것이다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-05-25-stopped-ukraine-news"
+    ],
+    "paragraphs": [
+      "Three years ago, a very large war started in a country I had never visited and probably will never visit. The first year, I read the news from that war almost every single morning, with my coffee, before I had quite woken up. I felt heavy. I felt sad. I felt, on some level I could not quite afford to look at, useless.",
+      "The second year, slowly and almost without my noticing, I read the news less often. The headlines were always bad in the same kinds of ways. I was tired in a way I could not quite explain even to myself at the kitchen table.",
+      "Last week I noticed something quietly uncomfortable. I had not opened the war news in months. The app was still on my phone. I had simply been walking past it, the way one walks past a heavy unopened letter on the front hall table.",
+      "For a moment I felt small. The war did not stop because I stopped looking at it. People were still being killed at the same steady rate. Families were still being broken. The fact that I had quietly moved my attention elsewhere had not lifted any specific weight from any specific child in any specific city.",
+      "But on honest reflection, I also know that reading every awful update every single morning for three years did not, in fact, help them either. My private grief at the breakfast table did not move a single soldier home. My anxious scrolling did not save any building.",
+      "Today, in many countries, is a national day for remembering soldiers and ordinary people who have died in wars across the long years. So I have been thinking carefully about what a person who is far from a war, who cannot end it and cannot fight in it, is actually morally supposed to do, week after week, while the war continues without her.",
+      "I do not think the answer is to go back to reading every terrible update every morning. That arrangement broke something inside me over the course of two years, and it did not, on honest accounting, save anyone there. There is a difference between being informed and being slowly worn down to nothing.",
+      "But I also do not think the answer is silence. Silence is too comfortable, and I do not think, on slow reflection, that I am quite allowed to be comfortable about any of this. Comfort here would mean treating other people's continuing suffering as a thing I get to put down because it tired me.",
+      "So I have decided, somewhat against my own preference for either extreme, to try something small and middle-sized. Once a week, on a fixed day, I will open the war news. I will read carefully for about ten minutes. I will not look away during those ten minutes. Then I will close the app and go back to my own ordinary working life.",
+      "I cannot end the war from where I sit. I cannot save anyone. I cannot, by any honest measure, do anything that would visibly count to anyone there. But I can refuse, week after week, to forget that they are still there, that this is still happening, that ordinary morning routines continue elsewhere only because morning routines have ended for someone else.",
+      "Not forgetting is, I have come to suspect, the smallest possible decent thing. It is not nothing. It is not very much. But it is, on cool reflection, what I can actually carry across an ordinary week without breaking either myself or my obligation to people I will never meet."
+    ],
+    "translation": [
+      "3년 전, 제가 한 번도 가본 적 없고 아마 가지 않을 나라에서 매우 큰 전쟁이 시작됐어요. 첫 해엔, 그 전쟁의 뉴스를 거의 매일 아침마다, 커피와 함께, 채 깨기도 전에 읽었어요. 무거웠어요. 슬펐어요. 정확히 들여다볼 여유가 없는 어떤 수준에서, 쓸모없게 느껴졌어요.",
+      "두 번째 해엔, 천천히 그리고 거의 알아채지 못한 채, 뉴스를 덜 자주 읽었어요. 헤드라인은 항상 같은 종류로 안 좋았어요. 부엌 식탁에서 저 자신에게조차 정확히 설명할 수 없는 방식으로 지쳐 있었어요.",
+      "지난주에 조용히 불편한 무언가를 알아챘어요. 몇 달째 전쟁 뉴스를 열지 않았어요. 앱은 여전히 폰에 있었어요. 그저 그것을 지나쳐 왔을 뿐이에요, 마치 현관 테이블 위의 무거운 열지 않은 편지를 지나치듯이.",
+      "잠시 작아진 기분이 들었어요. 제가 보기를 멈췄다고 전쟁이 멈춘 게 아니에요. 사람들이 같은 꾸준한 속도로 여전히 죽임을 당하고 있었어요. 가족들이 여전히 부서지고 있었어요. 제가 조용히 주의를 다른 곳으로 옮긴 사실은, 어떤 특정한 도시의 어떤 특정한 아이에게도 어떤 특정한 무게를 들어주지 않았어요.",
+      "그런데 정직한 성찰에서, 3년 동안 매일 아침마다 모든 끔찍한 업데이트를 읽은 것이, 사실, 그들을 도운 것도 아니라는 걸 알아요. 아침 식탁에서의 제 사적 슬픔은 단 한 명의 군인도 집으로 옮기지 못했어요. 제 불안한 스크롤은 어떤 건물도 구하지 못했어요.",
+      "오늘은, 많은 나라에서, 긴 여러 해의 전쟁 동안 죽은 군인들과 평범한 사람들을 기억하는 국가적 날이에요. 그래서 전쟁에서 먼, 전쟁을 끝낼 수 없고 그 안에서 싸울 수 없는 한 사람이, 전쟁이 자기 없이 계속되는 동안, 한 주에 또 한 주, 도덕적으로 실제로 무엇을 해야 하는지에 대해 신중히 생각해 왔어요.",
+      "답이 매일 아침마다 모든 끔찍한 업데이트를 읽으러 돌아가는 것이라고 생각하지 않아요. 그 배치는 2년의 과정에 걸쳐 제 안의 무언가를 부쉈고, 정직한 회계에서, 거기 있는 누구도 구하지 못했어요. 정보를 얻는 것과 천천히 아무것도 아닌 것으로 닳는 것 사이엔 차이가 있어요.",
+      "그런데 답이 침묵이라고도 생각하지 않아요. 침묵은 너무 편안하고, 천천한 성찰에서, 이 어떤 것에 대해서도 제가 정확히 편안할 자격이 있다고 생각하지 않아요. 여기서 편안함은 다른 사람들의 계속되는 고통을, 저를 지치게 했기 때문에 내려놓아도 되는 것으로 취급하는 것을 의미해요.",
+      "그래서 양극단 중 어느 쪽에 대한 제 자기 선호에 다소 반해서, 작고 중간 크기의 무언가를 해보기로 결정했어요. 일주일에 한 번, 고정된 날에, 전쟁 뉴스를 열 거예요. 10분 정도 신중히 읽을 거예요. 그 10분 동안 눈을 돌리지 않을 거예요. 그러고 앱을 닫고 제 자기 평범한 근무 인생으로 돌아갈 거예요.",
+      "제가 앉은 곳에서 전쟁을 끝낼 수 없어요. 누구도 구할 수 없어요. 어떤 정직한 척도로도, 거기 있는 누구에게 눈에 보이게 의미 있을 어떤 것도 할 수 없어요. 그런데 한 주에 또 한 주, 그들이 여전히 거기 있다는 것을, 이것이 여전히 일어나고 있다는 것을, 평범한 아침 루틴이 다른 곳에서 계속되는 건 누군가에겐 아침 루틴이 끝났기 때문이라는 것을, 잊기를 거부할 수는 있어요.",
+      "잊지 않는 것은, 의심하기 시작했는데, 가능한 가장 작은 품위 있는 일이에요. 아무것도 아닌 건 아니에요. 매우 많은 것도 아니에요. 그런데 차분한 성찰에서, 제 자신이나 한 번도 만나지 못할 사람들에 대한 제 의무를 부수지 않고 평범한 한 주를 가로질러 실제로 들고 다닐 수 있는 것이에요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l2-103",
+      "l2-080",
+      "l1-130"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer say is the difference she wants to keep between two extremes?",
+        "questionKo": "글쓴이는 두 극단 사이에서 유지하고 싶은 차이가 무엇이라고 말하나요?",
+        "options": [
+          "Between Korean and English news",
+          "Between being informed and being slowly worn down to nothing — and between honoring grief and being too comfortable in silence",
+          "Between her parents and her friends",
+          "Between morning and evening reading"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's chosen middle-sized small action?",
+        "questionKo": "글쓴이가 고른 중간 크기의 작은 행동은 무엇인가요?",
+        "options": [
+          "Donate every month",
+          "Open the war news once a week on a fixed day, read for about ten minutes, and not look away during those ten minutes",
+          "Move to the country at war",
+          "Write to political leaders"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "週に一度、私はニュースをまた開く",
+      "es": "Una Vez por Semana, Volveré a Abrir las Noticias",
+      "id": "Sekali Seminggu, Saya Akan Membuka Berita Lagi",
+      "vi": "Mỗi Tuần Một Lần, Tôi Sẽ Lại Mở Tin Tức",
+      "hi": "हफ़्ते में एक बार, मैं फिर से ख़बरें खोलूँगा",
+      "th": "สัปดาห์ละครั้ง ฉันจะเปิดข่าวอีก",
+      "pt-BR": "Uma Vez por Semana, Vou Abrir as Notícias de Novo"
+    }
+  },
+  {
+    "id": "col-2026-05-25-stopped-ukraine-news-l4",
+    "title": "On Quietly Looking Away from a War That Has Not Ended",
+    "titleKo": "끝나지 않은 전쟁에서 조용히 눈을 돌린 것에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-05-25-stopped-ukraine-news"
+    ],
+    "paragraphs": [
+      "Three years ago, a very large and bitterly unforeseen war began in a country I had personally never visited and that, on present evidence, I will most likely never actually visit in my own lifetime. During that first year, I read the war news almost every single morning, ordinarily over coffee, before I had quite fully woken up. I felt heavy reading it. I felt sad. I felt, on some level I could not quite afford to examine too closely, persistently and uselessly worried.",
+      "During the second year, slowly and almost completely without my conscious noticing, I gradually began to read the war news rather less often. The headlines were always bad in roughly the same recurring kinds of ways. I was, by my own private estimation, slowly becoming tired in a way I could not entirely explain even to myself sitting alone at my kitchen table.",
+      "Last week, I noticed something quietly uncomfortable and slightly embarrassing. I had not actually opened the war news app on my phone in many months. The icon was still sitting on my home screen, in the same place I had originally put it three years earlier. I had simply, day after ordinary day, been walking past it the way one walks past a heavy unopened formal letter sitting on a front hall table.",
+      "For a small uncomfortable moment, I felt small. The war had not in fact stopped, on any visible objective measure, because I had quietly stopped looking at it. People were still being killed at, by all available accounts, roughly the same steady ongoing rate. Families were still being separated. Children were still losing parents. The simple fact that I had quietly moved my own personal attention elsewhere had not, by any honest measure, lifted any specific weight from any specific child in any specific city.",
+      "And yet, on honest and somewhat painful reflection, I also know that reading every single awful update on every single one of those mornings for three full years did not, in any honest accounting, actually help them either. My private grief at the breakfast table did not move a single soldier home from the front. My anxious morning scrolling did not save any specific building from being shelled. Some considerable number of evenings, I had simply gone to bed afterward feeling worse, while everything across that distant border had continued exactly as it would have continued.",
+      "Today, in many countries simultaneously, is a national day set aside for remembering soldiers and ordinary civilians who have died in wars across the long accumulating years. So I have been thinking, very carefully and somewhat uncomfortably, about exactly what a person who is geographically and politically far from an ongoing war, who cannot end it and cannot personally fight in it, is in fact morally supposed to do, week after working week, while the war continues to grind on without her involvement of any visible kind.",
+      "I do not, after all this, actually think the right answer is to go back to reading every terrible new update every single morning. That earlier arrangement broke something quiet inside me across the slow course of about two years, and it did not, by any honest accounting available to me now, save anyone over there. There is a real, almost moral difference between being thoughtfully informed about a difficult ongoing situation and being slowly worn down by it into a quieter and quieter version of yourself.",
+      "But I also do not, after all this, think the right answer is simple silence. Silence is, on slow reflection, too comfortable, and I do not actually think, on slow honest later reflection, that I am quite allowed to be comfortable about any of this. Comfort here, in this particular kind of case, would mean treating other people's continuing actual suffering as a heavy thing I quietly get to put down whenever it has tired me sufficiently.",
+      "So I have decided, somewhat against my own private preference for either of those two attractively simple extremes, to try something small, deliberate, and middle-sized. Once a week, on a fixed and specific day, I will quietly open the war news app. I will read carefully and attentively for about ten unbroken minutes. I will not look away during those particular ten minutes, however much I might want to. Then I will close the app and return to my own ordinary working life as it actually is.",
+      "I cannot end the war from where I happen to currently sit. I cannot, by any honest measure available to me, save any single person there. I cannot, on any clear-eyed adult accounting, actually do any single specific thing that would visibly count as having mattered to anyone living through it. What I can do, modestly and stubbornly, week after slow week, is refuse to forget that they are still there, that this is in fact still happening, and that the ordinary morning routines I happily continue here are continuing in part only because somewhere else ordinary morning routines have already and irreversibly ended for someone I will never meet.",
+      "Not forgetting is, I have very slowly come to suspect, the smallest possible decent thing one person far away can carry. It is not nothing. It is also not very much. But it is, on slow and honest cool adult reflection, more or less exactly what I can actually carry across an ordinary working week without breaking either myself or my unspoken obligation to people I will, in this lifetime, never have any chance at all of meeting."
+    ],
+    "translation": [
+      "3년 전, 매우 크고 비통하게 예상치 못한 전쟁이 — 제가 개인적으로 한 번도 가본 적 없고, 현재 증거로는, 제 자기 평생 실제로 가지 않을 가능성이 가장 높은 나라에서 — 시작됐어요. 그 첫 해 동안, 전쟁 뉴스를 거의 매일 아침마다, 보통 커피와 함께, 채 완전히 깨기도 전에 읽었어요. 읽으면서 무거웠어요. 슬펐어요. 너무 가까이 검사할 여유가 없는 어떤 수준에서, 끈질기게 그리고 쓸모없게 걱정스러웠어요.",
+      "두 번째 해 동안, 천천히 그리고 거의 완전히 의식적 알아챔 없이, 전쟁 뉴스를 점차 덜 자주 읽기 시작했어요. 헤드라인은 거의 같은 반복되는 종류로 항상 안 좋았어요. 제 자기 사적 추정에서, 부엌 식탁에 혼자 앉아 저 자신에게조차 완전히 설명할 수 없는 방식으로 천천히 지쳐가고 있었어요.",
+      "지난주에, 조용히 불편하고 살짝 부끄러운 무언가를 알아챘어요. 몇 달 동안 제 폰의 전쟁 뉴스 앱을 사실 열지 않았어요. 아이콘은 여전히 홈 화면에 앉아 있었어요, 3년 전 원래 둔 같은 자리에. 그저, 평범한 날에 또 평범한 날, 그것을 지나쳐 걸어왔을 뿐이에요, 현관 테이블에 앉아 있는 무거운 열지 않은 공식 편지를 지나치듯이.",
+      "작고 불편한 순간 동안, 작아진 기분이 들었어요. 제가 조용히 보기를 멈췄다고, 어떤 눈에 보이는 객관적 척도로도, 전쟁이 사실 멈춘 게 아니에요. 가용한 모든 설명으로, 사람들이 거의 같은 꾸준한 진행 중인 속도로 여전히 죽임을 당하고 있었어요. 가족들이 여전히 분리되고 있었어요. 아이들이 여전히 부모를 잃고 있었어요. 제가 조용히 제 자기 개인적 주의를 다른 곳으로 옮긴 단순한 사실은, 어떤 정직한 척도로도, 어떤 특정한 도시의 어떤 특정한 아이에게서도 어떤 특정한 무게를 들어주지 않았어요.",
+      "그런데도, 정직하고 어느 정도 고통스러운 성찰에서, 3년 전체 동안 그 아침 모두에서 모든 단일한 끔찍한 업데이트를 매일 아침마다 읽은 것이, 어떤 정직한 회계에서, 사실 그들을 도운 것도 아니라는 걸 알아요. 아침 식탁에서의 제 사적 슬픔은 단 한 명의 군인도 전선에서 집으로 옮기지 못했어요. 제 불안한 아침 스크롤은 어떤 특정한 건물도 포격으로부터 구하지 못했어요. 상당한 수의 저녁에, 그냥 그 후 자러 가서 기분이 더 나빠진 채로 누웠고, 그 먼 국경 너머의 모든 것은 어차피 계속됐을 것처럼 정확히 계속됐어요.",
+      "오늘은, 많은 나라에서 동시에, 긴 누적되는 해의 전쟁 동안 죽은 군인들과 평범한 민간인들을 기억하기 위해 따로 떼어둔 국가적 날이에요. 그래서 진행 중인 전쟁에서 지리적으로 그리고 정치적으로 먼, 그것을 끝낼 수 없고 그 안에서 개인적으로 싸울 수 없는 한 사람이, 전쟁이 자기의 어떤 눈에 보이는 종류의 참여 없이 계속 갈리어 가는 동안, 한 근무 주에 또 한 주, 사실 도덕적으로 무엇을 해야 하는지에 대해, 매우 신중히 그리고 어느 정도 불편하게 생각해 왔어요.",
+      "이 모든 후에, 사실 옳은 답이 매일 아침마다 모든 끔찍한 새 업데이트를 다시 읽으러 돌아가는 것이라고 생각하지 않아요. 그 이전 배치는 약 2년의 천천한 과정을 가로질러 제 안의 조용한 무언가를 부쉈고, 지금 저에게 가용한 어떤 정직한 회계에서도, 거기 있는 누구도 구하지 못했어요. 어려운 진행 중인 상황에 대해 사려 깊게 정보를 얻는 것과, 그것에 의해 점점 더 조용한 그리고 점점 더 조용한 자기 자신의 버전으로 천천히 닳는 것 사이에는 진짜, 거의 도덕적 차이가 있어요.",
+      "그런데 이 모든 후에, 옳은 답이 단순한 침묵이라고도 생각하지 않아요. 침묵은, 천천한 성찰에서, 너무 편안하고, 천천하고 정직한 더 늦은 성찰에서, 이 어떤 것에 대해서도 제가 정확히 편안할 자격이 있다고 사실 생각하지 않아요. 여기, 이 특정한 종류의 경우에서, 편안함은 다른 사람들의 계속되는 실제 고통을, 그것이 저를 충분히 지치게 했을 때마다 조용히 내려놓을 수 있는 무거운 것으로 취급하는 것을 의미할 거예요.",
+      "그래서 그 두 매력적으로 단순한 극단 중 어느 쪽에 대한 제 자기 사적 선호에 다소 반해서, 작고, 의도적이고, 중간 크기의 무언가를 해보기로 결정했어요. 일주일에 한 번, 고정되고 구체적인 날에, 조용히 전쟁 뉴스 앱을 열 거예요. 약 10분의 끊기지 않은 동안, 신중히 그리고 주의 깊게 읽을 거예요. 그 특정한 10분 동안, 얼마나 그러고 싶든, 눈을 돌리지 않을 거예요. 그러고 앱을 닫고 실제로 그대로의 제 자기 평범한 근무 인생으로 돌아갈 거예요.",
+      "제가 마침 현재 앉은 곳에서 전쟁을 끝낼 수 없어요. 저에게 가용한 어떤 정직한 척도로도, 거기 있는 어떤 단일 사람도 구할 수 없어요. 어떤 명확한 눈을 가진 어른 회계로도, 그것을 살아가는 누구에게 의미 있었다고 눈에 보이게 의미할 어떤 단일한 구체적 일도 사실 할 수 없어요. 제가 할 수 있는 것은, 조촐하게 그리고 끈질기게, 한 천천한 주에 또 한 주, 그들이 여전히 거기 있다는 것, 이것이 사실 여전히 일어나고 있다는 것, 제가 여기서 행복하게 계속하는 평범한 아침 루틴이 부분적으로는 다른 어딘가에서 평범한 아침 루틴이 이미 그리고 되돌릴 수 없게 — 제가 한 번도 만나지 못할 누군가에게 — 끝났기 때문에만 계속되고 있다는 것을, 잊기를 거부하는 것이에요.",
+      "잊지 않는 것은, 매우 천천히 의심하기 시작했는데, 멀리 있는 한 사람이 들고 다닐 수 있는 가능한 가장 작은 품위 있는 일이에요. 아무것도 아닌 건 아니에요. 또한 매우 많은 것도 아니에요. 그런데 천천하고 정직한 차분한 어른 성찰에서, 제 자신이나, 이 평생에서 만날 어떤 기회도 전혀 없을 사람들에 대한 제 말해지지 않은 의무를 부수지 않고 평범한 근무 주를 가로질러 실제로 들고 다닐 수 있는, 더 또는 덜한 채로 정확히 그것이에요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l4-007",
+      "l2-103",
+      "l2-080"
+    ],
+    "quiz": [
+      {
+        "question": "What two simple extremes does the writer reject as the right answer?",
+        "questionKo": "글쓴이는 어떤 두 단순한 극단을 옳은 답으로 거부하나요?",
+        "options": [
+          "Reading the news every morning, and complete silence about the war",
+          "Donating money, and protesting in the streets",
+          "Watching TV, and reading books",
+          "Talking to friends, and journaling"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "What does the writer say about her relationship to people she will never meet?",
+        "questionKo": "글쓴이는 한 번도 만나지 못할 사람들과의 관계에 대해 무엇을 말하나요?",
+        "options": [
+          "It does not exist",
+          "It includes an unspoken obligation — what she can carry across an ordinary working week is not forgetting that they are still there",
+          "It is none of her business",
+          "It depends on news coverage"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "終わっていない戦争から、静かに目を背けたことについて",
+      "es": "Sobre Apartar la Mirada en Silencio de una Guerra Que No Ha Terminado",
+      "id": "Tentang Diam-diam Memalingkan Pandangan dari Perang yang Belum Berakhir",
+      "vi": "Về Việc Lặng Lẽ Quay Mặt Khỏi Một Cuộc Chiến Chưa Kết Thúc",
+      "hi": "उस युद्ध से चुपचाप नज़र फेरने पर जो ख़त्म नहीं हुआ",
+      "th": "ว่าด้วยการเงียบๆ มองทางอื่นจากสงครามที่ยังไม่จบ",
+      "pt-BR": "Sobre Desviar Silenciosamente o Olhar de uma Guerra Que Não Terminou"
+    }
+  },
+  {
+    "id": "col-2026-05-25-stopped-ukraine-news-l5",
+    "title": "The Quiet Distance Between Me and a War That Continues",
+    "titleKo": "나와 계속되는 전쟁 사이의 조용한 거리",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-05-25-stopped-ukraine-news"
+    ],
+    "paragraphs": [
+      "Three calendar years ago, a very large, bitterly unforeseen, and almost immediately catastrophic war began in a country I had personally never visited at any earlier point in my own actually-lived life, and that, on present and slowly accumulating evidence, I will most likely never actually visit at any point in my own remaining lifetime either. During that very first calendar year, I read the war news from that distant unfamiliar country almost every single working morning, ordinarily over an unhurried cup of coffee, well before I had quite fully woken up to the day in front of me. I felt heavy and slow reading it. I felt sad. I felt, on some quiet uncomfortable level I could not afford to examine too closely on a busy weekday morning, persistently, undirectedly, and uselessly worried.",
+      "During the second slowly passing calendar year of that same ongoing war, slowly and almost entirely without my own active conscious noticing while it was actually happening to me, I gradually began to read the war news rather less often than I had during that first year. The recurring headlines were always bad in roughly the same recurring kinds of slow grinding ways. I was, by my own quiet private estimation, slowly becoming tired in a way I could not entirely explain even to myself sitting alone in the small ambient quiet of my own kitchen table.",
+      "Last week, sitting on my couch on a fairly unremarkable Tuesday evening, I noticed something quietly uncomfortable and slightly embarrassing. I had not actually opened the war news app on my phone in many full months. The app icon was still sitting on my home screen, in the very same place I had originally placed it during the first surprised week of the war some three years earlier. I had simply, day after ordinary working day, week after slow accumulating week, been walking past it the way a person walks past a heavy unopened formal envelope sitting unmoved on a front hall table for weeks.",
+      "For a small uncomfortable moment, in the ambient light of my living room, I felt small. The war had not, in any visible objective sense, actually stopped, because I had quietly and almost without anyone noticing stopped looking at it. People were still being killed there at, by all reasonably available accounts, roughly the same slow steady ongoing rate. Families were still being separated in the same kinds of ways. Children were still losing parents in the same kinds of ways. The simple fact that I had quietly moved my own personal daily attention elsewhere had not, on any honest measure, lifted any specific weight from any specific child in any specific city anywhere there.",
+      "And yet, on honest and somewhat painful and slightly later reflection, I also know, increasingly clearly, that reading every single awful new update on every single one of those previous many hundreds of working mornings for three full years had not, in any honest available accounting, actually helped them either. My private grief at my own breakfast table did not, on plain quiet reflection, move a single individual soldier home from the front. My anxious early morning scrolling did not save any specific building from being shelled at any specific later hour. Some considerable number of those mornings, I had simply gone to bed that same evening afterward feeling measurably worse, while everything that was happening across that distant border had continued exactly as it would have continued regardless of my private reading or not.",
+      "Today, in a great many countries simultaneously and quietly, is a national day formally set aside for remembering soldiers, ordinary civilians, and the very many small and unphotographable people who have died in wars across the long accumulating years of recent and not-so-recent recorded human history. So I have been thinking, very carefully and somewhat uncomfortably and somewhat against my own initial preference, about exactly what a person who is geographically and politically and morally far from any specific ongoing war, who cannot personally end it and who cannot personally fight in it and who cannot meaningfully meet any of its actual present victims, is in plain fact morally supposed to do, week after passing working week, while the war continues quietly to grind on without her involvement of any visibly meaningful kind.",
+      "I do not, after these three slowly accumulating years, actually think the right honest answer is to go back to reading every fresh terrible new update on every single ordinary working morning. That earlier daily arrangement broke something specifically quiet inside me across the slow accumulating course of about two passing calendar years, and it did not, by any honest accounting now available to me, actually save anyone over there. There is a real, almost morally clear difference between being thoughtfully and adequately informed about a difficult ongoing situation in the wider world, and being slowly and patiently worn down by it into a quieter and quieter and steadily less useful version of yourself over time.",
+      "But I also do not, after these same three accumulating years, think the right honest answer is simple comfortable silence. Silence is, on slow and slightly self-suspicious reflection, far too comfortable, and I do not actually think, on slow honest later reflection at a quiet kitchen table, that I am quite morally allowed to be as comfortable about any of this as quiet silence would in practice let me be. Comfort here, in this particular specific kind of case, would in honest practice mean treating other people's actual ongoing real suffering as a particularly heavy thing I quietly get to put down whenever it has tired me sufficiently for the year.",
+      "So I have decided, somewhat against my own private preference for either of those two attractively simple symmetric extremes, to try something small, deliberately middle-sized, and slightly uncomfortably specific. Once a week, on a fixed and specific day, at a fixed and specific time, I will quietly and deliberately open the war news app. I will read carefully and attentively for about ten unbroken minutes. I will not look away or skim during those particular ten minutes, however much during those minutes I might be quietly preferring to. Then I will close the app and return to my own ordinary working life as it actually presently is.",
+      "I cannot end the war from where I happen to currently sit. I cannot, by any honest available measure, save any single individual person there. I cannot, on any clear-eyed adult honest accounting, actually do any single specific particular small thing that would visibly count as having mattered to anyone actually living through any of it. What I can do, modestly and stubbornly and quietly, week after passing slow week, is refuse to forget that they are still there, that this is in fact still continuously happening, and that the ordinary morning routines I more or less happily continue here are continuing in real part only because somewhere else, somewhere I will never go in any reasonable lifetime, ordinary morning routines have already and irreversibly ended for a great many specific people I will, in this lifetime, never have any real chance of personally meeting.",
+      "Not forgetting is, I have very slowly and slightly reluctantly come to suspect, the smallest possible decent thing one specific person far away can actually carry, with any defensible integrity, across an ordinary passing working week. It is not nothing. It is also not, by any reasonable measure, very much. But it is, on slow and honest and cool patient adult reflection, more or less exactly what I can actually carry across an ordinary working week without breaking either myself or my unspoken adult obligation to people I will, almost certainly, in this whole lifetime, never have any actual real chance at all of personally meeting."
+    ],
+    "translation": [
+      "3 달력 해 전, 매우 크고, 비통하게 예상치 못하고, 거의 즉시 재앙적인 전쟁이, 제가 제 자기 실제로-살아온 인생의 어떤 더 이른 시점에도 개인적으로 한 번도 가본 적 없는, 그리고, 현재의 그리고 천천히 누적되는 증거로는, 제 자기 남은 평생의 어떤 시점에도 가장 가능성이 높게 실제로 가지 않을, 한 나라에서 시작됐어요. 그 매우 첫 달력 해 동안, 그 먼 익숙하지 않은 나라의 전쟁 뉴스를 거의 매일 근무 아침마다, 보통 서두르지 않는 한 잔의 커피와 함께, 제 앞의 그날에 채 완전히 깨기 한참 전에 읽었어요. 읽으면서 무겁고 천천했어요. 슬펐어요. 바쁜 평일 아침에 너무 가까이 검사할 여유가 없는 어떤 조용히 불편한 수준에서, 끈질기게, 방향 없이, 그리고 쓸모없게 걱정스러웠어요.",
+      "같은 진행 중인 전쟁의 두 번째 천천히 지나가는 달력 해 동안, 그것이 저에게 실제로 일어나고 있는 동안 제 자기 능동적 의식적 알아챔이 거의 완전히 없이, 그 첫 해 동안 그랬던 것보다 점차 덜 자주 전쟁 뉴스를 읽기 시작했어요. 반복되는 헤드라인은 거의 같은 반복되는 종류의 천천히 갈리는 방식으로 항상 안 좋았어요. 제 자기 조용한 사적 추정에서, 제 자기 부엌 식탁의 작은 주변 침묵 안에 혼자 앉아 저 자신에게조차 완전히 설명할 수 없는 방식으로 천천히 지쳐가고 있었어요.",
+      "지난주에, 꽤 두드러지지 않은 화요일 저녁 제 소파에 앉아, 조용히 불편하고 살짝 부끄러운 무언가를 알아챘어요. 몇 달 통째로 제 폰의 전쟁 뉴스 앱을 사실 열지 않았어요. 앱 아이콘은 여전히 제 홈 화면에 앉아 있었어요, 약 3년 전 전쟁의 첫 놀란 주에 원래 둔 바로 그 같은 자리에. 그저, 평범한 근무일에 또 평범한 근무일, 한 천천한 누적되는 주에 또 한 주, 그것을 지나쳐 걸어왔을 뿐이에요, 한 사람이 몇 주 동안 현관 테이블에 움직여지지 않은 채 앉아 있는 무거운 열지 않은 공식 봉투를 지나치듯이.",
+      "작고 불편한 순간 동안, 제 거실의 주변 빛 안에서, 작아진 기분이 들었어요. 제가 조용히 그리고 거의 아무도 알아채지 않은 채 보기를 멈췄다고, 어떤 눈에 보이는 객관적 의미에서도, 전쟁이 사실 멈춘 게 아니에요. 합리적으로 가용한 모든 설명으로, 사람들이 거기서 거의 같은 천천한 꾸준한 진행 중인 속도로 여전히 죽임을 당하고 있었어요. 가족들이 같은 종류의 방식으로 여전히 분리되고 있었어요. 아이들이 같은 종류의 방식으로 여전히 부모를 잃고 있었어요. 제가 조용히 제 자기 개인적 매일 주의를 다른 곳으로 옮긴 단순한 사실은, 어떤 정직한 척도로도, 거기 어디든 어떤 특정한 도시의 어떤 특정한 아이에게서도 어떤 특정한 무게를 들어주지 않았어요.",
+      "그런데도, 정직하고 어느 정도 고통스럽고 살짝 더 늦은 성찰에서, 점점 더 분명히, 3년 전체 동안 모든 그 이전의 많은 수백의 근무 아침 모두에서 모든 단일한 끔찍한 새 업데이트를 읽은 것이, 어떤 정직한 가용한 회계에서, 사실 그들을 도운 것도 아니라는 걸 알아요. 제 자기 아침 식탁에서의 사적 슬픔은, 평이한 조용한 성찰에서, 단 한 명의 개별 군인도 전선에서 집으로 옮기지 못했어요. 제 불안한 이른 아침 스크롤은 어떤 특정한 건물도 어떤 특정한 더 늦은 시간에 포격으로부터 구하지 못했어요. 그 아침 중 상당한 수에서, 그냥 그날 저녁 그 후 측정 가능하게 더 나쁜 기분으로 자러 갔고, 그 먼 국경 너머에서 일어나고 있는 모든 것은 제 사적 읽기나 안 읽기와 상관없이 어차피 계속됐을 것처럼 정확히 계속됐어요.",
+      "오늘은, 매우 많은 나라에서 동시에 그리고 조용히, 최근 그리고 그렇게-최근이지-않은 기록된 인간 역사의 긴 누적되는 해의 전쟁 동안 죽은 군인들과, 평범한 민간인들, 그리고 매우 많은 작고 사진 찍기 불가능한 사람들을 기억하기 위해 공식적으로 따로 떼어둔 국가적 날이에요. 그래서 어떤 특정한 진행 중인 전쟁에서 지리적으로 그리고 정치적으로 그리고 도덕적으로 먼, 그것을 개인적으로 끝낼 수 없고 그 안에서 개인적으로 싸울 수 없고 그것의 어떤 실제 현재 희생자도 의미 있게 만날 수 없는 한 사람이, 전쟁이 자기의 어떤 눈에 보이게 의미 있는 종류의 참여 없이 조용히 계속 갈리어 가는 동안, 지나가는 한 근무 주에 또 한 주, 평이한 사실에서 도덕적으로 무엇을 해야 하는지에 대해, 매우 신중히 그리고 어느 정도 불편하게 그리고 어느 정도 제 자기 처음 선호에 반해서, 생각해 왔어요.",
+      "이 3년의 천천히 누적되는 후에, 사실 옳은 정직한 답이 모든 평범한 근무 아침마다 모든 신선한 끔찍한 새 업데이트를 다시 읽으러 돌아가는 것이라고 생각하지 않아요. 그 이전의 매일 배치는 약 2 지나가는 달력 해의 천천히 누적되는 과정을 가로질러 제 안의 구체적으로 조용한 무언가를 부쉈고, 저에게 지금 가용한 어떤 정직한 회계로도, 거기 있는 누구도 사실 구하지 못했어요. 더 넓은 세상의 어려운 진행 중인 상황에 대해 사려 깊게 그리고 적절히 정보를 얻는 것과, 시간이 지남에 따라 그것에 의해 천천히 그리고 인내심 있게 점점 더 조용하고 점점 더 조용하고 꾸준히 덜 쓸모 있는 자기 자신의 버전으로 닳는 것 사이에는, 진짜, 거의 도덕적으로 명확한 차이가 있어요.",
+      "그런데 또한 이 같은 3년의 누적되는 후에, 옳은 정직한 답이 단순한 편안한 침묵이라고도 생각하지 않아요. 침묵은, 천천하고 살짝 자기 의심하는 성찰에서, 훨씬 너무 편안하고, 조용한 부엌 식탁에서의 천천하고 정직한 더 늦은 성찰에서, 조용한 침묵이 실천적으로 저를 그렇게 만들어 줄 만큼 이 어떤 것에 대해서도 제가 정확히 도덕적으로 편안할 자격이 있다고 사실 생각하지 않아요. 여기, 이 특정한 구체적 종류의 경우에서, 편안함은 정직한 실천에서 다른 사람들의 실제 진행 중인 진짜 고통을, 그것이 그 해 동안 저를 충분히 지치게 했을 때마다 조용히 내려놓을 수 있는 특별히 무거운 것으로 취급하는 것을 의미할 거예요.",
+      "그래서 그 두 매력적으로 단순한 대칭적 극단 중 어느 쪽에 대한 제 자기 사적 선호에 다소 반해서, 작고, 의도적으로 중간 크기이고, 살짝 불편하게 구체적인 무언가를 해보기로 결정했어요. 일주일에 한 번, 고정되고 구체적인 날에, 고정되고 구체적인 시간에, 조용히 그리고 의도적으로 전쟁 뉴스 앱을 열 거예요. 약 10분의 끊기지 않은 동안, 신중히 그리고 주의 깊게 읽을 거예요. 그 특정한 10분 동안, 그 분 동안 얼마나 조용히 그러기를 선호할 수 있든, 눈을 돌리거나 훑어보지 않을 거예요. 그러고 앱을 닫고 실제로 현재 그대로의 제 자기 평범한 근무 인생으로 돌아갈 거예요.",
+      "제가 마침 현재 앉은 곳에서 전쟁을 끝낼 수 없어요. 저에게 가용한 어떤 정직한 척도로도, 거기 있는 어떤 단일 개별 사람도 구할 수 없어요. 어떤 명확한 눈을 가진 어른 정직한 회계로도, 그것의 어떤 것을 실제로 살아가는 누구에게 의미 있었다고 눈에 보이게 의미할 어떤 단일한 구체적 특정 작은 일도 사실 할 수 없어요. 제가 할 수 있는 것은, 조촐하고 끈질기고 조용하게, 지나가는 한 천천한 주에 또 한 주, 그들이 여전히 거기 있다는 것, 이것이 사실 여전히 연속적으로 일어나고 있다는 것, 제가 여기서 더 또는 덜 행복하게 계속하는 평범한 아침 루틴이 실제로 부분적으로는 다른 어딘가에서 — 합리적인 평생에 제가 결코 가지 않을 어딘가에서 — 평범한 아침 루틴이 이미 그리고 되돌릴 수 없게 — 이 평생에서 제가 개인적으로 만날 어떤 실제 기회도 없을 매우 많은 특정한 사람들에게 — 끝났기 때문에만 계속되고 있다는 것을, 잊기를 거부하는 것이에요.",
+      "잊지 않는 것은, 매우 천천히 그리고 살짝 마지못해 의심하기 시작했는데, 멀리 있는 한 특정한 사람이 어떤 옹호 가능한 정직성으로 지나가는 평범한 근무 주를 가로질러 실제로 들고 다닐 수 있는 가능한 가장 작은 품위 있는 일이에요. 아무것도 아닌 건 아니에요. 또한, 어떤 합리적 척도로도, 매우 많은 것도 아니에요. 그런데 천천하고 정직하고 차분한 인내심 있는 어른 성찰에서, 제 자신이나, 거의 확실히, 이 전체 평생에서 개인적으로 만날 어떤 실제 진짜 기회도 전혀 없을 사람들에 대한 제 말해지지 않은 어른의 의무를 부수지 않고 평범한 근무 주를 가로질러 실제로 들고 다닐 수 있는, 더 또는 덜한 채로 정확히 그것이에요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l4-007",
+      "l2-103",
+      "l2-080"
+    ],
+    "quiz": [
+      {
+        "question": "What moral difference does the writer carefully draw out?",
+        "questionKo": "글쓴이는 어떤 도덕적 차이를 신중히 그려내나요?",
+        "options": [
+          "Between Korean news and global news",
+          "Between being thoughtfully and adequately informed about a difficult ongoing situation, and being slowly and patiently worn down by it into a quieter, less useful version of yourself",
+          "Between online and print sources",
+          "Between facts and opinions"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say her ordinary morning routines depend on, that she does not want to forget?",
+        "questionKo": "글쓴이는 자기의 평범한 아침 루틴이 무엇에 달려 있다고, 잊고 싶지 않다고 말하나요?",
+        "options": [
+          "On her job",
+          "Partly on the fact that elsewhere ordinary morning routines have already and irreversibly ended for many specific people she will never meet",
+          "On her family",
+          "On the news app"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "私と、続いている戦争との静かな距離",
+      "es": "La Distancia Silenciosa Entre Yo y una Guerra Que Continúa",
+      "id": "Jarak Pelan Antara Saya dan Perang yang Masih Berlangsung",
+      "vi": "Khoảng Cách Lặng Lẽ Giữa Tôi Và Một Cuộc Chiến Vẫn Đang Tiếp Diễn",
+      "hi": "मेरे और चल रहे एक युद्ध के बीच की चुपचाप दूरी",
+      "th": "ระยะห่างอันเงียบงันระหว่างฉันกับสงครามที่ยังดำเนินอยู่",
+      "pt-BR": "A Distância Silenciosa Entre Mim e uma Guerra Que Continua"
+    }
+  },
+  {
+    "id": "col-2026-05-25-stopped-ukraine-news-l6",
+    "title": "On the Smallest Decent Thing One Person Far Away Can Carry",
+    "titleKo": "멀리 있는 한 사람이 들 수 있는 가장 작은 품위 있는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-05-25-stopped-ukraine-news"
+    ],
+    "paragraphs": [
+      "Three full calendar years ago now, a very large, very bitterly unforeseen, and almost immediately catastrophic war began in a country that I had personally never visited at any earlier point in my own actually-lived adult life, and that, on all present available evidence and on present slowly accumulating geopolitical trajectories, I will most likely never actually visit at any single point during the remainder of my own lifetime either. During that first surprised calendar year, I read the war news from that distant largely unfamiliar country almost every single ordinary working morning, ordinarily over an unhurried first cup of coffee, well before I had quite fully woken up to the actual unmade workday in front of me. I felt heavy and slow reading it. I felt unmistakably sad. I felt, on some quiet uncomfortable level I could not easily afford to examine too closely on a busy ordinary weekday morning, persistently, undirectedly, and almost entirely uselessly worried.",
+      "During the slowly passing second calendar year of that same continuously ongoing war, slowly and almost entirely without my own active conscious noticing while it was actually happening to me morning by morning, I gradually began to read the war news rather less often than I had read it across the whole of that surprised first calendar year. The recurring headlines, on close patient examination, were always bad in roughly the same recurring slowly grinding kinds of ways. I was, by my own quiet private estimation at my kitchen table, slowly becoming tired in a way I could not entirely explain even to myself sitting alone in the small ambient quiet of my own modest kitchen on a Saturday morning.",
+      "Last week, sitting on my own apartment couch on a fairly unremarkable Tuesday evening with a glass of perfectly ordinary supermarket wine, I noticed something quietly uncomfortable and slightly embarrassing on careful self-inspection. I had not actually opened the war news app on my phone in many full continuous calendar months. The original app icon was still sitting, untouched and unread, on the same home screen of my phone, in the very same exact place I had originally placed it during the first shocked surprised opening week of the war some three full calendar years previously. I had simply, ordinary working day after ordinary working day, slowly accumulating week after slowly accumulating week, slowly accumulating month after slowly accumulating month, been quietly walking past that small icon the way an ordinary person quietly walks past a particularly heavy unopened formal envelope sitting unmoved on a small front hall side table for weeks on end.",
+      "For a small but real uncomfortable moment, sitting in the ordinary ambient evening light of my own modest living room with my own ordinary glass of wine, I felt unmistakably small. The war had not, in any visible objective sense available on any of the various reasonably reputable news sources, actually stopped happening just because I had personally quietly and almost without anyone visibly noticing stopped looking at it for several full calendar months. People were still being killed there at, by all reasonably available current journalistic accounts, roughly the same slow steady grinding ongoing rate as before. Specific families were still being separated in the same specific kinds of ways. Specific children were still losing specific parents in the same specific kinds of ways. The simple personal private fact that I had quietly moved my own personal daily attention elsewhere had not, on any honest careful measure, lifted any specific small weight from any single specific child living in any single specific city anywhere there.",
+      "And yet, on continued slow honest and somewhat painful and slightly later quiet reflection, I also know, with increasing slow clarity from this much greater temporal distance, that reading every single awful new update on every single one of those very many previous ordinary working mornings for those three full calendar years had not, in any honest available accounting now possible from here, actually meaningfully helped any of them either. My private morning grief at my own ordinary breakfast table did not, on plain honest quiet reflection, move a single individual specific soldier home from any specific front. My anxious early morning scrolling did not save any single specific building from being shelled at any specific later morning hour. Some considerable not-quite-counted number of those mornings, I had simply quietly gone to bed afterward that same evening feeling measurably and somewhat unfairly worse, while everything that was actually happening across that distant unfamiliar border was continuing exactly as it would have inevitably continued regardless entirely of my own private morning reading or my own private morning not-reading.",
+      "Today, in a very great many countries simultaneously and quietly and almost without large dramatic ceremony, is a national or local day set aside specifically and formally for remembering soldiers, ordinary anonymous civilians, and the very many small unphotographed and unrecorded people who have died, often nearly invisibly, in wars across the long slowly accumulating years of recent and not-so-recent recorded human history. So I have been thinking, very carefully and somewhat uncomfortably and somewhat against my own initial private preference for clearer answers, about exactly and specifically what a person who is geographically and politically and morally far from any specific ongoing war, who cannot personally end it and who cannot personally fight in it and who cannot meaningfully ever meet any of its actual specific present victims, is in plain quiet fact morally supposed to do, week after passing working week, while the war itself continues quietly to grind on without her own meaningful involvement of any visibly counted kind.",
+      "I do not, after these three full slowly accumulating calendar years, actually any longer think the right honest careful answer is to go back to reading every fresh terrible new daily update on every single ordinary unremarkable working morning. That earlier daily morning arrangement broke something quite specifically quiet inside me across the slow grinding accumulating course of about two passing calendar years of doing it, and it did not, by any honest careful accounting now available to me from this small temporal distance, actually save any single individual person over there. There is a real, almost morally clear, but slightly hard-to-talk-about difference between being thoughtfully and adequately informed about a difficult ongoing situation somewhere in the wider unsteady world, and being slowly and patiently worn down by it across time into a quieter and quieter and steadily less useful and steadily less morally functional version of yourself.",
+      "But I also do not, after these same three slowly accumulating calendar years now, think the right honest careful answer is simply comfortable continued silence. Silence is, on slow and slightly self-suspicious patient honest reflection at my own kitchen table, far too comfortable, and I do not, on slow careful honest later reflection in the small ambient light of my own modest kitchen lamp, particularly think I am actually morally allowed to be quite as comfortable about any of this distant continuing situation as quiet ongoing personal silence would in plain honest practice quietly let me become. Comfort here, in this particular specific and ongoing kind of distant moral case, would in plain honest careful practice mean quietly treating other specific real people's actual ongoing daily real suffering as a particularly heavy and quietly inconvenient thing I quietly get to put down and leave behind whenever it has tired me sufficiently for the particular passing calendar year.",
+      "So I have decided, somewhat carefully and somewhat reluctantly against my own private preference for either of those two attractively simple symmetric clean clear extremes, to try something small, deliberately middle-sized, deliberately structured, and slightly uncomfortably specific in its scheduled regularity. Exactly once a week, on one fixed and specific quietly chosen day of the week, at one fixed and specific quietly chosen hour of that day, I will quietly and deliberately and somewhat ceremonially open the war news app on my phone. I will read carefully and attentively and unbroken for approximately ten unbroken slow minutes. I will not deliberately look away or quietly skim ahead during those particular slow ten minutes, however much during those quiet uncomfortable minutes I might privately and quietly be preferring to. Then I will close the app, set the phone face down on the small table beside me, and slowly return to my own ordinary working life as it actually presently is.",
+      "I cannot end the war from where I currently happen to sit. I cannot, by any honest available careful measure, save any single individual person currently living through any of it from anything that is happening to them. I cannot, on any clear-eyed adult honest careful accounting, actually do any single specific particular small individual thing that would visibly count as having mattered to anyone actually presently living through any specific piece of any of it. What I can quietly do, modestly and stubbornly and quietly and almost without anyone else noticing, week after passing slow calendar week, is refuse to actively forget that they are all of them still there, that this is in plain fact still continuously slowly happening, and that the ordinary morning routines I more or less happily and uneventfully continue here every working morning are continuing in real and unspoken part only because somewhere else, somewhere I will almost certainly never go in any reasonable remaining lifetime, ordinary morning routines have already and entirely irreversibly ended for a great many specific and entirely unphotogenic people I will, in this whole lifetime, never have any real chance at all of personally meeting.",
+      "Not forgetting is, I have very slowly and slightly reluctantly come to suspect through these last several quietly accumulating months, very probably the smallest possible decent thing one specific small slightly tired person far away from a particular ongoing war can actually still manage, with any defensible private adult integrity reasonably intact, to actually carry across one ordinary passing slow working week, then another, then another, and another after that. It is not, on quiet plain inspection, nothing. It is also not, by any honest measure at all, very much. But it is, on slow honest and cool patient careful adult reflection, more or less exactly what I can actually manage to carry across each ordinary passing working week without breaking either myself, or my own quiet unspoken half-articulate adult obligation to all the specific people I will, almost certainly, in this whole remaining lifetime, never have any actual real chance at all of personally meeting or quietly mourning at any kind of actual graveside."
+    ],
+    "translation": [
+      "이제 3 꽉 찬 달력 해 전, 매우 크고, 매우 비통하게 예상치 못하고, 거의 즉시 재앙적인 전쟁이, 제가 제 자기 실제로-살아온 어른 인생의 어떤 더 이른 시점에도 개인적으로 한 번도 가본 적 없는, 그리고, 모든 현재 가용한 증거에서 그리고 현재 천천히 누적되는 지정학적 궤적에서, 제 자기 평생의 남은 동안 어떤 단일 시점에도 가장 가능성이 높게 실제로 가지 않을, 한 나라에서 시작됐어요. 그 첫 놀란 달력 해 동안, 그 먼 대체로 익숙하지 않은 나라의 전쟁 뉴스를 거의 매일 평범한 근무 아침마다, 보통 서두르지 않는 첫 잔의 커피와 함께, 제 앞의 아직 만들어지지 않은 실제 근무일에 채 완전히 깨기 한참 전에 읽었어요. 읽으면서 무겁고 천천했어요. 틀림없이 슬펐어요. 바쁜 평범한 평일 아침에 너무 가까이 검사할 여유가 쉽게 없는 어떤 조용히 불편한 수준에서, 끈질기게, 방향 없이, 그리고 거의 완전히 쓸모없게 걱정스러웠어요.",
+      "같은 연속적으로 진행 중인 전쟁의 천천히 지나가는 두 번째 달력 해 동안, 그것이 저에게 아침 하나하나 실제로 일어나고 있는 동안 제 자기 능동적 의식적 알아챔이 거의 완전히 없이, 그 놀란 첫 달력 해 전체에 걸쳐 읽었던 것보다 점차 덜 자주 전쟁 뉴스를 읽기 시작했어요. 반복되는 헤드라인은, 가까운 인내심 있는 검사에서, 거의 같은 반복되는 천천히 갈리는 종류의 방식으로 항상 안 좋았어요. 부엌 식탁에서의 제 자기 조용한 사적 추정에서, 토요일 아침 제 자기 조촐한 부엌의 작은 주변 침묵 안에 혼자 앉아 저 자신에게조차 완전히 설명할 수 없는 방식으로 천천히 지쳐가고 있었어요.",
+      "지난주에, 완벽히 평범한 슈퍼마켓 와인 한 잔과 함께 꽤 두드러지지 않은 화요일 저녁 제 자기 아파트 소파에 앉아, 신중한 자기 검사에서 조용히 불편하고 살짝 부끄러운 무언가를 알아챘어요. 많은 꽉 찬 연속 달력 달 동안 제 폰의 전쟁 뉴스 앱을 사실 열지 않았어요. 원래 앱 아이콘은 여전히 — 만져지지 않고 읽지 않은 채로 — 제 폰의 같은 홈 화면에 앉아 있었어요, 약 3 꽉 찬 달력 해 이전 전쟁의 첫 충격받고 놀란 열림 주에 원래 둔 바로 그 같은 정확한 자리에. 그저, 평범한 근무일에 또 평범한 근무일, 천천히 누적되는 주에 또 천천히 누적되는 주, 천천히 누적되는 달에 또 천천히 누적되는 달, 그 작은 아이콘을 조용히 지나쳐 걸어왔을 뿐이에요, 평범한 사람이 작은 현관 홀 사이드 테이블에 몇 주 동안 움직여지지 않은 채 앉아 있는 특별히 무거운 열지 않은 공식 봉투를 조용히 지나치는 방식으로.",
+      "작지만 진짜 불편한 순간 동안, 제 자기 평범한 와인 잔과 함께 제 자기 조촐한 거실의 평범한 주변 저녁 빛에 앉아, 틀림없이 작아진 기분이 들었어요. 다양한 합리적으로 평판 좋은 뉴스 출처 중 어느 것에든 가용한 어떤 눈에 보이는 객관적 의미에서도, 단지 제가 개인적으로 조용히 그리고 거의 누구도 눈에 띄게 알아채지 않은 채 몇 꽉 찬 달력 달 동안 그것을 보기를 멈췄다고 전쟁이 사실 일어나기를 멈춘 게 아니에요. 합리적으로 가용한 모든 현재 저널리즘적 설명으로, 사람들이 거기서 이전과 거의 같은 천천한 꾸준한 갈리는 진행 중인 속도로 여전히 죽임을 당하고 있었어요. 특정한 가족들이 같은 특정한 종류의 방식으로 여전히 분리되고 있었어요. 특정한 아이들이 같은 특정한 종류의 방식으로 여전히 특정한 부모를 잃고 있었어요. 제가 조용히 제 자기 개인적 매일 주의를 다른 곳으로 옮긴 단순한 개인적 사적 사실은, 어떤 정직한 신중한 척도로도, 거기 어디든 어떤 단일 특정 도시에 사는 어떤 단일 특정 아이에게서도 어떤 특정한 작은 무게를 들어주지 않았어요.",
+      "그런데도, 계속된 천천하고 정직하고 어느 정도 고통스럽고 살짝 더 늦은 조용한 성찰에서, 이 훨씬 더 큰 시간적 거리로부터 점점 증가하는 천천한 명확성으로, 그 매우 많은 이전의 평범한 근무 아침 모두에서 그 3 꽉 찬 달력 해 동안 모든 단일한 끔찍한 새 업데이트를 읽은 것이, 여기서 지금 가능한 어떤 정직한 가용한 회계에서, 사실 그들 중 누구도 의미 있게 도운 것도 아니라는 걸 알아요. 제 자기 평범한 아침 식탁에서의 제 사적 아침 슬픔은, 평이한 정직한 조용한 성찰에서, 어떤 특정한 전선에서도 단 한 명의 개별 특정 군인도 집으로 옮기지 못했어요. 제 불안한 이른 아침 스크롤은 어떤 단일 특정 건물도 어떤 특정한 더 늦은 아침 시간에 포격으로부터 구하지 못했어요. 그 아침 중 정확히 세지지 않은 상당한 수에서, 그저 그날 저녁 그 후 측정 가능하게 그리고 어느 정도 부당하게 더 나쁜 기분으로 자러 갔고, 그 먼 익숙하지 않은 국경 너머에서 사실 일어나고 있는 모든 것은 제 자기 사적 아침 읽기나 제 자기 사적 아침 안-읽기와 완전히 상관없이 어차피 불가피하게 계속됐을 것처럼 정확히 계속되고 있었어요.",
+      "오늘은, 매우 많은 나라에서 동시에 그리고 조용히 그리고 큰 극적 의식 거의 없이, 최근 그리고 그렇게-최근이지-않은 기록된 인간 역사의 긴 천천히 누적되는 해의 전쟁 동안 — 종종 거의 보이지 않게 — 죽은 군인들, 평범한 익명의 민간인들, 그리고 매우 많은 작은 사진 찍히지 않고 기록되지 않은 사람들을 구체적으로 그리고 공식적으로 기억하기 위해 따로 떼어둔 국가적 또는 지역적 날이에요. 그래서 어떤 특정한 진행 중인 전쟁에서 지리적으로 그리고 정치적으로 그리고 도덕적으로 먼, 그것을 개인적으로 끝낼 수 없고 그 안에서 개인적으로 싸울 수 없고 그것의 어떤 실제 특정 현재 희생자도 의미 있게 한 번도 만날 수 없는 한 사람이, 전쟁 자체가 자기의 어떤 눈에 보이게 세지는 종류의 의미 있는 참여 없이 조용히 계속 갈리어 가는 동안, 지나가는 한 근무 주에 또 한 주, 평이한 조용한 사실에서 도덕적으로 무엇을 해야 하는지에 대해, 매우 신중히 그리고 어느 정도 불편하게 그리고 더 명확한 답을 위한 제 자기 처음 사적 선호에 어느 정도 반해서 정확히 그리고 구체적으로 생각해 왔어요.",
+      "이 3 꽉 찬 천천히 누적되는 달력 해 후에, 사실 옳은 정직한 신중한 답이 모든 단일한 평범한 두드러지지 않은 근무 아침마다 모든 신선한 끔찍한 새 매일 업데이트를 다시 읽으러 돌아가는 것이라고 더 이상 생각하지 않아요. 그 이전 매일 아침 배치는 그것을 하는 약 2 지나가는 달력 해의 천천한 갈리는 누적되는 과정을 가로질러 제 안의 꽤 구체적으로 조용한 무언가를 부쉈고, 이 작은 시간적 거리로부터 저에게 지금 가용한 어떤 정직한 신중한 회계로도, 거기 있는 어떤 단일 개별 사람도 사실 구하지 못했어요. 더 넓은 불안정한 세상 어딘가의 어려운 진행 중인 상황에 대해 사려 깊게 그리고 적절히 정보를 얻는 것과, 시간을 가로질러 그것에 의해 천천히 그리고 인내심 있게 점점 더 조용하고 점점 더 조용하고 꾸준히 덜 쓸모 있고 꾸준히 덜 도덕적으로 기능적인 자기 자신의 버전으로 닳는 것 사이에는, 진짜, 거의 도덕적으로 명확한, 그러나 살짝 말하기 어려운 차이가 있어요.",
+      "그런데 이 같은 3 천천히 누적되는 달력 해 이제 후에, 옳은 정직한 신중한 답이 단순히 편안한 계속된 침묵이라고도 생각하지 않아요. 침묵은, 제 자기 부엌 식탁에서의 천천하고 살짝 자기 의심하는 인내심 있는 정직한 성찰에서, 훨씬 너무 편안하고, 제 자기 조촐한 부엌 램프의 작은 주변 빛 안에서의 천천한 신중한 정직한 더 늦은 성찰에서, 조용한 진행 중인 개인적 침묵이 평이한 정직한 실천에서 조용히 저를 그렇게 만들어 줄 만큼 이 어떤 먼 계속되는 상황에 대해서도 제가 사실 도덕적으로 편안할 자격이 있다고 특별히 생각하지 않아요. 여기, 이 특정한 구체적이고 진행 중인 종류의 먼 도덕적 경우에서, 편안함은 평이한 정직한 신중한 실천에서 다른 특정한 진짜 사람들의 실제 진행 중인 매일의 진짜 고통을, 그 특정한 지나가는 달력 해 동안 그것이 저를 충분히 지치게 했을 때마다 조용히 내려놓고 뒤에 두고 떠날 수 있는 특별히 무겁고 조용히 불편한 것으로 조용히 취급하는 것을 의미할 거예요.",
+      "그래서 그 두 매력적으로 단순한 대칭적 깔끔하고 명확한 극단 중 어느 쪽에 대한 제 자기 사적 선호에 어느 정도 신중하게 그리고 어느 정도 마지못해 반해서, 작고, 의도적으로 중간 크기이고, 의도적으로 구조화되고, 그 예정된 정기성에서 살짝 불편하게 구체적인 무언가를 해보기로 결정했어요. 정확히 일주일에 한 번, 한 주의 한 고정되고 구체적인 조용히 고른 날에, 그 날의 한 고정되고 구체적인 조용히 고른 시간에, 제 폰의 전쟁 뉴스 앱을 조용히 그리고 의도적으로 그리고 어느 정도 의례적으로 열 거예요. 약 10분의 끊기지 않은 천천한 동안, 신중히 그리고 주의 깊게 그리고 끊기지 않은 채 읽을 거예요. 그 특정한 천천한 10분 동안, 그 조용한 불편한 분 동안 얼마나 사적으로 그리고 조용히 그러기를 선호할 수 있든, 의도적으로 눈을 돌리거나 조용히 앞으로 훑어보지 않을 거예요. 그러고 앱을 닫고, 폰을 제 옆 작은 테이블에 화면을 아래로 두고, 실제로 현재 그대로의 제 자기 평범한 근무 인생으로 천천히 돌아갈 거예요.",
+      "제가 현재 마침 앉은 곳에서 전쟁을 끝낼 수 없어요. 저에게 가용한 어떤 정직한 신중한 척도로도, 그것의 어떤 것을 현재 살아가는 어떤 단일 개별 사람도 그들에게 일어나고 있는 어떤 것으로부터도 구할 수 없어요. 어떤 명확한 눈을 가진 어른 정직한 신중한 회계로도, 그것의 어떤 구체적 조각이든 현재 살아가는 누구에게 의미 있었다고 눈에 보이게 의미할 어떤 단일한 구체적 특정 작은 개별 일도 사실 할 수 없어요. 제가 조용히 할 수 있는 것은, 조촐하게 그리고 끈질기게 그리고 조용하게 그리고 거의 다른 누구도 알아채지 않은 채, 지나가는 한 천천한 달력 주에 또 한 주, 그들이 모두 여전히 거기 있다는 것, 이것이 평이한 사실에서 여전히 연속적으로 천천히 일어나고 있다는 것, 제가 여기서 매 근무 아침마다 더 또는 덜 행복하게 그리고 평범하게 계속하는 평범한 아침 루틴이 진짜로 그리고 말해지지 않은 부분에서 다른 어딘가에서 — 어떤 합리적인 남은 평생에 거의 확실히 결코 가지 않을 어딘가에서 — 평범한 아침 루틴이 이미 그리고 전적으로 되돌릴 수 없게 — 이 전체 평생에서 개인적으로 만날 어떤 실제 기회도 전혀 없을 매우 많은 특정하고 전적으로 사진 찍기 좋지 않은 사람들에게 — 끝났기 때문에만 계속되고 있다는 것을, 능동적으로 잊기를 거부하는 것이에요.",
+      "잊지 않는 것은, 이 지난 몇 조용히 누적되는 달을 통해 매우 천천히 그리고 살짝 마지못해 의심하기 시작했는데, 매우 아마도, 특정한 진행 중인 전쟁에서 멀리 있는 한 특정한 작은 살짝 지친 사람이, 어떤 옹호 가능한 사적 어른 정직성이 합리적으로 손상되지 않은 채, 한 평범한 지나가는 천천한 근무 주, 그러고 또 다른 주, 그러고 또 다른 주, 그리고 그 후 또 다른 주를 가로질러, 실제로 여전히 들고 다닐 수 있게 관리할 수 있는, 가능한 가장 작은 품위 있는 일이에요. 조용한 평이한 검사에서, 아무것도 아닌 건 아니에요. 또한, 어떤 정직한 척도로도 전혀, 매우 많은 것도 아니에요. 그런데 천천한 정직하고 차분한 인내심 있는 신중한 어른 성찰에서, 제 자신이나, 거의 확실히, 이 전체 남은 평생에서 어떤 종류의 실제 묘비에서도 개인적으로 만나거나 조용히 애도할 어떤 실제 진짜 기회도 전혀 없을 그 모든 특정한 사람들에 대한 제 자기 조용한 말해지지 않은 반쯤-표현된 어른의 의무를 부수지 않고 매 평범한 지나가는 근무 주를 가로질러 실제로 들고 다닐 수 있게 관리할 수 있는, 더 또는 덜한 채로 정확히 그것이에요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l4-007",
+      "l2-103",
+      "l2-080"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer ultimately name as the smallest possible decent thing one person far from a war can carry?",
+        "questionKo": "글쓴이는 결국 전쟁에서 먼 한 사람이 들 수 있는 가능한 가장 작은 품위 있는 일을 무엇이라고 이름 짓나요?",
+        "options": [
+          "Daily prayer",
+          "Refusing to actively forget that they are still there — week after passing slow calendar week — without breaking herself or her unspoken obligation to people she will never meet",
+          "A monthly donation",
+          "Posting about it on social media"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer reject simple silence as the right answer?",
+        "questionKo": "글쓴이는 왜 단순한 침묵을 옳은 답으로 거부하나요?",
+        "options": [
+          "Silence is impolite",
+          "Silence is too comfortable, and would in practice mean treating other people's actual ongoing real suffering as something heavy she gets to put down whenever it has tired her sufficiently for the year",
+          "Silence is dangerous",
+          "Silence is hard to maintain"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "遠くにいる一人が担える、最も小さなまともなこと",
+      "es": "Sobre la Cosa Decente Más Pequeña Que una Persona Lejana Puede Llevar",
+      "id": "Tentang Hal Layak Terkecil yang Bisa Dibawa Seseorang dari Jauh",
+      "vi": "Về Điều Tử Tế Nhỏ Bé Nhất Mà Một Người Ở Xa Có Thể Mang",
+      "hi": "दूर बैठा एक इंसान जो सबसे छोटी सम्मानजनक चीज़ उठा सकता है, उस पर",
+      "th": "ว่าด้วยสิ่งดีงามที่เล็กที่สุดที่คนคนหนึ่งจากแดนไกลพอจะแบกรับได้",
+      "pt-BR": "Sobre a Menor Coisa Decente Que uma Pessoa Distante Pode Carregar"
+    }
+  }
+]

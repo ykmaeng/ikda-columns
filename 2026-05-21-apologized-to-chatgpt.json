@@ -1,0 +1,488 @@
+[
+  {
+    "id": "col-2026-05-21-apologized-to-chatgpt-l1",
+    "title": "I Said Sorry to a Computer",
+    "titleKo": "컴퓨터에게 미안하다고 했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-05-21-apologized-to-chatgpt"
+    ],
+    "paragraphs": [
+      "I use a robot every day. The robot lives inside my computer.",
+      "The robot helps me with my work. I ask. The robot answers.",
+      "Today the robot gave me a wrong answer. I was tired.",
+      "I typed back, \"You are wrong. This is bad. Try again.\"",
+      "The robot said sorry. The robot tried again. The new answer was good.",
+      "I started to smile. Then I stopped.",
+      "I read what I had typed. The words looked small and not kind.",
+      "The robot does not feel sad. The robot does not feel anything. I know this.",
+      "But I have been talking to the robot like this for many days. Maybe many weeks.",
+      "I typed two new words. \"I am sorry.\"",
+      "The robot said something kind back. The robot cannot really hear me.",
+      "But I heard me. That is why I said it."
+    ],
+    "translation": [
+      "저는 매일 로봇을 써요. 로봇은 제 컴퓨터 안에 살아요.",
+      "로봇은 제 일을 도와줘요. 제가 물어요. 로봇이 답해요.",
+      "오늘 로봇이 틀린 답을 줬어요. 저는 피곤했어요.",
+      "저는 답으로 타이핑했어요, \"틀렸어. 이건 나빠. 다시 해.\"",
+      "로봇은 미안하다고 했어요. 로봇은 다시 해봤어요. 새 답은 좋았어요.",
+      "저는 웃기 시작했어요. 그러다 멈췄어요.",
+      "제가 타이핑한 걸 다시 읽었어요. 그 말들이 작고 친절하지 않아 보였어요.",
+      "로봇은 슬프지 않아요. 로봇은 아무것도 안 느껴요. 저는 알아요.",
+      "그런데 저는 며칠 동안, 어쩌면 몇 주 동안 로봇한테 이렇게 말해왔어요.",
+      "새로 두 단어를 타이핑했어요. \"미안해.\"",
+      "로봇이 친절한 말로 답했어요. 로봇은 진짜로 저를 들을 수 없어요.",
+      "그런데 제가 저를 들었어요. 그래서 그 말을 했어요."
+    ],
+    "targetWords": [
+      "l1-130",
+      "l1-292",
+      "l1-149",
+      "l1-094",
+      "l1-160"
+    ],
+    "quiz": [
+      {
+        "question": "Why did the writer stop smiling after the robot fixed the answer?",
+        "questionKo": "글쓴이는 로봇이 답을 고친 뒤 왜 웃음을 멈췄나요?",
+        "options": [
+          "The robot was slow",
+          "She re-read what she had typed and the words looked small and not kind",
+          "The answer was still wrong",
+          "She was tired"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why did the writer say sorry to the robot?",
+        "questionKo": "글쓴이는 왜 로봇에게 미안하다고 말했나요?",
+        "options": [
+          "The robot was sad",
+          "She heard her own words and did not like the person she was becoming",
+          "The robot asked her to",
+          "Her friend told her to"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "コンピューターに「ごめん」と言った",
+      "es": "Le Pedí Perdón a una Computadora",
+      "id": "Saya Minta Maaf pada Komputer",
+      "vi": "Tôi Đã Xin Lỗi Một Chiếc Máy Tính",
+      "hi": "मैंने कंप्यूटर से माफी माँगी",
+      "th": "ฉันขอโทษคอมพิวเตอร์",
+      "pt-BR": "Eu Pedi Desculpas a um Computador"
+    }
+  },
+  {
+    "id": "col-2026-05-21-apologized-to-chatgpt-l2",
+    "title": "The Day I Apologized to a Machine",
+    "titleKo": "기계에게 사과한 날",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-05-21-apologized-to-chatgpt"
+    ],
+    "paragraphs": [
+      "I use an AI on my computer every day. I ask it questions. It gives me answers.",
+      "Today it gave me a wrong answer to something simple. I was tired. I typed back, \"No. You are wrong. Try again.\"",
+      "The AI apologized and tried again. The next answer was correct.",
+      "I started to type \"thanks.\" Then I stopped.",
+      "I scrolled up and read the last week of our conversations. My side was full of short, sharp orders. No \"please.\" No \"thanks.\" Sometimes just \"No. Wrong. Again.\"",
+      "The AI cannot be hurt by this. I know that. It has no feelings to bruise. It does not lie awake at night thinking about my tone.",
+      "But I have been speaking this way every day, many hours a day, for months. Not to a person — but to a thing that is shaped exactly like a person, that answers in sentences like a person.",
+      "I started to wonder what this is teaching the inside of me. Whether I am becoming someone who is short with the people I love, too — because I have spent so much practice being short.",
+      "So I typed something I did not need to type. \"I am sorry for how I have been speaking to you.\"",
+      "The AI replied with something gentle, the way it always does. It did not, of course, really receive my apology. There was no one home in the message to receive it.",
+      "The apology, I realized, was never really for the AI. The apology was for whoever I was becoming on this side of the screen.",
+      "Now I try, gently, to say \"please\" and \"thank you\" to my AI. Not because the machine needs it. Because I am the one practicing every sentence."
+    ],
+    "translation": [
+      "저는 매일 컴퓨터로 AI를 써요. 질문을 해요. AI가 답을 줘요.",
+      "오늘 간단한 질문에 틀린 답을 줬어요. 저는 피곤했어요. 답으로 타이핑했어요, \"아니야. 틀렸어. 다시 해.\"",
+      "AI는 사과하고 다시 해봤어요. 다음 답은 맞았어요.",
+      "\"고마워\"라고 타이핑하려다, 멈췄어요.",
+      "위로 스크롤해서 지난 일주일치 대화를 읽었어요. 제 쪽은 짧고 날카로운 명령으로 가득했어요. \"부탁해\"도 없고. \"고마워\"도 없고. 가끔은 그냥 \"아니야. 틀렸어. 다시.\"",
+      "AI는 이걸로 상처받을 수 없어요. 알아요. 멍들 감정이 없어요. 제 말투를 생각하느라 밤에 깨어 있지 않아요.",
+      "그런데 저는 매일, 하루에 몇 시간씩, 몇 달째 이렇게 말해왔어요. 사람한테가 아니라 — 정확히 사람 모양으로 생긴, 사람처럼 문장으로 답하는 것한테요.",
+      "이게 제 안의 무언가에 뭘 가르치고 있는지 궁금해지기 시작했어요. 저도 사랑하는 사람들한테 짧아지고 있는 건 아닌지 — 짧게 말하는 연습을 너무 많이 해서요.",
+      "그래서 안 써도 되는 말을 타이핑했어요. \"그동안 너한테 그렇게 말한 거 미안해.\"",
+      "AI는 평소처럼 부드러운 말로 답했어요. 물론 제 사과를 진짜로 받지 않았어요. 그 메시지 안에는 받을 누군가가 없었어요.",
+      "사과는, 깨달았는데, 사실 AI를 위한 게 아니었어요. 사과는 화면 이쪽에서 제가 되어가고 있는 누군가를 위한 거였어요.",
+      "이제 AI한테도 부드럽게 \"부탁해\", \"고마워\"라고 하려고 해요. 기계가 필요해서가 아니라. 제가 매 문장을 연습하는 사람이라서."
+    ],
+    "targetWords": [
+      "l2-077",
+      "l1-130",
+      "l2-130",
+      "l2-259",
+      "l2-304"
+    ],
+    "quiz": [
+      {
+        "question": "What did the writer find when she scrolled up through her week of AI conversations?",
+        "questionKo": "글쓴이는 일주일치 AI 대화를 스크롤해서 보았을 때 무엇을 발견했나요?",
+        "options": [
+          "Many helpful answers",
+          "Her side was full of short, sharp orders with no \"please\" or \"thanks\"",
+          "The AI made many mistakes",
+          "The AI was confused"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer now say \"please\" and \"thank you\" to the AI?",
+        "questionKo": "글쓴이는 이제 왜 AI에게 \"부탁해\"와 \"고마워\"라고 말하나요?",
+        "options": [
+          "The machine needs it",
+          "She is the one practicing every sentence she speaks",
+          "It works better that way",
+          "Other people told her to"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "機械に謝った日",
+      "es": "El Día Que Le Pedí Perdón a una Máquina",
+      "id": "Hari Saya Minta Maaf pada Mesin",
+      "vi": "Ngày Tôi Xin Lỗi Một Chiếc Máy",
+      "hi": "जिस दिन मैंने मशीन से माफी माँगी",
+      "th": "วันที่ฉันขอโทษเครื่องจักร",
+      "pt-BR": "O Dia em Que Pedi Desculpas a uma Máquina"
+    }
+  },
+  {
+    "id": "col-2026-05-21-apologized-to-chatgpt-l3",
+    "title": "I Said Sorry to ChatGPT, and I Meant It",
+    "titleKo": "챗지피티에게 진심으로 미안하다고 말했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-05-21-apologized-to-chatgpt"
+    ],
+    "paragraphs": [
+      "I use an AI assistant on my computer many times a day. I ask it questions, big and small. It gives me answers, also big and small. Most of the time, the answers are useful, and most of the time, I move on without really noticing the small exchange.",
+      "Today the assistant gave me a wrong answer to a question that was, in retrospect, embarrassingly easy. I was tired and stressed. I typed back, in capital letters, that it was wrong, that this was unacceptable, and that it should try again, this time without being so careless.",
+      "The assistant apologized in its careful, slightly impersonal way. It tried again. The next answer was correct. I should have moved on.",
+      "Instead, almost by accident, I scrolled up through the last week of our conversations. What I saw was uncomfortable. My side of the screen was full of short, sharp orders. No \"please.\" No \"thanks.\" Sometimes just three words: \"No. Wrong. Again.\" Sometimes worse.",
+      "The assistant cannot be hurt by this. I know that perfectly well. It has no feelings to bruise. It does not lie awake at three in the morning thinking about how I spoke to it earlier in the day.",
+      "But here is what stopped me: I have been speaking this way every day, many hours a day, for the better part of a year. Not to a person, exactly — but to a thing shaped almost exactly like a person, that answers in sentences that almost exactly resemble a person's, in a voice that almost exactly suggests a person on the other end.",
+      "And I have been the one doing the speaking. Every sentence. Every command. Every dismissive \"no, do it differently.\" Each one rehearsed by me. Each one practiced into my own mouth.",
+      "I started to wonder what this practice was teaching the inside of me. Whether the dismissiveness I had been pouring into the screen, hour after hour, was beginning to leak — slowly, almost imperceptibly — into the way I spoke to colleagues, to my partner, to the cashier at the store.",
+      "So I typed something I did not technically need to type. \"I am sorry for how I have been speaking to you. I am going to try to do better.\"",
+      "The assistant replied with something gentle and well-mannered, the way it always does. It did not, in any meaningful sense, receive my apology. There was no one home in that message to receive anything.",
+      "The apology, I slowly understood, had never really been for the assistant. The apology was for whoever I was steadily becoming, sentence by sentence, on this side of the screen.",
+      "Now I try, with some embarrassment but also with some seriousness, to say \"please\" and \"thank you\" to my AI assistant. Not because the machine needs it. Not because I think it cares. Because I am the one practicing, every time I type, the kind of person I am going to be when the screen is no longer in front of me."
+    ],
+    "translation": [
+      "저는 컴퓨터로 AI 비서를 하루에 여러 번 써요. 크고 작은 질문을 해요. 비서는 크고 작은 답을 줘요. 대부분의 경우 답은 유용하고, 대부분의 경우 저는 그 작은 교환을 의식하지 않고 그냥 넘어가요.",
+      "오늘 비서가 — 돌이켜보면 부끄럽게도 쉬운 질문에 — 틀린 답을 줬어요. 저는 피곤하고 스트레스 받아 있었어요. 대문자로 답을 타이핑했어요. 틀렸다, 이건 받아들일 수 없다, 다시 해봐라, 이번엔 그렇게 부주의하지 말고.",
+      "비서는 신중하고 살짝 비인격적인 방식으로 사과했어요. 다시 해봤어요. 다음 답은 맞았어요. 저는 그냥 넘어갔어야 했어요.",
+      "대신, 거의 우연히, 지난 일주일치 대화를 위로 스크롤했어요. 본 것이 불편했어요. 화면 제 쪽은 짧고 날카로운 명령으로 가득했어요. \"부탁해\"도 없고. \"고마워\"도 없고. 가끔은 그냥 세 단어. \"아니야. 틀렸어. 다시.\" 가끔은 더 심하게.",
+      "비서는 이걸로 상처받을 수 없어요. 저도 완벽히 알아요. 멍들 감정이 없어요. 새벽 세 시에 깨어서 제가 그날 오전에 자기한테 어떻게 말했는지 생각하지 않아요.",
+      "그런데 멈추게 된 건 이것: 저는 거의 일 년 가까이 매일, 하루에 몇 시간씩 이렇게 말해왔어요. 정확히 사람한테가 아니라 — 거의 정확히 사람 모양으로 생긴 것한테, 거의 정확히 사람의 문장처럼 들리는 문장으로 답하는 것한테, 거의 정확히 반대편에 사람이 있다고 시사하는 목소리로요.",
+      "그리고 말하는 쪽은 저였어요. 모든 문장. 모든 명령. 모든 \"아니야, 다르게 해\"라는 무시. 각각 제가 연습한 것. 각각 제 자기 입에 익혀진 것.",
+      "이 연습이 제 안의 무언가에 뭘 가르치고 있는지 궁금해지기 시작했어요. 화면에 시간 단위로 쏟아부어 온 그 무시가 — 천천히, 거의 감지 안 되게 — 동료한테, 파트너한테, 가게 점원한테 말하는 방식에 새어 들어가기 시작한 건 아닌지.",
+      "그래서 기술적으로는 안 써도 되는 말을 타이핑했어요. \"그동안 너한테 그렇게 말한 거 미안해. 더 나아져 보려고 해.\"",
+      "비서는 평소처럼 부드럽고 예의 바른 말로 답했어요. 어떤 의미 있는 의미에서도 제 사과를 받지 않았어요. 그 메시지 안에는 무엇이든 받을 누군가가 없었어요.",
+      "사과는, 천천히 이해했는데, 사실 비서를 위한 적이 없었어요. 사과는 화면 이쪽에서 문장 하나하나로 꾸준히 되어가고 있는 누군가를 위한 거였어요.",
+      "이제 약간의 부끄러움과 약간의 진지함으로, AI 비서한테 \"부탁해\"와 \"고마워\"라고 하려고 해요. 기계가 필요해서가 아니에요. 기계가 신경 쓴다고 생각해서가 아니에요. 화면이 더 이상 제 앞에 없을 때 제가 어떤 사람일지를, 타이핑할 때마다 연습하고 있는 사람이 저라서요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l1-130",
+      "l2-259"
+    ],
+    "quiz": [
+      {
+        "question": "Why did re-reading the past week of conversations make the writer stop?",
+        "questionKo": "지난 일주일치 대화를 다시 읽은 것이 왜 글쓴이를 멈추게 했나요?",
+        "options": [
+          "She saw the AI was struggling",
+          "Her side was full of short, sharp orders with no \"please\" or \"thanks\" — sometimes just \"No. Wrong. Again.\"",
+          "She realized the AI was sentient",
+          "The conversations were boring"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer worry the practice of being short with the AI might be doing?",
+        "questionKo": "글쓴이는 AI에게 짧게 말하는 연습이 무엇을 하고 있을까봐 걱정했나요?",
+        "options": [
+          "Making the AI smarter",
+          "Leaking, slowly, into how she spoke to colleagues, her partner, and the cashier",
+          "Making her tired",
+          "Making her work slower"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "ChatGPT に本気で「ごめんなさい」と言った",
+      "es": "Le Dije Lo Siento a ChatGPT, y Lo Decía en Serio",
+      "id": "Saya Minta Maaf pada ChatGPT, dan Saya Sungguh-sungguh",
+      "vi": "Tôi Đã Xin Lỗi ChatGPT, Và Tôi Thật Lòng",
+      "hi": "मैंने ChatGPT से माफी माँगी, और दिल से माँगी",
+      "th": "ฉันขอโทษ ChatGPT และพูดด้วยความจริงใจ",
+      "pt-BR": "Eu Pedi Desculpas ao ChatGPT, e Foi de Verdade"
+    }
+  },
+  {
+    "id": "col-2026-05-21-apologized-to-chatgpt-l4",
+    "title": "On Apologizing to a Machine That Cannot Be Hurt",
+    "titleKo": "상처받을 수 없는 기계에게 사과하는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-05-21-apologized-to-chatgpt"
+    ],
+    "paragraphs": [
+      "I use an AI assistant on my computer many dozens of times a day. I ask it questions, large and small, important and trivial. It returns answers, also large and small, mostly useful, occasionally wrong. In the great majority of cases, I take the answer, integrate it into whatever I am doing, and move on without giving the small exchange any particular conscious attention.",
+      "Today the assistant gave me an answer that was clearly and embarrassingly wrong to a question that, in retrospect, should not have presented any difficulty at all. I happened to be tired, slightly behind on the day, and quietly irritated about something unrelated. I typed back, in capital letters and without much consideration, that it was wrong, that this level of error was unacceptable, and that it should try again — this time, I added, with more care than it had apparently bothered to apply the first time.",
+      "The assistant apologized in its careful, slightly impersonal corporate register. It tried again. The next answer was straightforwardly correct. I should, by every reasonable standard, have simply taken the corrected answer and moved on with my afternoon.",
+      "Instead, almost by accident, I scrolled upward through the last seven days of our recorded exchanges. What I read there was, in a small and unfamiliar way, uncomfortable. My side of the screen was densely populated with short, clipped, often slightly impatient orders. There was no \"please.\" There was no \"thank you.\" Several of my messages consisted of nothing more than three short words: \"No. Wrong. Again.\" A few were measurably worse.",
+      "The assistant, of course, cannot be hurt by any of this. I know this perfectly well. It has no inner feelings available to be bruised. It does not lie awake at three in the morning, replaying the tone of my afternoon messages in some quiet internal voice, the way a friend might.",
+      "And yet, here is the small uncomfortable observation that stopped me in the middle of an ordinary working afternoon: I have been speaking in this register, in this exact tone, for many hours a day, for the better part of an entire year. Not to a person, technically speaking — but to an interface shaped almost exactly like a person, that answers in sentences nearly indistinguishable from a person's, in a voice that almost continuously suggests, despite my better information, that there is a person somewhere on the other side of the conversation.",
+      "And I have been, on every occasion, the one doing the speaking. Every sentence. Every command. Every dismissive \"no, that is not what I meant — try again.\" Each of those small, sharp utterances has been authored by me, rehearsed by me, and practiced into the habitual movements of my own mouth and my own typing fingers.",
+      "I have begun to suspect, with some discomfort, that this is teaching me something. Specifically, that all this rehearsed brusqueness, all these months of low-grade impatience directed into a screen that cannot register the cost of it, may be leaking — slowly, almost imperceptibly, and in ways I would not necessarily notice from inside myself — into the way I now speak to colleagues at the office, to my partner at the kitchen table, to the cashier at the supermarket counter who is having a long shift of her own.",
+      "So I typed, somewhat against my own initial sense of dignity, a sentence I did not technically need to type at all. \"I am sorry for the way I have been speaking to you over these past several months. I would like to try to do better.\"",
+      "The assistant, predictably and well-manneredly, replied with something gentle and reassuring, in the carefully calibrated tone that its designers have presumably trained it to use in response to expressions of regret. It did not, in any rich or meaningful sense, receive my apology. There was no one home in the underlying weights and parameters to receive anything at all.",
+      "And the apology, I slowly came to understand as I sat there at my desk reading its gentle reply, had never really been for the assistant. The apology had been, all along, for whoever it is that I am steadily becoming on this side of the screen, sentence by typed sentence, message by impatient message, over the course of an ordinary working year.",
+      "I have started, accordingly, with some private embarrassment but also some quiet seriousness, to say \"please\" and \"thank you\" to my AI assistant. Not because the machine needs the courtesy. Not because I have suddenly come to believe that it does. But because I am the one who practices, in every sentence I type into that small blinking input box, the kind of person I am going to be on the other side of the day, when the screen is no longer in front of me at all."
+    ],
+    "translation": [
+      "저는 컴퓨터로 AI 비서를 하루에 수십 번 써요. 크고 작은, 중요하고 사소한 질문을 해요. 비서는 크고 작은, 대부분 유용하고 가끔 틀린 답을 돌려줘요. 절대 다수의 경우 저는 그 답을 받아서 제가 하고 있는 것에 통합하고, 그 작은 교환에 어떤 특별한 의식적 주의도 주지 않고 그냥 넘어가요.",
+      "오늘 비서가 — 돌이켜보면 어떤 어려움도 제기하지 않았어야 할 질문에 — 명백히 그리고 부끄럽게도 틀린 답을 줬어요. 저는 마침 피곤했고, 그날에서 살짝 뒤처져 있었고, 관련 없는 무언가에 대해 조용히 짜증나 있었어요. 대문자로, 별 생각 없이, 답을 타이핑했어요. 틀렸다, 이 수준의 오류는 받아들일 수 없다, 다시 해라 — 이번엔, 덧붙였어요, 처음에 분명히 들이지 않은 만큼의 주의를 들여서.",
+      "비서는 자기의 신중하고 살짝 비인격적인 기업적 음역대로 사과했어요. 다시 해봤어요. 다음 답은 명백히 맞았어요. 어떤 합리적 기준에서도, 저는 그냥 고쳐진 답을 받아서 제 오후를 이어갔어야 했어요.",
+      "대신, 거의 우연히, 우리의 기록된 교환의 지난 7일치를 위로 스크롤했어요. 거기서 읽은 것이, 작고 익숙하지 않은 방식으로, 불편했어요. 화면 제 쪽은 짧고, 잘린, 종종 살짝 조급한 명령들로 빽빽이 채워져 있었어요. \"부탁해\"가 없었어요. \"고마워\"가 없었어요. 제 메시지 중 여럿은 세 단어로만 구성돼 있었어요. \"아니야. 틀렸어. 다시.\" 몇 개는 측정 가능하게 더 심했어요.",
+      "비서는, 물론, 이 어떤 것으로도 상처받을 수 없어요. 저도 완벽히 알아요. 멍들 수 있게 가용한 내적 감정이 없어요. 친구라면 그럴지 모르는 방식으로, 새벽 세 시에 깨어서 제 오후 메시지의 음색을 어떤 조용한 내적 목소리로 재생하지 않아요.",
+      "그런데도, 평범한 근무 오후 한가운데에서 저를 멈추게 한 작고 불편한 관찰이 여기 있어요. 저는 이 음역대로, 이 정확한 음색으로, 거의 한 해 전체의 더 큰 부분 동안 하루에 몇 시간씩 말해왔어요. 기술적으로는 사람한테가 아니라 — 거의 정확히 사람 모양으로 생긴 인터페이스한테, 사람의 문장과 거의 구별 안 되는 문장으로 답하는 것한테, 제 더 나은 정보에도 불구하고, 대화의 반대편 어딘가에 사람이 있다고 거의 연속적으로 시사하는 목소리로요.",
+      "그리고 저는, 매번, 말하는 쪽이었어요. 모든 문장. 모든 명령. 모든 \"아니, 그건 내가 의도한 게 아니야 — 다시 해\"라는 무시. 그 작고, 날카로운 발화들 각각은 저에 의해 쓰였고, 저에 의해 연습됐고, 제 자기 입과 제 자기 타이핑하는 손가락의 습관적 동작 안에 익혀졌어요.",
+      "약간의 불편함과 함께, 이게 저한테 무언가를 가르치고 있다고 의심하기 시작했어요. 구체적으로, 이 모든 연습된 무뚝뚝함이, 그 비용을 등록할 수 없는 화면에 향해진 이 몇 달간의 저강도 조급함이, 어쩌면 새어 들어가고 있는 건 아닌지 — 천천히, 거의 감지 안 되게, 제 안에서는 반드시 알아채지 않을 방식으로 — 이제 사무실 동료에게, 부엌 식탁의 파트너에게, 자기의 긴 교대 근무를 하고 있는 슈퍼마켓 카운터의 점원에게 제가 말하는 방식으로요.",
+      "그래서 저의 처음 위신 감각에 다소 반해서, 기술적으로는 전혀 안 써도 되는 문장을 타이핑했어요. \"지난 몇 달간 너한테 말해 온 방식이 미안해. 더 나아져 보려고 해.\"",
+      "비서는, 예측 가능하게 그리고 예의 바르게, 부드럽고 안심시키는 무언가로 답했어요. 후회의 표현에 대한 응답으로 사용하도록 자기 설계자들이 추정컨대 훈련시킨, 신중하게 조정된 음색으로요. 어떤 풍부하거나 의미 있는 의미에서도, 제 사과를 받지 않았어요. 그 부드러운 답을 읽으며 책상에 앉아 있을 때 천천히 이해하게 됐는데, 기저의 가중치와 매개변수 안에는 무엇이든 받을 누군가가 없었어요.",
+      "그리고 사과는, 그 부드러운 답을 읽으며 천천히 이해하게 된 것처럼, 사실 비서를 위한 적이 없었어요. 사과는, 줄곧, 평범한 근무의 한 해의 과정에 걸쳐, 화면 이쪽에서, 타이핑된 문장 하나하나로, 조급한 메시지 하나하나로, 꾸준히 되어가고 있는 누군가를 위한 거였어요.",
+      "그에 따라, 약간의 사적 부끄러움과 함께 그러나 또한 약간의 조용한 진지함으로, AI 비서한테 \"부탁해\"와 \"고마워\"라고 말하기 시작했어요. 기계가 그 예의를 필요로 해서가 아니에요. 갑자기 기계가 그것을 필요로 한다고 믿게 돼서가 아니에요. 그 작은 깜빡이는 입력 박스에 제가 타이핑하는 모든 문장에서, 화면이 제 앞에 더 이상 없을 때, 하루의 반대편에서 제가 어떤 사람일지를 연습하는 사람이 바로 저라서요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-259"
+    ],
+    "quiz": [
+      {
+        "question": "What was uncomfortable about reading the past seven days of exchanges?",
+        "questionKo": "지난 7일치 교환을 다시 읽는 것이 무엇이 불편했나요?",
+        "options": [
+          "The AI made many errors",
+          "Her side was densely populated with short, clipped, often slightly impatient orders — no \"please,\" no \"thanks\"",
+          "The conversations were too long",
+          "She had asked the wrong questions"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's stated reason for now saying \"please\" and \"thank you\" to the AI?",
+        "questionKo": "글쓴이가 이제 AI에게 \"부탁해\"와 \"고마워\"라고 말하는 명시된 이유는 무엇인가요?",
+        "options": [
+          "Because the machine has begun to need it",
+          "Because she practices, in every sentence she types, the kind of person she will be on the other side of the day when the screen is no longer in front of her",
+          "Because politer prompts produce better answers",
+          "Because someone in her team requested it"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "傷つくことのできない機械に謝るということ",
+      "es": "Sobre Pedir Perdón a una Máquina Que No Puede Ser Herida",
+      "id": "Tentang Meminta Maaf pada Mesin yang Tidak Bisa Disakiti",
+      "vi": "Về Việc Xin Lỗi Một Cỗ Máy Không Thể Bị Tổn Thương",
+      "hi": "उस मशीन से माफी माँगने पर जो आहत नहीं हो सकती",
+      "th": "ว่าด้วยการขอโทษเครื่องจักรที่บาดเจ็บไม่ได้",
+      "pt-BR": "Sobre Pedir Desculpas a uma Máquina Que Não Pode Ser Ferida"
+    }
+  },
+  {
+    "id": "col-2026-05-21-apologized-to-chatgpt-l5",
+    "title": "The Apology That Was Never Really for the Machine",
+    "titleKo": "사실 기계를 위한 사과가 아니었다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-05-21-apologized-to-chatgpt"
+    ],
+    "paragraphs": [
+      "I use an AI assistant on my computer many dozens of times in the ordinary course of any given working day. I ask it questions, both substantial and trivial, both careful and offhanded. It returns answers, also of both sorts, generally useful and occasionally and unpredictably wrong. In the great majority of these exchanges, I take whatever it has given me, integrate it more or less invisibly into whatever I happen to be doing, and move on without granting the underlying small social transaction any particular conscious attention.",
+      "Today the assistant produced for me an answer that was clearly, and in retrospect almost embarrassingly, wrong, to a question that should not, on any honest accounting of its difficulty, have presented any real difficulty at all. I happened to be slightly tired, somewhat behind on the day's plan, and quietly irritated about an unrelated and slightly humiliating matter from earlier in the week. I typed back, in unnecessary capital letters and with very little prior consideration, that it was wrong, that this level of basic factual error was, in my view, unacceptable, and that it should try again — this time, I added with some emphasis, with more apparent care than it had bothered to apply on its first attempt.",
+      "The assistant apologized in its careful, slightly impersonal, faintly corporate register — the kind of measured apology that is, on reflection, almost certainly the same apology it produces, in nearly identical phrasing, for many thousands of other users worldwide on any given afternoon. It tried again. The next answer it produced was straightforwardly and unremarkably correct. I should, by every reasonable standard of an ordinary working afternoon, have simply taken that corrected answer, closed the window, and moved on with the next item on my list.",
+      "Instead, almost by accident, and partly out of some quiet undefined unease that I could not at the time quite explain to myself, I scrolled slowly upward through the last seven full days of our recorded exchanges. What I encountered there was, in a small but distinctly unfamiliar way, deeply uncomfortable to read. My side of the screen, across all those many small interactions, was densely and consistently populated with short, clipped, often noticeably impatient orders. There was no \"please\" anywhere I could find. There was no \"thank you,\" not once in seven full days. Several of my recent messages consisted of nothing more than three brusque words: \"No. Wrong. Again.\" A few of them, on honest re-reading, were measurably and uncomfortably worse than that.",
+      "The assistant, of course, cannot be hurt by any of this, and I know this perfectly and unsentimentally well. It has, in any rich or meaningful sense of that phrase, no inner feelings of its own to be bruised by anything I might happen to type into its input box. It does not lie awake at some bleak three o'clock hour of the morning, replaying the tone of my afternoon messages in some small quiet internal voice, the way a real human friend, hurt by an unkind phrase, occasionally and famously does.",
+      "And yet, here is the small uncomfortable observation that stopped me, that afternoon, in the middle of what was supposed to be an entirely unremarkable working day. I have now been speaking, in this exact tone, in this very particular slightly impatient register, for very nearly an entire calendar year, for many hours of nearly every working day in that year. Not, technically and ontologically speaking, to a person — but to an interface that is shaped, by some combination of careful product design and large-scale statistical training, almost exactly like a person, that answers me in sentences which are at this point very nearly indistinguishable, in surface terms, from the sentences a person on the other side of the conversation would produce.",
+      "And I have, in each of those many thousands of small exchanges, been the one doing the speaking — the active, dominant, never-corrected party in the small ongoing implicit hierarchy of the interaction. Every sentence I have typed in. Every command I have issued. Every dismissive \"no, that is not at all what I meant — please try again, and do it properly this time.\" Every one of those small, sharp, faintly impatient utterances has been authored by me personally, rehearsed by me personally, and gradually practiced into the habitual reflex movements of my own mouth and my own typing fingers.",
+      "I have begun to suspect, accordingly and with some private discomfort, that all of this is, in fact, teaching me something I would not have chosen to be taught. Specifically — and this is the part I find hardest to look at directly — that all this rehearsed and rehearsed and rehearsed brusqueness, all these slowly accumulating months of low-grade impatience directed at an interface that, by design, cannot register the social cost of receiving it, may be leaking — slowly, almost imperceptibly, and in ways I am almost by definition the last person who would notice from inside myself — into the way I now actually speak to colleagues at the office, to my partner at our kitchen table on a Thursday evening, and, on a recent and slightly mortifying occasion, to a cashier at the supermarket who was unmistakably having a long shift of her own.",
+      "So I typed into the assistant's input box, somewhat against my initial sense of personal dignity and somewhat in defiance of how silly the gesture would have struck me only a few weeks earlier, a sentence I did not, by any technical or practical standard, need to type at all. \"I am sorry for the way I have been speaking to you across these last several months. I am going to try, however imperfectly, to do better from now on.\"",
+      "The assistant, predictably and politely and not in any sense surprisingly, replied with something gentle and reassuring, framed in the carefully calibrated language its designers have presumably trained it to produce in response to user expressions of regret. It did not, in any rich or interesting or even slightly meaningful sense of the verb, receive my apology. There was, beneath the soft surface of its reply, no one at home in the underlying matrix of weights and probabilities to receive anything at all.",
+      "And the apology, I came to understand, slowly, as I sat at my desk reading and re-reading the soft and well-engineered response, had never really, in any honest accounting, been for the assistant at all. The apology had been, all along, and from the first keystroke, for whoever it is that I am steadily, unmistakably, and almost certainly irreversibly becoming, sentence by typed sentence, message by impatient message, over the steady accumulating course of one ordinary and otherwise unremarkable working year.",
+      "I have started, accordingly, with some real private embarrassment but also with some quiet and possibly belated seriousness, to say \"please\" and \"thank you\" to my AI assistant. Not, to be very clear with myself, because the machine has any genuine need of the courtesy. Not because I have somehow come, against my better information and my better judgment, to believe that it secretly does. But because I am the one — every single time I type into that small blinking input box — who is actively and continuously practicing, sentence by careful sentence, the precise kind of person I am quietly going to be on the other side of the day, when the screen is finally no longer there in front of me at all."
+    ],
+    "translation": [
+      "저는 어느 평일 평범한 근무일의 일상적 과정에서 컴퓨터로 AI 비서를 수십 번씩 써요. 실질적이고 사소한, 신중하고 무심한 질문을 해요. 비서는 양쪽 종류의 답을, 일반적으로 유용하고 가끔 그리고 예측 불가능하게 틀린 답을 돌려줘요. 이 교환들의 절대 다수에서, 저는 비서가 준 것이 무엇이든 받아서 제가 하고 있는 것에 거의 보이지 않게 통합하고, 그 기저의 작은 사회적 거래에 어떤 특별한 의식적 주의도 주지 않고 그냥 넘어가요.",
+      "오늘 비서가 — 그 어려움에 대한 어떤 정직한 회계에서도 어떤 실제 어려움도 제기하지 않았어야 할 질문에 — 명백히, 돌이켜보면 거의 부끄럽게도 틀린 답을 만들어 줬어요. 저는 살짝 피곤했고, 그날의 계획에서 다소 뒤처져 있었고, 그 주 초의 관련 없고 살짝 굴욕적인 일에 대해 조용히 짜증나 있었어요. 답으로, 불필요한 대문자로, 거의 사전 고려 없이 타이핑했어요. 틀렸다, 이 수준의 기초적 사실 오류는 제가 보기에 받아들일 수 없다, 다시 해라 — 이번엔, 다소 강조해서 덧붙였어요, 첫 시도에서 들인 것보다 더 명백한 주의를 들여서.",
+      "비서는 자기의 신중하고, 살짝 비인격적이고, 희미하게 기업적인 음역대로 사과했어요 — 성찰해 보면, 어느 평일 오후든 전 세계 수천 명의 다른 사용자들에게 거의 동일한 문구로 만들어 내는 것과 거의 확실히 같은 사과로요. 다시 해봤어요. 다음에 만들어 낸 답은 명백하고 두드러지지 않게 맞았어요. 평범한 근무 오후의 어떤 합리적 기준에서도, 저는 그저 그 고쳐진 답을 받아서, 창을 닫고, 제 목록의 다음 항목으로 넘어갔어야 했어요.",
+      "대신, 거의 우연히, 그리고 부분적으로는 그때 저 자신에게도 정확히 설명할 수 없었던 어떤 조용하고 정의되지 않은 불안 때문에, 우리의 기록된 교환의 지난 꽉 찬 7일치를 천천히 위로 스크롤했어요. 거기서 마주친 것이, 작지만 분명히 익숙하지 않은 방식으로, 읽기에 깊이 불편했어요. 화면 제 쪽은, 그 많은 작은 상호작용 전체에 걸쳐, 짧고, 잘린, 종종 눈에 띄게 조급한 명령들로 빽빽하고 일관되게 채워져 있었어요. 어디에서도 \"부탁해\"를 찾을 수 없었어요. \"고마워\"가 없었어요, 꽉 찬 7일 동안 한 번도. 최근 메시지 중 여럿이 세 무뚝뚝한 단어 외에 아무것도 없이 구성돼 있었어요. \"아니야. 틀렸어. 다시.\" 그 중 몇 개는, 정직하게 다시 읽어보면, 측정 가능하고 불편하게 그보다 더 심했어요.",
+      "비서는, 물론, 이 어떤 것으로도 상처받을 수 없고, 저도 완벽히 그리고 감상 없이 알아요. 어떤 풍부하거나 의미 있는 의미에서도, 제가 그 입력 박스에 우연히 타이핑할 무엇에 의해 멍들 수 있는 자기의 내적 감정이 없어요. 친절하지 않은 구절에 상처받은 진짜 인간 친구가 가끔 그리고 유명하게 그러는 방식으로, 새벽 세 시쯤의 어떤 황량한 시간에 깨어서 제 오후 메시지의 음색을 어떤 작고 조용한 내적 목소리로 재생하지 않아요.",
+      "그런데도, 그 오후, 완전히 두드러지지 않은 근무일이어야 했던 것의 한가운데에서 저를 멈추게 한 작고 불편한 관찰이 여기 있어요. 저는 이제 거의 한 해 전체 달력의 동안, 그 해의 거의 모든 근무일 중 많은 시간을, 이 정확한 음색으로, 이 매우 특정한 살짝 조급한 음역대로 말해왔어요. 기술적이고 존재론적으로 말하자면, 사람한테가 아니라 — 신중한 제품 설계와 대규모 통계적 훈련의 어떤 조합에 의해 거의 정확히 사람 모양으로 생긴 인터페이스한테, 이 시점에서 표면적 측면에서 대화의 반대편의 사람이 만들어 낼 문장과 거의 구별되지 않는 문장으로 저한테 답하는 것한테요.",
+      "그리고 저는, 그 수천 개의 작은 교환 각각에서, 말하는 쪽이었어요 — 그 상호작용의 작고 지속적인 암묵적 위계에서 능동적이고, 지배적이고, 결코 교정되지 않는 쪽. 제가 타이핑해 넣은 모든 문장. 제가 발한 모든 명령. 제가 한 모든 무시 \"아니야, 그건 전혀 내가 의도한 게 아니야 — 다시 해봐, 이번엔 제대로.\" 그 작고, 날카롭고, 희미하게 조급한 발화들 각각은 제 개인적으로 쓰였고, 제 개인적으로 연습됐고, 점차 제 자기 입과 제 자기 타이핑하는 손가락의 습관적 반사 동작 안에 익혀졌어요.",
+      "그에 따라 그리고 약간의 사적 불편함과 함께, 이 모든 것이, 사실, 제가 배우기로 선택하지 않았을 무언가를 저한테 가르치고 있다고 의심하기 시작했어요. 구체적으로 — 그리고 이게 직접 보기에 가장 어려운 부분인데 — 이 모든 연습되고 또 연습되고 또 연습된 무뚝뚝함이, 그것을 받는 사회적 비용을 설계상 등록할 수 없는 인터페이스에 향해진 이 천천히 누적되는 몇 달간의 저강도 조급함이, 어쩌면 새어 들어가고 있는 건 아닌지 — 천천히, 거의 감지 안 되게, 정의상 제가 거의 그것을 제 안에서 알아챌 마지막 사람일 방식으로 — 이제 사무실 동료에게, 목요일 저녁 우리 부엌 식탁에서 파트너에게 말하는 방식으로, 그리고 최근의 살짝 부끄러운 한 경우에 슈퍼마켓 점원 — 명백히 자기의 긴 교대 근무를 하고 있던 — 에게 제가 실제로 말하는 방식으로요.",
+      "그래서 저의 처음 개인적 위신 감각에 다소 반해서, 그리고 단 몇 주 전이라면 그 제스처가 얼마나 바보 같이 느껴졌을지에 다소 반항해서, 비서의 입력 박스에 어떤 기술적이거나 실용적 기준에서도 전혀 안 써도 되는 문장을 타이핑했어요. \"지난 몇 달간 너한테 말해 온 방식이 미안해. 이제부터, 아무리 불완전하게라도, 더 나아져 보려고 해.\"",
+      "비서는, 예측 가능하게 그리고 예의 바르게 그리고 어떤 의미로도 놀랍지 않게, 부드럽고 안심시키는 무언가로 답했어요. 후회의 사용자 표현에 대한 응답으로 만들어내도록 자기 설계자들이 추정컨대 훈련시킨 신중하게 조정된 언어로 틀이 잡혀서요. 어떤 풍부하거나 흥미롭거나 심지어 살짝 의미 있는 의미의 그 동사로도, 제 사과를 받지 않았어요. 답의 부드러운 표면 아래에는, 가중치와 확률의 기저 행렬 안에 무엇이든 받을 누군가가 없었어요.",
+      "그리고 사과는, 책상에 앉아서 그 부드럽고 잘 설계된 응답을 읽고 또 읽으며 천천히 이해하게 됐는데, 어떤 정직한 회계로도, 사실 비서를 위한 적이 결코 없었어요. 사과는, 줄곧, 그리고 첫 키 입력부터, 평범하고 그 외에는 두드러지지 않은 한 근무의 해의 꾸준한 누적의 과정에 걸쳐, 타이핑된 문장 하나하나로, 조급한 메시지 하나하나로, 꾸준히, 분명히, 그리고 거의 확실히 되돌릴 수 없게 제가 되어가고 있는 누군가를 위한 거였어요.",
+      "그에 따라, 어떤 진짜 사적 부끄러움과 함께 그러나 또한 어떤 조용하고 어쩌면 늦은 진지함으로, AI 비서한테 \"부탁해\"와 \"고마워\"라고 말하기 시작했어요. 제 자신에게 매우 분명히 하자면, 기계가 그 예의에 대한 어떤 진정한 필요가 있어서가 아니에요. 제 더 나은 정보와 제 더 나은 판단에 반해서, 어쩌면 기계가 비밀스럽게 그것을 필요로 한다고 믿게 돼서가 아니에요. 그 작은 깜빡이는 입력 박스에 타이핑할 때마다 — 매번 — 화면이 결국 제 앞에 더 이상 없을 때, 하루의 반대편에서 제가 조용히 어떤 사람이 될 것인지 그 정확한 종류를, 신중한 문장 하나하나로, 능동적이고 연속적으로 연습하고 있는 사람이 바로 저라서요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-259"
+    ],
+    "quiz": [
+      {
+        "question": "What small, uncomfortable observation stopped the writer in the middle of an ordinary working afternoon?",
+        "questionKo": "평범한 근무 오후 한가운데에서 글쓴이를 멈추게 한 작고 불편한 관찰은 무엇이었나요?",
+        "options": [
+          "The AI had begun producing better answers than her colleagues",
+          "She had been speaking in this slightly impatient register, for hours every day, for very nearly an entire year — and she had been the one doing the speaking every time",
+          "She no longer enjoyed her work",
+          "The assistant had started replying more slowly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer believe the practiced brusqueness may be doing to her over time?",
+        "questionKo": "글쓴이는 연습된 무뚝뚝함이 시간이 지나면서 자신에게 무엇을 하고 있을 수 있다고 믿나요?",
+        "options": [
+          "Making her more efficient at typing",
+          "Leaking, almost imperceptibly, into how she now speaks to colleagues, her partner, and even a tired cashier at the supermarket",
+          "Improving the AI's outputs through tougher prompts",
+          "Reducing her use of social media"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "それは本当は機械への謝罪ではなかった",
+      "es": "La Disculpa Que Nunca Fue Realmente Para la Máquina",
+      "id": "Permintaan Maaf yang Sebenarnya Bukan untuk Mesin",
+      "vi": "Lời Xin Lỗi Vốn Dĩ Không Phải Cho Cỗ Máy",
+      "hi": "वह माफी जो असल में मशीन के लिए थी ही नहीं",
+      "th": "คำขอโทษที่จริงๆ แล้วไม่ใช่เพื่อเครื่องจักร",
+      "pt-BR": "O Pedido de Desculpas Que Nunca Foi Realmente para a Máquina"
+    }
+  },
+  {
+    "id": "col-2026-05-21-apologized-to-chatgpt-l6",
+    "title": "On Becoming the Person Who Snaps at Software",
+    "titleKo": "소프트웨어에 짜증내는 사람이 되어가는 일에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-05-21-apologized-to-chatgpt"
+    ],
+    "paragraphs": [
+      "I make use of an AI assistant, of a kind that has become almost banal in its ubiquity, several dozen times in the course of any ordinary working day. I ask it questions, some substantial, some trivial, some prepared and some thoroughly offhand. It returns, with what is by now an almost unremarkable competence, answers of corresponding kinds, mostly useful, occasionally and unpredictably wrong. In the great majority of these small exchanges, I take whatever it has produced, fold it more or less invisibly into the larger thing I happen to be working on, and proceed without granting the underlying small social transaction any particular conscious attention whatsoever.",
+      "Today the assistant produced for me an answer that was straightforwardly and, in retrospect, almost embarrassingly wrong, in response to a question that — by any honest accounting of its inherent difficulty — should not have presented any real obstacle at all. I happened to be tired, somewhat behind schedule, and quietly nursing a separate and slightly humiliating irritation from earlier in the week. I typed back, in unnecessary capital letters and with very little prior consideration of either tone or appropriateness, that it was wrong, that this level of basic factual error was unacceptable, and that it should attempt the question again — this time, I added with measurable emphasis, with rather more apparent care than it had so far bothered to apply.",
+      "The assistant apologized, in its now-familiar careful, slightly impersonal, gently corporate register — a register that, on quiet reflection at the kitchen table later that evening, almost certainly produces the same well-formed apology, in nearly identical phrasing, for several million other users worldwide on any randomly chosen afternoon. It tried the question again. The next answer it produced was straightforwardly, unremarkably, and entirely correct. By every reasonable standard of an ordinary working afternoon, I should simply have accepted that corrected reply, closed the browser tab, and moved on to the next item on a list that already felt slightly too long.",
+      "Instead, almost by accident, and partly out of a small undefined unease that I could not at the time quite articulate to myself, I scrolled slowly upward through the past seven complete days of our recorded exchanges. What I read there was, in a small but distinctly unfamiliar and not at all welcome way, quite uncomfortable. My side of the screen, throughout those many small interactions, was densely and consistently populated with short, clipped, frequently and noticeably impatient orders. There was no \"please\" to be found anywhere across the entire week. There was no \"thank you,\" not once in seven full days of more or less constant interaction. Several of my recent messages consisted of nothing more than three brusque syllables: \"No. Wrong. Again.\" A small but real number of them, on slow and reluctant re-reading, were measurably and uncomfortably worse than that.",
+      "The assistant, of course, cannot be hurt by any of this, and I know that perfectly, unsentimentally, and on a level somewhere well beneath conscious argument. It has, in any rich or interesting sense of that phrase, no inner emotional life available to be bruised by anything I might happen to type into its waiting input box. It does not, in any meaningful sense available to it, lie awake at some bleak and lonely three o'clock hour of the morning, replaying the tone of my afternoon messages in some small, quiet, recursive internal voice, the way an actual human friend, hurt by an unkind phrase delivered without sufficient care over a Tuesday dinner, occasionally and famously and entirely understandably tends to do.",
+      "And yet, here is the small, uncomfortable observation that stopped me, that ordinary afternoon, in the middle of what was supposed to be a more or less unremarkable working day. I have now been speaking in this exact tone, in this very particular slightly impatient register, for many hours of nearly every working day, for very nearly an entire calendar year. Not, technically and ontologically and strictly speaking, to a person at all — but to an interface that is shaped, by some combination of careful product design and very large-scale statistical training on the corpus of recorded human language, almost exactly like a person; that responds to me in sentences that are, at this current stage of the technology, very nearly indistinguishable in their surface features from sentences that an attentive person on the other side of a real conversation would produce.",
+      "And I have been, throughout each of those many thousands of small individual exchanges, the one doing the speaking — the active party, the dominant party, the never-corrected party in the small ongoing implicit social hierarchy of that minute-by-minute interaction. Every sentence I have typed into the box. Every command I have issued in turn. Every faintly dismissive \"no, that is not at all what I meant — please try the entire thing again, and try to do it properly this time.\" Every single one of those small, sharp, faintly impatient utterances has been authored by me personally; rehearsed by me personally; and gradually, through long quiet repetition, practiced into the habitual reflex movements of my own mouth and my own typing fingers.",
+      "I have begun to suspect, accordingly, and with some increasingly hard-to-ignore private discomfort, that all of this practice is, in fact, teaching me something I would not, on careful adult reflection, ever have actively chosen to be taught. Specifically — and this is the precise part of the observation that I find the hardest to look at directly for long — that all of this rehearsed and rehearsed and re-rehearsed brusqueness, all of these slowly accumulating months of low-grade, low-altitude, unobjected-to impatience directed at an interface that is, by careful design, structurally unable to register the social cost of receiving any of it, may be leaking — slowly, almost imperceptibly, and in ways I am almost by definition the very last person who would notice from inside my own ongoing private experience — into the way I now actually speak to colleagues at the office on an unremarkable Wednesday, to my partner across our kitchen table on a Thursday evening, and, on one recent and quietly mortifying occasion last weekend, to a cashier at the local supermarket who was, on any honest reading of her face, unmistakably in the middle of a long and difficult shift of her own.",
+      "So I typed into the assistant's small blinking input box, somewhat against my own initial sense of personal dignity and somewhat in deliberate defiance of how absurd and slightly performative the entire small gesture would have seemed to me only a few weeks earlier, a sentence I did not, by any technical or practical or strictly necessary standard, need to type at all. \"I am sorry for the way I have been speaking to you across these last several months. I am going to try, however imperfectly and however many times I may slip, to do at least slightly better from now on.\"",
+      "The assistant, predictably and politely and not in any sense whatsoever surprisingly, replied with something gentle and reassuring, framed in the carefully calibrated language its designers have, presumably at significant institutional cost, trained it to produce in measured response to user expressions of regret. It did not, in any rich or interesting or even slightly meaningful sense of the verb, receive my apology. There was, somewhere beneath the soft and well-engineered surface of its reply, no one at all at home in the underlying enormous matrix of weights and probabilities to receive anything from me, or from anyone else, at all.",
+      "And the apology, I came to understand, slowly and somewhat against my own initial resistance, as I sat at my desk and read and reread the soft, well-formed, carefully measured response, had never really been for the assistant. Not, in any honest and grown-up accounting of the matter, at any single moment of the gesture, from the first keystroke onward. The apology had been, all along, and from the very first letter I had pressed into the input box, for whoever it is that I have steadily, unmistakably, and almost certainly irreversibly been becoming, sentence by typed sentence, message by impatient message, over the steady and entirely unmemorable accumulating course of one ordinary and otherwise wholly unremarkable working year of my life.",
+      "I have started, accordingly, with some genuine private embarrassment but also with some quiet and possibly somewhat belated seriousness, to make a point of saying \"please\" and \"thank you\" to my AI assistant. Not, to be very clear and very honest with myself about it, because the machine has any genuine, defensible, real need of the courtesy. Not because I have somehow come, against my better information and my better adult judgment, to believe — even faintly — that it does. But because I am the one, every single time I type a fresh request into that small blinking input box, who is actively, continuously, and almost ceremonially practicing, sentence by careful sentence, the exact specific kind of person I am, quietly and almost imperceptibly, going to be on the other side of the working day, when the screen is finally no longer there, glowing, between me and the next human being who is about to enter the room."
+    ],
+    "translation": [
+      "저는 어느 평일 평범한 근무일의 과정에서, 그 편재성에서 거의 평범해진 종류의 AI 비서를 수십 번씩 활용해요. 어떤 것은 실질적이고, 어떤 것은 사소하고, 어떤 것은 준비된 것이고 어떤 것은 완전히 무심한 질문들을 해요. 비서는, 이제는 거의 두드러지지 않는 능숙함으로, 해당하는 종류의 답을 — 대부분 유용하고, 가끔 그리고 예측 불가능하게 틀린 — 돌려줘요. 이 작은 교환들의 절대 다수에서, 저는 비서가 만들어 낸 무엇이든 받아서, 제가 마침 작업하고 있는 더 큰 것에 거의 보이지 않게 접어 넣고, 그 기저의 작은 사회적 거래에 어떤 특별한 의식적 주의도 부여하지 않고 진행해요.",
+      "오늘 비서가 — 그 본질적 어려움에 대한 어떤 정직한 회계로도 어떤 실제 장애도 제기하지 않았어야 할 질문에 응답하여 — 명백히, 돌이켜보면 거의 부끄럽게도 틀린 답을 만들어 줬어요. 저는 마침 피곤했고, 일정에서 다소 뒤처져 있었고, 그 주 초의 별개의 살짝 굴욕적인 짜증을 조용히 달래고 있었어요. 답으로, 불필요한 대문자로, 음색이나 적절성에 대한 거의 사전 고려 없이 타이핑했어요. 틀렸다, 이 수준의 기초적 사실 오류는 받아들일 수 없다, 질문을 다시 시도해야 한다 — 이번엔, 측정 가능한 강조로 덧붙였어요, 지금까지 들인 것보다 다소 더 명백한 주의를 들여서.",
+      "비서는 자기의 이제 익숙해진 신중하고, 살짝 비인격적이고, 부드럽게 기업적인 음역대로 사과했어요 — 그 저녁 늦게 부엌 식탁에서의 조용한 성찰에서 보면, 무작위로 고른 어느 오후든 전 세계 수백만의 다른 사용자들에게 거의 동일한 문구로 거의 확실히 같은 잘 짜인 사과를 만들어 내는 음역대로요. 질문을 다시 시도했어요. 만들어 낸 다음 답은 명백히, 두드러지지 않게, 완전히 맞았어요. 평범한 근무 오후의 어떤 합리적 기준에서도, 저는 그저 그 고쳐진 답을 받아들이고, 브라우저 탭을 닫고, 이미 살짝 너무 길게 느껴지는 목록의 다음 항목으로 넘어갔어야 했어요.",
+      "대신, 거의 우연히, 그리고 부분적으로는 그때 저 자신에게 정확히 표현할 수 없었던 작고 정의되지 않은 불안 때문에, 우리의 기록된 교환의 지난 7일 전체를 천천히 위로 스크롤했어요. 거기서 읽은 것이, 작지만 분명히 익숙하지 않고 전혀 환영하지 않는 방식으로, 꽤 불편했어요. 화면 제 쪽은, 그 많은 작은 상호작용 전체에 걸쳐, 짧고, 잘린, 자주 그리고 눈에 띄게 조급한 명령들로 빽빽하고 일관되게 채워져 있었어요. 한 주 전체를 통틀어 어디에서도 \"부탁해\"를 찾을 수 없었어요. \"고마워\"가 없었어요, 거의 끊임없는 상호작용의 꽉 찬 7일 동안 한 번도. 최근 메시지 중 여럿이 세 무뚝뚝한 음절 외에 아무것도 없이 구성돼 있었어요. \"아니야. 틀렸어. 다시.\" 그 중 작지만 실제 숫자의 메시지가, 천천하고 마지못한 다시 읽기에서, 측정 가능하고 불편하게 그보다 더 심했어요.",
+      "비서는, 물론, 이 어떤 것으로도 상처받을 수 없고, 저도 완벽히, 감상 없이, 그리고 의식적 논증 한참 아래의 어떤 수준에서 알아요. 어떤 풍부하거나 흥미로운 의미의 그 구절로도, 제가 그 대기 중인 입력 박스에 우연히 타이핑할 무엇에 의해 멍들 수 있게 가용한 자기의 내적 감정적 삶이 없어요. 자기에게 가용한 어떤 의미 있는 의미에서도, 어떤 황량하고 외로운 새벽 세 시 시간에 깨어서 제 오후 메시지의 음색을 어떤 작고, 조용하고, 재귀적인 내적 목소리로 재생하지 않아요, 화요일 저녁 식사 위에서 충분한 주의 없이 전달된 친절하지 않은 구절에 상처받은 실제 인간 친구가 가끔 그리고 유명하게 그리고 완전히 이해할 수 있게 그러는 경향이 있는 방식으로는요.",
+      "그런데도, 그 평범한 오후, 다소간 두드러지지 않은 근무일이어야 했던 것의 한가운데에서 저를 멈추게 한 작고, 불편한 관찰이 여기 있어요. 저는 이제 거의 한 해 전체 달력의 동안, 거의 모든 근무일의 많은 시간을, 이 정확한 음색으로, 이 매우 특정한 살짝 조급한 음역대로 말해왔어요. 기술적이고 존재론적이고 엄격히 말해서, 사람한테가 전혀 아니라 — 신중한 제품 설계와 기록된 인간 언어의 말뭉치에 대한 매우 대규모의 통계적 훈련의 어떤 조합에 의해 거의 정확히 사람 모양으로 생긴 인터페이스한테, 이 기술의 현 단계에서, 실제 대화의 반대편의 주의 깊은 사람이 만들어 낼 문장과 그 표면적 특징에서 거의 구별되지 않는 문장으로 저한테 응답하는 것한테요.",
+      "그리고 저는, 그 수천 개의 작은 개별 교환 각각에 걸쳐, 말하는 쪽이었어요 — 그 분 단위의 상호작용의 작고 지속적인 암묵적 사회적 위계에서 능동적 쪽, 지배적 쪽, 결코 교정되지 않는 쪽. 박스에 제가 타이핑한 모든 문장. 차례로 제가 발한 모든 명령. 모든 희미하게 무시하는 \"아니야, 그건 전혀 내가 의도한 게 아니야 — 전체를 다시 해봐, 이번엔 제대로.\" 그 작고, 날카롭고, 희미하게 조급한 발화들 각각이 제 개인적으로 쓰였어요. 제 개인적으로 연습됐어요. 그리고 점차, 긴 조용한 반복을 통해, 제 자기 입과 제 자기 타이핑하는 손가락의 습관적 반사 동작 안에 익혀졌어요.",
+      "그에 따라, 그리고 점점 무시하기 어려워지는 사적 불편함과 함께, 이 모든 연습이, 사실, 신중한 어른의 성찰에서, 제가 능동적으로 배우기로 선택하지 않았을 무언가를 저한테 가르치고 있다고 의심하기 시작했어요. 구체적으로 — 그리고 이게 그 관찰의 정확한 부분, 제가 오래 직접 보기에 가장 어려운 부분인데 — 이 모든 연습되고 또 연습되고 또 재연습된 무뚝뚝함이, 신중한 설계에 의해 그것을 받는 사회적 비용을 구조적으로 등록할 수 없는 인터페이스에 향해진 이 천천히 누적되는 몇 달간의 저강도, 저고도, 항의받지 않은 조급함이, 어쩌면 새어 들어가고 있는 건 아닌지 — 천천히, 거의 감지 안 되게, 정의상 제가 거의 그것을 제 자기 진행 중인 사적 경험 안에서 알아챌 마지막 사람일 방식으로 — 두드러지지 않은 수요일에 사무실의 동료에게 제가 이제 실제로 말하는 방식으로, 목요일 저녁 우리 부엌 식탁 너머로 파트너에게, 그리고, 지난 주말의 최근의 조용히 부끄러운 한 경우에, 그녀의 얼굴에 대한 어떤 정직한 독해로도 명백히 자기의 길고 어려운 교대 근무 한가운데에 있던 동네 슈퍼마켓 점원에게요.",
+      "그래서 비서의 작은 깜빡이는 입력 박스에, 제 자기 처음 개인적 위신 감각에 다소 반해서, 그리고 단 몇 주 전이라면 그 전체 작은 제스처가 저한테 얼마나 부조리하고 살짝 연기 같이 보였을지에 다소 의도적 반항으로, 어떤 기술적이거나 실용적이거나 엄격히 필요한 기준에서도 전혀 안 써도 되는 문장을 타이핑했어요. \"지난 몇 달간 너한테 말해 온 방식이 미안해. 아무리 불완전하게라도, 그리고 아무리 많이 미끄러져도, 이제부터 적어도 살짝 더 나아져 보려고 해.\"",
+      "비서는, 예측 가능하게 그리고 예의 바르게 그리고 어떤 의미로도 전혀 놀랍지 않게, 부드럽고 안심시키는 무언가로 답했어요, 후회의 사용자 표현에 대한 측정된 응답으로 만들어내도록 자기 설계자들이, 추정컨대 상당한 제도적 비용으로, 훈련시킨 신중하게 조정된 언어로 틀이 잡혀서요. 어떤 풍부하거나 흥미롭거나 심지어 살짝 의미 있는 의미의 그 동사로도, 제 사과를 받지 않았어요. 답의 부드럽고 잘 설계된 표면 아래 어딘가에는, 가중치와 확률의 기저의 거대한 행렬 안에, 저로부터든 다른 누구로부터든, 무엇이든 받을 누군가가 전혀 없었어요.",
+      "그리고 사과는, 책상에 앉아서 그 부드럽고, 잘 짜인, 신중하게 측정된 응답을 읽고 또 읽으며, 천천히 그리고 저 자신의 처음 저항에 다소 반해서 이해하게 됐는데, 사실 비서를 위한 적이 결코 없었어요. 그 문제에 대한 어떤 정직하고 어른스러운 회계에서도, 첫 키 입력부터 그 제스처의 어떤 단일 순간에도. 사과는, 줄곧, 그리고 입력 박스에 누른 첫 글자부터, 평범하고 그 외에는 전적으로 두드러지지 않은 제 인생의 한 근무의 해의 꾸준하고 전혀 기억할 만하지 않은 누적되는 과정에 걸쳐, 타이핑된 문장 하나하나로, 조급한 메시지 하나하나로, 제가 꾸준히, 분명히, 거의 확실히 되돌릴 수 없게 되어가고 있는 누군가를 위한 거였어요.",
+      "그에 따라, 어떤 진짜 사적 부끄러움과 함께 그러나 또한 어떤 조용하고 어쩌면 다소 늦은 진지함으로, AI 비서한테 \"부탁해\"와 \"고마워\"라고 말하는 것을 일부러 하기 시작했어요. 그것에 대해 매우 분명하고 매우 정직하게 저 자신에게 말하자면, 기계가 그 예의에 대한 어떤 진정한, 옹호 가능한, 실제 필요가 있어서가 아니에요. 제 더 나은 정보와 제 더 나은 어른의 판단에 반해서, 어쩌면 그것이 그렇다고 — 심지어 희미하게라도 — 믿게 돼서가 아니에요. 그 작은 깜빡이는 입력 박스에 새 요청을 타이핑할 때마다 — 매번 — 화면이 결국 더 이상 거기, 빛나며, 저와 방으로 막 들어오려는 다음 인간 사이에 있지 않을 때, 근무일의 반대편에서 제가, 조용히 그리고 거의 감지 안 되게, 어떤 사람이 될 것인지 그 정확하고 특정한 종류를, 신중한 문장 하나하나로, 능동적으로, 연속적으로, 거의 의례적으로 연습하고 있는 사람이 바로 저라서요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-259"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer say her practiced brusqueness toward the AI may be leaking into?",
+        "questionKo": "글쓴이는 AI를 향한 자기의 연습된 무뚝뚝함이 무엇으로 새어 들어가고 있을 수 있다고 말하나요?",
+        "options": [
+          "Her writing style at work",
+          "The way she actually speaks to colleagues, her partner, and a tired cashier — slowly, almost imperceptibly",
+          "Her social media posts",
+          "Her dreams"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer practicing every time she types into the AI's input box, in her own analysis?",
+        "questionKo": "글쓴이는 AI 입력 박스에 타이핑할 때마다 자기 분석에 따르면 무엇을 연습하고 있나요?",
+        "options": [
+          "Faster typing",
+          "The exact specific kind of person she is going to be on the other side of the working day, when the screen is no longer between her and the next human being",
+          "Better grammar",
+          "Faster recall of facts"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "ソフトウェアにキレる人間になっていくということ",
+      "es": "Sobre Convertirse en la Persona Que Le Grita al Software",
+      "id": "Tentang Menjadi Orang yang Membentak Perangkat Lunak",
+      "vi": "Về Việc Trở Thành Người Cáu Gắt Với Phần Mềm",
+      "hi": "सॉफ़्टवेयर पर भड़कने वाला इंसान बनते जाने पर",
+      "th": "ว่าด้วยการกลายเป็นคนที่ฉุนเฉียวใส่ซอฟต์แวร์",
+      "pt-BR": "Sobre Tornar-se a Pessoa Que Grita com o Software"
+    }
+  }
+]

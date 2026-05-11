@@ -1,6 +1,36 @@
 {
-  "generated": "2026-05-09T05:19:33.390Z",
+  "generated": "2026-05-11T23:34:40.012Z",
   "columns": [
+    {
+      "groupId": "col-2026-05-25-stopped-ukraine-news",
+      "file": "2026-05-25-stopped-ukraine-news.json",
+      "publishDate": "2026-05-25"
+    },
+    {
+      "groupId": "col-2026-05-22-no-teacher-changed-me",
+      "file": "2026-05-22-no-teacher-changed-me.json",
+      "publishDate": "2026-05-22"
+    },
+    {
+      "groupId": "col-2026-05-21-apologized-to-chatgpt",
+      "file": "2026-05-21-apologized-to-chatgpt.json",
+      "publishDate": "2026-05-21"
+    },
+    {
+      "groupId": "col-2026-05-20-chatbot-listens",
+      "file": "2026-05-20-chatbot-listens.json",
+      "publishDate": "2026-05-20"
+    },
+    {
+      "groupId": "col-2026-05-19-everyone-but-me-rich",
+      "file": "2026-05-19-everyone-but-me-rich.json",
+      "publishDate": "2026-05-19"
+    },
+    {
+      "groupId": "col-2026-05-18-algorithm-chose-taste",
+      "file": "2026-05-18-algorithm-chose-taste.json",
+      "publishDate": "2026-05-18"
+    },
     {
       "groupId": "col-2026-05-15-untranslatable-word",
       "file": "2026-05-15-untranslatable-word.json",

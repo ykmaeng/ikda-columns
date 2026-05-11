@@ -1,0 +1,470 @@
+[
+  {
+    "id": "col-2026-05-22-no-teacher-changed-me-l1",
+    "title": "I Don't Have a Teacher Who Changed My Life",
+    "titleKo": "내 인생을 바꾼 선생님은 없어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-05-22-no-teacher-changed-me"
+    ],
+    "paragraphs": [
+      "People sometimes ask me, \"Who is the teacher who changed your life?\"",
+      "They smile. They wait. They think the answer will be easy.",
+      "I do not have an answer. I never had one.",
+      "I had some teachers. Some were kind. Some were tired. Some I do not remember at all.",
+      "No teacher said one big sentence and changed everything for me. That did not happen.",
+      "For many years, this made me feel small. Like I missed something other people had.",
+      "Then I thought about it more. Maybe most people do not have this teacher either.",
+      "Maybe we all just say we do. Because the question makes us feel we should.",
+      "I had many small kind things from many people. A note. A smile. One short word.",
+      "No one of them was big. All of them, together, were enough.",
+      "To the teachers I did not remember well: thank you for the small things you did anyway.",
+      "Maybe no one should change my life. Maybe I should."
+    ],
+    "translation": [
+      "사람들이 가끔 저한테 물어요. \"네 인생을 바꾼 선생님이 누구야?\"",
+      "그들은 웃어요. 기다려요. 답이 쉬울 거라고 생각해요.",
+      "저는 답이 없어요. 한 번도 없었어요.",
+      "선생님들이 있었어요. 어떤 분은 친절했어요. 어떤 분은 피곤했어요. 어떤 분은 전혀 기억이 안 나요.",
+      "어떤 선생님도 큰 한 마디로 제 모든 걸 바꿔주지 않았어요. 그런 일은 안 일어났어요.",
+      "오랫동안, 이게 저를 작아지게 했어요. 다른 사람들이 가진 무언가를 제가 놓친 것처럼.",
+      "그러다 더 생각해봤어요. 어쩌면 대부분의 사람들도 이런 선생님이 없을지 몰라요.",
+      "어쩌면 우리 모두는 그냥 있다고 말하는 것뿐이에요. 그 질문이 우리가 그래야 할 것 같게 만들어서.",
+      "저는 많은 사람들로부터 많은 작은 친절을 받았어요. 쪽지 하나. 웃음 하나. 짧은 말 한 마디.",
+      "그 중 어떤 것도 크지 않았어요. 모두 합치면, 충분했어요.",
+      "잘 기억나지 않는 선생님들에게: 그래도 해주신 작은 것들에 감사해요.",
+      "어쩌면 아무도 제 인생을 바꿔주지 않아도 돼요. 어쩌면 제가 바꿔야 해요."
+    ],
+    "targetWords": [
+      "l1-200",
+      "l1-149",
+      "l1-094",
+      "l1-093",
+      "l1-130"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer feel for many years about not having one big-teacher story?",
+        "questionKo": "글쓴이는 큰 선생님 이야기가 없는 것에 대해 여러 해 동안 어떤 느낌이었나요?",
+        "options": [
+          "Proud",
+          "Small, like she missed something other people had",
+          "Angry",
+          "Tired"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer think about all the small kindnesses she did receive?",
+        "questionKo": "글쓴이는 자기가 받은 모든 작은 친절들에 대해 어떻게 생각하나요?",
+        "options": [
+          "Each one was not enough",
+          "None was big, but all of them together were enough",
+          "She forgot all of them",
+          "They came too late"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "私の人生を変えてくれた先生はいません",
+      "es": "No Tengo un Maestro Que Cambió Mi Vida",
+      "id": "Saya Tidak Punya Guru yang Mengubah Hidup Saya",
+      "vi": "Tôi Không Có Một Người Thầy Đã Thay Đổi Cuộc Đời Mình",
+      "hi": "मेरी ज़िंदगी बदलने वाला कोई शिक्षक नहीं है",
+      "th": "ฉันไม่มีครูที่เปลี่ยนชีวิตของฉัน",
+      "pt-BR": "Eu Não Tenho um Professor Que Mudou Minha Vida"
+    }
+  },
+  {
+    "id": "col-2026-05-22-no-teacher-changed-me-l2",
+    "title": "No Single Teacher Changed My Life",
+    "titleKo": "인생을 바꾼 단 한 명의 선생님은 없다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-05-22-no-teacher-changed-me"
+    ],
+    "paragraphs": [
+      "People ask me sometimes, often at small dinner parties, \"Who was the teacher who changed your life?\"",
+      "They smile. They wait. They expect the answer to be simple, the kind of warm short story that can be told between courses.",
+      "I do not have such an answer. I never have. I have tried, more than once, to make one up just to keep the conversation moving.",
+      "Looking back honestly, I had ordinary teachers. Some were kind. Some were burned out. Some I do not remember at all, not even their names.",
+      "No teacher ever said one big sentence to me in class that changed who I would become. There was no transforming moment. There was no scene worthy of a movie.",
+      "For many years this small fact made me quietly embarrassed. Other adults seemed to have a teacher story ready. I felt as if I had missed an experience everyone else was given.",
+      "Then, slowly, I started to suspect that most of the adults around me did not really have this teacher either. We had all simply learned to provide one when asked. The cultural script demanded it, and we delivered.",
+      "What I actually had was different. Many small kindnesses from many different people. A note slid across a desk. A teacher pausing to ask if I was okay before a test. A short sentence from a stranger on a bus. A few patient lines in a book.",
+      "None of them, on their own, was big. None of them changed everything. All of them, together, slowly, made me into someone who is mostly fine.",
+      "I have made some peace with this now. To the teachers I cannot quite remember: thank you for whatever small thing you did anyway. It may have counted more than either of us knew.",
+      "And maybe the question itself is the wrong question. Maybe no one is supposed to change your life. Maybe the small kindness of many people is supposed to give you enough room. And then the changing is up to you."
+    ],
+    "translation": [
+      "사람들이 가끔, 종종 작은 저녁 식사 자리에서 저한테 물어요. \"네 인생을 바꾼 선생님은 누구였어?\"",
+      "그들은 웃어요. 기다려요. 답이 단순할 거라고, 코스 사이에 말할 수 있는 따뜻한 짧은 이야기일 거라고 기대해요.",
+      "저는 그런 답이 없어요. 한 번도 없었어요. 대화를 굴리려고 답을 지어내려고 한 번 이상 시도해봤어요.",
+      "정직하게 돌이켜보면, 저는 평범한 선생님들이 있었어요. 어떤 분은 친절했어요. 어떤 분은 지쳐 있었어요. 어떤 분은 전혀 기억이 안 나요, 이름조차도.",
+      "어떤 선생님도 수업 시간에 제가 될 사람을 바꾼 큰 한 마디를 저한테 한 적이 없어요. 변화의 순간은 없었어요. 영화에 어울릴 장면은 없었어요.",
+      "오랫동안 이 작은 사실이 저를 조용히 부끄럽게 했어요. 다른 어른들은 선생님 이야기를 준비해둔 것 같았어요. 모두에게 주어진 경험을 저만 놓친 것 같았어요.",
+      "그러다 천천히, 제 주변 어른들 대부분도 이런 선생님이 사실 없는 것 같다고 의심하기 시작했어요. 우리 모두는 그저 물었을 때 하나를 제공하는 법을 배웠을 뿐이에요. 문화적 대본이 요구했고, 우리는 응했어요.",
+      "제가 실제로 가진 것은 달랐어요. 많은 다른 사람들로부터의 많은 작은 친절들. 책상 위로 미끄러진 쪽지. 시험 전에 잠시 멈춰서 괜찮은지 물어봐준 선생님. 버스에서 모르는 사람의 짧은 한 문장. 책 안의 인내심 있는 몇 줄.",
+      "그 중 어느 하나도, 그 자체로는, 크지 않았어요. 어떤 것도 모든 걸 바꾸지 않았어요. 모두 합쳐, 천천히, 저를 대체로 괜찮은 사람으로 만들었어요.",
+      "이제는 이걸로 어느 정도 화해했어요. 잘 기억나지 않는 선생님들에게: 그래도 해주신 어떤 작은 것에든 감사해요. 우리 둘 다 알았던 것보다 더 중요했을지도 몰라요.",
+      "그리고 어쩌면 그 질문 자체가 잘못된 질문이에요. 어쩌면 아무도 당신의 인생을 바꿔서는 안 돼요. 어쩌면 많은 사람들의 작은 친절은 당신에게 충분한 공간을 주기 위한 거예요. 그리고 그 다음 바꾸는 건 당신의 몫이에요."
+    ],
+    "targetWords": [
+      "l1-200",
+      "l2-130",
+      "l2-264",
+      "l1-160",
+      "l2-488"
+    ],
+    "quiz": [
+      {
+        "question": "Why did the writer feel quietly embarrassed for many years?",
+        "questionKo": "글쓴이는 왜 오랫동안 조용히 부끄러웠나요?",
+        "options": [
+          "She had been a bad student",
+          "Other adults seemed to have a teacher story ready, as if she had missed an experience everyone else was given",
+          "Her teachers were unkind",
+          "She did not finish school"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer eventually suspect about most of the adults around her?",
+        "questionKo": "글쓴이는 결국 자기 주변 어른들 대부분에 대해 무엇을 의심하게 되나요?",
+        "options": [
+          "They were lying about everything",
+          "They probably did not really have one transforming teacher either — they had simply learned to provide one when asked",
+          "They had better teachers than she did",
+          "They were smarter than her"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "私の人生を変えた「たった一人の先生」はいなかった",
+      "es": "Ningún Maestro Solo Cambió Mi Vida",
+      "id": "Tidak Ada Satu Guru pun yang Mengubah Hidup Saya",
+      "vi": "Không Một Người Thầy Nào Đã Thay Đổi Cuộc Đời Tôi",
+      "hi": "किसी एक शिक्षक ने मेरी ज़िंदगी नहीं बदली",
+      "th": "ไม่มีครูคนใดเปลี่ยนชีวิตของฉัน",
+      "pt-BR": "Nenhum Professor Sozinho Mudou Minha Vida"
+    }
+  },
+  {
+    "id": "col-2026-05-22-no-teacher-changed-me-l3",
+    "title": "I Was Supposed to Have a Teacher Who Changed Everything",
+    "titleKo": "모든 걸 바꿔준 선생님이 있어야 했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-05-22-no-teacher-changed-me"
+    ],
+    "paragraphs": [
+      "At dinner parties, especially the ones with someone new at the table, the question often arrives somewhere between the second and third drink. \"So — who was the teacher who changed your life?\"",
+      "People smile when they ask. They wait warmly. They expect the answer to be ready, a small polished story that can be told in under two minutes and tied with a sentimental ribbon at the end.",
+      "I do not have such a story. I never have. I have tried more than once, slightly drunk, to invent one on the spot just to keep the conversation moving past me. The invented version is always a little too clean. People nod politely. I can tell they suspect the embroidery.",
+      "If I am honest, I had ordinary teachers. Some were genuinely kind. Several were quietly burned out. A few I cannot now remember at all, not the subject they taught, not even their names. None of them, in any single dramatic moment, leaned across a desk and said one perfect sentence that reorganized my interior life.",
+      "For many years this small private fact embarrassed me. Other people seemed to come pre-equipped with a transforming-teacher story. I felt I had missed an essential developmental experience, the way one might miss having read a famous novel that everyone else has finished.",
+      "Slowly, over the second half of my twenties, I began to suspect something. Most of the adults producing these stories at dinner parties probably did not have one transforming teacher either. We had all simply learned, through cultural osmosis, that the question expected a single named figure, and we had all gradually trained ourselves to provide one when the moment required it.",
+      "What I had actually had was different, and harder to fit into a sentence. Many small kindnesses, from many different people. A note slipped across a desk. A teacher who paused, before handing back a test, to quietly ask if I was okay. A short, almost throwaway sentence from a stranger on a long-distance bus. Three patient paragraphs in a book I happened to pick up the year I needed exactly those three paragraphs.",
+      "None of those small things, taken alone, was large. None of them, taken alone, changed the course of my life. All of them, taken together, slowly and almost invisibly accumulated into the rough shape of someone who is, on most days, mostly fine.",
+      "I have made a small private peace with this now. To the teachers I cannot quite remember: thank you for whatever small kindness you offered when I happened to need it. It may, in the long quiet accounting that no one ever does, have counted considerably more than either of us realized at the time.",
+      "And I have come to wonder whether the question itself is, in some quiet way, the wrong question. Perhaps no single other person is really supposed to change your life. Perhaps the steady dispersed kindness of many ordinary people is supposed to clear enough room around you. And then, on a Wednesday afternoon some years later, the actual changing is supposed to be quietly up to you."
+    ],
+    "translation": [
+      "저녁 식사 자리, 특히 테이블에 새로운 사람이 있는 자리에서, 그 질문은 종종 두 번째와 세 번째 잔 사이 어딘가에 도착해요. \"그래서 — 네 인생을 바꾼 선생님은 누구였어?\"",
+      "사람들은 물을 때 웃어요. 따뜻하게 기다려요. 답이 준비돼 있을 거라고, 2분 안에 말할 수 있고 끝에 감상적인 리본으로 묶을 수 있는, 작고 매끄러운 이야기일 거라고 기대해요.",
+      "저는 그런 이야기가 없어요. 한 번도 없었어요. 그 자리에서, 약간 취해서, 대화를 저를 지나 굴리려고 하나를 그 자리에서 지어내려고 한 번 이상 시도해봤어요. 지어낸 버전은 항상 조금 너무 깔끔해요. 사람들은 예의 바르게 끄덕여요. 그들이 그 자수를 의심한다는 걸 알 수 있어요.",
+      "정직하게 말하자면, 저는 평범한 선생님들이 있었어요. 어떤 분은 진심으로 친절했어요. 몇 분은 조용히 지쳐 있었어요. 몇 분은 이제 전혀 기억이 안 나요, 가르친 과목도, 이름조차도. 그 중 누구도, 어떤 단일한 극적 순간에, 책상 너머로 몸을 기울여 제 내면의 삶을 재구성한 완벽한 한 문장을 한 적이 없어요.",
+      "오랫동안 이 작은 사적 사실이 저를 부끄럽게 했어요. 다른 사람들은 변화시키는 선생님 이야기와 함께 미리 장착되어 나온 것 같았어요. 모두가 끝낸 유명한 소설을 안 읽은 것을 놓친 것처럼, 본질적인 발달 경험을 놓친 것 같았어요.",
+      "천천히, 제 20대 후반에 걸쳐, 무언가를 의심하기 시작했어요. 저녁 식사 자리에서 이 이야기들을 만들어내는 어른들 대부분도 단 한 명의 변화시키는 선생님이 사실 없을 거라고요. 우리 모두는 그저, 문화적 삼투를 통해, 그 질문이 단일한 이름 있는 인물을 기대한다는 것을 배웠고, 모두 점차, 순간이 요구할 때 하나를 제공하도록 자신을 훈련시켰을 뿐이에요.",
+      "제가 실제로 가졌던 것은 달랐고, 한 문장에 맞추기 더 어려웠어요. 많은 다른 사람들로부터의 많은 작은 친절들. 책상 위로 미끄러진 쪽지. 시험을 돌려주기 전에 잠시 멈춰서 조용히 괜찮은지 물어봐준 선생님. 장거리 버스에서 낯선 사람의 짧고 거의 던지듯 한 문장. 정확히 그 세 단락이 필요했던 해에 우연히 집어든 책 안의 인내심 있는 세 단락.",
+      "그 작은 것들 중 어느 것도, 따로 떼어 보면, 크지 않았어요. 어느 것도, 따로 떼어 보면, 제 인생의 진로를 바꾸지 않았어요. 모두 합쳐서 보면, 천천히 그리고 거의 보이지 않게, 대부분의 날 대체로 괜찮은 누군가의 대략적인 모양으로 누적됐어요.",
+      "이제는 이걸로 작은 사적 화해를 했어요. 잘 기억나지 않는 선생님들에게: 제가 마침 필요했을 때 제공해준 어떤 작은 친절에든 감사해요. 아무도 하지 않는 그 긴 조용한 회계 안에서, 그때 우리 둘 다 깨달은 것보다 상당히 더 중요했을지도 몰라요.",
+      "그리고 그 질문 자체가, 어떤 조용한 방식으로, 잘못된 질문은 아닌지 궁금해지기 시작했어요. 어쩌면 어떤 단일한 다른 사람도 진짜로 당신의 인생을 바꾸려는 게 아니에요. 어쩌면 많은 평범한 사람들의 꾸준한 분산된 친절은 당신 주위에 충분한 공간을 비워주려는 거예요. 그리고 몇 년 뒤 어느 수요일 오후, 실제 바꾸는 일은 조용히 당신의 몫이에요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l2-130",
+      "l1-130"
+    ],
+    "quiz": [
+      {
+        "question": "Why do the writer's attempts to invent a teacher story usually fail at dinner parties?",
+        "questionKo": "저녁 식사 자리에서 글쓴이가 선생님 이야기를 지어내려는 시도가 보통 왜 실패하나요?",
+        "options": [
+          "She forgets the names",
+          "The invented version is always a little too clean, and people can tell she is embroidering",
+          "She is too shy to speak",
+          "No one is interested"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer eventually come to suspect about the question itself?",
+        "questionKo": "글쓴이는 결국 그 질문 자체에 대해 무엇을 의심하게 되나요?",
+        "options": [
+          "It is offensive",
+          "It may be the wrong question — perhaps no single other person is supposed to change your life; the dispersed kindness of many is meant to clear room, and the changing is up to you",
+          "It is too personal",
+          "It is too vague"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「すべてを変えてくれた先生」がいるはずだった",
+      "es": "Se Suponía Que Yo Debía Tener un Maestro Que Lo Cambió Todo",
+      "id": "Saya Seharusnya Punya Guru yang Mengubah Segalanya",
+      "vi": "Lẽ Ra Tôi Phải Có Một Người Thầy Đã Thay Đổi Mọi Thứ",
+      "hi": "मेरे पास एक ऐसा शिक्षक होना चाहिए था जिसने सब कुछ बदल दिया",
+      "th": "ฉันควรจะมีครูที่เปลี่ยนแปลงทุกสิ่ง",
+      "pt-BR": "Eu Deveria Ter um Professor Que Mudou Tudo"
+    }
+  },
+  {
+    "id": "col-2026-05-22-no-teacher-changed-me-l4",
+    "title": "On Not Having a Teacher Who Changed Your Life",
+    "titleKo": "인생을 바꾼 선생님이 없다는 것에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-05-22-no-teacher-changed-me"
+    ],
+    "paragraphs": [
+      "At small dinner parties, particularly the ones at which there happens to be at least one new person at the table, the question tends to arrive somewhere between the second and third glass of wine. \"So — who was the teacher who really changed your life?\"",
+      "People smile when they ask it. They wait warmly, expectantly. They expect the answer to be ready and polished, the kind of small, slightly sentimental story that can be delivered in under two minutes and tied off, near the end, with a tidy and reassuring emotional ribbon.",
+      "I do not have such a story. I never have had one. I have, on more than one slightly underprepared occasion, attempted to invent one on the spot, just to keep the conversation moving past me without too obvious a pause. The invented version, predictably, always comes out a little too clean, a little too suspiciously well-shaped. People nod politely, but I can usually tell, from the slight extra beat before the next question, that they have noticed the embroidery and are simply too kind to mention it.",
+      "If I am honest with myself, looking back across many years of formal education, I had ordinary, broadly serviceable teachers. Some of them were genuinely and patiently kind. Several were, on quiet inspection, fairly burned out by a profession that had asked too much of them for too little in return. A few I cannot now remember at all, not the subject they taught, not the room we sat in, not, in some cases, even their names. None of them, in any single dramatic moment that I can now bring clearly to mind, ever leaned across a desk and delivered one perfect, life-rearranging sentence that visibly reorganized my interior weather from that moment on.",
+      "For many years this small private fact made me quietly, almost imperceptibly embarrassed. Other adults at these same kinds of dinners always seemed to come pre-equipped with a single, well-rehearsed transforming-teacher story. I felt, looking around, as though I had somehow missed an essential developmental experience that everyone else my age had been handed at the appropriate moment — the way one might feel, in a literary conversation, to have missed reading a famous novel that absolutely everyone else has clearly finished and absorbed.",
+      "Slowly, over the steady accumulating course of my late twenties and early thirties, I began to suspect something rather different. Most of the perfectly capable adults producing these polished single-teacher stories at these otherwise unremarkable dinners had probably not, in any honest accounting of their actual remembered lives, really had one such transforming teacher either. We had all, very gradually, through years of cultural osmosis, learned that the question, when it arrives, expects a single named figure with a single named contribution, and we had each, accordingly, slowly trained ourselves to be able to produce one when the social moment quietly required it.",
+      "What I had actually had, in place of the imagined single transforming teacher, was different, and considerably harder to fit into a polished two-minute dinner-party sentence. Many small individual kindnesses, distributed across many different people, none of them by themselves of obviously transformative weight. A note quietly slipped across a desk in eighth grade. A teacher who once paused, before handing my graded test back, to quietly ask whether everything at home was all right. A short, almost throwaway sentence from a stranger on a long-distance overnight bus that has, for reasons I still cannot quite reconstruct, stayed with me for nearly twenty years. Three patient paragraphs near the middle of a book I happened to pick up, by complete accident, during the one year of my life when I needed almost exactly those three paragraphs and very little else.",
+      "None of those small dispersed kindnesses, considered carefully on its own and in isolation, was large. None of them, on its own, perceptibly changed the broader course of my life in any way I could later have pointed to as decisive. All of them, considered together and as a single slow accumulation, gradually and almost invisibly built up into the rough working shape of someone who is, on most ordinary mornings of an ordinary week, mostly and unspectacularly fine.",
+      "I have, over the past few years, made a small private peace with this dispersed and unphotogenic version of my own moral biography. To the various teachers I can no longer quite bring clearly to mind: thank you for whatever small, almost certainly forgotten kindness you happened to offer me on whatever ordinary Tuesday I happened to need it. It may, in the very long and very quiet final accounting that no one anywhere ever actually sits down and does, have counted considerably more than either you or I ever realized at the time it actually happened.",
+      "I have come to wonder whether the question, in the form in which it generally arrives, is itself, in some quiet but real way, the wrong question. Perhaps no single other person is actually supposed to change the course of your life. Perhaps the steady dispersed kindness of a great many otherwise ordinary people is, taken together, simply supposed to clear enough quiet emotional and intellectual room around you. And then, on some otherwise unremarkable Wednesday afternoon some years later than you would prefer, the actual difficult work of changing your life is supposed to fall, quietly and without much accompanying drama, on you."
+    ],
+    "translation": [
+      "작은 저녁 식사 자리, 특히 테이블에 적어도 한 명의 새로운 사람이 있는 자리에서, 그 질문은 보통 두 번째와 세 번째 잔의 와인 사이 어딘가에 도착하는 경향이 있어요. \"그래서 — 네 인생을 정말 바꾼 선생님은 누구였어?\"",
+      "사람들은 물을 때 웃어요. 따뜻하게, 기대하면서 기다려요. 답이 준비되고 매끄러울 거라고, 2분 안에 전달될 수 있고, 끝 가까이에서 깔끔하고 안심시키는 감정적 리본으로 묶일 수 있는 작고 살짝 감상적인 이야기일 거라고 기대해요.",
+      "저는 그런 이야기가 없어요. 한 번도 없었어요. 살짝 준비되지 않은 한 번 이상의 경우에, 너무 명백한 멈춤 없이 대화를 저를 지나 굴리려고 그 자리에서 하나를 지어내려고 시도해봤어요. 지어낸 버전은, 예측 가능하게, 항상 조금 너무 깔끔하게, 조금 너무 의심스럽게 잘 형성된 모양으로 나와요. 사람들은 예의 바르게 끄덕이지만, 보통 다음 질문 전의 살짝 추가된 박자로부터, 그들이 그 자수를 알아챘고 그저 말하기에 너무 친절할 뿐이라는 걸 알 수 있어요.",
+      "저 자신에게 정직하게 말하자면, 여러 해의 정규 교육을 돌이켜보면, 저는 평범하고 대체로 쓸 만한 선생님들이 있었어요. 그 중 어떤 분은 진심으로 그리고 인내심 있게 친절했어요. 몇 분은, 조용히 살펴보면, 너무 적은 대가로 너무 많은 것을 너무 오래 요구한 직업에 의해 꽤 지쳐 있었어요. 몇 분은 이제 전혀 기억이 안 나요, 가르친 과목도, 우리가 앉았던 방도, 어떤 경우엔 이름조차도. 그 중 누구도, 이제 명확히 마음에 떠올릴 수 있는 어떤 단일한 극적 순간에서, 책상 너머로 몸을 기울여 그 순간부터 제 내면의 날씨를 눈에 띄게 재구성한 완벽하고, 인생을 재배열하는 한 문장을 전달한 적이 없어요.",
+      "오랫동안 이 작은 사적 사실이 저를 조용히, 거의 감지 안 되게 부끄럽게 했어요. 같은 종류의 저녁 식사 자리의 다른 어른들은 항상 단일한, 잘 연습된 변화시키는 선생님 이야기와 함께 미리 장착되어 나온 것 같았어요. 둘러보면, 제 또래 모두에게 적절한 순간에 건네진 본질적인 발달 경험을 어떻게든 놓친 것 같이 느껴졌어요 — 문학적 대화에서, 절대적으로 모두가 명백히 끝내고 흡수한 유명한 소설을 안 읽고 놓친 것처럼 느낄 수 있는 방식으로요.",
+      "천천히, 제 20대 후반과 30대 초반의 꾸준한 누적되는 과정에 걸쳐, 다소 다른 무언가를 의심하기 시작했어요. 그 외에는 두드러지지 않은 이 저녁들에서 이 매끄러운 단일 선생님 이야기들을 만들어내는 완벽하게 유능한 어른들 대부분도, 자기들의 실제 기억된 인생에 대한 어떤 정직한 회계로도, 그런 변화시키는 선생님이 사실 한 명도 없었을 거예요. 우리 모두는, 매우 점진적으로, 여러 해의 문화적 삼투를 통해, 그 질문이 도착할 때, 단일한 기여를 한 단일한 이름 있는 인물을 기대한다는 것을 배웠고, 우리 각자는, 그에 따라, 천천히, 사회적 순간이 조용히 요구할 때 하나를 만들어낼 수 있도록 자신을 훈련시켰을 뿐이에요.",
+      "상상된 단일한 변화시키는 선생님 대신 제가 실제로 가졌던 것은 달랐고, 매끄러운 2분 저녁 식사 자리 문장에 맞추기에 상당히 더 어려웠어요. 많은 다른 사람들에 걸쳐 분산된 많은 작은 개별 친절들, 그 중 어느 것도 자기 자체로는 명백히 변화시키는 무게를 지니지 않은. 8학년 때 책상 위로 조용히 미끄러진 쪽지. 채점된 시험을 돌려주기 전에 한 번 멈춰서 집에서 다 괜찮은지 조용히 물어봐준 선생님. 장거리 야간 버스에서 낯선 사람의 짧고 거의 던지듯 한 문장, 제가 아직 정확히 재구성할 수 없는 이유로 거의 20년 동안 저와 함께 머물러 있는. 제 인생의 정확히 그 세 단락과 거의 다른 어떤 것도 필요했던 한 해에, 완전한 우연으로 집어든 책의 중간 가까이의 인내심 있는 세 단락.",
+      "그 작은 분산된 친절들 중 어느 것도, 자기 자체로 그리고 고립해서 신중히 고려하면, 크지 않았어요. 그 중 어느 것도, 자기 자체로, 나중에 제가 결정적이었다고 가리킬 수 있었을 어떤 방식으로도 제 인생의 더 넓은 진로를 감지 가능하게 바꾸지 않았어요. 모두 함께 그리고 단일한 천천한 누적으로 고려하면, 점차 그리고 거의 보이지 않게, 평범한 한 주의 평범한 대부분의 아침에 대체로 그리고 두드러지지 않게 괜찮은 누군가의 대략적인 작동하는 모양으로 누적됐어요.",
+      "지난 몇 년에 걸쳐, 제 자기 도덕적 전기의 이 분산되고 사진 찍기 좋지 않은 버전과 작은 사적 화해를 했어요. 이제 명확히 마음에 떠올릴 수 없는 여러 선생님들에게: 마침 필요했던 평범한 화요일 어느 날에 마침 제게 제공한 어떤 작고, 거의 확실히 잊혀진 친절에든 감사해요. 어디서도 누구도 실제로 앉아서 하지 않는 매우 길고 매우 조용한 최종 회계 안에서, 그 일이 실제로 일어났던 때 당신이나 제가 깨달은 것보다 상당히 더 중요했을지 몰라요.",
+      "일반적으로 도착하는 그 형태의 질문이 그 자체로, 어떤 조용하지만 실제적 방식으로, 잘못된 질문은 아닌지 궁금해지기 시작했어요. 어쩌면 어떤 단일한 다른 사람도 사실 당신 인생의 진로를 바꾸려는 게 아니에요. 어쩌면 그 외에는 평범한 매우 많은 사람들의 꾸준한 분산된 친절은, 함께 취해서, 그저 당신 주위에 충분한 조용한 감정적 그리고 지적 공간을 비워주려는 거예요. 그리고 당신이 선호할 것보다 몇 년 뒤의 어떤 그 외에는 두드러지지 않은 수요일 오후에, 당신 인생을 바꾸는 실제 어려운 작업은 조용히, 그리고 많은 동반 드라마 없이, 당신에게 떨어지도록 되어 있어요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-130"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer suspect about other adults who have a polished single-teacher story?",
+        "questionKo": "글쓴이는 매끄러운 단일 선생님 이야기를 가진 다른 어른들에 대해 무엇을 의심하나요?",
+        "options": [
+          "They are showing off",
+          "They probably did not really have one transforming teacher either — they had simply learned, over years of cultural osmosis, to produce one when the social moment quietly required it",
+          "Their schools were better",
+          "They are lying for fun"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer reframe the role of dispersed kindness at the end?",
+        "questionKo": "글쓴이는 마지막에 분산된 친절의 역할을 어떻게 재구성하나요?",
+        "options": [
+          "It replaces a single transformative figure",
+          "It is supposed to clear enough quiet emotional and intellectual room around you — and the actual changing of your life is then supposed to fall, quietly, on you",
+          "It is less important than one big teacher",
+          "It is only useful in childhood"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「人生を変えてくれた先生」がいないということについて",
+      "es": "Sobre No Tener un Maestro Que Cambió Tu Vida",
+      "id": "Tentang Tidak Memiliki Guru yang Mengubah Hidup Anda",
+      "vi": "Về Việc Không Có Một Người Thầy Đã Thay Đổi Cuộc Đời Mình",
+      "hi": "उस शिक्षक के न होने पर जिसने आपकी ज़िंदगी बदल दी",
+      "th": "ว่าด้วยการไม่มีครูที่เปลี่ยนชีวิตของคุณ",
+      "pt-BR": "Sobre Não Ter um Professor Que Mudou Sua Vida"
+    }
+  },
+  {
+    "id": "col-2026-05-22-no-teacher-changed-me-l5",
+    "title": "The Teacher Who Changed My Life Did Not Exist",
+    "titleKo": "내 인생을 바꾼 선생님은 존재하지 않았다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-05-22-no-teacher-changed-me"
+    ],
+    "paragraphs": [
+      "At small dinner parties, particularly the ones at which there happens to be at least one moderately curious new person at the table, the question tends to arrive somewhere between the second and third generously poured glass of wine. \"So — who was the teacher who actually changed your whole life?\"",
+      "People smile when they ask it. They wait warmly and expectantly across the table. They very clearly expect the answer to come back ready, briefly polished, and decisively shaped — the kind of small, slightly sentimental, dinner-table-sized story that can be delivered in under two unhurried minutes and tied off, somewhere near its end, with a tidy and faintly reassuring emotional ribbon.",
+      "I do not have such a story. I never really have. I have, on more than one slightly underprepared and slightly wine-loosened occasion, attempted to invent one on the spot, more or less in real time, just to keep the conversation moving past me without too obvious a pause for the table to register. The invented version, predictably and unfailingly, always comes out a little too clean in its narrative geometry, a little too suspiciously well-shaped in its small dramatic arc. People nod politely, of course; but I can usually tell, from the slight extra half-beat before whoever is next at the table tries to follow on, that they have noticed the embroidery and are simply too kind, and too socially well-trained, to mention it openly.",
+      "If I am honest with myself, looking back across many years of broadly ordinary formal education, I had broadly ordinary teachers. Some of them were genuinely, patiently kind, in the small unphotogenic ways that real adult kindness almost always actually consists of. Several were, on quiet honest inspection, fairly thoroughly burned out by a profession that has asked too much of them for too little in return for too long. A few I cannot now bring clearly to mind at all — not the subject they taught, not the layout of the room we sat in, not, in two or three slightly mortifying cases, even their names. None of them, in any single dramatic remembered moment that I can now reasonably bring to mind, ever leaned visibly across a wooden desk and delivered one perfect, life-rearranging sentence that visibly and irreversibly reorganized my interior emotional weather from that exact afternoon forward.",
+      "For many years this small, slightly off-key private fact embarrassed me quietly. Other adults at these same kinds of small dinners always seemed to come pre-equipped with a single, well-rehearsed, broadly available transforming-teacher story. Looking around the table on these evenings, I would sometimes feel, almost guiltily, that I had somehow missed an essential developmental experience that more or less everyone else my age had apparently been quietly handed at the appropriate developmental moment — the way one might feel, in a literary or cinematic conversation, to have somehow missed reading or seeing a famous, almost universally celebrated novel or film that everyone else, with no apparent effort, has clearly read or watched and absorbed.",
+      "Slowly, over the steadily accumulating course of my late twenties and into my early thirties, however, I began, almost against my own initial wishes, to suspect something rather different. Most of the perfectly capable, broadly trustworthy adults producing these polished single-teacher stories at these otherwise unremarkable dinners had probably not, in any really honest accounting of their actual remembered lives, ever really had one such single transforming teacher either. We had all, very gradually, through long years of low-key cultural osmosis, simply learned that the question, when it eventually arrived around the table, was expected to be answered with a single named figure with a single named decisive contribution. And we had each, accordingly, slowly and almost invisibly trained ourselves to be able to produce one such figure when the social moment quietly required us to deliver.",
+      "What I had actually had, in place of the imagined and presumably half-mythical single transforming teacher, was different, and considerably harder to compress into a polished two-minute dinner-party sentence. Many small individual kindnesses, distributed across many quite different people, none of them, by themselves, of obviously transformative weight on first inspection. A note quietly slipped across a desk during eighth grade. A teacher who once paused, very briefly, before handing my graded test back, to quietly ask whether everything at home was actually all right. A short, almost throwaway sentence from a stranger on a long overnight bus ride which has, for reasons that I still cannot quite fully reconstruct, somehow stayed with me for nearly twenty years. Three patient, plainly written paragraphs in the middle of a book I happened to pick up, more or less by complete accident, in the one particular year of my life when I needed almost exactly those three particular paragraphs and very little else.",
+      "None of those small dispersed kindnesses, considered carefully on its own merits and held in isolation from all the others, was, by itself, in any obvious way large. None of them, on its own and in isolation, perceptibly changed the broader course of my life in any way I could later have, on close honest examination, pointed back to as having been straightforwardly decisive. All of them, however, considered patiently together and viewed as a single slow accumulated low-intensity current running quietly underneath the more visible surface of my actually lived life, very gradually and almost invisibly built up into the rough working shape of someone who is, on most ordinary mornings of most ordinary weeks, mostly and unspectacularly and pleasantly fine.",
+      "Over the past few years, somewhat against my own initial resistance, I have made a small but reasonably durable private peace with this dispersed, unphotogenic, and frankly unmarketable version of my own moral and intellectual biography. To the various teachers whose faces and names I can no longer reliably bring clearly to mind: thank you for whatever small and almost certainly long-forgotten kindness you happened to offer me on whatever otherwise unremarkable Tuesday afternoon I happened, at the time, to need it. In the very long and very quiet final accounting that nobody anywhere actually ever sits down and patiently does, your particular small contribution may, in the end, have counted considerably more than either you, in the moment of offering it, or I, in the moment of receiving it, ever quite realized at the time it actually happened.",
+      "And I have come, slowly and somewhat reluctantly, to suspect that the question, in the form in which it generally arrives at the dinner table, is itself, in some quiet but quite real way, simply the wrong question. Perhaps no single other person is, in any realistic accounting of how an adult life actually accumulates, supposed to change the course of your particular life on your behalf. Perhaps the steady dispersed unremarkable kindness of a great many otherwise ordinary people you mostly forget the names of is, taken together and viewed in the very long quiet aggregate, simply supposed to clear enough quiet emotional and intellectual and social room around you. And then, on some otherwise entirely unremarkable Wednesday afternoon some years later than you would, by then, ideally prefer, the actual difficult and unphotographable work of changing your own life is supposed to fall, quietly and without much accompanying narrative drama, on you, alone, while no one in particular is watching."
+    ],
+    "translation": [
+      "작은 저녁 식사 자리, 특히 테이블에 적어도 한 명의 적당히 호기심 있는 새로운 사람이 있는 자리에서, 그 질문은 보통 두 번째와 세 번째 넉넉히 따라진 와인 잔 사이 어딘가에 도착하는 경향이 있어요. \"그래서 — 네 인생 전체를 진짜로 바꾼 선생님은 누구였어?\"",
+      "사람들은 물을 때 웃어요. 따뜻하게 그리고 기대하면서 테이블 너머로 기다려요. 답이 준비되고, 간략히 매끄럽고, 결정적으로 형성된 모양으로 돌아올 거라고 매우 분명히 기대해요 — 서두르지 않은 2분 안에 전달될 수 있고, 그 끝 가까이 어딘가에서, 깔끔하고 희미하게 안심시키는 감정적 리본으로 묶일 수 있는 작고, 살짝 감상적이고, 식탁 크기의 이야기일 거라고요.",
+      "저는 그런 이야기가 없어요. 진짜로 한 번도 없었어요. 살짝 준비되지 않고 살짝 와인에 풀린 한 번 이상의 경우에, 테이블이 등록할 너무 명백한 멈춤 없이 대화를 저를 지나 굴리려고, 거의 실시간으로 그 자리에서 하나를 지어내려고 시도해봤어요. 지어낸 버전은, 예측 가능하게 그리고 어김없이, 항상 그 서사적 기하학에서 조금 너무 깔끔하게, 그 작은 극적 호에서 조금 너무 의심스럽게 잘 형성된 모양으로 나와요. 사람들은 물론 예의 바르게 끄덕여요. 하지만 보통, 테이블에서 다음 사람이 누구든 따라오려고 시도하기 전의 살짝 추가된 반 박자로부터, 그들이 그 자수를 알아챘고 그저 공개적으로 말하기에 너무 친절하고, 너무 사회적으로 잘 훈련되어 있을 뿐이라는 걸 알 수 있어요.",
+      "저 자신에게 정직하게 말하자면, 대체로 평범한 정규 교육의 많은 해를 돌이켜보면, 저는 대체로 평범한 선생님들이 있었어요. 그 중 어떤 분은 진심으로, 인내심 있게 친절했어요, 실제 어른의 친절이 거의 항상 실제로 구성되는 작고 사진 찍기 좋지 않은 방식으로요. 몇 분은, 조용한 정직한 검사에서, 너무 적은 대가로 너무 많은 것을 너무 오래 요구한 직업에 의해 꽤 철저히 지쳐 있었어요. 몇 분은 이제 명확히 마음에 떠올릴 수 없어요 — 가르친 과목도, 우리가 앉았던 방의 배치도, 두 세 살짝 부끄러운 경우엔 이름조차도. 그 중 누구도, 이제 합리적으로 마음에 떠올릴 수 있는 어떤 단일한 극적 기억된 순간에서, 나무 책상 너머로 눈에 띄게 몸을 기울여 그 정확한 오후부터 제 내면의 감정적 날씨를 눈에 띄게 그리고 되돌릴 수 없게 재구성한 완벽하고, 인생을 재배열하는 한 문장을 전달한 적이 없어요.",
+      "오랫동안 이 작고, 살짝 어긋난 사적 사실이 저를 조용히 부끄럽게 했어요. 같은 종류의 작은 저녁들의 다른 어른들은 항상 단일한, 잘 연습된, 대체로 가용한 변화시키는 선생님 이야기와 함께 미리 장착되어 나온 것 같았어요. 이런 저녁 테이블을 둘러보면, 가끔, 거의 죄책감을 가지고, 제 또래 거의 모두에게 적절한 발달 순간에 분명히 조용히 건네진 본질적인 발달 경험을, 어떻게든 놓친 것 같이 느꼈어요 — 문학적이거나 영화적 대화에서, 다른 모두가, 명백한 노력 없이, 분명히 읽거나 보고 흡수한 유명하고, 거의 보편적으로 칭송받는 소설이나 영화를, 어떻게든 읽거나 보고 놓친 것처럼 느낄 수 있는 방식으로요.",
+      "그러나 천천히, 제 20대 후반에서 30대 초반으로 들어가는 꾸준히 누적되는 과정에 걸쳐, 저의 처음 의지에 거의 반해서, 다소 다른 무언가를 의심하기 시작했어요. 그 외에는 두드러지지 않은 이 저녁들에서 이 매끄러운 단일 선생님 이야기들을 만들어내는 완벽하게 유능하고, 대체로 신뢰할 만한 어른들 대부분도, 그들의 실제 기억된 인생에 대한 어떤 정말로 정직한 회계로도, 그런 단일한 변화시키는 선생님이 한 명도 사실 없었을 거예요. 우리 모두는, 매우 점진적으로, 긴 해의 저강도 문화적 삼투를 통해, 그 질문이, 결국 테이블 주위에 도착할 때, 단일한 결정적 기여를 한 단일한 이름 있는 인물로 답해질 것이 기대된다는 것을 그저 배웠어요. 그리고 우리 각자는, 그에 따라, 천천히 그리고 거의 보이지 않게, 사회적 순간이 우리에게 전달하도록 조용히 요구할 때 그런 인물 하나를 만들어낼 수 있도록 자신을 훈련시켰어요.",
+      "상상되고 추정컨대 반쯤 신화적인 단일 변화시키는 선생님 대신 제가 실제로 가졌던 것은 달랐고, 매끄러운 2분 저녁 식사 자리 문장으로 압축하기에 상당히 더 어려웠어요. 꽤 다른 많은 사람들에 걸쳐 분산된 많은 작은 개별 친절들, 그 중 어느 것도, 그 자체로, 첫 검사에서는 명백히 변화시키는 무게를 지니지 않은. 8학년 때 책상 위로 조용히 미끄러진 쪽지. 채점된 시험을 돌려주기 전에, 매우 짧게 한 번 멈춰서, 집에서 정말 다 괜찮은지 조용히 물어봐준 선생님. 긴 야간 버스 여행에서 낯선 사람의 짧고 거의 던지듯 한 문장, 제가 아직 완전히 재구성할 수 없는 이유로, 거의 20년 동안 어떻게든 저와 함께 머물러 있는. 제 인생의 한 특정한 해, 그 세 특정 단락과 거의 다른 어떤 것도 거의 필요했던 해에, 거의 완전한 우연으로 집어든 책의 중간에 인내심 있고 평이하게 쓰인 세 단락.",
+      "그 작은 분산된 친절들 중 어느 것도, 자기 자체의 가치에서 신중히 고려되고 다른 모든 것들에서 고립해서 잡혀 있을 때, 자기 자체로, 어떤 명백한 방식으로도 크지 않았어요. 그 중 어느 것도, 자기 자체로 그리고 고립해서, 나중에 제가, 가까운 정직한 검사에서, 명백히 결정적이었다고 가리켜 보일 수 있었을 어떤 방식으로도 제 인생의 더 넓은 진로를 감지 가능하게 바꾸지 않았어요. 그 모두가, 그러나, 인내심 있게 함께 고려되고, 제가 실제로 살아온 인생의 더 보이는 표면 아래에서 조용히 흐르는 단일한 천천히 누적된 저강도 흐름으로 보면, 매우 점차 그리고 거의 보이지 않게, 대부분의 평범한 주의 대부분의 평범한 아침에 대체로, 두드러지지 않게, 그리고 유쾌하게 괜찮은 누군가의 대략적인 작동하는 모양으로 누적됐어요.",
+      "지난 몇 년에 걸쳐, 저의 처음 저항에 다소 반해서, 제 자기 도덕적 그리고 지적 전기의 이 분산되고, 사진 찍기 좋지 않고, 솔직히 마케팅할 수 없는 버전과, 작지만 합리적으로 지속되는 사적 화해를 했어요. 이제 얼굴과 이름을 신뢰할 수 있게 명확히 마음에 떠올릴 수 없는 여러 선생님들에게: 그 외에는 두드러지지 않은 화요일 오후 어느 날, 마침 제가 그것을 필요로 했을 때, 마침 제게 제공한 어떤 작고 거의 확실히 오래 전 잊혀진 친절에든 감사해요. 어디서도 누구도 실제로 앉아서 인내심 있게 하지 않는 매우 길고 매우 조용한 최종 회계 안에서, 당신의 그 특정한 작은 기여는, 결국, 그것을 제공하는 순간의 당신이나, 그것을 받는 순간의 제가 그것이 실제로 일어났던 때 깨달은 것보다, 상당히 더 중요했을지도 몰라요.",
+      "그리고 저는, 천천히 그리고 다소 마지못해, 일반적으로 저녁 식탁에 도착하는 그 형태의 질문이 그 자체로, 어떤 조용하지만 꽤 실제적 방식으로, 그저 잘못된 질문이라고 의심하게 됐어요. 어쩌면 어떤 단일한 다른 사람도, 어른의 인생이 실제로 누적되는 방식에 대한 어떤 현실적 회계에서도, 당신을 대신해서 당신의 특정한 인생의 진로를 바꾸려는 게 아니에요. 어쩌면 당신이 대부분 이름을 잊어버리는 매우 많은 그 외에는 평범한 사람들의 꾸준한 분산된 두드러지지 않은 친절은, 함께 취해지고 매우 긴 조용한 총합에서 보면, 그저 당신 주위에 충분한 조용한 감정적, 지적, 그리고 사회적 공간을 비워주려는 거예요. 그리고 그때까지, 이상적으로는, 당신이 선호할 것보다 몇 년 뒤의 어떤 그 외에는 완전히 두드러지지 않은 수요일 오후에, 자기 인생을 바꾸는 실제 어렵고 사진 찍기 불가능한 작업은, 조용히, 그리고 많은 동반 서사적 드라마 없이, 당신에게, 혼자서, 특별히 아무도 보고 있지 않은 동안, 떨어지도록 되어 있어요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-130"
+    ],
+    "quiz": [
+      {
+        "question": "How does the writer describe what her invented teacher stories sound like to listeners?",
+        "questionKo": "글쓴이는 자기가 지어낸 선생님 이야기가 듣는 사람들에게 어떻게 들린다고 묘사하나요?",
+        "options": [
+          "Forgettable",
+          "A little too clean in narrative geometry and too suspiciously well-shaped — listeners notice the embroidery but are too kind and too socially well-trained to mention it openly",
+          "Boring",
+          "Sad"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer think the question \"who changed your life\" gets fundamentally wrong?",
+        "questionKo": "글쓴이는 \"누가 네 인생을 바꿨어\"라는 질문이 근본적으로 무엇을 잘못 짚는다고 생각하나요?",
+        "options": [
+          "It is too vague",
+          "It assumes a single transformative figure, when in fact dispersed kindness is supposed to clear room and the actual changing falls quietly on you while no one is watching",
+          "It is too sentimental",
+          "It is rude"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "私の人生を変えた先生は、実は存在しなかった",
+      "es": "El Maestro Que Cambió Mi Vida Nunca Existió",
+      "id": "Guru yang Mengubah Hidup Saya Tidak Pernah Ada",
+      "vi": "Người Thầy Đã Thay Đổi Cuộc Đời Tôi Không Hề Tồn Tại",
+      "hi": "मेरी ज़िंदगी बदलने वाला शिक्षक कभी था ही नहीं",
+      "th": "ครูที่เปลี่ยนชีวิตของฉันไม่เคยมีอยู่จริง",
+      "pt-BR": "O Professor Que Mudou Minha Vida Nunca Existiu"
+    }
+  },
+  {
+    "id": "col-2026-05-22-no-teacher-changed-me-l6",
+    "title": "On the Quiet Embarrassment of Having No Single Transforming Teacher",
+    "titleKo": "인생을 바꾼 단 한 명의 선생님이 없다는 조용한 부끄러움에 대하여",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-05-22-no-teacher-changed-me"
+    ],
+    "paragraphs": [
+      "At small, broadly amiable dinner parties, particularly the kind at which there happens to be at least one moderately curious and socially adept new person at the table, the question tends to arrive, with a kind of half-rehearsed conversational inevitability, somewhere between the second and third generously poured glass of wine. \"So — who was the teacher who, you know, really actually changed your whole life?\"",
+      "People always smile when they ask it, in roughly the same gently expectant register. They wait warmly and openly across the table. They very clearly expect the answer to come back already ready, briefly polished, and decisively narratively shaped — the sort of small, slightly sentimental, comfortably dinner-table-sized story that can be delivered in under two unhurried minutes and then tied off, somewhere near its quiet end, with a tidy and faintly reassuring emotional ribbon.",
+      "I do not have such a story. I have never really had one. On more than one slightly underprepared and slightly wine-loosened occasion, I have, almost in real time, attempted to invent one on the spot, more or less from the available raw materials of my actual remembered school years, just to keep the conversation moving past me and on to whoever was next at the table without too obvious a pause for everyone present to silently register. The invented version, predictably and unfailingly, always comes out a little too clean in its narrative geometry, a little too suspiciously and conveniently well-shaped along its small dramatic arc. People nod politely, of course, in the practiced kind way that adults at dinners generally do. But I can usually tell, from the slight extra half-beat before whoever is next at the table tries to follow on with their own version of the same question, that they have, in fact, quietly noticed the embroidery and are simply being too kind and too socially well-trained to comment on it openly.",
+      "If I am honest with myself, looking back as honestly as I can across the many slowly accumulating years of broadly ordinary formal education, what I in fact had was broadly ordinary teachers. Some of them were, on slow and patient reflection, genuinely and unphotogenically kind, in the small and almost completely unphotographable ways that real adult kindness, in real institutional settings, almost always actually quietly consists of. Several of them were, on really quite honest inspection, fairly thoroughly burned out by a profession that has, for too many years, asked too much of them in return for too little. A few of them I cannot now bring clearly to mind at all — not the actual subject they taught me, not the specific layout of the classroom we sat together in, not, in two or three slightly mortifying cases on close examination, even their actual names. None of them, in any one single dramatic remembered moment that I can now reasonably bring at all clearly to mind, ever leaned visibly and decisively across a wooden classroom desk and delivered to me one perfect, exactly-correct, life-rearranging sentence that visibly, decisively, and irreversibly reorganized my interior emotional weather from that exact ordinary afternoon onward.",
+      "For many years this small, slightly off-key, slightly hard-to-name private fact embarrassed me very quietly and almost imperceptibly. Other adults at these same small kinds of dinners always seemed to come pre-equipped, somehow, with a single, well-rehearsed, broadly socially available transforming-teacher story. Looking carefully around the table at these slightly too well-lit evenings, I would sometimes find myself feeling, almost guiltily and very quietly, that I had somehow missed an essential developmental experience that nearly everyone else my age had, by all visible appearances, apparently been quietly and unceremoniously handed at the appropriate developmental moment — in much the way one might briefly feel, in the course of a literary or cinematic conversation, to have somehow missed reading or seeing one famous, almost universally celebrated and quoted novel or film that everyone else, with no apparently meaningful effort, has clearly read or watched and absorbed and easily moved on from.",
+      "Slowly, however, over the steady and unspectacular and slightly humbling accumulating course of my late twenties and into the front half of my thirties, I began, almost against my own initial somewhat embarrassed wishes in the matter, to suspect, quietly but with growing private confidence, something rather different. Most of the perfectly capable, broadly trustworthy, well-meaning adults producing these polished single-teacher stories at these otherwise broadly unremarkable shared dinners had probably not, in any really honest, slow, sit-down accounting of their own actual lived and remembered lives, ever really had one such single transforming teacher either. We had all, very gradually, through many long years of low-key, low-altitude, almost invisible cultural osmosis, simply learned that the question, when it eventually arrived at the table, was socially expected to be answered with a single named figure with a single named specific decisive contribution. And we had each of us, accordingly and almost imperceptibly, slowly and almost completely invisibly trained ourselves to be able to produce one such suitably named figure when the small social moment quietly required us to deliver on cue.",
+      "What I had actually had, in place of this imagined and almost certainly half-mythical single transforming teacher, was, in fact, different, and considerably harder to compress into a polished two-minute dinner-party sentence without obvious narrative damage. Many small individual kindnesses, distributed across many quite different people across many different years and institutions, none of them, by themselves on first inspection, of any obviously transformative individual weight. A small folded note quietly slipped sideways across a desk during a long eighth-grade afternoon. A particular teacher who once paused, just very briefly, before handing my graded final test back to me, to quietly and a little awkwardly ask whether everything at home was actually all right these days. A short, almost entirely throwaway sentence from a complete stranger on a long overnight bus ride which has, for reasons that I still cannot now quite fully reconstruct to anyone's satisfaction, somehow stayed with me clearly for nearly twenty subsequent years. Three patient, plainly written, completely unfashionable paragraphs in the middle of a slightly obscure book that I happened, more or less by complete accident and at the public library, to pick up in the one particular year of my otherwise unremarkable life when I needed, very nearly exactly, those three particular patient paragraphs and almost nothing else in the world.",
+      "None of those small dispersed quiet kindnesses, considered carefully on its own merits and held in deliberate isolation from all of the others, was, by itself, in any obvious or photogenic way, large. None of them, taken on its own and in isolation, perceptibly changed the broader course of my actually lived life in any way I could later have, on close honest examination, pointed back to and named as having been straightforwardly decisive. All of them, considered patiently together and viewed as a single, slow, accumulated, low-intensity background current running quietly underneath the more visible and more easily narratable surface of my actually lived and remembered life, very gradually and almost completely invisibly built up, over many years and almost without my notice while it was actually happening, into the rough working shape of someone who is, on most ordinary mornings of most ordinary weeks of an entirely ordinary adult life, mostly, unspectacularly, and quite pleasantly fine.",
+      "Over the past several years, somewhat and not entirely willingly against my own initial private resistance, I have made a small but reasonably durable peace with this dispersed, frankly unphotogenic, and almost entirely unmarketable version of my own moral, intellectual, and emotional autobiography. To the various teachers whose particular faces and whose particular names I can no longer reliably and clearly bring to mind: thank you, sincerely if quietly, for whatever small and almost certainly long-forgotten ordinary Tuesday-afternoon kindness you happened, in passing, to offer me, on whatever otherwise entirely unremarkable Tuesday afternoon I happened, at the time and quite without your knowing it, to particularly need it. In the very long, very quiet, very patient final accounting that nobody anywhere is actually ever going to sit down and do, your particular small contribution may, in the end and on patient examination, have counted considerably and consequentially more than either you, in the brief moment of your offering it, or I, in the brief moment of my receiving it, ever quite consciously realized at the actual time that it was actually happening.",
+      "And I have come, very slowly and with not inconsiderable inner reluctance, to genuinely suspect that the question, in the well-rehearsed form in which it generally arrives at the broadly amiable dinner table, is itself, in some quiet but quite real and quite consequential way, simply, on close inspection, the wrong question. Perhaps no single other particular person is, in any realistic accounting whatsoever of how an actual adult life actually does slowly accumulate over time, supposed to change the entire course of your own particular life on your behalf. Perhaps the steady, dispersed, unremarkable, almost unphotographable kindness of a great many otherwise broadly ordinary people, most of whose names you will inevitably forget within a few decades, is, taken patiently together and viewed only in the very long quiet aggregate over time, simply supposed to slowly clear enough quiet emotional and intellectual and social and spiritual room around you. And then, on some otherwise entirely unremarkable Wednesday afternoon a small number of years later than, by then, you would by far ideally prefer, the actual difficult, slow, completely unphotogenic, almost entirely unnarratable work of actually changing the course of your own particular life is, on patient final inspection, supposed to fall, quietly and almost without any kind of accompanying narrative drama at all, on you, alone, in a room nobody in particular is watching, for reasons that nobody other than you is ever really, in the end, going to need to fully understand."
+    ],
+    "translation": [
+      "작고, 대체로 우호적인 저녁 식사 자리, 특히 테이블에 적어도 한 명의 적당히 호기심 있고 사회적으로 능숙한 새로운 사람이 있는 종류의 자리에서, 그 질문은, 일종의 반쯤 연습된 대화적 불가피성으로, 두 번째와 세 번째 넉넉히 따라진 와인 잔 사이 어딘가에 도착하는 경향이 있어요. \"그래서 — 그러니까, 진짜로 실제로 네 인생 전체를 바꾼 선생님은 누구였어?\"",
+      "사람들은 항상 물을 때 웃어요, 거의 같은 부드럽게 기대하는 음역대로요. 따뜻하게 그리고 열린 채로 테이블 너머로 기다려요. 답이 이미 준비되고, 간략히 매끄럽고, 결정적으로 서사적으로 형성된 모양으로 돌아올 거라고 매우 분명히 기대해요 — 서두르지 않은 2분 안에 전달될 수 있고, 그 조용한 끝 가까이 어딘가에서, 깔끔하고 희미하게 안심시키는 감정적 리본으로 묶일 수 있는, 작고, 살짝 감상적이고, 편안하게 식탁 크기의 종류의 이야기일 거라고요.",
+      "저는 그런 이야기가 없어요. 진짜로 한 번도 없었어요. 살짝 준비되지 않고 살짝 와인에 풀린 한 번 이상의 경우에, 거의 실시간으로, 그 자리에서 하나를 지어내려고 시도해봤어요, 거의 제 실제 기억된 학창시절의 가용한 원재료로부터요, 모두가 조용히 등록할 너무 명백한 멈춤 없이 대화를 저를 지나, 그리고 테이블의 다음 사람이 누구든 그쪽으로 굴리려고요. 지어낸 버전은, 예측 가능하게 그리고 어김없이, 항상 그 서사적 기하학에서 조금 너무 깔끔하게, 그 작은 극적 호를 따라 조금 너무 의심스럽고 편의적으로 잘 형성된 모양으로 나와요. 사람들은 물론 예의 바르게 끄덕여요, 저녁 식사 자리의 어른들이 일반적으로 하는 연습된 친절한 방식으로요. 하지만 보통, 테이블의 다음 사람이 누구든 같은 질문의 자기 버전으로 따라오려고 시도하기 전의 살짝 추가된 반 박자로부터, 그들이, 사실, 그 자수를 조용히 알아챘고 그저 공개적으로 그것에 대해 말하기에 너무 친절하고 너무 사회적으로 잘 훈련되어 있을 뿐이라는 걸 알 수 있어요.",
+      "저 자신에게 정직하게 말하자면, 대체로 평범한 정규 교육의 천천히 누적되는 많은 해를 가능한 한 정직하게 돌이켜보면, 제가 사실 가졌던 것은 대체로 평범한 선생님들이에요. 그 중 어떤 분은, 천천하고 인내심 있는 성찰에서, 진심으로 그리고 사진 찍기 좋지 않게 친절했어요, 실제 어른의 친절이, 실제 제도적 환경에서, 거의 항상 실제로 조용히 구성되는 작고 거의 완전히 사진 찍기 불가능한 방식으로요. 그 중 몇 분은, 정말 꽤 정직한 검사에서, 너무 많은 해 동안, 너무 적은 대가로 너무 많은 것을 요구해 온 직업에 의해 꽤 철저히 지쳐 있었어요. 그 중 몇 분은 이제 명확히 마음에 떠올릴 수 없어요 — 저에게 가르친 실제 과목도, 우리가 함께 앉았던 교실의 구체적 배치도, 가까운 검사에서 두 세 살짝 부끄러운 경우엔, 그들의 실제 이름조차도. 그 중 누구도, 이제 합리적으로 전혀 명확히 마음에 떠올릴 수 있는 어떤 단일한 극적 기억된 순간에서, 나무 교실 책상 너머로 눈에 띄게 그리고 결정적으로 몸을 기울여, 그 정확한 평범한 오후부터 제 내면의 감정적 날씨를 눈에 띄게, 결정적으로, 그리고 되돌릴 수 없게 재구성한 완벽하고, 정확히 올바르고, 인생을 재배열하는 한 문장을 저에게 전달한 적이 없어요.",
+      "오랫동안 이 작고, 살짝 어긋나고, 살짝 이름 짓기 어려운 사적 사실이 저를 매우 조용히 그리고 거의 감지 안 되게 부끄럽게 했어요. 같은 작은 종류의 저녁들의 다른 어른들은 항상, 어떻게든, 단일한, 잘 연습되고, 대체로 사회적으로 가용한 변화시키는 선생님 이야기와 함께 미리 장착되어 나온 것 같았어요. 이 살짝 너무 잘 조명된 저녁들의 테이블 주위를 신중히 둘러보면, 가끔, 거의 죄책감을 가지고 그리고 매우 조용히, 제 또래 거의 모두가, 모든 눈에 보이는 외양으로, 분명히 적절한 발달 순간에 조용히 그리고 형식 없이 건네진 본질적인 발달 경험을, 제가 어떻게든 놓친 것 같이 느끼고 있는 자신을 발견하곤 했어요 — 문학적이거나 영화적 대화의 과정에서, 다른 모두가, 명백히 의미 있는 노력 없이, 분명히 읽거나 보고 흡수하고 쉽게 넘어간, 유명하고, 거의 보편적으로 칭송받고 인용되는 소설이나 영화 하나를, 어떻게든 읽거나 보고 놓친 것처럼 짧게 느낄 수 있는 거의 그 방식으로요.",
+      "그러나 천천히, 제 20대 후반에서 30대 전반으로 들어가는 꾸준하고 두드러지지 않고 살짝 겸손하게 만드는 누적되는 과정에 걸쳐, 그 문제에 대한 저의 처음 다소 부끄러워하는 의지에 거의 반해서, 조용히 그러나 자라나는 사적 확신으로, 다소 다른 무언가를 의심하기 시작했어요. 그 외에는 대체로 두드러지지 않은 이 공유된 저녁들에서 이 매끄러운 단일 선생님 이야기들을 만들어내는 완벽하게 유능하고, 대체로 신뢰할 만하고, 선의의 어른들 대부분도, 그들 자신의 실제 살아오고 기억된 인생에 대한 어떤 정말로 정직한, 천천한, 앉아서 하는 회계로도, 그런 단일한 변화시키는 선생님이 한 명도 사실 없었을 거예요. 우리 모두는, 매우 점진적으로, 저강도, 저고도, 거의 보이지 않는 문화적 삼투의 많은 긴 해를 통해, 그 질문이, 결국 테이블에 도착할 때, 단일한 결정적 기여를 한 단일한 이름 있는 인물로 답해질 것이 사회적으로 기대된다는 것을 그저 배웠어요. 그리고 우리 각자는, 그에 따라 그리고 거의 감지 안 되게, 천천히 그리고 거의 완전히 보이지 않게, 작은 사회적 순간이 우리에게 신호에 맞춰 전달하도록 조용히 요구할 때 그런 적당히 이름 있는 인물 하나를 만들어낼 수 있도록 자신을 훈련시켰어요.",
+      "이 상상되고 거의 확실히 반쯤 신화적인 단일 변화시키는 선생님 대신 제가 실제로 가졌던 것은, 사실, 달랐고, 명백한 서사적 손상 없이 매끄러운 2분 저녁 식사 자리 문장으로 압축하기에 상당히 더 어려웠어요. 많은 다른 해와 기관에 걸쳐 꽤 다른 많은 사람들에 걸쳐 분산된 많은 작은 개별 친절들, 그 중 어느 것도, 첫 검사에서 자기 자체로는, 명백히 변화시키는 개별 무게를 지니지 않은. 긴 8학년 오후 동안 책상 너머로 옆으로 조용히 미끄러진 작은 접힌 쪽지. 채점된 기말 시험을 저에게 돌려주기 전에, 매우 짧게 한 번 멈춰서, 요즘 집에서 정말 다 괜찮은지 조용히 그리고 살짝 어색하게 물어봐준 한 특정 선생님. 긴 야간 버스 여행에서 완전히 낯선 사람의 짧고, 거의 완전히 던지듯 한 문장, 제가 아직 이제 누구의 만족에든 완전히 재구성할 수 없는 이유로, 거의 20년의 후속 해 동안 명확히 어떻게든 저와 함께 머물러 있는. 제 그 외에는 두드러지지 않은 인생의 한 특정한 해, 거의 정확히 그 세 특정 인내심 있는 단락과 세상에서 거의 다른 어떤 것도 필요했던 해에, 거의 완전한 우연으로 그리고 공공 도서관에서 집어든, 살짝 모호한 책 중간의 인내심 있고, 평이하게 쓰이고, 완전히 유행에 뒤떨어진 세 단락.",
+      "그 작은 분산된 조용한 친절들 중 어느 것도, 자기 자체의 가치에서 신중히 고려되고 다른 모든 것들에서 의도적인 고립에 잡혀 있을 때, 자기 자체로, 어떤 명백하거나 사진 찍기 좋은 방식으로, 크지 않았어요. 그 중 어느 것도, 자기 자체로 그리고 고립해서 취해 보면, 나중에 제가, 가까운 정직한 검사에서, 명백히 결정적이었다고 가리켜 보고 이름 지을 수 있었을 어떤 방식으로도 제 실제 살아온 인생의 더 넓은 진로를 감지 가능하게 바꾸지 않았어요. 그 모두가, 인내심 있게 함께 고려되고, 제가 실제로 살아오고 기억해 온 인생의 더 보이고 더 쉽게 서사화할 수 있는 표면 아래에서 조용히 흐르는, 단일하고, 천천하고, 누적되고, 저강도 배경 흐름으로 보면, 매우 점차 그리고 거의 완전히 보이지 않게, 많은 해에 걸쳐 그리고 그것이 실제로 일어나고 있는 동안 거의 제 알아챔 없이, 완전히 평범한 어른 인생의 대부분의 평범한 주의 대부분의 평범한 아침에 대체로, 두드러지지 않게, 그리고 꽤 유쾌하게 괜찮은 누군가의 대략적인 작동하는 모양으로 누적됐어요.",
+      "지난 몇 년에 걸쳐, 저의 처음 사적 저항에 다소 그리고 완전히 자발적이지는 않게 반해서, 제 자기 도덕적, 지적, 그리고 감정적 자서전의 이 분산되고, 솔직히 사진 찍기 좋지 않고, 거의 완전히 마케팅할 수 없는 버전과, 작지만 합리적으로 지속되는 화해를 했어요. 그 특정한 얼굴과 그 특정한 이름을 더 이상 신뢰할 수 있게 그리고 명확히 마음에 떠올릴 수 없는 여러 선생님들에게: 진심으로, 조용하게라도, 어떤 그 외에는 완전히 두드러지지 않은 화요일 오후 어느 날, 마침 제가, 당시에 그리고 당신이 모르는 채로, 특히 그것을 필요로 했을 때, 마침 지나가는 길에 제게 제공한 어떤 작고, 거의 확실히 오래 전 잊혀진 평범한 화요일 오후의 친절에든 감사해요. 어디서도 누구도 사실 결코 앉아서 하지 않을 매우 길고, 매우 조용하고, 매우 인내심 있는 최종 회계 안에서, 당신의 그 특정한 작은 기여는, 결국 그리고 인내심 있는 검사에서, 그것을 제공하는 짧은 순간의 당신이나, 그것을 받는 짧은 순간의 제가, 그것이 실제로 일어나고 있던 실제 때 의식적으로 깨달은 것보다, 상당히 그리고 결과적으로 더 중요했을지도 몰라요.",
+      "그리고 저는, 매우 천천히 그리고 결코 적지 않은 내적 마지못함과 함께, 대체로 우호적인 저녁 식탁에 일반적으로 도착하는 잘 연습된 형태의 그 질문이 그 자체로, 어떤 조용하지만 꽤 실제적이고 꽤 결과적인 방식으로, 그저, 가까운 검사에서, 잘못된 질문이라고 진정으로 의심하게 됐어요. 어쩌면 어떤 단일한 다른 특정한 사람도, 실제 어른 인생이 시간이 지남에 따라 천천히 누적되는 방식에 대한 어떤 현실적 회계에서든, 당신을 대신해서 당신 자신의 특정한 인생의 전체 진로를 바꾸려는 게 아니에요. 어쩌면 매우 많은 그 외에는 대체로 평범한 사람들 — 그 중 대부분의 이름을 당신은 몇 십 년 안에 불가피하게 잊을 — 의 꾸준하고, 분산되고, 두드러지지 않고, 거의 사진 찍기 불가능한 친절은, 인내심 있게 함께 취해지고 시간이 지남에 따라 매우 긴 조용한 총합에서만 보면, 그저 당신 주위에 충분한 조용한 감정적, 지적, 사회적, 그리고 영적 공간을 천천히 비워주려는 거예요. 그리고 그때까지, 이상적으로는 당신이 훨씬 더 선호할 것보다 몇 년 뒤의 어떤 그 외에는 완전히 두드러지지 않은 수요일 오후에, 자기 자신의 특정한 인생의 진로를 실제로 바꾸는 실제 어렵고, 천천하고, 완전히 사진 찍기 좋지 않고, 거의 완전히 서사화할 수 없는 작업은, 인내심 있는 최종 검사에서, 조용히, 그리고 거의 어떤 종류의 동반 서사적 드라마도 없이, 당신에게, 혼자서, 특별히 아무도 보고 있지 않은 방에서, 결국에는, 당신 외에 아무도 정말로 완전히 이해할 필요가 없을 이유로, 떨어지도록 되어 있어요."
+    ],
+    "targetWords": [
+      "l3-138",
+      "l3-147",
+      "l3-111",
+      "l4-007",
+      "l2-130"
+    ],
+    "quiz": [
+      {
+        "question": "Why does the writer believe most adults can produce a polished single-teacher story?",
+        "questionKo": "글쓴이는 왜 대부분의 어른들이 매끄러운 단일 선생님 이야기를 만들어낼 수 있다고 믿나요?",
+        "options": [
+          "Because most really had such a teacher",
+          "Because through long years of low-key cultural osmosis, we have all been gradually trained to produce one named figure on cue when the social moment requires it — most probably did not actually have one",
+          "Because schools teach them to",
+          "Because of social media"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Where does the writer ultimately locate the work of changing one's life?",
+        "questionKo": "글쓴이는 결국 인생을 바꾸는 작업을 어디에 위치시키나요?",
+        "options": [
+          "In one decisive teacher",
+          "In oneself, alone, in a room nobody in particular is watching, after the dispersed kindness of many ordinary people has slowly cleared enough quiet room around you",
+          "In one's family",
+          "In one's first job"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "titles": {
+      "ja": "「人生を変えてくれた、たった一人の先生」がいないという静かな恥ずかしさについて",
+      "es": "Sobre la Vergüenza Silenciosa de No Tener Un Solo Maestro Transformador",
+      "id": "Tentang Malu Pelan yang Tidak Memiliki Satu pun Guru Pengubah",
+      "vi": "Về Nỗi Xấu Hổ Lặng Lẽ Khi Không Có Một Người Thầy Đã Thay Đổi Mình",
+      "hi": "एक भी रूपांतरकारी शिक्षक न होने की चुपचाप शर्म पर",
+      "th": "ว่าด้วยความอายอันเงียบงันของการไม่มีครูผู้เปลี่ยนแปลงคนใดเลย",
+      "pt-BR": "Sobre a Vergonha Silenciosa de Não Ter um Único Professor Transformador"
+    }
+  }
+]
