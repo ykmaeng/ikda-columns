@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-04-stopped-saying-busy-l1",
+    "title": "I Stopped Saying \"Busy\"",
+    "titleKo": "\"바빠\"라는 말을 멈췄어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-04-stopped-saying-busy"],
+    "paragraphs": [
+      "People asked me, 'How are you?'",
+      "I always answered, 'Busy.'",
+      "Every time. Without thinking.",
+      "One day, I stopped.",
+      "I said other things. 'I am tired.' 'I am okay.' 'I read a good book.'",
+      "Talks became longer. People listened.",
+      "Maybe 'busy' was a wall.",
+      "Now my answers are doors."
+    ],
+    "translation": [
+      "사람들이 저에게 물었어요, '어떻게 지내?' 라고.",
+      "저는 늘 답했어요, '바빠' 라고.",
+      "매번. 생각도 없이.",
+      "어느 날, 멈췄어요.",
+      "다른 말을 했어요. '피곤해.' '괜찮아.' '좋은 책 한 권 읽었어.'",
+      "대화가 길어졌어요. 사람들이 들었어요.",
+      "어쩌면 '바쁘다' 는 벽이었어요.",
+      "지금 제 답은 문이에요."
+    ],
+    "targetWords": ["l1-200", "l1-130", "l1-094", "l1-160", "l1-149"],
+    "quiz": [
+      {
+        "question": "What did the writer always say to 'How are you?'",
+        "questionKo": "'어떻게 지내?' 에 글쓴이는 늘 뭐라고 답했나요?",
+        "options": ["Tired", "Busy", "Okay", "Happy"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What might 'busy' have been?",
+        "questionKo": "'바쁘다' 는 무엇이었을지도 모른다고 했나요?",
+        "options": ["A truth", "A wall", "A joke", "A door"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-04-stopped-saying-busy-l2",
+    "title": "I Stopped Saying \"Busy\"",
+    "titleKo": "\"바빠\"라는 말을 멈췄어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-04-stopped-saying-busy"],
+    "paragraphs": [
+      "For many years, when people asked me, 'How are you these days?'",
+      "I always answered with the same single word: 'Busy.'",
+      "Every single time. Without thinking, like a small automatic machine.",
+      "Then one ordinary day, almost without choice, I just stopped.",
+      "I tried other answers. 'I am tired.' 'I am okay, actually.' 'I just read a good book.'",
+      "Strangely, our talks became longer. People listened more carefully.",
+      "Maybe 'busy' was always a wall I was quietly putting up between us.",
+      "Now my honest answers are doors instead. Sometimes people walk through them."
+    ],
+    "translation": [
+      "오랫동안, 사람들이 '요즘 어떻게 지내?' 라고 물으면,",
+      "늘 같은 한 단어로 답했어요: '바빠.'",
+      "매번. 생각도 없이, 작은 자동 기계처럼.",
+      "그러던 어느 평범한 날, 거의 선택 없이, 그냥 멈췄어요.",
+      "다른 답을 해봤어요. '피곤해.' '사실 괜찮아.' '좋은 책을 막 읽었어.'",
+      "이상하게, 우리 대화가 길어졌어요. 사람들이 더 신경 써서 들었어요.",
+      "어쩌면 '바쁘다' 는 늘 제가 우리 사이에 조용히 세우던 벽이었어요.",
+      "지금은 솔직한 제 답이 문이에요. 가끔은 사람들이 그 문을 통과해 와요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-130", "l1-200", "l1-160"],
+    "quiz": [
+      {
+        "question": "How did the writer answer like a small automatic machine?",
+        "questionKo": "글쓴이는 어떻게 작은 자동 기계처럼 답했나요?",
+        "options": ["With long explanations", "With the single word 'Busy' every single time", "Avoiding the question", "Asking back the same question"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What do other people now do with the writer's honest answers?",
+        "questionKo": "사람들은 지금 글쓴이의 솔직한 답에 어떻게 반응하나요?",
+        "options": ["Walk away", "Sometimes walk through them like doors", "Argue back", "Get bored"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-04-stopped-saying-busy-l3",
+    "title": "I Stopped Saying \"Busy\"",
+    "titleKo": "\"바빠\"라는 말을 멈췄어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-04-stopped-saying-busy"],
+    "paragraphs": [
+      "For many years, whenever people asked me the small social question, 'How are you these days?'",
+      "I always answered with the same single, efficient word: 'Busy.'",
+      "Every single time. Without thinking, like a small automatic vending machine returning a routine answer.",
+      "Then one perfectly ordinary day, almost without conscious choice, I just stopped using that word.",
+      "I tried other, more honest answers. 'I am tired.' 'I am okay, actually.' 'I just read a quite good book this weekend.'",
+      "Strangely, those small conversations became gently longer. People listened with more careful attention.",
+      "Maybe 'busy' had always been a quiet wall I was efficiently putting up between myself and everyone else.",
+      "Now my more honest answers are small open doors instead. And sometimes, slowly, people walk through them."
+    ],
+    "translation": [
+      "오랫동안, 사람들이 작은 사회적 질문, '요즘 어떻게 지내?' 를 물을 때마다,",
+      "늘 같은 한 단어, 효율적인 답으로 답했어요: '바빠.'",
+      "매번. 생각도 없이, 작은 자판기가 정해진 답을 내놓듯이.",
+      "그러던 어느 완벽히 평범한 날, 거의 의식적 선택 없이, 그 단어 쓰기를 그냥 멈췄어요.",
+      "다른, 더 솔직한 답을 해봤어요. '피곤해.' '사실 괜찮아.' '이번 주말에 꽤 좋은 책 한 권 막 읽었어.'",
+      "이상하게, 그 작은 대화들이 부드럽게 길어졌어요. 사람들이 더 신경 써서 들었어요.",
+      "어쩌면 '바쁘다' 는 늘 제가 자신과 다른 모두 사이에 효율적으로 세우던 조용한 벽이었어요.",
+      "지금은 더 솔직한 제 답이 작은 열린 문이에요. 그리고 가끔, 천천히, 사람들이 그 문을 통과해 와요."
+    ],
+    "targetWords": ["l3-003", "l3-111", "l2-130", "l1-200", "l1-130"],
+    "quiz": [
+      {
+        "question": "What did the writer return like a small vending machine?",
+        "questionKo": "글쓴이는 작은 자판기처럼 무엇을 내놓았나요?",
+        "options": ["Money", "A routine answer — 'Busy' — every time", "Snacks", "Different excuses"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What had 'busy' always efficiently put up between people?",
+        "questionKo": "'바쁘다' 는 사람들 사이에 늘 무엇을 효율적으로 세웠나요?",
+        "options": ["A celebration", "A quiet wall", "A bridge", "A meeting"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-04-stopped-saying-busy-l4",
+    "title": "I Stopped Saying \"Busy\"",
+    "titleKo": "\"바빠\"라는 말을 멈췄어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-04-stopped-saying-busy"],
+    "paragraphs": [
+      "For many years, whenever colleagues or distant friends asked me the small social question, 'How are you these days?'",
+      "I always announce the same single, efficient word in response: 'Busy.'",
+      "Every single time. Without conscious thinking, like a small automatic vending machine returning a pre-programmed routine answer.",
+      "Then one perfectly ordinary Wednesday, almost without deliberate choice, I just stopped using that particular word entirely.",
+      "I tried other, more honest, slightly riskier answers. 'I am tired.' 'I am okay, actually.' 'I just read a quite good book this weekend that I keep thinking about.'",
+      "Strangely, those small social conversations gently became longer. People listened with more careful, more deliberate attention.",
+      "Maybe 'busy' had always been a quiet, efficient wall I was tactically putting up between myself and everyone else who asked.",
+      "Now my more honest answers are small open doors instead. And sometimes, slowly, people communicate themselves through them and stay a while."
+    ],
+    "translation": [
+      "오랫동안, 동료나 멀리 사는 친구가 작은 사회적 질문, '요즘 어떻게 지내?' 를 물을 때마다,",
+      "늘 같은 한 단어, 효율적인 답으로 답을 발표했어요: '바빠.'",
+      "매번. 의식적 생각 없이, 작은 자판기가 미리 프로그램된 정해진 답을 내놓듯이.",
+      "그러던 어느 완벽히 평범한 수요일, 거의 의도적 선택 없이, 그 단어 쓰기를 전부 그만뒀어요.",
+      "다른, 더 솔직한, 약간 더 위험한 답을 해봤어요. '피곤해.' '사실 괜찮아.' '이번 주말에 계속 생각나는, 꽤 좋은 책 한 권 막 읽었어.'",
+      "이상하게, 그 작은 사회적 대화들이 부드럽게 길어졌어요. 사람들이 더 신경 써서, 더 의도적으로 들었어요.",
+      "어쩌면 '바쁘다' 는 늘 제가 자신과 묻는 다른 모두 사이에 전략적으로 세우던 조용하고 효율적인 벽이었어요.",
+      "지금은 더 솔직한 제 답이 작은 열린 문이에요. 그리고 가끔, 천천히, 사람들이 그 문을 통해 자기를 전달해 와서 잠시 머물러요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-111", "l3-003", "l2-130"],
+    "quiz": [
+      {
+        "question": "How does the writer describe her old wall of 'busy'?",
+        "questionKo": "글쓴이는 옛 '바쁘다' 의 벽을 어떻게 묘사하나요?",
+        "options": ["A loud, public wall", "A quiet, efficient wall tactically put up between herself and everyone else", "A garden fence", "A formal barrier"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What do people now do through the open doors of her honest answers?",
+        "questionKo": "사람들은 지금 그녀의 솔직한 답의 열린 문으로 무엇을 하나요?",
+        "options": ["Pass by quickly", "Communicate themselves through them and stay a while", "Knock and leave", "Ignore them"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-04-stopped-saying-busy-l5",
+    "title": "I Stopped Saying \"Busy\"",
+    "titleKo": "\"바빠\"라는 말을 멈췄어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-04-stopped-saying-busy"],
+    "paragraphs": [
+      "For many comprehensive years, whenever colleagues or distant friends asked me the small social question, 'How are you these days?'",
+      "I always announce the same single, efficient, fundamentally protective word in response: 'Busy.'",
+      "Every single time. Without conscious thinking, like a small automatic vending machine returning a pre-programmed, elaborate routine answer.",
+      "Then one perfectly ordinary Wednesday, almost without deliberate preliminary choice, I just stopped using that particular fundamental word entirely.",
+      "I tried other, more honest, slightly riskier, more elaborate answers. 'I am tired.' 'I am okay, actually.' 'I just read a quite good book this weekend that I keep returning to.'",
+      "Strangely, those small social conversations gently became longer and fundamentally deeper. People listened with more careful, more comprehensive attention.",
+      "Maybe 'busy' had always been a quiet, efficient, fundamentally protective wall I was tactically putting up between myself and everyone else who asked.",
+      "Now my more honest answers are small open doors instead, comprehensive in their unexpected effect. And sometimes, slowly, people communicate themselves through them and stay."
+    ],
+    "translation": [
+      "포괄적으로 오랫동안, 동료나 멀리 사는 친구가 작은 사회적 질문, '요즘 어떻게 지내?' 를 물을 때마다,",
+      "늘 같은 한 단어, 효율적이고 근본적으로 보호적인 답으로 답을 발표했어요: '바빠.'",
+      "매번. 의식적 생각 없이, 작은 자판기가 미리 프로그램된 정교한 정해진 답을 내놓듯이.",
+      "그러던 어느 완벽히 평범한 수요일, 거의 의도적이고 예비적인 선택 없이, 그 특정한 근본 단어 쓰기를 전부 그만뒀어요.",
+      "다른, 더 솔직한, 약간 더 위험한, 더 정교한 답을 해봤어요. '피곤해.' '사실 괜찮아.' '이번 주말에 계속 돌아가게 되는, 꽤 좋은 책 한 권 막 읽었어.'",
+      "이상하게, 그 작은 사회적 대화들이 부드럽게 길어지고 근본적으로 깊어졌어요. 사람들이 더 신경 써서, 더 포괄적으로 들었어요.",
+      "어쩌면 '바쁘다' 는 늘 제가 자신과 묻는 다른 모두 사이에 전략적으로 세우던 조용하고 효율적이고 근본적으로 보호적인 벽이었어요.",
+      "지금은 더 솔직한 제 답이 작은 열린 문이에요. 예상치 못한 효과로 포괄적이에요. 그리고 가끔, 천천히, 사람들이 그 문을 통해 자기를 전달해 와서 머물러요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l4-002"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the protective function of 'busy'?",
+        "questionKo": "글쓴이는 '바쁘다' 의 보호적 기능을 어떻게 묘사하나요?",
+        "options": ["A loud announcement", "A quiet, efficient, fundamentally protective wall", "A noisy alarm", "A simple statement"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How are her honest answers comprehensive?",
+        "questionKo": "그녀의 솔직한 답은 어떻게 포괄적인가요?",
+        "options": ["In their length", "In their unexpected effect", "In their formality", "In their grammar"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-04-stopped-saying-busy-l6",
+    "title": "I Stopped Saying \"Busy\"",
+    "titleKo": "\"바빠\"라는 말을 멈췄어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-04-stopped-saying-busy"],
+    "paragraphs": [
+      "For many comprehensive years, whenever colleagues or distant friends asked me the small social question, 'How are you these days?' in passing,",
+      "I always announce the same single, efficient, fundamentally protective word in response, with the speed of an unprecedented reflex: 'Busy.'",
+      "Every single time. Without conscious thinking, like a small automatic vending machine returning a pre-programmed, elaborate routine answer to a coin slot.",
+      "Then one perfectly ordinary Wednesday, almost without deliberate preliminary choice, I just stopped using that particular fundamental word entirely — a small, unannounced personal experiment.",
+      "I tried other, more honest, slightly riskier, more elaborate answers. 'I am tired.' 'I am okay, actually.' 'I just read a quite good book this weekend that I keep returning to in my head.'",
+      "Strangely, those small social conversations gently became longer and fundamentally deeper, and the people across from me listened with more careful, more comprehensive attention than I had expected they would have.",
+      "Maybe 'busy' had always been, in some quiet juxtapose with my actual life, an efficient, fundamentally protective wall I was tactically putting up between myself and everyone else who happened to ask.",
+      "Now my more honest answers are small open doors instead, comprehensive in their unexpected paradigm-level effect. And sometimes, slowly, people communicate themselves through them and stay a while longer than I would have predicted."
+    ],
+    "translation": [
+      "포괄적으로 오랫동안, 동료나 멀리 사는 친구가 지나가며 작은 사회적 질문, '요즘 어떻게 지내?' 를 물을 때마다,",
+      "전례 없는 반사 신경의 속도로, 늘 같은 한 단어, 효율적이고 근본적으로 보호적인 답으로 답을 발표했어요: '바빠.'",
+      "매번. 의식적 생각 없이, 작은 자판기가 동전 구멍에 미리 프로그램된 정교한 정해진 답을 내놓듯이.",
+      "그러던 어느 완벽히 평범한 수요일, 거의 의도적이고 예비적인 선택 없이, 그 특정한 근본 단어 쓰기를 전부 그만뒀어요 — 알리지 않은 작고 개인적인 실험이었어요.",
+      "다른, 더 솔직한, 약간 더 위험한, 더 정교한 답을 해봤어요. '피곤해.' '사실 괜찮아.' '이번 주말에 머릿속에서 계속 돌아가는, 꽤 좋은 책 한 권 막 읽었어.'",
+      "이상하게, 그 작은 사회적 대화들이 부드럽게 길어지고 근본적으로 깊어졌고, 맞은편 사람들은 그들이 그럴 거라고 제가 예상했던 것보다 더 신경 써서, 더 포괄적으로 들었어요.",
+      "어쩌면 '바쁘다' 는 늘, 제 실제 삶과 어떤 조용한 병치 속에서, 자신과 묻는 다른 모두 사이에 제가 전략적으로 세우던 효율적이고 근본적으로 보호적인 벽이었어요.",
+      "지금은 더 솔직한 제 답이 작은 열린 문이에요. 예상치 못한 패러다임 차원의 효과로 포괄적이에요. 그리고 가끔, 천천히, 사람들이 그 문을 통해 자기를 전달해 와서, 제가 예상했을 것보다 조금 더 머물러요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-002"],
+    "quiz": [
+      {
+        "question": "How does the writer describe her decision to stop saying 'busy'?",
+        "questionKo": "'바빠' 라는 말을 멈춘 결정을 어떻게 묘사하나요?",
+        "options": ["A loud public announcement", "A small, unannounced personal experiment", "A doctor's order", "A new year resolution"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What kind of effect do her honest answers now have?",
+        "questionKo": "그녀의 솔직한 답은 지금 어떤 효과를 가지나요?",
+        "options": ["A small surface effect", "A paradigm-level effect, comprehensive in its unexpectedness", "No effect at all", "An annoying effect"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

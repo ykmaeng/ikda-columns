@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-08-forgot-friends-name-l1",
+    "title": "I Forgot a Friend's Name",
+    "titleKo": "친구 이름을 잊었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-08-forgot-friends-name"],
+    "paragraphs": [
+      "Yesterday, I tried to think of a friend.",
+      "We were close ten years ago.",
+      "We laughed every day. We cried together.",
+      "Her face — I can see it.",
+      "Her name — I cannot find it.",
+      "I felt sad.",
+      "How can someone so close disappear?",
+      "Maybe friendship has a time. And then it ends. Quietly."
+    ],
+    "translation": [
+      "어제, 한 친구를 떠올리려 했어요.",
+      "10년 전엔 가까웠어요.",
+      "매일 웃었어요. 같이 울었어요.",
+      "얼굴은 — 보여요.",
+      "이름은 — 못 찾겠어요.",
+      "슬펐어요.",
+      "그렇게 가까웠던 사람이 어떻게 사라질까요?",
+      "어쩌면 우정에도 시간이 있어요. 그리고 끝나요. 조용히."
+    ],
+    "targetWords": ["l1-149", "l1-200", "l1-130", "l1-094", "l1-160"],
+    "quiz": [
+      {
+        "question": "How long ago were they close?",
+        "questionKo": "그들이 가까웠던 건 언제인가요?",
+        "options": ["Last year", "Ten years ago", "A few weeks ago", "Five months ago"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer suggest about friendship?",
+        "questionKo": "글쓴이는 우정에 대해 무엇을 시사하나요?",
+        "options": ["It lasts forever", "Friendship has a time, then ends quietly", "It is always strong", "It needs no effort"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-08-forgot-friends-name-l2",
+    "title": "I Forgot a Friend's Name",
+    "titleKo": "친구 이름을 잊었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-08-forgot-friends-name"],
+    "paragraphs": [
+      "Yesterday, I tried to think of an old close friend from school.",
+      "We were very close about ten years ago, almost like sisters.",
+      "We laughed every single day. We cried together when something hard happened.",
+      "Her face — I can still see it clearly in my mind.",
+      "Her name — I honestly cannot find it anywhere in my head.",
+      "I felt strangely sad, almost guilty, for a long quiet moment.",
+      "How can someone so close to me simply disappear from memory?",
+      "Maybe friendship has its own time. And then, quietly, it ends. No one announces it."
+    ],
+    "translation": [
+      "어제, 학교 다닐 때 오랜 가까운 친구를 떠올리려 했어요.",
+      "10년 전쯤엔 아주 가까웠어요. 거의 자매 같았어요.",
+      "매일 웃었어요. 힘든 일이 있을 때면 같이 울었어요.",
+      "그 친구 얼굴은 — 머릿속에서 여전히 또렷이 보여요.",
+      "이름은 — 솔직히 머릿속 어디에서도 못 찾겠어요.",
+      "한참 동안 조용히, 이상하게 슬프고 거의 죄책감이 들었어요.",
+      "그렇게 저에게 가까웠던 사람이 어떻게 기억에서 그냥 사라질 수 있죠?",
+      "어쩌면 우정에는 자기만의 시간이 있어요. 그리고 조용히 끝나요. 아무도 알리지 않고요."
+    ],
+    "targetWords": ["l2-264", "l2-130", "l1-149", "l1-200", "l1-130"],
+    "quiz": [
+      {
+        "question": "What can the writer still see clearly?",
+        "questionKo": "글쓴이가 여전히 또렷이 볼 수 있는 것은?",
+        "options": ["The friend's house", "The friend's face in her mind", "The friend's school uniform", "The friend's family"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does friendship end, in the writer's reflection?",
+        "questionKo": "글쓴이의 성찰에서 우정은 어떻게 끝나나요?",
+        "options": ["With a fight", "Quietly — no one announces it", "With a goodbye letter", "Suddenly and dramatically"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-08-forgot-friends-name-l3",
+    "title": "I Forgot a Friend's Name",
+    "titleKo": "친구 이름을 잊었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-08-forgot-friends-name"],
+    "paragraphs": [
+      "Yesterday, sitting quietly on the subway, I tried to think of an old close friend from middle school.",
+      "We were extraordinarily close about ten years ago, almost like sisters in everything but blood.",
+      "We laughed every single day at small private jokes. We cried together when something hard happened to either of us.",
+      "Her face — I can still see it clearly in my mind, the small particular shape of her smile.",
+      "Her name — I honestly cannot find it anywhere in my head, no matter how patiently I search.",
+      "I felt strangely sad, almost guilty, for a long quiet moment as the train passed three stations.",
+      "How can someone who was so completely close to me simply disappear from active memory?",
+      "Maybe friendship has its own quiet time. And then, without announcement, it ends. Nobody hands you a final certificate."
+    ],
+    "translation": [
+      "어제, 지하철에 조용히 앉아 있다가, 중학교 때 오랜 가까운 친구를 떠올리려 했어요.",
+      "10년 전쯤엔 유난히 가까웠어요. 피가 안 섞였을 뿐 자매 같았어요.",
+      "매일 작은 우리만의 농담에 웃었어요. 어느 한쪽에 힘든 일이 있을 때면 같이 울었어요.",
+      "그 친구 얼굴은 — 머릿속에서 여전히 또렷이 보여요. 작고 특별한 미소 모양도요.",
+      "이름은 — 솔직히 머릿속 어디에서도 못 찾겠어요. 아무리 끈기 있게 찾아도요.",
+      "지하철이 세 정거장을 지나는 동안 한참 조용히, 이상하게 슬프고 거의 죄책감이 들었어요.",
+      "그렇게 완전히 저에게 가까웠던 사람이 어떻게 활성 기억에서 그냥 사라질 수 있죠?",
+      "어쩌면 우정에는 자기만의 조용한 시간이 있어요. 그리고 알림 없이 끝나요. 아무도 최종 증명서를 건네지 않아요."
+    ],
+    "targetWords": ["l3-003", "l3-111", "l2-130", "l1-149", "l1-200"],
+    "quiz": [
+      {
+        "question": "What specific small thing can the writer still see in her mind?",
+        "questionKo": "글쓴이가 머릿속에서 여전히 볼 수 있는 구체적인 작은 것은?",
+        "options": ["The friend's handwriting", "The small particular shape of her smile", "The friend's room", "The friend's voice"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does no one give you at the end of a friendship?",
+        "questionKo": "우정의 끝에 아무도 건네지 않는 것은?",
+        "options": ["A gift", "A final certificate", "A photograph", "A handshake"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-08-forgot-friends-name-l4",
+    "title": "I Forgot a Friend's Name",
+    "titleKo": "친구 이름을 잊었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-08-forgot-friends-name"],
+    "paragraphs": [
+      "Yesterday, sitting quietly on the slow afternoon subway, I tried to think of an old close friend from my middle school years.",
+      "We were extraordinarily close about ten years ago, almost like sisters in everything but actual blood and surname.",
+      "We laughed every single day at small private jokes that nobody else would understand. We cried together when something hard happened to either of us.",
+      "Her face — I can still see it clearly in my mind's eye, the small particular shape of her uneven smile.",
+      "Her name — I honestly cannot find it anywhere in my head, no matter how patiently and carefully I search the old folders.",
+      "I felt strangely sad, almost guilty, for a long quiet moment as the train passed three stations without my noticing.",
+      "How can someone who was so completely close to me simply disappear from active memory, without leaving a forwarding address?",
+      "Maybe friendship has its own quiet, unannounced time. And then, without ceremony or apologize, it ends. Nobody hands you a final certificate or even a receipt."
+    ],
+    "translation": [
+      "어제, 느린 오후 지하철에 조용히 앉아 있다가, 중학교 시절의 오랜 가까운 친구를 떠올리려 했어요.",
+      "10년 전쯤엔 유난히 가까웠어요. 실제 피와 성씨를 빼면 자매 같았어요.",
+      "매일 다른 누구도 이해 못 할 작은 우리만의 농담에 웃었어요. 어느 한쪽에 힘든 일이 있을 때면 같이 울었어요.",
+      "그 친구 얼굴은 — 마음의 눈에 여전히 또렷이 보여요. 작고 특별한, 한쪽으로 살짝 기울어진 미소 모양도요.",
+      "이름은 — 솔직히 머릿속 어디에서도 못 찾겠어요. 옛 폴더들을 아무리 끈기 있고 신경 써서 뒤져도요.",
+      "지하철이 제가 모르는 사이 세 정거장을 지나는 동안 한참 조용히, 이상하게 슬프고 거의 죄책감이 들었어요.",
+      "그렇게 완전히 저에게 가까웠던 사람이 어떻게 활성 기억에서 그냥 사라질 수 있죠? 다음 주소를 남기지도 않고요?",
+      "어쩌면 우정에는 자기만의 조용한, 알리지 않는 시간이 있어요. 그리고 의식이나 사과 없이 끝나요. 아무도 최종 증명서도, 영수증조차도 건네지 않아요."
+    ],
+    "targetWords": ["l4-003", "l4-001", "l3-111", "l3-003", "l2-130"],
+    "quiz": [
+      {
+        "question": "What does the writer compare searching for the name to?",
+        "questionKo": "글쓴이는 이름을 찾는 것을 무엇에 비교하나요?",
+        "options": ["A library catalog", "Searching old folders patiently and carefully", "Reading a book", "Looking through a phone"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does no one give you when friendship ends, according to the writer?",
+        "questionKo": "글쓴이에 따르면 우정이 끝날 때 아무도 주지 않는 것은?",
+        "options": ["A meal", "A final certificate or even a receipt", "Advice", "Memories"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-08-forgot-friends-name-l5",
+    "title": "I Forgot a Friend's Name",
+    "titleKo": "친구 이름을 잊었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-08-forgot-friends-name"],
+    "paragraphs": [
+      "Yesterday, sitting quietly on the slow afternoon subway between elaborate stations, I tried to think of an old close friend from my middle school years.",
+      "We were extraordinarily and comprehensively close about ten years ago, almost like sisters in everything but actual blood and surname.",
+      "We laughed every single day at small private jokes that nobody else would have fundamentally understood. We cried together when something hard happened to either of us.",
+      "Her face — I can still see it clearly in my mind's eye, the small particular elaborate shape of her uneven smile.",
+      "Her name — I honestly cannot find it anywhere in my head, no matter how patiently and comprehensively I search the old internal folders.",
+      "I felt strangely sad, almost fundamentally guilty, for a long quiet moment as the train passed three stations without my comprehensive noticing.",
+      "How can someone who was so completely and elaborate close to me simply disappear from active memory, without leaving any forwarding address whatsoever?",
+      "Maybe friendship has its own quiet, fundamentally unannounced time. And then, without ceremony or apologize, it ends. Nobody hands you a final certificate or even a receipt."
+    ],
+    "translation": [
+      "어제, 정교한 정거장들 사이 느린 오후 지하철에 조용히 앉아 있다가, 중학교 시절의 오랜 가까운 친구를 떠올리려 했어요.",
+      "10년 전쯤엔 유난히 그리고 포괄적으로 가까웠어요. 실제 피와 성씨를 빼면 자매 같았어요.",
+      "매일 다른 누구도 근본적으로 이해 못 했을 작은 우리만의 농담에 웃었어요. 어느 한쪽에 힘든 일이 있을 때면 같이 울었어요.",
+      "그 친구 얼굴은 — 마음의 눈에 여전히 또렷이 보여요. 작고 특별한, 한쪽으로 살짝 기울어진 정교한 미소 모양도요.",
+      "이름은 — 솔직히 머릿속 어디에서도 못 찾겠어요. 옛 내부 폴더들을 아무리 끈기 있고 포괄적으로 뒤져도요.",
+      "지하철이 제가 포괄적으로 모르는 사이 세 정거장을 지나는 동안 한참 조용히, 이상하게 슬프고 거의 근본적으로 죄책감이 들었어요.",
+      "그렇게 완전히 그리고 정교하게 저에게 가까웠던 사람이 어떻게 활성 기억에서 그냥 사라질 수 있죠? 어떤 다음 주소도 남기지 않고요?",
+      "어쩌면 우정에는 자기만의 조용한, 근본적으로 알리지 않는 시간이 있어요. 그리고 의식이나 사과 없이 끝나요. 아무도 최종 증명서도, 영수증조차도 건네지 않아요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l4-003"],
+    "quiz": [
+      {
+        "question": "What kind of folders does the writer search?",
+        "questionKo": "글쓴이는 어떤 종류의 폴더를 뒤지나요?",
+        "options": ["Office folders", "Old internal folders", "Library folders", "Email folders"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say friendship ends without?",
+        "questionKo": "글쓴이는 우정이 무엇 없이 끝난다고 하나요?",
+        "options": ["Without warning", "Without ceremony or apology", "Without tears", "Without a phone call"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-08-forgot-friends-name-l6",
+    "title": "I Forgot a Friend's Name",
+    "titleKo": "친구 이름을 잊었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-08-forgot-friends-name"],
+    "paragraphs": [
+      "Yesterday, sitting quietly on the slow afternoon subway between elaborate stations in the unfamiliar in-between hours, I tried to think of an old close friend from my middle school years.",
+      "We were extraordinarily and comprehensively close about ten years ago, almost like sisters in everything but actual blood, surname, and the formal claim to family.",
+      "We laughed every single day at small private juxtapose jokes that nobody else would have fundamentally understood. We cried together when something hard happened to either of us.",
+      "Her face — I can still see it clearly in my mind's eye, the small particular elaborate shape of her uneven, slightly tilted smile that no longer exists anywhere except in me.",
+      "Her name — I honestly cannot find it anywhere in my head, no matter how patiently and comprehensively I search the old internal folders that have quietly relabeled themselves.",
+      "I felt strangely sad, almost fundamentally guilty, for a long quiet unprecedented moment as the train passed three stations without my comprehensive noticing.",
+      "How can someone who was so completely and elaborate close to me simply disappear from active memory, without leaving any forwarding address or any kind of paradigm shift to mark the going?",
+      "Maybe friendship has its own quiet, fundamentally unannounced time. And then, without ceremony or apologize, it ends. Nobody hands you a final certificate or even a small receipt."
+    ],
+    "translation": [
+      "어제, 익숙하지 않은 사이 시간대에 정교한 정거장들 사이 느린 오후 지하철에 조용히 앉아 있다가, 중학교 시절의 오랜 가까운 친구를 떠올리려 했어요.",
+      "10년 전쯤엔 유난히 그리고 포괄적으로 가까웠어요. 실제 피, 성씨, 가족이라는 공식적 권리를 빼면 자매 같았어요.",
+      "매일 다른 누구도 근본적으로 이해 못 했을 작은 우리만의 병치 농담에 웃었어요. 어느 한쪽에 힘든 일이 있을 때면 같이 울었어요.",
+      "그 친구 얼굴은 — 마음의 눈에 여전히 또렷이 보여요. 작고 특별한, 한쪽으로 살짝 기울어진 정교한 미소 모양 — 이제는 제 안 말고는 어디에도 존재하지 않는 미소요.",
+      "이름은 — 솔직히 머릿속 어디에서도 못 찾겠어요. 조용히 라벨을 다시 단 옛 내부 폴더들을 아무리 끈기 있고 포괄적으로 뒤져도요.",
+      "지하철이 제가 포괄적으로 모르는 사이 세 정거장을 지나는 동안, 한참 조용히, 전례 없는 순간 동안, 이상하게 슬프고 거의 근본적으로 죄책감이 들었어요.",
+      "그렇게 완전히 그리고 정교하게 저에게 가까웠던 사람이 어떻게 활성 기억에서 그냥 사라질 수 있죠? 어떤 다음 주소도, 떠남을 표시할 어떤 종류의 패러다임 이동도 남기지 않고요?",
+      "어쩌면 우정에는 자기만의 조용한, 근본적으로 알리지 않는 시간이 있어요. 그리고 의식이나 사과 없이 끝나요. 아무도 최종 증명서도, 작은 영수증조차도 건네지 않아요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-002"],
+    "quiz": [
+      {
+        "question": "Where does the friend's smile now exist?",
+        "questionKo": "그 친구의 미소는 지금 어디에 존재하나요?",
+        "options": ["In photographs", "Nowhere except in the writer", "On social media", "In her family"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What kind of paradigm shift does the disappearing friendship NOT leave?",
+        "questionKo": "사라지는 우정이 남기지 않는 패러다임 이동은?",
+        "options": ["A celebration", "Any kind of paradigm shift to mark the going", "A scientific change", "A loud announcement"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

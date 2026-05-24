@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-02-last-handwritten-letter-l1",
+    "title": "The Last Letter I Wrote by Hand",
+    "titleKo": "마지막으로 쓴 손편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-02-last-handwritten-letter"],
+    "paragraphs": [
+      "When did I last write a letter by hand?",
+      "I cannot remember. Five years ago? Ten?",
+      "My writing looks strange now.",
+      "My fingers know the keyboard. Not the pen.",
+      "I want to write a letter to someone.",
+      "But I cannot think of who.",
+      "Maybe it is not the person.",
+      "Maybe I just forgot how to want to write one."
+    ],
+    "translation": [
+      "마지막으로 손편지 쓴 게 언제더라?",
+      "기억이 안 나요. 5년 전? 10년 전?",
+      "글씨가 지금은 이상해 보여요.",
+      "손가락이 키보드를 알아요. 펜이 아니라.",
+      "누군가에게 편지를 쓰고 싶어요.",
+      "그런데 누구한테 쓸지 떠오르지 않아요.",
+      "어쩌면 사람이 문제가 아니에요.",
+      "쓰고 싶어 하는 마음을 잊은 건지도 몰라요."
+    ],
+    "targetWords": ["l1-149", "l1-200", "l1-130", "l1-094", "l1-160"],
+    "quiz": [
+      {
+        "question": "When does the writer last remember writing a letter by hand?",
+        "questionKo": "글쓴이는 마지막으로 손편지 쓴 때를 어떻게 기억하나요?",
+        "options": ["Last week", "Cannot remember — five years ago? ten?", "Yesterday", "Last month"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer wonder at the end?",
+        "questionKo": "끝부분에서 글쓴이가 의심하는 것은?",
+        "options": ["The pen is broken", "Maybe she forgot how to want to write one", "Letters are too slow", "The mail is too expensive"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-02-last-handwritten-letter-l2",
+    "title": "The Last Letter I Wrote by Hand",
+    "titleKo": "마지막으로 쓴 손편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-02-last-handwritten-letter"],
+    "paragraphs": [
+      "When did I last write a real letter, by hand, on actual paper?",
+      "I honestly cannot remember. Five years ago, maybe? Or even ten?",
+      "When I tried writing one note last week, my handwriting looked strange and slow.",
+      "My fingers know the keyboard well. The pen feels almost foreign now.",
+      "I want to write a real letter to someone, in my own quiet handwriting.",
+      "But I cannot easily think of who I would send it to.",
+      "Maybe the missing thing is not the person.",
+      "Maybe I have slowly forgotten how to want to write one at all."
+    ],
+    "translation": [
+      "마지막으로 진짜 편지를, 손으로, 실제 종이에 쓴 게 언제더라?",
+      "솔직히 기억이 안 나요. 5년 전 쯤? 아니면 10년 전?",
+      "지난주에 메모 하나 써보려 했는데, 글씨가 이상하고 느려 보였어요.",
+      "손가락이 키보드는 잘 알아요. 펜은 지금 거의 낯설어요.",
+      "누군가에게 진짜 편지를, 제 조용한 글씨로 쓰고 싶어요.",
+      "그런데 누구에게 보낼지 쉽게 떠오르지 않아요.",
+      "어쩌면 빠진 건 사람이 아니에요.",
+      "어쩌면 쓰고 싶어 하는 마음을 천천히 잊어버린 건지도 몰라요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-149", "l1-200", "l1-130"],
+    "quiz": [
+      {
+        "question": "How did the writer's handwriting look when she tried last week?",
+        "questionKo": "지난주에 시도했을 때 글씨는 어떻게 보였나요?",
+        "options": ["Beautiful", "Strange and slow", "Exactly the same as before", "Like printed type"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer suspect is the real missing thing?",
+        "questionKo": "글쓴이가 진짜 빠진 것이라고 의심하는 건?",
+        "options": ["The right pen", "The desire — the wanting to write one at all", "The post office", "Time"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-02-last-handwritten-letter-l3",
+    "title": "The Last Letter I Wrote by Hand",
+    "titleKo": "마지막으로 쓴 손편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-02-last-handwritten-letter"],
+    "paragraphs": [
+      "When did I last write a real letter, by hand, on actual physical paper, with an envelope and a stamp?",
+      "I honestly cannot remember. Maybe five years ago, perhaps even closer to ten — the years have quietly blurred.",
+      "When I tried writing one short note last week, my handwriting looked unfamiliar, slow, almost shy.",
+      "My fingers know the keyboard well, the precise distance between keys. The pen feels almost foreign to my hand now.",
+      "I want to write a real letter to someone, in my own quiet handwriting, the way people used to.",
+      "But when I try to think of who I would send it to, no obvious name rises to the surface.",
+      "Maybe the missing thing is not the person at all, but something inside me that has quietly gone elsewhere.",
+      "Maybe I have slowly forgotten not how to write, but how to want to write a letter at all."
+    ],
+    "translation": [
+      "마지막으로 진짜 편지를, 손으로, 실제 종이에, 봉투와 우표까지 갖춰 쓴 게 언제더라?",
+      "솔직히 기억이 안 나요. 5년 전 쯤, 어쩌면 10년에 더 가까운 — 세월이 조용히 흐려져 있어요.",
+      "지난주에 짧은 메모 하나 써보려 했는데, 글씨가 낯설고, 느리고, 거의 부끄러워하는 듯 보였어요.",
+      "손가락은 키보드를 잘 알아요. 키 사이 정확한 거리도. 펜은 지금 손에 거의 낯설어요.",
+      "누군가에게 진짜 편지를, 제 조용한 글씨로 쓰고 싶어요. 사람들이 예전에 그랬듯이.",
+      "그런데 누구에게 보낼지 떠올리려 하면, 뚜렷한 이름 하나가 떠오르지 않아요.",
+      "어쩌면 빠진 건 사람이 아니라, 제 안에서 조용히 다른 데로 가버린 무언가일지도 몰라요.",
+      "어쩌면 쓰는 법이 아니라, 편지를 쓰고 싶어 하는 마음 자체를 천천히 잊어버린 거예요."
+    ],
+    "targetWords": ["l3-111", "l3-003", "l2-130", "l1-149", "l1-200"],
+    "quiz": [
+      {
+        "question": "Why has the writer's handwriting become unfamiliar?",
+        "questionKo": "글씨가 낯설어진 이유는?",
+        "options": ["A hand injury", "Her fingers know the keyboard well; the pen feels foreign now", "She uses a different language", "She is older"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What has the writer slowly forgotten?",
+        "questionKo": "글쓴이가 천천히 잊은 것은?",
+        "options": ["How to write itself", "Not how to write, but how to want to write a letter at all", "How to spell", "How to address envelopes"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-02-last-handwritten-letter-l4",
+    "title": "The Last Letter I Wrote by Hand",
+    "titleKo": "마지막으로 쓴 손편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-02-last-handwritten-letter"],
+    "paragraphs": [
+      "When did I last write a real letter, by hand, on actual physical paper, with an envelope, a stamp, and a slow walk to the mailbox?",
+      "I honestly cannot remember. Maybe five years ago, perhaps even closer to ten — the years have quietly blurred without my permission.",
+      "When I tried writing one short note last week, my handwriting looked unfamiliar, slow, almost shy, as if it belonged to someone I used to know.",
+      "My fingers know the keyboard well, the precise distance between keys, the small mechanical rhythm. The pen feels almost foreign to my hand now, an unfamiliar instrument.",
+      "I want to write a real letter to someone, in my own quiet handwriting, the way people once routinely did and the way I once did.",
+      "But when I try to think of who I would actually send it to, no obvious name rises to the surface and announces itself.",
+      "Maybe the missing thing is not the person at all, but something quieter inside me that has, almost without my noticing, gone elsewhere.",
+      "Maybe I have slowly forgotten not how to write, but how to want to write a letter — that small fundamental desire seems to have communicate itself out of my life."
+    ],
+    "translation": [
+      "마지막으로 진짜 편지를, 손으로, 실제 종이에, 봉투와 우표, 그리고 우체통까지 천천히 걸어가서 쓴 게 언제더라?",
+      "솔직히 기억이 안 나요. 5년 전 쯤, 어쩌면 10년에 더 가까운 — 세월이 제 허락도 없이 조용히 흐려져 있어요.",
+      "지난주에 짧은 메모 하나 써보려 했는데, 글씨가 낯설고, 느리고, 거의 부끄러워하는 듯 보였어요. 마치 예전에 알던 누군가의 글씨처럼.",
+      "손가락은 키보드를 잘 알아요. 키 사이 정확한 거리도, 작은 기계적 리듬도. 펜은 지금 손에 거의 낯선, 익숙하지 않은 도구예요.",
+      "누군가에게 진짜 편지를, 제 조용한 글씨로 쓰고 싶어요. 사람들이 한때 일상적으로 그랬듯이, 제가 한때 그랬듯이.",
+      "그런데 누구에게 실제로 보낼지 떠올리려 하면, 뚜렷한 이름 하나가 떠올라 스스로를 알리지 않아요.",
+      "어쩌면 빠진 건 사람이 아니라, 제 안의 더 조용한 무언가, 거의 눈치채지 못한 사이 다른 데로 가버린 것일지도 몰라요.",
+      "어쩌면 쓰는 법이 아니라, 편지를 쓰고 싶어 하는 마음을 천천히 잊은 거예요 — 그 작은 근본적 욕구가 제 삶에서 스스로를 전달해 나가버린 것 같아요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-111", "l3-003", "l2-130"],
+    "quiz": [
+      {
+        "question": "How does the writer describe her own handwriting now?",
+        "questionKo": "글쓴이는 지금 자신의 글씨를 어떻게 묘사하나요?",
+        "options": ["Polished and confident", "Unfamiliar, slow, almost shy — as if it belonged to someone she used to know", "Perfectly preserved", "Improved with age"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What small fundamental thing does the writer say has communicated itself out of her life?",
+        "questionKo": "글쓴이는 어떤 작고 근본적인 것이 자기 삶에서 빠져나갔다고 하나요?",
+        "options": ["Friendship", "The desire to want to write a letter", "Free time", "Postage stamps"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-02-last-handwritten-letter-l5",
+    "title": "The Last Letter I Wrote by Hand",
+    "titleKo": "마지막으로 쓴 손편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-02-last-handwritten-letter"],
+    "paragraphs": [
+      "When did I last write a real letter, by hand, on actual physical paper, with an envelope, a stamp, and a slow comprehensive walk to the corner mailbox?",
+      "I honestly cannot remember. Maybe five years ago, perhaps even closer to ten — the years have quietly and fundamentally blurred without my permission.",
+      "When I tried writing one short note last week, my handwriting looked unfamiliar, slow, almost shy, as if it elaborate belonged to a stranger I used to be.",
+      "My fingers know the keyboard with comprehensive ease, the precise distance between keys, the small fundamental mechanical rhythm. The pen feels almost foreign now, an unfamiliar instrument I once knew intimately.",
+      "I want to write a real letter to someone, in my own quiet handwriting, in the elaborate way people once routinely did and the way I myself once did without thinking.",
+      "But when I try to think of who I would actually send it to, no obvious name rises to the surface and announces itself with any conviction.",
+      "Maybe the fundamental missing thing is not the person at all, but something quieter inside me that has, almost without my comprehensive noticing, gone elsewhere.",
+      "Maybe I have slowly forgotten not how to write, but how to want to write a letter — that small fundamental desire seems to have communicate itself out of my life, leaf by leaf."
+    ],
+    "translation": [
+      "마지막으로 진짜 편지를, 손으로, 실제 종이에, 봉투와 우표, 그리고 길모퉁이 우체통까지 천천히 포괄적으로 걸어가서 쓴 게 언제더라?",
+      "솔직히 기억이 안 나요. 5년 전 쯤, 어쩌면 10년에 더 가까운 — 세월이 제 허락도 없이 조용히 그리고 근본적으로 흐려져 있어요.",
+      "지난주에 짧은 메모 하나 써보려 했는데, 글씨가 낯설고, 느리고, 거의 부끄러워하는 듯 보였어요. 마치 정교하게 예전 제 자신이었던 낯선 사람의 글씨처럼.",
+      "손가락은 키보드를 포괄적인 편안함으로 알아요. 키 사이 정확한 거리도, 작고 근본적인 기계적 리듬도. 펜은 지금 거의 낯선, 한때는 친밀하게 알던 익숙하지 않은 도구예요.",
+      "누군가에게 진짜 편지를, 제 조용한 글씨로 쓰고 싶어요. 사람들이 한때 일상적으로 그랬던 정교한 방식으로, 제 자신이 한때 생각도 없이 그랬듯이.",
+      "그런데 누구에게 실제로 보낼지 떠올리려 하면, 뚜렷한 이름 하나가 떠올라 어떤 확신으로 스스로를 알리지 않아요.",
+      "어쩌면 근본적으로 빠진 건 사람이 아니라, 제 안의 더 조용한 무언가, 거의 포괄적으로 눈치채지 못한 사이 다른 데로 가버린 것일지도 몰라요.",
+      "어쩌면 쓰는 법이 아니라, 편지를 쓰고 싶어 하는 마음을 천천히 잊은 거예요 — 그 작은 근본적 욕구가 제 삶에서 잎 하나하나 떨어지듯 스스로를 전달해 나가버린 것 같아요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l4-002"],
+    "quiz": [
+      {
+        "question": "Who does the writer's handwriting now seem to belong to?",
+        "questionKo": "글쓴이의 글씨는 지금 누구의 것처럼 보이나요?",
+        "options": ["A famous person", "A stranger she used to be", "Her future self", "A child"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How has the small fundamental desire communicated itself out of her life?",
+        "questionKo": "그 작고 근본적인 욕구는 어떻게 그녀의 삶에서 빠져나갔나요?",
+        "options": ["All at once", "Leaf by leaf", "Loudly and dramatically", "Through an argument"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-02-last-handwritten-letter-l6",
+    "title": "The Last Letter I Wrote by Hand",
+    "titleKo": "마지막으로 쓴 손편지",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-02-last-handwritten-letter"],
+    "paragraphs": [
+      "When did I last write a real letter, by hand, on actual physical paper, with an envelope, a stamp, and a slow comprehensive walk to the corner mailbox under a sky I did not consult?",
+      "I honestly cannot remember. Maybe five years ago, perhaps even closer to ten — the years have quietly and fundamentally blurred without my permission, in a paradigm I did not authorize.",
+      "When I tried writing one short note last week, my handwriting looked unfamiliar, slow, almost shy, as if it belonged to a stranger I used to be and had quietly stopped being.",
+      "My fingers know the keyboard with comprehensive ease, the precise distance between keys, the small fundamental mechanical rhythm of a life conducted at typing speed. The pen feels almost foreign now, an unfamiliar instrument I once knew with an intimacy I cannot recover.",
+      "I want to write a real letter to someone, in my own quiet handwriting, in the elaborate, almost ceremonial way people once routinely did and the way I myself once did without thinking, as a matter of course.",
+      "But when I try to think of who I would actually send it to, no obvious name rises to the surface and announces itself with any unprecedented conviction; the list of recipients has thinned without my noticing.",
+      "Maybe the fundamental missing thing is not the person at all, but something quieter and more juxtapose inside me that has, almost without my comprehensive noticing, gone elsewhere to do whatever it now does.",
+      "Maybe I have slowly forgotten not how to write, but how to want to write a letter — that small fundamental desire seems to have communicate itself out of my life, leaf by leaf, without any single moment of decision."
+    ],
+    "translation": [
+      "마지막으로 진짜 편지를, 손으로, 실제 종이에, 봉투와 우표, 그리고 제가 묻지 않은 하늘 아래 길모퉁이 우체통까지 천천히 포괄적으로 걸어가서 쓴 게 언제더라?",
+      "솔직히 기억이 안 나요. 5년 전 쯤, 어쩌면 10년에 더 가까운 — 세월이 제 허락도 없이 조용히 그리고 근본적으로, 제가 승인하지 않은 패러다임 속에서 흐려져 있어요.",
+      "지난주에 짧은 메모 하나 써보려 했는데, 글씨가 낯설고, 느리고, 거의 부끄러워하는 듯 보였어요. 마치 예전 제 자신이었다가 조용히 그만둔 낯선 사람의 글씨처럼.",
+      "손가락은 키보드를 포괄적인 편안함으로 알아요. 키 사이 정확한 거리도, 타이핑 속도로 진행되는 삶의 작고 근본적인 기계적 리듬도. 펜은 지금 거의 낯선, 한때는 회복할 수 없는 친밀함으로 알던 익숙하지 않은 도구예요.",
+      "누군가에게 진짜 편지를, 제 조용한 글씨로 쓰고 싶어요. 사람들이 한때 일상적으로 그랬던 정교하고 거의 의식적인 방식으로, 제 자신이 한때 생각도 없이, 당연한 일처럼 그랬듯이.",
+      "그런데 누구에게 실제로 보낼지 떠올리려 하면, 뚜렷한 이름 하나가 떠올라 어떤 전례 없는 확신으로 스스로를 알리지 않아요. 받는 사람 목록이 제가 눈치채지 못한 사이 얇아져 있어요.",
+      "어쩌면 근본적으로 빠진 건 사람이 아니라, 제 안의 더 조용하고 더 병치된 무언가, 거의 포괄적으로 눈치채지 못한 사이, 지금 뭘 하든 그것을 하러 다른 데로 가버린 것일지도 몰라요.",
+      "어쩌면 쓰는 법이 아니라, 편지를 쓰고 싶어 하는 마음을 천천히 잊은 거예요 — 그 작은 근본적 욕구가 단 하나의 결정 순간도 없이, 잎 하나하나 떨어지듯 제 삶에서 스스로를 전달해 나가버린 것 같아요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l4-001"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the rhythm of typing as a life?",
+        "questionKo": "글쓴이는 타이핑을 어떻게 묘사하나요?",
+        "options": ["A musical art", "The small fundamental mechanical rhythm of a life conducted at typing speed", "An ancient ritual", "A loud noise"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the desire to write letters leave her life?",
+        "questionKo": "편지 쓰고 싶은 마음은 어떻게 그녀의 삶을 떠났나요?",
+        "options": ["In a dramatic argument", "Leaf by leaf, without any single moment of decision", "All at once after an event", "Through forced removal"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

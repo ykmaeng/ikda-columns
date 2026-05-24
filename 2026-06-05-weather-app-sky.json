@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-05-weather-app-sky-l1",
+    "title": "The Weather App Replaced the Sky",
+    "titleKo": "날씨 앱이 하늘을 대신했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-05-weather-app-sky"],
+    "paragraphs": [
+      "Every morning, I open my weather app.",
+      "I check the rain. I check the cold.",
+      "I do not look out the window first.",
+      "Yesterday, I had it backwards. I looked at the sky.",
+      "The sky was beautiful. Pink and gold.",
+      "The app did not say 'beautiful'.",
+      "It only said numbers. 15 degrees. 30 percent rain.",
+      "Today, I will look at the sky first."
+    ],
+    "translation": [
+      "매일 아침, 날씨 앱을 열어요.",
+      "비를 확인해요. 추위도 확인해요.",
+      "창밖을 먼저 안 봐요.",
+      "어제는, 반대로 했어요. 하늘을 봤어요.",
+      "하늘이 아름다웠어요. 분홍색과 금색.",
+      "앱은 '아름답다' 라고 말하지 않아요.",
+      "숫자만 말해요. 15도. 비 올 확률 30 퍼센트.",
+      "오늘은, 하늘을 먼저 볼 거예요."
+    ],
+    "targetWords": ["l1-130", "l1-094", "l1-200", "l1-160", "l1-149"],
+    "quiz": [
+      {
+        "question": "What does the writer usually check first?",
+        "questionKo": "글쓴이는 보통 무엇을 먼저 확인하나요?",
+        "options": ["The window", "The weather app", "The news", "Email"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the weather app NOT say?",
+        "questionKo": "날씨 앱이 말하지 않는 것은?",
+        "options": ["Numbers", "'Beautiful'", "Temperature", "Rain percentage"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-05-weather-app-sky-l2",
+    "title": "The Weather App Replaced the Sky",
+    "titleKo": "날씨 앱이 하늘을 대신했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-05-weather-app-sky"],
+    "paragraphs": [
+      "Every morning, before anything else, I open my weather app on my phone.",
+      "I check today's rain chance. I check the cold and the wind.",
+      "I almost never look out of the window first, the way my mother used to.",
+      "But yesterday, by accident, I had it backwards. I looked at the sky before the screen.",
+      "The morning sky was unexpectedly beautiful. Soft pink, then gold, then quiet blue.",
+      "The weather app did not say the word 'beautiful' anywhere on the screen.",
+      "It only said small numbers. 15 degrees. 30 percent chance of rain. Wind 5 km/h.",
+      "Today, I want to try it again. I will look at the actual sky first."
+    ],
+    "translation": [
+      "매일 아침, 다른 무엇보다 먼저, 폰의 날씨 앱을 열어요.",
+      "오늘의 비 확률을 확인해요. 추위와 바람도 확인해요.",
+      "엄마가 그랬듯이 창밖을 먼저 보는 일은 거의 없어요.",
+      "그런데 어제는, 우연히, 반대로 했어요. 화면 전에 하늘을 봤어요.",
+      "아침 하늘이 예상치 못하게 아름다웠어요. 부드러운 분홍색, 그 다음 금색, 그 다음 조용한 파랑.",
+      "날씨 앱은 화면 어디에도 '아름답다' 라는 단어를 쓰지 않았어요.",
+      "그냥 작은 숫자만 말했어요. 15도. 비 확률 30 퍼센트. 바람 시속 5km.",
+      "오늘은, 다시 해보고 싶어요. 실제 하늘을 먼저 볼 거예요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-130", "l1-200", "l1-160"],
+    "quiz": [
+      {
+        "question": "How did the writer's mother check the weather?",
+        "questionKo": "글쓴이의 엄마는 날씨를 어떻게 확인했나요?",
+        "options": ["With a phone app", "By looking out of the window first", "By calling friends", "By reading newspapers"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What kind of words does the app use about the sky?",
+        "questionKo": "앱은 하늘에 대해 어떤 종류의 단어를 쓰나요?",
+        "options": ["Poetic words", "Only small numbers — degrees, percent, km/h", "Beautiful adjectives", "Color names"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-05-weather-app-sky-l3",
+    "title": "The Weather App Replaced the Sky",
+    "titleKo": "날씨 앱이 하늘을 대신했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-05-weather-app-sky"],
+    "paragraphs": [
+      "Every weekday morning, before anything else in the rushed routine, I open my weather app on my phone.",
+      "I check today's rain chance. I check the cold, the wind, the air quality, the small details that will shape my day.",
+      "I almost never look out of the bedroom window first, the slow way my mother and grandmother used to without thinking.",
+      "But yesterday, by quiet accident, I had it completely backwards. I looked at the actual sky before the small glowing screen.",
+      "The morning sky was unexpectedly beautiful, more than the app could measure. Soft pink, then warm gold, then a quiet blue holding nothing.",
+      "The weather app did not say the word 'beautiful' anywhere in its careful design, nor did it know how to.",
+      "It only reported small precise numbers. 15 degrees. 30 percent chance of rain. Wind at 5 km/h from the northwest.",
+      "Today, I want to try it again, deliberately. I will look at the actual sky first, and let the app come after."
+    ],
+    "translation": [
+      "평일 매일 아침, 분주한 루틴의 다른 무엇보다 먼저, 폰의 날씨 앱을 열어요.",
+      "오늘의 비 확률을 확인해요. 추위, 바람, 공기 질, 제 하루를 만들 작은 세부 사항들을 확인해요.",
+      "엄마와 할머니가 생각 없이 그랬던 느린 방식으로, 침실 창밖을 먼저 보는 일은 거의 없어요.",
+      "그런데 어제는, 조용한 우연으로, 완전히 반대로 했어요. 작은 빛나는 화면 전에 실제 하늘을 봤어요.",
+      "아침 하늘이 예상치 못하게 아름다웠어요. 앱이 측정할 수 있는 것보다 더. 부드러운 분홍, 그 다음 따뜻한 금색, 그 다음 아무것도 담고 있지 않은 조용한 파랑.",
+      "날씨 앱은 세심한 디자인 어디에도 '아름답다' 라는 단어를 쓰지 않았고, 어떻게 쓰는지도 몰랐어요.",
+      "정확한 작은 숫자만 보고했어요. 15도. 비 확률 30 퍼센트. 북서쪽에서 시속 5km 바람.",
+      "오늘은, 의도적으로 다시 해보고 싶어요. 실제 하늘을 먼저 보고, 앱은 그 다음에 오게 둘 거예요."
+    ],
+    "targetWords": ["l3-001", "l3-111", "l2-130", "l1-130", "l1-200"],
+    "quiz": [
+      {
+        "question": "What was unexpectedly beautiful about yesterday's sky?",
+        "questionKo": "어제의 하늘은 어떻게 예상치 못하게 아름다웠나요?",
+        "options": ["It was identical to the app", "More than the app could measure — soft pink, warm gold, quiet blue", "It was perfectly clear", "It looked like the forecast"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the app NOT know how to say?",
+        "questionKo": "앱이 어떻게 말해야 할지 모르는 것은?",
+        "options": ["Numbers", "The word 'beautiful'", "Wind directions", "Temperatures"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-05-weather-app-sky-l4",
+    "title": "The Weather App Replaced the Sky",
+    "titleKo": "날씨 앱이 하늘을 대신했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-05-weather-app-sky"],
+    "paragraphs": [
+      "Every weekday morning, before anything else in my rushed and routine-bound day, I open the weather app on my phone.",
+      "I check today's rain chance, the cold, the wind, the air quality — all the small precise details that will quietly shape my day's choices.",
+      "I almost never look out of the bedroom window first, the slow attentive way my mother and grandmother used to without ever announcing it.",
+      "But yesterday, by quiet, unintended accident, I had it completely backwards. I looked at the actual sky before the small glowing screen offered its summary.",
+      "The morning sky was unexpectedly beautiful, more than any app could possibly communicate. Soft pink, then warm gold, then a wide quiet blue holding nothing in particular.",
+      "The weather app did not announce the word 'beautiful' anywhere in its careful environment, nor did it have any vocabulary for that quality.",
+      "It only reported small precise numbers. 15 degrees Celsius. 30 percent chance of rain. Wind at 5 km/h from the northwest. Sunrise at 5:23.",
+      "Today, I want to try it again, deliberately. I will look at the actual sky first, take a slow breath, and let the app come quietly after."
+    ],
+    "translation": [
+      "평일 매일 아침, 분주하고 루틴에 묶인 하루의 다른 무엇보다 먼저, 폰의 날씨 앱을 열어요.",
+      "오늘의 비 확률, 추위, 바람, 공기 질을 확인해요 — 제 하루의 선택을 조용히 만들 작고 정확한 모든 세부 사항이요.",
+      "엄마와 할머니가 알리지도 않고 그랬던 느리고 주의 깊은 방식으로, 침실 창밖을 먼저 보는 일은 거의 없어요.",
+      "그런데 어제는, 조용하고 의도되지 않은 우연으로, 완전히 반대로 했어요. 작은 빛나는 화면이 요약을 내놓기 전에 실제 하늘을 봤어요.",
+      "아침 하늘이 예상치 못하게 아름다웠어요. 어떤 앱도 전달할 수 없는 정도로. 부드러운 분홍, 그 다음 따뜻한 금색, 그 다음 특별히 아무것도 담고 있지 않은 넓고 조용한 파랑.",
+      "날씨 앱은 세심한 환경 어디에서도 '아름답다' 라는 단어를 알리지 않았고, 그런 자질에 대한 어휘도 없었어요.",
+      "정확한 작은 숫자만 보고했어요. 섭씨 15도. 비 확률 30 퍼센트. 북서쪽에서 시속 5km 바람. 일출 5시 23분.",
+      "오늘은, 의도적으로 다시 해보고 싶어요. 실제 하늘을 먼저 보고, 천천히 숨을 들이쉬고, 앱은 조용히 그 다음에 오게 둘 거예요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-001", "l3-111", "l2-130"],
+    "quiz": [
+      {
+        "question": "What vocabulary does the app not have?",
+        "questionKo": "앱에 없는 어휘는?",
+        "options": ["Numbers", "Vocabulary for the quality of 'beautiful'", "Wind directions", "Temperature scales"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's new morning plan?",
+        "questionKo": "글쓴이의 새 아침 계획은?",
+        "options": ["Skip the weather entirely", "Look at the actual sky first, take a slow breath, and let the app come quietly after", "Use multiple apps", "Set more alarms"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-05-weather-app-sky-l5",
+    "title": "The Weather App Replaced the Sky",
+    "titleKo": "날씨 앱이 하늘을 대신했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-05-weather-app-sky"],
+    "paragraphs": [
+      "Every weekday morning, before anything else in my rushed and comprehensive routine-bound day, I open the weather app on my phone.",
+      "I check today's rain chance, the cold, the wind, the air quality, the elaborate UV index — all the small precise details that will fundamentally shape my day's small choices.",
+      "I almost never look out of the bedroom window first, the slow attentive comprehensive way my mother and grandmother used to without ever announcing it as anything.",
+      "But yesterday, by quiet, unintended preliminary accident, I had it completely backwards. I looked at the actual sky before the small glowing screen offered its elaborate summary.",
+      "The morning sky was unexpectedly beautiful, fundamentally more than any app could possibly communicate. Soft pink, then warm gold, then a wide quiet blue holding nothing in particular.",
+      "The weather app did not announce the word 'beautiful' anywhere in its careful elaborate environment, nor did it have any fundamental vocabulary for that quality.",
+      "It only reported small precise comprehensive numbers. 15 degrees Celsius. 30 percent chance of rain. Wind at 5 km/h from the northwest. Sunrise at 5:23.",
+      "Today, I want to try it again, deliberately and fundamentally. I will look at the actual sky first, take a slow comprehensive breath, and let the app come quietly after."
+    ],
+    "translation": [
+      "평일 매일 아침, 분주하고 포괄적으로 루틴에 묶인 하루의 다른 무엇보다 먼저, 폰의 날씨 앱을 열어요.",
+      "오늘의 비 확률, 추위, 바람, 공기 질, 정교한 자외선 지수를 확인해요 — 제 하루의 작은 선택을 근본적으로 만들 작고 정확한 모든 세부 사항이요.",
+      "엄마와 할머니가 어떤 것으로도 알리지 않고 그랬던 느리고 주의 깊고 포괄적인 방식으로, 침실 창밖을 먼저 보는 일은 거의 없어요.",
+      "그런데 어제는, 조용하고 의도되지 않은 예비적 우연으로, 완전히 반대로 했어요. 작은 빛나는 화면이 정교한 요약을 내놓기 전에 실제 하늘을 봤어요.",
+      "아침 하늘이 예상치 못하게 아름다웠어요. 어떤 앱도 전달할 수 없는 근본적으로 더한 정도로. 부드러운 분홍, 그 다음 따뜻한 금색, 그 다음 특별히 아무것도 담고 있지 않은 넓고 조용한 파랑.",
+      "날씨 앱은 세심한 정교한 환경 어디에서도 '아름답다' 라는 단어를 알리지 않았고, 그런 자질에 대한 근본 어휘도 없었어요.",
+      "정확하고 포괄적인 작은 숫자만 보고했어요. 섭씨 15도. 비 확률 30 퍼센트. 북서쪽에서 시속 5km 바람. 일출 5시 23분.",
+      "오늘은, 의도적이고 근본적으로 다시 해보고 싶어요. 실제 하늘을 먼저 보고, 포괄적인 한 호흡을 천천히 들이쉬고, 앱은 조용히 그 다음에 오게 둘 거예요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l3-001"],
+    "quiz": [
+      {
+        "question": "How much beauty did the morning sky have, fundamentally?",
+        "questionKo": "근본적으로, 아침 하늘에 얼마나 많은 아름다움이 있었나요?",
+        "options": ["Less than the app forecast", "Fundamentally more than any app could possibly communicate", "Exactly the same as the forecast", "About average"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer want to take after looking at the sky?",
+        "questionKo": "글쓴이는 하늘을 본 후 무엇을 하고 싶어 하나요?",
+        "options": ["A photo", "A slow comprehensive breath, and let the app come quietly after", "A note", "Another look"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-05-weather-app-sky-l6",
+    "title": "The Weather App Replaced the Sky",
+    "titleKo": "날씨 앱이 하늘을 대신했어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-05-weather-app-sky"],
+    "paragraphs": [
+      "Every weekday morning, before anything else in my rushed and comprehensive routine-bound day, I open the weather app on my phone, almost as a fundamental opening gesture.",
+      "I check today's rain chance, the cold, the wind, the air quality, the elaborate UV index — all the small precise details that will quietly and fundamentally shape my day's small choices in a paradigm of optimized preparation.",
+      "I almost never look out of the bedroom window first, the slow attentive comprehensive way my mother and grandmother used to without ever announcing it as anything in particular.",
+      "But yesterday, by quiet, unintended, almost juxtapose preliminary accident, I had it completely backwards. I looked at the actual sky before the small glowing screen offered its elaborate authoritative summary.",
+      "The morning sky was unexpectedly beautiful, fundamentally and unprecedented more than any app could possibly communicate or compress. Soft pink, then warm gold, then a wide quiet blue holding nothing in particular.",
+      "The weather app did not announce the word 'beautiful' anywhere in its careful elaborate environment, nor did it have any fundamental vocabulary for that elusive untranslatable quality.",
+      "It only reported small precise comprehensive numbers in a paradigm of measurable certainty. 15 degrees Celsius. 30 percent chance of rain. Wind at 5 km/h from the northwest. Sunrise at 5:23.",
+      "Today, I want to try it again, deliberately and fundamentally. I will look at the actual sky first, take a slow comprehensive unprecedented breath, and let the app come quietly after — as a small supplement, not a replacement."
+    ],
+    "translation": [
+      "평일 매일 아침, 분주하고 포괄적으로 루틴에 묶인 하루의 다른 무엇보다 먼저, 폰의 날씨 앱을 열어요. 거의 근본적인 시작 제스처처럼.",
+      "오늘의 비 확률, 추위, 바람, 공기 질, 정교한 자외선 지수를 확인해요 — 최적화된 준비의 패러다임 안에서 제 하루의 작은 선택을 조용히 근본적으로 만들 작고 정확한 모든 세부 사항이요.",
+      "엄마와 할머니가 어떤 특별한 것으로도 알리지 않고 그랬던 느리고 주의 깊고 포괄적인 방식으로, 침실 창밖을 먼저 보는 일은 거의 없어요.",
+      "그런데 어제는, 조용하고 의도되지 않은 거의 병치된 예비적 우연으로, 완전히 반대로 했어요. 작은 빛나는 화면이 정교한 권위적 요약을 내놓기 전에 실제 하늘을 봤어요.",
+      "아침 하늘이 예상치 못하게 아름다웠어요. 어떤 앱도 전달하거나 압축할 수 없는, 근본적으로 그리고 전례 없이 더한 정도로. 부드러운 분홍, 그 다음 따뜻한 금색, 그 다음 특별히 아무것도 담고 있지 않은 넓고 조용한 파랑.",
+      "날씨 앱은 세심한 정교한 환경 어디에서도 '아름답다' 라는 단어를 알리지 않았고, 그 잡히지 않는 번역 불가능한 자질에 대한 근본 어휘도 없었어요.",
+      "측정 가능한 확실성의 패러다임 안에서, 정확하고 포괄적인 작은 숫자만 보고했어요. 섭씨 15도. 비 확률 30 퍼센트. 북서쪽에서 시속 5km 바람. 일출 5시 23분.",
+      "오늘은, 의도적이고 근본적으로 다시 해보고 싶어요. 실제 하늘을 먼저 보고, 포괄적이고 전례 없는 한 호흡을 천천히 들이쉬고, 앱은 조용히 그 다음에 오게 둘 거예요 — 대체가 아니라 작은 보충으로."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-002"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the app's certainty?",
+        "questionKo": "글쓴이는 앱의 확실성을 어떻게 묘사하나요?",
+        "options": ["A paradigm of measurable certainty", "Friendly and human", "Unreliable", "Poetic"],
+        "correctIndex": 0
+      },
+      {
+        "question": "How does the writer want the app to function from now on?",
+        "questionKo": "이제 글쓴이는 앱이 어떻게 기능하길 원하나요?",
+        "options": ["As the primary source", "As a small supplement, not a replacement", "As an alarm only", "As decoration"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

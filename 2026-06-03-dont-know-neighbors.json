@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-03-dont-know-neighbors-l1",
+    "title": "I Don't Know My Neighbors",
+    "titleKo": "옆집을 몰라요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-03-dont-know-neighbors"],
+    "paragraphs": [
+      "I have lived in the same building for five years.",
+      "I do not know my neighbors' names.",
+      "Sometimes I see them in the elevator.",
+      "We both look at our phones.",
+      "We nod a little. That is all.",
+      "Long ago, people did not live like this.",
+      "We are close, but far. Same building, different worlds.",
+      "Maybe I will start with one small hello."
+    ],
+    "translation": [
+      "같은 건물에서 5년째 살아요.",
+      "옆집 사람들 이름을 몰라요.",
+      "가끔 엘리베이터에서 봐요.",
+      "둘 다 폰을 봐요.",
+      "고개를 조금 끄덕여요. 그게 다예요.",
+      "오래 전엔, 사람들이 이렇게 살지 않았어요.",
+      "가까워요, 그런데 멀어요. 같은 건물, 다른 세계.",
+      "어쩌면 작은 인사 하나로 시작해볼까 해요."
+    ],
+    "targetWords": ["l1-200", "l1-130", "l1-094", "l1-160", "l1-093"],
+    "quiz": [
+      {
+        "question": "How long has the writer lived in the building?",
+        "questionKo": "글쓴이는 그 건물에 얼마나 살았나요?",
+        "options": ["Five months", "Five years", "One year", "Ten years"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer think about doing?",
+        "questionKo": "글쓴이는 무엇을 해볼까 생각하나요?",
+        "options": ["Moving", "Starting with one small hello", "Avoiding the elevator", "Buying a house"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-03-dont-know-neighbors-l2",
+    "title": "I Don't Know My Neighbors",
+    "titleKo": "옆집을 몰라요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-03-dont-know-neighbors"],
+    "paragraphs": [
+      "I have lived in the same apartment building for five years now.",
+      "And yet I still do not know any of my neighbors' names.",
+      "Sometimes I see them briefly in the small elevator going up or down.",
+      "Both of us look quietly down at our phones, without speaking.",
+      "We nod a tiny nod, sometimes. That is the whole of our relationship.",
+      "Long ago, people who lived close together did not live like this at all.",
+      "We are physically close, but distant inside. Same building, completely different worlds.",
+      "Maybe I will try to start, very slowly, with just one small hello."
+    ],
+    "translation": [
+      "같은 아파트 건물에서 5년째 살아요.",
+      "그런데도 여전히 이웃 누구의 이름도 몰라요.",
+      "가끔 작은 엘리베이터에서 올라가거나 내려갈 때 짧게 봐요.",
+      "둘 다 말없이 조용히 폰을 내려다봐요.",
+      "아주 작게 고개를 끄덕여요, 가끔. 그게 우리 관계의 전부예요.",
+      "오래 전엔, 가까이 사는 사람들이 이렇게 살지 않았어요.",
+      "물리적으론 가까워요, 그런데 마음은 멀어요. 같은 건물, 완전히 다른 세계.",
+      "아주 천천히, 작은 인사 하나로 시작해보려고요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-200", "l1-130", "l1-160"],
+    "quiz": [
+      {
+        "question": "What is the whole of the writer's relationship with neighbors?",
+        "questionKo": "글쓴이와 이웃의 관계 전부는?",
+        "options": ["Weekly dinners", "A tiny nod sometimes", "Daily conversations", "Shared chores"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer plan to start changing this?",
+        "questionKo": "글쓴이는 어떻게 변화를 시작하려 하나요?",
+        "options": ["By moving out", "Very slowly, with just one small hello", "By writing a letter", "By calling the building manager"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-03-dont-know-neighbors-l3",
+    "title": "I Don't Know My Neighbors",
+    "titleKo": "옆집을 몰라요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-03-dont-know-neighbors"],
+    "paragraphs": [
+      "I have lived in the same apartment building, on the same quiet floor, for five years now.",
+      "And yet, after all that time, I still do not know any of my neighbors' names or their faces clearly.",
+      "Sometimes I encounter them briefly in the small elevator going up or down, sharing a tight box of air.",
+      "Both of us look quietly down at our glowing phones, without exchanging any spoken word at all.",
+      "We nod a small, polite nod, sometimes — and that is the entire substance of our community relationship.",
+      "Long ago, in another generation, people who lived this close together did not live like this. They borrowed sugar.",
+      "We are physically close, sharing walls and air ducts, but emotionally distant. Same building, completely different inner worlds.",
+      "Maybe I will try to start, very slowly, with just one small spoken hello — and see what, if anything, follows."
+    ],
+    "translation": [
+      "같은 아파트 건물, 같은 조용한 층에서 5년째 살아요.",
+      "그런데도, 그 모든 시간이 지났는데도, 이웃 누구의 이름이나 얼굴조차 또렷이 몰라요.",
+      "가끔 작은 엘리베이터에서, 좁은 공기 상자를 함께 나누며, 올라가거나 내려갈 때 짧게 마주쳐요.",
+      "둘 다 한 마디도 주고받지 않고, 조용히 빛나는 폰을 내려다봐요.",
+      "가끔 작고 예의 바른 끄덕임을 해요 — 그게 우리 공동체 관계의 실질 전부예요.",
+      "오래 전, 다른 세대에선, 이렇게 가까이 사는 사람들이 이렇게 살지 않았어요. 설탕을 빌렸어요.",
+      "물리적으론 가까워요. 벽과 공기 통로를 공유해요. 그런데 정서적으론 멀어요. 같은 건물, 완전히 다른 내면 세계.",
+      "아주 천천히, 말로 된 작은 인사 하나로 시작해볼까 해요 — 그래서 뒤따라 뭐가 있다면 뭐가 따라오는지 봐야겠어요."
+    ],
+    "targetWords": ["l3-003", "l3-111", "l3-002", "l2-130", "l1-200"],
+    "quiz": [
+      {
+        "question": "How does the writer describe what people did in another generation?",
+        "questionKo": "다른 세대 사람들이 어떻게 살았다고 묘사하나요?",
+        "options": ["They lived farther apart", "They did not live like this — they borrowed sugar", "They moved more often", "They did not have elevators"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What do the writer and neighbors physically share?",
+        "questionKo": "글쓴이와 이웃이 물리적으로 공유하는 것은?",
+        "options": ["Meals", "Walls and air ducts", "Cars", "Children"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-03-dont-know-neighbors-l4",
+    "title": "I Don't Know My Neighbors",
+    "titleKo": "옆집을 몰라요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-03-dont-know-neighbors"],
+    "paragraphs": [
+      "I have lived in the same apartment building, on the same quiet sixth floor, for five comprehensive years now.",
+      "And yet, after all that time, I still do not know any of my neighbors' names or their faces with any real clarity.",
+      "Sometimes I encounter them briefly in the small mirrored elevator going up or down, sharing a tight box of recycled air.",
+      "Both of us look quietly and immediately down at our glowing phones, without exchanging any spoken word at all.",
+      "We nod a small, polite nod, sometimes, when the silence feels especially awkward — and that is the entire substance of our community relationship.",
+      "Long ago, in another generation, people who lived this close together did not communicate like this. They borrowed sugar, lent books, knocked on doors.",
+      "We are physically close, sharing walls and air ducts and water pipes, but emotionally distant. Same building, completely different inner worlds.",
+      "Maybe I will try to announce, very slowly, just one small spoken hello — and quietly see what, if anything at all, slowly follows from it."
+    ],
+    "translation": [
+      "같은 아파트 건물, 같은 조용한 6층에서, 포괄적으로 5년째 살아요.",
+      "그런데도, 그 모든 시간이 지났는데도, 이웃 누구의 이름이나 얼굴조차 어떤 실질적 또렷함으로도 몰라요.",
+      "가끔 거울이 달린 작은 엘리베이터에서, 재순환된 공기의 좁은 상자를 함께 나누며, 올라가거나 내려갈 때 짧게 마주쳐요.",
+      "둘 다 한 마디도 주고받지 않고, 조용히 그리고 즉시, 빛나는 폰을 내려다봐요.",
+      "침묵이 유독 어색해질 때면, 가끔 작고 예의 바른 끄덕임을 해요 — 그게 우리 공동체 관계의 실질 전부예요.",
+      "오래 전, 다른 세대에선, 이렇게 가까이 사는 사람들이 이렇게 소통하지 않았어요. 설탕을 빌리고, 책을 빌려주고, 문을 두드렸어요.",
+      "물리적으론 가까워요. 벽과 공기 통로와 수도관을 공유해요. 그런데 정서적으론 멀어요. 같은 건물, 완전히 다른 내면 세계.",
+      "아주 천천히, 말로 된 작은 인사 하나를 알려볼까 해요 — 그래서 뭐가 됐든 거기서 천천히 따라오는 게 있다면 조용히 지켜보려고요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-003", "l3-111", "l2-130"],
+    "quiz": [
+      {
+        "question": "How did people in another generation communicate with close neighbors?",
+        "questionKo": "다른 세대 사람들은 가까운 이웃과 어떻게 소통했나요?",
+        "options": ["By email", "They borrowed sugar, lent books, knocked on doors", "By text message", "Through written contracts"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer want to do, very slowly?",
+        "questionKo": "글쓴이는 아주 천천히 무엇을 하고 싶어 하나요?",
+        "options": ["Announce one small spoken hello and see what follows", "Move to a smaller building", "Send anonymous notes", "Avoid the elevator entirely"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-03-dont-know-neighbors-l5",
+    "title": "I Don't Know My Neighbors",
+    "titleKo": "옆집을 몰라요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-03-dont-know-neighbors"],
+    "paragraphs": [
+      "I have lived in the same apartment building, on the same quiet sixth floor, for five comprehensive years now without incident.",
+      "And yet, after all that elaborate time, I still do not know any of my neighbors' names or their faces with any fundamental clarity.",
+      "Sometimes I encounter them briefly in the small mirrored elevator going up or down, sharing a tight box of recycled air for a fundamental fifteen seconds.",
+      "Both of us look quietly and immediately down at our glowing phones, without exchanging any spoken word at all, with a tacit, mutual relief.",
+      "We nod a small, polite nod, sometimes, when the silence feels especially elaborate — and that is the entire fundamental substance of our community relationship.",
+      "Long ago, in another generation, people who lived this close together did not communicate like this. They borrowed sugar, lent books, knocked on doors, asked after the children.",
+      "We are physically close, sharing walls and air ducts and water pipes, but fundamentally emotionally distant. Same building, completely different inner worlds, no overlap.",
+      "Maybe I will try to elaborate, very slowly, just one small spoken hello — and quietly see what, if anything at all comprehensive, slowly follows from that one tiny attempt."
+    ],
+    "translation": [
+      "같은 아파트 건물, 같은 조용한 6층에서, 별일 없이 포괄적으로 5년째 살아요.",
+      "그런데도, 그 모든 정교한 시간이 지났는데도, 이웃 누구의 이름이나 얼굴조차 어떤 근본적 또렷함으로도 몰라요.",
+      "가끔 거울이 달린 작은 엘리베이터에서, 재순환된 공기의 좁은 상자를 근본적인 15초 동안 함께 나누며, 올라가거나 내려갈 때 짧게 마주쳐요.",
+      "둘 다 한 마디도 주고받지 않고, 암묵적이고 서로 안도하는 마음으로, 조용히 그리고 즉시 빛나는 폰을 내려다봐요.",
+      "침묵이 유독 정교해질 때면, 가끔 작고 예의 바른 끄덕임을 해요 — 그게 우리 공동체 관계의 근본적 실질 전부예요.",
+      "오래 전, 다른 세대에선, 이렇게 가까이 사는 사람들이 이렇게 소통하지 않았어요. 설탕을 빌리고, 책을 빌려주고, 문을 두드리고, 아이들 안부를 물었어요.",
+      "물리적으론 가까워요. 벽과 공기 통로와 수도관을 공유해요. 그런데 근본적으로 정서적으론 멀어요. 같은 건물, 완전히 다른 내면 세계, 겹치는 부분 없음.",
+      "아주 천천히, 말로 된 작은 인사 하나를 풀어볼까 해요 — 그래서 뭐가 됐든 포괄적인 게 거기서 천천히 따라오는 게 있다면 조용히 지켜보려고요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l3-111"],
+    "quiz": [
+      {
+        "question": "Why do both look down at their phones in the elevator?",
+        "questionKo": "엘리베이터에서 둘 다 폰을 보는 이유는?",
+        "options": ["Important work", "With a tacit, mutual relief", "Reading the news", "Out of competition"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is there between the writer's inner world and the neighbor's?",
+        "questionKo": "글쓴이의 내면 세계와 이웃 사이엔?",
+        "options": ["A small bridge", "No overlap", "A common language", "Shared memories"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-03-dont-know-neighbors-l6",
+    "title": "I Don't Know My Neighbors",
+    "titleKo": "옆집을 몰라요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-03-dont-know-neighbors"],
+    "paragraphs": [
+      "I have lived in the same apartment building, on the same quiet sixth floor, for five comprehensive years now without any particular incident.",
+      "And yet, after all that elaborate time, I still do not know any of my neighbors' names or their faces with any fundamental, identifying clarity.",
+      "Sometimes I encounter them briefly in the small mirrored elevator going up or down, sharing a tight, fundamentally awkward box of recycled air for an unprecedented fifteen seconds.",
+      "Both of us look quietly and immediately down at our glowing phones, without exchanging any spoken word at all, with a tacit, mutual, almost ceremonial relief.",
+      "We nod a small, polite nod, sometimes, when the silence feels especially elaborate — and that is the entire fundamental substance of our community relationship over half a decade.",
+      "Long ago, in another generation, in another paradigm of how strangers in proximity behaved, people who lived this close together did not communicate like this. They borrowed sugar, lent books, knocked on doors, asked after the children.",
+      "We are physically close, sharing walls and air ducts and water pipes and emergency alarms, but fundamentally emotionally distant — juxtapose against any older idea of what a building was supposed to be.",
+      "Maybe I will try to elaborate, very slowly, just one small spoken hello — and quietly see what, if anything at all comprehensive, slowly follows from that one almost embarrassing tiny attempt."
+    ],
+    "translation": [
+      "같은 아파트 건물, 같은 조용한 6층에서, 별다른 사건 없이 포괄적으로 5년째 살아요.",
+      "그런데도, 그 모든 정교한 시간이 지났는데도, 이웃 누구의 이름이나 얼굴조차 어떤 근본적이고 식별 가능한 또렷함으로도 몰라요.",
+      "가끔 거울이 달린 작은 엘리베이터에서, 재순환된 공기의 좁고 근본적으로 어색한 상자를 전례 없는 15초 동안 함께 나누며, 올라가거나 내려갈 때 짧게 마주쳐요.",
+      "둘 다 한 마디도 주고받지 않고, 암묵적이고 서로 안도하는, 거의 의식적인 마음으로 조용히 그리고 즉시 빛나는 폰을 내려다봐요.",
+      "침묵이 유독 정교해질 때면, 가끔 작고 예의 바른 끄덕임을 해요 — 그게 반세기에 걸친 우리 공동체 관계의 근본적 실질 전부예요.",
+      "오래 전, 다른 세대에선, 근접한 모르는 사람들이 어떻게 행동해야 하는지에 대한 다른 패러다임 속에서, 이렇게 가까이 사는 사람들이 이렇게 소통하지 않았어요. 설탕을 빌리고, 책을 빌려주고, 문을 두드리고, 아이들 안부를 물었어요.",
+      "물리적으론 가까워요. 벽과 공기 통로와 수도관과 비상벨을 공유해요. 그런데 근본적으로 정서적으론 멀어요 — 건물이 무엇이어야 하는지에 대한 어떤 더 오래된 관념과도 병치돼요.",
+      "아주 천천히, 말로 된 작은 인사 하나를 풀어볼까 해요 — 그래서 뭐가 됐든 포괄적인 게 거기서, 그 하나의 거의 부끄러운 작은 시도에서 천천히 따라오는 게 있다면 조용히 지켜보려고요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l4-001"],
+    "quiz": [
+      {
+        "question": "What older idea is the writer's building juxtaposed against?",
+        "questionKo": "글쓴이의 건물은 어떤 더 오래된 관념과 병치되어 있나요?",
+        "options": ["A modern architecture", "Any older idea of what a building was supposed to be", "Government planning", "Energy regulations"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe her planned hello?",
+        "questionKo": "글쓴이는 자신의 계획된 인사를 어떻게 묘사하나요?",
+        "options": ["A grand gesture", "One almost embarrassing tiny attempt", "A confident greeting", "A formal introduction"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

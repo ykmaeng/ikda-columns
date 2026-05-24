@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-05-29-stranger-smiled-l1",
+    "title": "A Stranger Smiled at Me",
+    "titleKo": "모르는 사람이 웃어줬어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-29-stranger-smiled"],
+    "paragraphs": [
+      "This morning on the subway, a person I do not know smiled at me.",
+      "It was a small smile. Less than one second.",
+      "I do not know why she did it.",
+      "I thought about that smile all day.",
+      "Small things made me angry before. Today they were okay.",
+      "She will never know what she did.",
+      "Small kindness does not leave.",
+      "I want to give it back. To someone, soon."
+    ],
+    "translation": [
+      "오늘 아침 지하철에서, 모르는 사람이 저에게 웃어줬어요.",
+      "작은 미소였어요. 1초도 안 됐어요.",
+      "왜 그랬는지 몰라요.",
+      "그 미소를 하루 종일 생각했어요.",
+      "전에는 작은 일에 화가 났었어요. 오늘은 괜찮았어요.",
+      "그 사람은 자기가 뭘 했는지 영원히 모를 거예요.",
+      "작은 친절은 떠나지 않아요.",
+      "저도 돌려주고 싶어요. 누군가에게, 곧."
+    ],
+    "targetWords": ["l1-200", "l1-130", "l1-094", "l1-160", "l1-093"],
+    "quiz": [
+      {
+        "question": "Where did the smile happen?",
+        "questionKo": "미소는 어디에서 일어났나요?",
+        "options": ["At work", "On the subway", "At home", "At a restaurant"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer want to do?",
+        "questionKo": "글쓴이는 무엇을 하고 싶어 하나요?",
+        "options": ["Forget it", "Give the small kindness back to someone, soon", "Find the person again", "Sleep more"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-29-stranger-smiled-l2",
+    "title": "A Stranger Smiled at Me",
+    "titleKo": "모르는 사람이 웃어줬어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-29-stranger-smiled"],
+    "paragraphs": [
+      "This morning on the subway, a person I had never seen before smiled at me.",
+      "It was a small, soft smile. Less than one second long.",
+      "I do not know why she did it. We did not speak.",
+      "I thought about that small smile for the whole day at work.",
+      "Small things often made me angry before. Today they felt okay.",
+      "She will never know what her short smile did for me.",
+      "A small kindness does not really leave. It just travels quietly.",
+      "I want to pass it on. To someone, soon, maybe even today."
+    ],
+    "translation": [
+      "오늘 아침 지하철에서, 한 번도 본 적 없는 사람이 저에게 웃어줬어요.",
+      "작고 부드러운 미소였어요. 1초도 안 됐어요.",
+      "왜 그랬는지 몰라요. 말은 안 했어요.",
+      "회사에서 하루 종일 그 작은 미소를 생각했어요.",
+      "작은 일에 자주 화가 났었어요. 오늘은 괜찮았어요.",
+      "그 사람은 자기 짧은 미소가 저에게 뭘 했는지 영원히 모를 거예요.",
+      "작은 친절은 정말로 떠나지 않아요. 그냥 조용히 이동해요.",
+      "전해주고 싶어요. 누군가에게, 곧, 어쩌면 오늘 안에라도."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-130", "l1-160", "l1-200"],
+    "quiz": [
+      {
+        "question": "How long was the smile?",
+        "questionKo": "그 미소는 얼마나 길었나요?",
+        "options": ["About a minute", "Less than one second long", "Several seconds", "It is unclear"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer think happens to small kindness?",
+        "questionKo": "글쓴이는 작은 친절에 어떤 일이 일어난다고 생각하나요?",
+        "options": ["It disappears quickly", "It does not really leave — it just travels quietly", "It is wasted", "It is forgotten in a day"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-29-stranger-smiled-l3",
+    "title": "A Stranger Smiled at Me",
+    "titleKo": "모르는 사람이 웃어줬어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-29-stranger-smiled"],
+    "paragraphs": [
+      "This morning on the crowded subway, a woman I had never seen before smiled at me, just briefly.",
+      "It was a small, soft smile, less than one second long — almost easy to miss.",
+      "I have no idea why she did it. We did not speak, and a moment later she got off at the next station.",
+      "I thought about that small smile for the entire day, between meetings, on my walk to lunch.",
+      "Small frustrating things at work often made me snap before. Today they somehow rolled past me.",
+      "She will never know what her brief smile did for one stranger's day in her community.",
+      "A small kindness does not really leave. It quietly travels, finds another body, and continues.",
+      "I want to pass it on, deliberately. To someone, soon, maybe even before I get home tonight."
+    ],
+    "translation": [
+      "오늘 아침 붐비는 지하철에서, 한 번도 본 적 없는 여자분이 저에게, 아주 짧게, 웃어줬어요.",
+      "작고 부드러운 미소, 1초도 안 되는, 거의 놓치기 쉬운 미소였어요.",
+      "왜 그랬는지 전혀 몰라요. 말은 안 했고, 잠시 후 다음 역에서 내렸어요.",
+      "회의 사이사이, 점심 가는 길에, 하루 종일 그 작은 미소를 생각했어요.",
+      "회사에서 작은 짜증나는 일들에 자주 폭발했었어요. 오늘은 어쩐 일인지 그냥 스쳐 지나갔어요.",
+      "그 사람은 자신의 짧은 미소가 자기 공동체 안 모르는 한 사람의 하루에 뭘 했는지 영원히 모를 거예요.",
+      "작은 친절은 정말로 떠나지 않아요. 조용히 이동해서, 또 다른 몸을 찾아, 계속돼요.",
+      "의식적으로 전해주고 싶어요. 누군가에게, 곧, 어쩌면 오늘 밤 집에 가기 전에라도."
+    ],
+    "targetWords": ["l3-003", "l3-111", "l2-130", "l1-130", "l1-200"],
+    "quiz": [
+      {
+        "question": "What did the writer do for the rest of the day after the smile?",
+        "questionKo": "미소를 받은 후 글쓴이는 하루 종일 무엇을 했나요?",
+        "options": ["Forgot about it", "Thought about that small smile between meetings, on her walk to lunch", "Tried to find the woman", "Felt confused"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe what happens to a small kindness?",
+        "questionKo": "작은 친절에 무슨 일이 일어난다고 묘사하나요?",
+        "options": ["It is wasted in noise", "It quietly travels, finds another body, and continues", "It is forgotten by morning", "It only stays with the giver"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-29-stranger-smiled-l4",
+    "title": "A Stranger Smiled at Me",
+    "titleKo": "모르는 사람이 웃어줬어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-29-stranger-smiled"],
+    "paragraphs": [
+      "This morning on the crowded subway, a woman I had never seen before smiled at me, briefly and almost without reason.",
+      "It was a small, soft, unannounced smile, less than one second long — easy to miss, easier to dismiss as nothing.",
+      "I have no idea why she did it. We did not communicate beyond that gesture, and a moment later she got off at the next station.",
+      "I thought about that small smile for the entire day — between meetings, on my walk to lunch, in the elevator going down.",
+      "Small frustrating things at work used to make me snap or sigh loudly. Today, somehow, they quietly rolled past me without leaving marks.",
+      "She will never know what her brief, unintentional smile did for one stranger's day in her vast unseen community.",
+      "A small kindness does not really leave the world. It quietly travels, finds another body, and continues its long invisible journey.",
+      "I want to pass it on, deliberately and soon. To someone, perhaps before I get home tonight, perhaps without their ever noticing."
+    ],
+    "translation": [
+      "오늘 아침 붐비는 지하철에서, 한 번도 본 적 없는 여자분이, 짧게 그리고 거의 이유 없이, 저에게 웃어줬어요.",
+      "작고, 부드럽고, 예고 없는 미소, 1초도 안 되는 — 놓치기 쉽고, 아무것도 아니라고 묵살하기는 더 쉬운 미소였어요.",
+      "왜 그랬는지 전혀 몰라요. 그 제스처를 넘어 소통하지 않았고, 잠시 후 다음 역에서 내렸어요.",
+      "회의 사이사이, 점심 가는 길에, 내려가는 엘리베이터 안에서, 하루 종일 그 작은 미소를 생각했어요.",
+      "회사에서 작은 짜증나는 일들에 폭발하거나 크게 한숨 쉬곤 했어요. 오늘은, 어쩐 일인지, 자국 없이 조용히 스쳐 지나갔어요.",
+      "그 사람은 자신의 짧고 의도되지 않은 미소가 보이지 않는 거대한 공동체 안 모르는 한 사람의 하루에 뭘 했는지 영원히 모를 거예요.",
+      "작은 친절은 정말로 세상을 떠나지 않아요. 조용히 이동해서, 또 다른 몸을 찾아, 길고 보이지 않는 여정을 계속해요.",
+      "의식적으로, 그리고 곧, 전해주고 싶어요. 누군가에게, 어쩌면 오늘 밤 집에 가기 전에, 어쩌면 그 사람도 모르게."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-003", "l3-111", "l2-130"],
+    "quiz": [
+      {
+        "question": "How did the writer react to small frustrating things today, compared to before?",
+        "questionKo": "오늘 작은 짜증나는 일에 글쓴이가 어떻게 반응했나요? 전과 비교하면?",
+        "options": ["She snapped more loudly", "They quietly rolled past her without leaving marks", "She wrote them down", "She avoided people"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer want to pass on the kindness?",
+        "questionKo": "글쓴이는 친절을 어떻게 전하고 싶어 하나요?",
+        "options": ["With a loud announcement", "Deliberately and soon, perhaps without the receiver ever noticing", "Only to close friends", "By writing a long letter"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-29-stranger-smiled-l5",
+    "title": "A Stranger Smiled at Me",
+    "titleKo": "모르는 사람이 웃어줬어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-29-stranger-smiled"],
+    "paragraphs": [
+      "This morning on the crowded subway, a woman I had never seen before smiled at me, briefly and almost without comprehensive reason.",
+      "It was a small, soft, fundamentally unannounced smile, less than one second long — easy to miss, even easier to elaborate away as nothing of consequence.",
+      "I have no idea why she did it. We did not communicate beyond that single gesture, and a moment later she got off at the next station, untraceable.",
+      "I thought about that small smile for the entire elaborate day — between meetings, on my walk to lunch, in the slow elevator going down at five.",
+      "Small frustrating things at work used to make me snap or sigh loudly. Today, somehow, they quietly rolled past me without leaving the usual fundamental marks.",
+      "She will never know what her brief, unintentional smile did for one stranger's day in her vast and largely unseen community.",
+      "A small kindness, I have come to suspect, does not really leave the world. It quietly travels, finds another body, and continues its long, comprehensive, invisible journey.",
+      "I want to pass it on, deliberately and soon. To someone, perhaps before I get home tonight, perhaps fundamentally without their ever noticing what passed between us."
+    ],
+    "translation": [
+      "오늘 아침 붐비는 지하철에서, 한 번도 본 적 없는 여자분이, 짧게 그리고 거의 포괄적인 이유 없이, 저에게 웃어줬어요.",
+      "작고, 부드럽고, 근본적으로 예고 없는 미소, 1초도 안 되는 — 놓치기 쉽고, 별일 아니라고 풀어 묵살하기는 더 쉬운 미소였어요.",
+      "왜 그랬는지 전혀 몰라요. 그 단 하나의 제스처를 넘어 소통하지 않았고, 잠시 후 다음 역에서 내려, 추적할 수 없어요.",
+      "회의 사이사이, 점심 가는 길에, 5시에 천천히 내려가는 엘리베이터 안에서, 정교한 하루 내내 그 작은 미소를 생각했어요.",
+      "회사에서 작은 짜증나는 일들에 폭발하거나 크게 한숨 쉬곤 했어요. 오늘은, 어쩐 일인지, 평소의 근본적인 자국 없이 조용히 스쳐 지나갔어요.",
+      "그 사람은 자신의 짧고 의도되지 않은 미소가 보이지 않는 거대한 공동체 안 모르는 한 사람의 하루에 뭘 했는지 영원히 모를 거예요.",
+      "작은 친절은, 의심하게 됐어요, 정말로 세상을 떠나지 않아요. 조용히 이동해서, 또 다른 몸을 찾아, 길고 포괄적이고 보이지 않는 여정을 계속해요.",
+      "의식적으로, 그리고 곧, 전해주고 싶어요. 누군가에게, 어쩌면 오늘 밤 집에 가기 전에, 어쩌면 우리 사이에 뭐가 지나갔는지 그 사람도 근본적으로 모르게."
+    ],
+    "targetWords": ["l5-001", "l5-003", "l4-001", "l4-002", "l3-003"],
+    "quiz": [
+      {
+        "question": "What does the writer suspect about a small kindness?",
+        "questionKo": "글쓴이는 작은 친절에 대해 무엇을 의심하나요?",
+        "options": ["It is forgotten quickly", "It does not really leave the world — it travels, finds another body, continues", "It only matters to the giver", "It is meaningless without words"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer hope to pass the kindness on?",
+        "questionKo": "글쓴이는 어떻게 친절을 전하고 싶어하나요?",
+        "options": ["Loudly and publicly", "Perhaps fundamentally without the receiver ever noticing what passed between them", "By writing online", "By demanding a return"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-29-stranger-smiled-l6",
+    "title": "A Stranger Smiled at Me",
+    "titleKo": "모르는 사람이 웃어줬어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-29-stranger-smiled"],
+    "paragraphs": [
+      "This morning on the crowded subway, a woman I had never seen before smiled at me, briefly, almost without comprehensive reason, an unprecedented small interruption to my routine.",
+      "It was a small, soft, fundamentally unannounced smile, less than one second long — easy to miss, even easier to elaborate away as nothing of any real consequence at all.",
+      "I have no idea why she did it. We did not communicate beyond that single fragmentary gesture, and a moment later she got off at the next station, untraceable, dissolving into the crowd.",
+      "I thought about that small juxtapose of warmth for the entire elaborate day — between meetings, on my walk to lunch, in the slow elevator descending at five, somewhere underneath the running commentary of the workday.",
+      "Small frustrating things at work used to make me snap or sigh loudly, almost involuntarily. Today, somehow, they quietly rolled past me without leaving the usual fundamental marks on my mood.",
+      "She will never know what her brief, unintentional smile did for one stranger's day in her vast and largely unseen community of others — a paradigm she did not realize she had created in passing.",
+      "A small kindness, I have slowly come to suspect, does not really leave the world. It quietly travels, finds another body to inhabit, and continues its long, comprehensive, invisible journey through strangers it never meets.",
+      "I want to pass it on, deliberately and soon — to someone, perhaps before I get home tonight, perhaps fundamentally without their ever noticing what quietly, unprecedented, passed between us."
+    ],
+    "translation": [
+      "오늘 아침 붐비는 지하철에서, 한 번도 본 적 없는 여자분이, 짧게, 거의 포괄적인 이유도 없이, 제 루틴에 전례 없는 작은 중단으로 웃어줬어요.",
+      "작고, 부드럽고, 근본적으로 예고 없는 미소, 1초도 안 되는 — 놓치기 쉽고, 어떤 실질적 결과도 없는 것이라고 풀어 묵살하기는 더 쉬운 미소였어요.",
+      "왜 그랬는지 전혀 몰라요. 그 단 하나의 단편적인 제스처를 넘어 소통하지 않았고, 잠시 후 다음 역에서 내려, 추적할 수 없게, 군중 속으로 녹아 사라졌어요.",
+      "회의 사이사이, 점심 가는 길에, 5시에 천천히 내려가는 엘리베이터 안에서, 회사 일의 끊임없는 해설 아래 어딘가에서, 정교한 하루 내내 그 작은 온기의 병치를 생각했어요.",
+      "회사에서 작은 짜증나는 일들에 폭발하거나 거의 무의식적으로 크게 한숨 쉬곤 했어요. 오늘은, 어쩐 일인지, 제 기분에 평소의 근본적인 자국을 남기지 않고 조용히 스쳐 지나갔어요.",
+      "그 사람은 자신의 짧고 의도되지 않은 미소가 보이지 않는 거대한 타인들의 공동체 안 모르는 한 사람의 하루에 뭘 했는지 영원히 모를 거예요 — 지나가다 만들어 놓은, 자신이 만든 줄도 모르는 패러다임을요.",
+      "작은 친절은, 천천히 의심하게 됐어요, 정말로 세상을 떠나지 않아요. 조용히 이동해서, 깃들 또 다른 몸을 찾아, 한 번도 만나지 않을 모르는 사람들을 거쳐 길고 포괄적이고 보이지 않는 여정을 계속해요.",
+      "의식적으로, 그리고 곧, 전해주고 싶어요 — 누군가에게, 어쩌면 오늘 밤 집에 가기 전에, 어쩌면 우리 사이에 뭐가 조용히, 전례 없이, 지나갔는지 그 사람도 근본적으로 모르게."
+    ],
+    "targetWords": ["l6-001", "l6-003", "l5-001", "l4-001", "l4-002"],
+    "quiz": [
+      {
+        "question": "What unintended paradigm does the writer say the woman created?",
+        "questionKo": "그 여자분이 만들었다고 글쓴이가 말하는 의도하지 않은 패러다임은?",
+        "options": ["A new fashion", "A paradigm she did not realize she had created in passing", "A political idea", "A scheduled ritual"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe a small kindness's journey?",
+        "questionKo": "작은 친절의 여정을 글쓴이는 어떻게 묘사하나요?",
+        "options": ["Short and visible", "A long, comprehensive, invisible journey through strangers it never meets", "Public and well-documented", "Limited to family"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

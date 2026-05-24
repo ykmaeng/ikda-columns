@@ -1,0 +1,320 @@
+[
+  {
+    "id": "col-2026-05-26-plant-knows-schedule-l1",
+    "title": "My Plant Knows My Schedule",
+    "titleKo": "식물이 제 일정을 알아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-26-plant-knows-schedule"],
+    "paragraphs": [
+      "Last year, I bought a small plant.",
+      "I put it next to my window.",
+      "Every Sunday morning, I give it water.",
+      "It is a small thing. But I do it every week.",
+      "Before, I had many plants. They all died.",
+      "I forgot them. I was too busy.",
+      "This one is different. I do not forget.",
+      "Sunday is plant day. My body knows it.",
+      "Sometimes I think — my plant waits for me.",
+      "But maybe I am the one waiting.",
+      "I look at it. I give it water. I start my week.",
+      "It is small. It is quiet. It is mine."
+    ],
+    "translation": [
+      "작년에, 작은 식물을 하나 샀어요.",
+      "창문 옆에 두었어요.",
+      "매주 일요일 아침, 물을 줘요.",
+      "작은 일이에요. 그런데 매주 해요.",
+      "예전에는, 식물이 많았어요. 다 죽었어요.",
+      "잊어버렸어요. 너무 바빴어요.",
+      "이번 건 달라요. 안 잊어요.",
+      "일요일은 식물의 날이에요. 몸이 알아요.",
+      "가끔 생각해요 — 식물이 저를 기다린다고.",
+      "그런데 기다리는 건 저인지도 몰라요.",
+      "보고, 물을 주고, 한 주를 시작해요.",
+      "작아요. 조용해요. 제 거예요."
+    ],
+    "targetWords": ["l1-130", "l1-149", "l1-094", "l1-200", "l1-160"],
+    "quiz": [
+      {
+        "question": "When does the writer give the plant water?",
+        "questionKo": "글쓴이는 언제 식물에 물을 주나요?",
+        "options": ["Every morning", "Every Sunday morning", "Once a month", "Only when it looks dry"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why did the writer's old plants die?",
+        "questionKo": "이전 식물들이 죽은 이유는?",
+        "options": ["They were sick", "She forgot them — she was too busy", "It was too cold", "She gave too much water"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-26-plant-knows-schedule-l2",
+    "title": "My Plant Knows My Schedule",
+    "titleKo": "식물이 제 일정을 알아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-26-plant-knows-schedule"],
+    "paragraphs": [
+      "Last spring, I bought a small green plant from a flower shop.",
+      "I placed it on the wooden shelf next to my bedroom window.",
+      "Every Sunday morning, before breakfast, I give it some water.",
+      "It is a small habit. But I have kept it for almost a year now.",
+      "Years ago, I had many plants. Each one slowly died, week by week.",
+      "I forgot to water them. I was always too busy with work.",
+      "This plant is different. I never seem to forget it.",
+      "Sunday has quietly become plant day. My hands know it before my mind does.",
+      "Sometimes, looking at the leaves, I think — my plant is waiting for me.",
+      "But maybe I am the one waiting for Sunday morning.",
+      "I look at the leaves. I pour the water. Then my week begins.",
+      "It is a small thing. A quiet thing. But it is mine, every week."
+    ],
+    "translation": [
+      "지난 봄, 꽃집에서 작은 초록 식물을 하나 샀어요.",
+      "침실 창문 옆 나무 선반 위에 올려놨어요.",
+      "매주 일요일 아침, 아침 식사 전에 물을 좀 줘요.",
+      "작은 습관이에요. 그런데 거의 1년째 지키고 있어요.",
+      "몇 년 전엔, 식물이 많았어요. 다 한 주 한 주 천천히 죽었어요.",
+      "물 주는 걸 잊어버렸어요. 일에 늘 너무 바빴어요.",
+      "이 식물은 달라요. 한 번도 잊은 적이 없는 것 같아요.",
+      "일요일은 조용히 식물의 날이 됐어요. 머리보다 손이 먼저 알아요.",
+      "가끔 잎을 보다가 생각해요 — 식물이 저를 기다린다고.",
+      "그런데 일요일 아침을 기다리는 건 저인지도 몰라요.",
+      "잎을 봐요. 물을 따라요. 그렇게 한 주가 시작돼요.",
+      "작은 일이에요. 조용한 일이에요. 그런데 매주, 제 거예요."
+    ],
+    "targetWords": ["l1-200", "l2-130", "l1-160", "l2-264", "l1-149"],
+    "quiz": [
+      {
+        "question": "Where does the writer keep the plant?",
+        "questionKo": "글쓴이는 식물을 어디에 두나요?",
+        "options": ["On the kitchen table", "On a wooden shelf next to the bedroom window", "On the balcony", "In the bathroom"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer realize about who is waiting for whom?",
+        "questionKo": "누가 누구를 기다리는지에 대해 글쓴이는 무엇을 깨닫나요?",
+        "options": ["The plant waits for the writer", "The writer might be the one waiting for Sunday morning", "Neither waits", "The plant waits for sunlight"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-26-plant-knows-schedule-l3",
+    "title": "My Plant Knows My Schedule",
+    "titleKo": "식물이 제 일정을 알아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-26-plant-knows-schedule"],
+    "paragraphs": [
+      "Last spring, on a quiet afternoon, I bought a small pothos plant from a flower shop near my apartment.",
+      "I placed it on the wooden shelf next to my bedroom window, where the morning light reaches.",
+      "Every Sunday morning, before I make breakfast, I take a small watering can and give it just enough.",
+      "It is a tiny habit, almost invisible to anyone else, but I have kept it for nearly a year.",
+      "Years ago, I owned many plants. Each one slowly died — sometimes within a month, sometimes more slowly, leaf by leaf.",
+      "I forgot to water them. I was always too busy with work, or traveling, or simply distracted.",
+      "This plant has been different. I never seem to forget it, and I am not sure why.",
+      "Sunday has quietly become plant day. My body remembers it before my mind does — even on tired weekends.",
+      "Sometimes, looking at the small green leaves, I think — my plant is waiting for me.",
+      "But maybe the truth is the other way around: I am the one waiting for Sunday morning.",
+      "I look at the leaves. I pour the water slowly. And then, somehow, my week begins.",
+      "It is a small thing, a quiet thing. But it is mine, every week, and that is enough."
+    ],
+    "translation": [
+      "지난 봄, 어느 조용한 오후, 집 근처 꽃집에서 작은 포토스 식물을 하나 샀어요.",
+      "침실 창문 옆 나무 선반 위에 올려놨어요. 아침 햇살이 닿는 곳에요.",
+      "매주 일요일 아침, 아침을 차리기 전에, 작은 물뿌리개를 들고 딱 알맞게 물을 줘요.",
+      "아주 작은 습관이에요, 다른 사람 눈엔 거의 보이지 않을. 그런데 거의 1년째 지키고 있어요.",
+      "몇 년 전엔, 식물이 많았어요. 다 천천히 죽었어요 — 어떤 건 한 달 안에, 어떤 건 잎 한 장 한 장씩, 더 천천히요.",
+      "물 주는 걸 잊었어요. 일에 늘 너무 바쁘거나, 여행 중이거나, 그냥 다른 데 정신이 팔려있었어요.",
+      "이 식물은 달라요. 한 번도 잊은 적이 없는 것 같아요. 왜 그런지는 잘 모르겠어요.",
+      "일요일은 조용히 식물의 날이 됐어요. 피곤한 주말에도 머리보다 몸이 먼저 기억해요.",
+      "가끔 작고 푸른 잎을 보다가 생각해요 — 식물이 저를 기다린다고.",
+      "그런데 어쩌면 사실은 반대인지도 몰라요: 일요일 아침을 기다리는 건 저인지도.",
+      "잎을 봐요. 물을 천천히 따라요. 그러면 어쩐지, 한 주가 시작돼요.",
+      "작은 일이에요. 조용한 일이에요. 그런데 매주, 제 거예요. 그것으로 충분해요."
+    ],
+    "targetWords": ["l3-138", "l2-130", "l3-111", "l1-160", "l3-147"],
+    "quiz": [
+      {
+        "question": "What kind of plant did the writer buy?",
+        "questionKo": "글쓴이는 어떤 식물을 샀나요?",
+        "options": ["A cactus", "A pothos", "An orchid", "A rose"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the writer's old plants usually die?",
+        "questionKo": "이전 식물들은 보통 어떻게 죽었나요?",
+        "options": ["All at once from cold", "Slowly — sometimes within a month, sometimes leaf by leaf", "From insects", "From too much sun"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-26-plant-knows-schedule-l4",
+    "title": "My Plant Knows My Schedule",
+    "titleKo": "식물이 제 일정을 알아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-26-plant-knows-schedule"],
+    "paragraphs": [
+      "Last spring, on a quiet Sunday afternoon, I wandered into a flower shop near my apartment and brought home a small pothos.",
+      "I placed it on the wooden shelf beside my bedroom window, in the narrow band where the morning light reliably reaches.",
+      "Every Sunday morning, before I prepare breakfast, I lift the small watering can and pour just enough — never more, never less.",
+      "It is a microscopic habit, invisible to anyone who does not live with me, but I have maintained it now for nearly a year.",
+      "Years ago, I owned a small collection of plants. They died, one by one — some within weeks, others gradually, surrendering leaf by leaf.",
+      "I forgot to water them. I was always preoccupied with work, or traveling, or simply distracted by the noise of my own days.",
+      "This plant, somehow, has been different. I never forget it, and I cannot fully explain why.",
+      "Sunday has quietly become plant day. My body remembers it before my mind does — even on the most exhausted weekends.",
+      "Sometimes, observing the small green leaves, I find myself thinking — perhaps my plant is waiting for me.",
+      "But the more honest truth, I suspect, runs in the opposite direction: I am the one quietly waiting for Sunday morning.",
+      "I look at the leaves. I pour the water slowly. And then, somehow, my week begins to take shape.",
+      "It is a small thing, a quiet thing. But it is mine, every week, and that turns out to be enough."
+    ],
+    "translation": [
+      "지난 봄, 어느 조용한 일요일 오후, 집 근처 꽃집에 들렀다가 작은 포토스를 한 그루 안고 돌아왔어요.",
+      "침실 창문 옆 나무 선반 위, 아침 햇살이 일정하게 닿는 좁은 구역에 올려놨어요.",
+      "매주 일요일 아침, 아침을 차리기 전에, 작은 물뿌리개를 들고 딱 알맞게 물을 따라요 — 더도, 덜도 아니게.",
+      "현미경으로나 보일 만큼 작은 습관이에요, 함께 사는 사람이 아니면 알아채지 못할. 그런데 거의 1년째 지키고 있어요.",
+      "몇 년 전엔, 작은 식물 모음이 있었어요. 하나씩 죽었어요 — 어떤 건 몇 주 안에, 어떤 건 천천히, 잎 한 장씩 내려놓듯이.",
+      "물 주는 걸 잊었어요. 늘 일에 빠져있거나, 여행 중이거나, 제 일상의 소음에 정신이 팔려있었어요.",
+      "이 식물은 어쩐 일인지, 달라요. 한 번도 잊지 않았어요. 왜 그런지는 완전히 설명하기 어려워요.",
+      "일요일은 조용히 식물의 날이 됐어요. 가장 지친 주말에도 머리보다 몸이 먼저 기억해요.",
+      "가끔 작고 푸른 잎을 보다가, 이런 생각이 들어요 — 어쩌면 식물이 저를 기다리는 거라고.",
+      "그런데 더 솔직한 진실은, 반대 방향인 것 같아요: 일요일 아침을 조용히 기다리는 건 저인지도 모르겠어요.",
+      "잎을 봐요. 물을 천천히 따라요. 그러면 어쩐지, 제 한 주가 모양을 잡기 시작해요.",
+      "작은 일이에요. 조용한 일이에요. 그런데 매주, 제 거예요. 그것으로 충분하다는 게, 결국 드러나요."
+    ],
+    "targetWords": ["l4-007", "l3-138", "l3-111", "l3-147", "l2-130"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the habit of watering the plant?",
+        "questionKo": "물 주는 습관을 글쓴이는 어떻게 묘사하나요?",
+        "options": ["A grand ritual visible to all", "A microscopic habit invisible to anyone who does not live with the writer", "A duty he resents", "A weekly chore for guests"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What more honest truth does the writer suspect about the waiting?",
+        "questionKo": "기다림에 대해 글쓴이가 의심하는 더 솔직한 진실은?",
+        "options": ["The plant truly waits for him", "He is the one waiting for Sunday morning", "Neither waits", "Both wait equally"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-26-plant-knows-schedule-l5",
+    "title": "My Plant Knows My Schedule",
+    "titleKo": "식물이 제 일정을 알아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-26-plant-knows-schedule"],
+    "paragraphs": [
+      "Last spring, on a quiet Sunday afternoon, I wandered into a modest flower shop near my apartment and emerged, somewhat unintentionally, carrying a small pothos.",
+      "I placed it on the wooden shelf beside my bedroom window, in the narrow band of space where the morning light reliably arrives and lingers for a few hours.",
+      "Every Sunday morning, before preparing breakfast, I lift the small watering can and pour just enough — never excessive, never insufficient, calibrated by something I no longer have to think about.",
+      "It is a microscopic habit, invisible to anyone who does not share the apartment, but I have maintained it with a fundamental consistency for nearly a year.",
+      "Years ago, I owned a modest collection of plants, and they died, one by one — some within weeks, others gradually, surrendering leaf by patient leaf to my neglect.",
+      "I forgot to water them. I was perpetually preoccupied with work, or traveling, or simply lost in the comprehensive noise of my own daily life.",
+      "This particular plant, for reasons I cannot entirely elaborate, has been different. I never forget it, and I have stopped trying to explain why.",
+      "Sunday has quietly become plant day. My body registers it before my mind does — a quiet bodily clock, more reliable than any calendar or notification.",
+      "Sometimes, observing the small green leaves catch the light, I find myself entertaining the curious thought that perhaps my plant is waiting for me.",
+      "But the more honest truth, I have come to suspect, runs decisively in the opposite direction: I am the one quietly waiting for Sunday morning.",
+      "I look at the leaves. I pour the water with a slow, almost ceremonial attention. And then, somehow, my week begins to take its shape.",
+      "It is a small thing, a quiet thing, almost nothing at all. But it is mine, every week — and that, it turns out, is fundamentally enough."
+    ],
+    "translation": [
+      "지난 봄, 어느 조용한 일요일 오후, 집 근처 작은 꽃집에 들렀다가, 어쩌다 보니 작은 포토스를 안고 나왔어요.",
+      "침실 창문 옆 나무 선반 위, 아침 햇살이 일정하게 도착해 몇 시간 머무는 좁은 구역에 올려놨어요.",
+      "매주 일요일 아침, 아침을 차리기 전에, 작은 물뿌리개를 들고 딱 알맞게 따라요 — 과하지도, 부족하지도 않게. 이제는 굳이 생각하지 않아도 조절돼요.",
+      "현미경으로나 보일 만큼 작은 습관이에요, 함께 사는 사람이 아니면 모를. 그런데 거의 1년째 근본적으로 일관되게 지키고 있어요.",
+      "몇 년 전엔, 식물을 조금 모았었어요. 다 하나씩 죽었어요 — 어떤 건 몇 주 안에, 어떤 건 천천히, 잎 한 장씩 제 무관심에 내려놓듯이.",
+      "물 주는 걸 잊었어요. 늘 일에 빠져있거나, 여행 중이거나, 제 일상의 포괄적인 소음에 빠져있었어요.",
+      "이 식물은, 정확히 설명하기 어려운 이유로, 달랐어요. 한 번도 잊지 않았고, 왜인지 설명하려는 시도도 그만뒀어요.",
+      "일요일은 조용히 식물의 날이 됐어요. 머리보다 몸이 먼저 기록해요 — 달력이나 알림보다 더 믿을 만한, 조용한 신체 시계처럼.",
+      "가끔 작고 푸른 잎이 빛을 받는 모습을 보다가, 식물이 저를 기다리는 것 같다는 묘한 생각을 잠시 품게 돼요.",
+      "그런데 더 솔직한 진실은, 결정적으로 반대 방향인 것 같아요: 일요일 아침을 조용히 기다리는 건 저예요.",
+      "잎을 봐요. 물을 거의 의식처럼 천천히, 정성스럽게 따라요. 그러면 어쩐지, 제 한 주가 모양을 잡기 시작해요.",
+      "작은 일이에요. 조용한 일이에요. 거의 아무것도 아닌. 그런데 매주, 제 거예요 — 그게, 알고 보니 근본적으로 충분해요."
+    ],
+    "targetWords": ["l5-003", "l5-001", "l5-002", "l4-007", "l3-138"],
+    "quiz": [
+      {
+        "question": "How does the writer describe Sunday as 'plant day'?",
+        "questionKo": "글쓴이는 일요일을 '식물의 날' 로 어떻게 묘사하나요?",
+        "options": ["A scheduled chore on a calendar", "A quiet bodily clock — more reliable than any calendar or notification", "An obligation imposed by family", "A weekly competition"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer say this small habit is 'fundamentally enough'?",
+        "questionKo": "이 작은 습관이 '근본적으로 충분하다' 고 말하는 이유는?",
+        "options": ["Because it impresses others", "Because it is small, quiet, and his — every week, and that is enough", "Because it earns money", "Because it replaces other duties"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-26-plant-knows-schedule-l6",
+    "title": "My Plant Knows My Schedule",
+    "titleKo": "식물이 제 일정을 알아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-26-plant-knows-schedule"],
+    "paragraphs": [
+      "Last spring, on a Sunday afternoon characterized by an almost ceremonial quiet, I wandered into a modest flower shop near my apartment and emerged, somewhat unintentionally, carrying a small pothos cradled against my chest.",
+      "I placed it on the wooden shelf beside my bedroom window, within the narrow corridor of space where the morning light reliably arrives and lingers for an hour or two before withdrawing.",
+      "Every Sunday morning, before preparing breakfast, I lift the small watering can and pour just enough — never excessive, never insufficient, calibrated by some unprecedented intuition I no longer have to consciously summon.",
+      "It is a microscopic habit, invisible to anyone who does not share the apartment, and yet I have maintained it with a kind of patient fidelity for nearly a year now, without once being interrupted.",
+      "Years ago, I owned a modest collection of plants, and they died, one after another — some within weeks, others gradually, surrendering leaf by patient leaf to the quiet juxtapose of my ambition and my forgetting.",
+      "I forgot to water them. I was perpetually preoccupied with work, or traveling, or simply dissolved into the comprehensive noise of my own daily existence, which never seemed to grant me the bandwidth for anything green.",
+      "This particular plant, for reasons I cannot satisfactorily elaborate, has constituted an exception. I never forget it, and somewhere along the way I have stopped attempting to explain why, since the explanation feels less interesting than the fact.",
+      "Sunday has quietly become plant day. My body registers it before my mind does — a kind of bodily timekeeping, more reliable than any calendar or notification, and quietly resistant to interruption.",
+      "Sometimes, observing the small green leaves as they catch and hold the morning light, I find myself entertaining the curious thought, almost involuntary, that perhaps the plant is waiting for me.",
+      "But the more honest truth, I have slowly come to suspect, runs decisively in the opposite direction: I am the one quietly waiting, all week long, for Sunday morning to arrive.",
+      "I look at the leaves. I pour the water with a slow, almost ceremonial attention that I would not have predicted I possessed. And then, somehow, my week begins to take its shape around the act.",
+      "It is a small thing, a quiet thing, almost nothing at all by the metrics the world tends to use. But it is mine, every week, without fail — and that, it slowly turns out, is fundamentally enough."
+    ],
+    "translation": [
+      "지난 봄, 거의 의식처럼 조용했던 어느 일요일 오후, 집 근처 작은 꽃집에 들렀다가, 어쩌다 보니 작은 포토스를 가슴에 안고 나왔어요.",
+      "침실 창문 옆 나무 선반 위, 아침 햇살이 일정하게 도착해 한두 시간 머물다 물러나는 좁은 통로에 올려놨어요.",
+      "매주 일요일 아침, 아침을 차리기 전에, 작은 물뿌리개를 들고 딱 알맞게 따라요 — 과하지도, 부족하지도 않게. 이제는 의식적으로 떠올리지 않아도 되는, 전례 없는 직관으로 조절돼요.",
+      "현미경으로나 보일 만큼 작은 습관이에요, 함께 사는 사람이 아니면 모를. 그런데도 거의 1년째 한 번도 끊기지 않고, 끈기 있는 충실함으로 지켜왔어요.",
+      "몇 년 전엔, 식물을 조금 모았었어요. 다 하나씩 죽었어요 — 어떤 건 몇 주 안에, 어떤 건 천천히, 잎 한 장씩, 제 야망과 망각의 조용한 병치에 내려놓듯이.",
+      "물 주는 걸 잊었어요. 늘 일에 빠져있거나, 여행 중이거나, 제 일상의 포괄적인 소음 속에 녹아있었어요. 푸른 것 하나에도 줄 여유가 주어지지 않는 그런 일상에요.",
+      "이 식물은, 만족스럽게 설명하기 어려운 이유로, 예외가 됐어요. 한 번도 잊지 않았고, 어느 순간부터 설명하려는 시도조차 그만뒀어요. 설명보다 사실이 더 흥미로워 보였거든요.",
+      "일요일은 조용히 식물의 날이 됐어요. 머리보다 몸이 먼저 기록해요 — 어떤 종류의 신체 시계처럼, 달력이나 알림보다 믿을 만하고, 방해에 조용히 저항하는.",
+      "가끔 작고 푸른 잎이 아침 햇살을 잡아 머금는 모습을 보다가, 거의 본능적으로, 식물이 저를 기다리는 것 같다는 묘한 생각을 품게 돼요.",
+      "그런데 더 솔직한 진실은, 천천히 의심하게 됐어요, 결정적으로 반대 방향이라는 걸: 한 주 내내 일요일 아침이 오기를 조용히 기다리는 건 저예요.",
+      "잎을 봐요. 제가 가졌다고 예상하지 못했을 만큼 천천히, 거의 의식 같은 정성으로 물을 따라요. 그러면 어쩐지, 한 주가 그 행위 주변에 모양을 잡기 시작해요.",
+      "작은 일이에요. 조용한 일이에요. 세상이 쓰는 척도로는 거의 아무것도 아닌. 그런데 매주, 한 번도 빠짐없이, 제 거예요 — 그게, 천천히 알게 돼요, 근본적으로 충분하다는 걸."
+    ],
+    "targetWords": ["l6-001", "l6-003", "l5-003", "l5-001", "l4-007"],
+    "quiz": [
+      {
+        "question": "What metaphor does the writer use for how Sunday plant-day works in his body?",
+        "questionKo": "글쓴이는 일요일 식물 날이 몸 안에서 작동하는 방식을 어떤 비유로 표현하나요?",
+        "options": ["A loud alarm clock", "A bodily timekeeping, more reliable than any calendar or notification", "A burden", "An interruption to rest"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why has the writer stopped trying to explain why this plant is different?",
+        "questionKo": "왜 글쓴이는 이 식물이 다른 이유를 설명하려는 시도를 그만뒀나요?",
+        "options": ["He was tired", "The explanation feels less interesting than the fact itself", "The plant told him to stop", "There is no difference"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

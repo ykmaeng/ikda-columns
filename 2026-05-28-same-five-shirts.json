@@ -1,0 +1,320 @@
+[
+  {
+    "id": "col-2026-05-28-same-five-shirts-l1",
+    "title": "I Wear the Same Five Shirts",
+    "titleKo": "같은 셔츠 다섯 벌만 입어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-28-same-five-shirts"],
+    "paragraphs": [
+      "I have only five shirts.",
+      "They all look the same. Gray, black, white.",
+      "Before, my closet was full.",
+      "Every morning, I asked: what do I wear?",
+      "Often, I felt tired before work started.",
+      "One day, I put most clothes in a big bag.",
+      "I kept five shirts. The ones I love.",
+      "At first, it felt strange. Almost empty.",
+      "Now, my morning is quiet.",
+      "I do not choose. I just pick a shirt.",
+      "Having more did not make me free.",
+      "Having less did."
+    ],
+    "translation": [
+      "셔츠가 다섯 벌만 있어요.",
+      "다 비슷해요. 회색, 검정, 흰색.",
+      "예전엔, 옷장이 가득했어요.",
+      "매일 아침 물었어요: 뭐 입지?",
+      "자주, 일이 시작되기 전에 지쳤어요.",
+      "어느 날, 옷 대부분을 큰 봉지에 넣었어요.",
+      "다섯 벌만 남겼어요. 좋아하는 것만.",
+      "처음엔, 이상했어요. 거의 비어 보였어요.",
+      "지금은, 아침이 조용해요.",
+      "고르지 않아요. 그냥 한 벌을 집어요.",
+      "더 가진 게 저를 자유롭게 안 했어요.",
+      "덜 가진 게 했어요."
+    ],
+    "targetWords": ["l1-200", "l1-160", "l1-130", "l1-094", "l1-149"],
+    "quiz": [
+      {
+        "question": "How many shirts does the writer keep now?",
+        "questionKo": "글쓴이는 지금 몇 벌의 셔츠를 가지고 있나요?",
+        "options": ["Ten", "Five — the ones she loves", "Twenty", "Just one"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer realize at the end?",
+        "questionKo": "끝에서 글쓴이가 깨달은 것은?",
+        "options": ["Having more made her free", "Having less made her free", "Clothes do not matter", "She wants more again"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-28-same-five-shirts-l2",
+    "title": "I Wear the Same Five Shirts",
+    "titleKo": "같은 셔츠 다섯 벌만 입어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-28-same-five-shirts"],
+    "paragraphs": [
+      "I have only five shirts in my closet now.",
+      "They all look almost the same. Plain gray, soft black, simple white.",
+      "Before, my closet was full of clothes I never wore.",
+      "Every morning, I asked the same question: what should I wear today?",
+      "Often, I felt tired before the workday had even started.",
+      "One Sunday afternoon, I put most of my clothes into a big bag.",
+      "I kept only five shirts. The ones I really love wearing.",
+      "At first, it felt strange. The closet looked too empty, almost lonely.",
+      "Now my morning is quiet. There is no question to answer.",
+      "I do not choose. I just open the closet and pick a shirt.",
+      "Having more clothes did not make me feel free.",
+      "Having fewer, somehow, did."
+    ],
+    "translation": [
+      "지금 옷장에 셔츠가 다섯 벌만 있어요.",
+      "다 거의 비슷해 보여요. 그냥 회색, 부드러운 검정, 단순한 흰색.",
+      "예전엔, 옷장이 한 번도 안 입은 옷으로 가득했어요.",
+      "매일 아침, 같은 질문을 했어요: 오늘 뭘 입지?",
+      "자주, 일이 시작되기도 전에 지쳤어요.",
+      "어느 일요일 오후, 옷 대부분을 큰 봉지에 넣었어요.",
+      "다섯 벌만 남겼어요. 정말 입고 싶은 것만.",
+      "처음엔, 이상했어요. 옷장이 너무 비어 보여서, 거의 외로워 보였어요.",
+      "지금은 아침이 조용해요. 답해야 할 질문이 없어요.",
+      "고르지 않아요. 그냥 옷장을 열고 한 벌을 집어요.",
+      "옷이 많은 게 저를 자유롭게 만들지 않았어요.",
+      "적게 가진 게, 어쩐 일인지, 그렇게 했어요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-200", "l1-160", "l1-130"],
+    "quiz": [
+      {
+        "question": "What question did the writer ask every morning before?",
+        "questionKo": "글쓴이는 예전엔 매일 아침 어떤 질문을 했나요?",
+        "options": ["What should I eat?", "What should I wear today?", "Where should I go?", "Who should I meet?"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the writer's closet look at first after the cleanup?",
+        "questionKo": "정리 후 옷장은 처음에 어떻게 보였나요?",
+        "options": ["Crowded and messy", "Too empty, almost lonely", "Bright and cheerful", "Exactly the same"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-28-same-five-shirts-l3",
+    "title": "I Wear the Same Five Shirts",
+    "titleKo": "같은 셔츠 다섯 벌만 입어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-28-same-five-shirts"],
+    "paragraphs": [
+      "These days, I have only five shirts hanging in my closet.",
+      "They all look almost identical — plain gray, soft black, simple white, in soft cotton.",
+      "Before, my closet was full of clothes I had not worn in years, kept out of habit and a vague sense of possibility.",
+      "Every morning, I asked the same exhausting question: what should I wear today, and what does it say about me?",
+      "Often, I felt tired before the workday had even properly started, as if some quiet energy had already drained away.",
+      "One Sunday afternoon, almost without planning, I put most of my clothes into a large bag and carried them out.",
+      "I kept only five shirts. The ones I genuinely love wearing, the ones that feel like a small honest agreement with my body.",
+      "At first, it felt strange. The closet looked too empty, almost lonely, and I missed the comforting illusion of choice.",
+      "Now my morning is quiet. There is no question left to answer about my clothes.",
+      "I do not choose. I just open the closet and pick whichever shirt is closest to my hand.",
+      "Owning more clothes did not, as it turned out, make me feel particularly free.",
+      "Owning fewer, somehow, did — and I am still slowly learning what that means."
+    ],
+    "translation": [
+      "요즘은, 옷장에 셔츠가 다섯 벌만 걸려 있어요.",
+      "다 거의 똑같아 보여요 — 부드러운 면의 회색, 부드러운 검정, 단순한 흰색.",
+      "예전엔, 옷장이 몇 년 동안 안 입은 옷으로 가득했어요. 습관과 막연한 가능성의 느낌 때문에 가지고 있던 것들.",
+      "매일 아침, 같은 지치는 질문을 했어요: 오늘 뭘 입지? 그게 나에 대해 뭘 말하지?",
+      "자주, 일이 제대로 시작되기도 전에 지쳤어요. 어떤 조용한 에너지가 이미 빠져나간 것처럼.",
+      "어느 일요일 오후, 거의 계획 없이, 옷 대부분을 큰 봉지에 넣고 내다 버렸어요.",
+      "다섯 벌만 남겼어요. 진심으로 입고 싶은 것, 제 몸과의 작고 솔직한 합의처럼 느껴지는 것만요.",
+      "처음엔, 이상했어요. 옷장이 너무 비어 보여서 거의 외로워 보였고, 선택이라는 위안되는 환상이 그리웠어요.",
+      "지금은 아침이 조용해요. 옷에 대해 답해야 할 질문이 더 이상 없어요.",
+      "고르지 않아요. 그냥 옷장을 열고 손에 제일 가까운 셔츠를 집어요.",
+      "옷을 더 많이 가진 게, 알고 보니, 저를 특별히 자유롭게 만들지 않았어요.",
+      "더 적게 가진 게, 어쩐 일인지, 그렇게 했어요 — 그게 무슨 뜻인지는 여전히 천천히 배우는 중이에요."
+    ],
+    "targetWords": ["l3-111", "l3-002", "l2-130", "l1-200", "l1-130"],
+    "quiz": [
+      {
+        "question": "Why did the writer keep all those unworn clothes before?",
+        "questionKo": "글쓴이는 왜 안 입는 옷을 다 가지고 있었나요?",
+        "options": ["For business reasons", "Out of habit and a vague sense of possibility", "To donate them later", "Because they were expensive"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does each shirt now feel like?",
+        "questionKo": "지금 각 셔츠는 어떤 느낌인가요?",
+        "options": ["A burden", "A small honest agreement with the writer's body", "A fashion statement", "A duty"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-28-same-five-shirts-l4",
+    "title": "I Wear the Same Five Shirts",
+    "titleKo": "같은 셔츠 다섯 벌만 입어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-28-same-five-shirts"],
+    "paragraphs": [
+      "These days, I have only five shirts hanging quietly in my closet, all neatly spaced.",
+      "They look almost identical to anyone observing — plain gray, soft black, simple white, all in worn soft cotton.",
+      "Before, my closet was crowded with clothes I had not worn in years, kept out of habit and a vague, unexamined sense of possibility.",
+      "Every morning, I used to ask the same exhausting question: what should I wear today, and what would it quietly communicate about me to others?",
+      "Often, I felt tired before the workday had even properly started, as if a small but constant energy had already been spent on a decision that did not deserve it.",
+      "One Sunday afternoon, almost without planning, I put most of my clothes into a large bag and carried them out to be donated.",
+      "I kept only five shirts. The ones I genuinely loved wearing — the ones that felt like a small, honest agreement between my body and the day ahead.",
+      "At first, the change felt strange. The closet looked too empty, almost lonely, and I quietly missed the comforting illusion of choice.",
+      "Now my morning is quiet. There is no question left to answer about my clothes, no small negotiation to resolve before coffee.",
+      "I do not choose. I just open the closet and pick whichever shirt is closest to my hand, with a kind of small relief.",
+      "Owning more clothes did not, as it turned out, make me feel particularly free or particularly alive.",
+      "Owning fewer, somehow, did — and I am still slowly learning what that quiet fundamental discovery means."
+    ],
+    "translation": [
+      "요즘은, 옷장에 셔츠가 다섯 벌만 단정히 간격을 두고 조용히 걸려 있어요.",
+      "관찰하는 누군가에겐 거의 똑같아 보여요 — 단순한 회색, 부드러운 검정, 단순한 흰색, 모두 입어서 부드러워진 면이에요.",
+      "예전엔, 옷장이 몇 년 동안 안 입은 옷으로 빽빽했어요. 습관과, 막연하고 검토되지 않은 가능성의 느낌 때문에 가지고 있던 것들요.",
+      "매일 아침, 같은 지치는 질문을 했어요: 오늘 뭘 입지? 그게 다른 사람에게 나에 대해 뭘 조용히 전달할까?",
+      "자주, 일이 제대로 시작되기도 전에 지쳤어요. 그럴 가치가 없는 결정에 작지만 꾸준한 에너지가 이미 쓰여버린 것처럼.",
+      "어느 일요일 오후, 거의 계획 없이, 옷 대부분을 큰 봉지에 담아 기부하러 가져갔어요.",
+      "다섯 벌만 남겼어요. 진심으로 입고 싶었던 것 — 제 몸과 앞으로의 하루 사이의 작고 솔직한 합의처럼 느껴지는 것들요.",
+      "처음엔, 그 변화가 이상했어요. 옷장이 너무 비어 보여 거의 외로워 보였고, 선택이라는 위안되는 환상이 조용히 그리웠어요.",
+      "지금은 아침이 조용해요. 옷에 대해 답해야 할 질문이 없어요. 커피 전에 풀어야 할 작은 협상도 없어요.",
+      "고르지 않아요. 그냥 옷장을 열고 손에 제일 가까운 셔츠를 집어요. 일종의 작은 안도와 함께.",
+      "옷을 더 많이 가진 게, 알고 보니, 저를 특별히 자유롭게도, 특별히 생기 있게도 만들지 않았어요.",
+      "더 적게 가진 게, 어쩐 일인지, 그렇게 했어요 — 그 조용한 근본적 발견이 무슨 뜻인지 여전히 천천히 배우는 중이에요."
+    ],
+    "targetWords": ["l4-001", "l4-003", "l3-111", "l3-002", "l2-130"],
+    "quiz": [
+      {
+        "question": "What kind of energy did the morning clothes decision cost the writer?",
+        "questionKo": "아침 옷 결정은 글쓴이에게 어떤 종류의 에너지를 소모시켰나요?",
+        "options": ["A large dramatic energy", "A small but constant energy spent on a decision that did not deserve it", "Physical strength", "Money"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer describe picking a shirt now?",
+        "questionKo": "지금 셔츠를 고르는 행위를 어떻게 묘사하나요?",
+        "options": ["Carefully and slowly", "Just picks whichever is closest to hand, with a kind of small relief", "Asks her partner", "Avoids the closet"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-28-same-five-shirts-l5",
+    "title": "I Wear the Same Five Shirts",
+    "titleKo": "같은 셔츠 다섯 벌만 입어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-28-same-five-shirts"],
+    "paragraphs": [
+      "These days, I have only five shirts hanging quietly in my closet, all neatly and elaborate spaced.",
+      "They look almost comprehensively identical to anyone observing — plain gray, soft black, simple white, all in worn soft cotton.",
+      "Before, my closet was crowded with clothes I had not worn in years, kept out of habit and a vague, fundamentally unexamined sense of possibility.",
+      "Every morning, I used to ask the same exhausting question: what should I wear today, and what would it quietly communicate about me?",
+      "Often, I felt tired before the workday had even properly started, as if a small but comprehensive energy had already been spent on a decision that did not deserve it.",
+      "One Sunday afternoon, almost without preliminary planning, I put most of my clothes into a large bag and carried them out to be donated.",
+      "I kept only five shirts. The ones I genuinely loved wearing — the ones that felt like a small, honest agreement between my body and the day ahead.",
+      "At first, the change felt strange and slightly disorienting. The closet looked too empty, almost lonely, and I quietly missed the comforting illusion of unlimited choice.",
+      "Now my morning is quiet. There is no question left to answer about my clothes, no small negotiation to elaborate before coffee.",
+      "I do not choose. I just open the closet and pick whichever shirt is closest to my hand, with a kind of small relief that is, in its quiet way, fundamental.",
+      "Owning more clothes did not, as it turned out, make me feel particularly free, particularly elaborate, or particularly alive in the way I had vaguely hoped.",
+      "Owning fewer, somehow, did — and I am still slowly learning what that quiet, comprehensive, fundamental discovery actually means."
+    ],
+    "translation": [
+      "요즘은, 옷장에 셔츠가 다섯 벌만 단정하고 정교하게 간격을 두고 조용히 걸려 있어요.",
+      "관찰하는 누군가에겐 거의 포괄적으로 똑같아 보여요 — 단순한 회색, 부드러운 검정, 단순한 흰색, 모두 입어서 부드러워진 면이에요.",
+      "예전엔, 옷장이 몇 년 동안 안 입은 옷으로 빽빽했어요. 습관과, 막연하고 근본적으로 검토되지 않은 가능성의 느낌 때문에 가지고 있던 것들요.",
+      "매일 아침, 같은 지치는 질문을 했어요: 오늘 뭘 입지? 그게 나에 대해 뭘 조용히 전달할까?",
+      "자주, 일이 제대로 시작되기도 전에 지쳤어요. 그럴 가치가 없는 결정에 작지만 포괄적인 에너지가 이미 쓰여버린 것처럼.",
+      "어느 일요일 오후, 거의 예비 계획 없이, 옷 대부분을 큰 봉지에 담아 기부하러 가져갔어요.",
+      "다섯 벌만 남겼어요. 진심으로 입고 싶었던 것 — 제 몸과 앞으로의 하루 사이의 작고 솔직한 합의처럼 느껴지는 것들요.",
+      "처음엔, 그 변화가 이상하고 약간 방향감 잃은 느낌이었어요. 옷장이 너무 비어 보여 거의 외로워 보였고, 무제한 선택이라는 위안되는 환상이 조용히 그리웠어요.",
+      "지금은 아침이 조용해요. 옷에 대해 답해야 할 질문이 없어요. 커피 전에 풀어야 할 작은 협상도 없어요.",
+      "고르지 않아요. 그냥 옷장을 열고 손에 제일 가까운 셔츠를 집어요. 조용한 방식으로 근본적인, 일종의 작은 안도와 함께.",
+      "옷을 더 많이 가진 게, 알고 보니, 제가 막연히 바랐던 방식으로 저를 특별히 자유롭게, 특별히 정교하게, 특별히 생기 있게 만들지 않았어요.",
+      "더 적게 가진 게, 어쩐 일인지, 그렇게 했어요 — 그 조용하고 포괄적이며 근본적인 발견이 실제로 무슨 뜻인지 여전히 천천히 배우는 중이에요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l3-111"],
+    "quiz": [
+      {
+        "question": "What did the writer vaguely hope owning more clothes would do?",
+        "questionKo": "글쓴이는 옷을 더 많이 가지는 게 무엇을 해 줄 거라고 막연히 바랐나요?",
+        "options": ["Save money", "Make her feel particularly free, particularly elaborate, or particularly alive", "Make her popular", "Save time"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say she is still learning?",
+        "questionKo": "글쓴이는 무엇을 여전히 배우는 중이라고 하나요?",
+        "options": ["How to dress better", "What that quiet, comprehensive, fundamental discovery actually means", "How to shop more carefully", "How to fold clothes"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-28-same-five-shirts-l6",
+    "title": "I Wear the Same Five Shirts",
+    "titleKo": "같은 셔츠 다섯 벌만 입어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-28-same-five-shirts"],
+    "paragraphs": [
+      "These days, I have only five shirts hanging quietly in my closet, all neatly and almost ceremonially spaced.",
+      "They look almost comprehensively identical to anyone observing — plain gray, soft black, simple white, all in worn, unceremonious cotton that no longer announces anything.",
+      "Before, my closet was crowded with clothes I had not worn in years, retained out of habit and a vague, fundamentally unexamined sense of possibility — the unprecedented density of a life I had not actually been living.",
+      "Every morning, I used to ask the same quietly exhausting question: what should I wear today, and what would it quietly communicate, in its own small paradigm, about me?",
+      "Often, I felt tired before the workday had even properly started, as if a small but comprehensive energy had already been spent on a decision that did not deserve the spending.",
+      "One Sunday afternoon, almost without preliminary planning or ceremony, I put most of my clothes into a large bag and carried them out to a donation bin three blocks away.",
+      "I kept only five shirts. The ones I genuinely loved wearing — the ones that felt like a small, honest agreement between my body and the day ahead, with nothing left to prove.",
+      "At first, the change felt strange and slightly disorienting, almost juxtapose against everything I had been quietly taught about closets and selves and what fullness looks like.",
+      "Now my morning is quiet. There is no question left to answer about my clothes, no small daily negotiation to elaborate before coffee, no fragmentary self-presentation to assemble.",
+      "I do not choose. I just open the closet and pick whichever shirt is closest to my hand, with a kind of small, accumulating relief that is, in its quiet way, fundamental.",
+      "Owning more clothes did not, as it turned out, make me feel particularly free, particularly elaborate, or particularly alive in any of the ways the unprecedented abundance had vaguely promised.",
+      "Owning fewer, somehow, did — and I am still slowly learning, week by quiet week, what that fundamental and almost embarrassingly small discovery actually means."
+    ],
+    "translation": [
+      "요즘은, 옷장에 셔츠가 다섯 벌만 단정하고 거의 의식처럼 간격을 두고 조용히 걸려 있어요.",
+      "관찰하는 누군가에겐 거의 포괄적으로 똑같아 보여요 — 단순한 회색, 부드러운 검정, 단순한 흰색, 모두 입어서 부드러워진, 더 이상 아무것도 선언하지 않는 무덤덤한 면이에요.",
+      "예전엔, 옷장이 몇 년 동안 안 입은 옷으로 빽빽했어요. 습관과, 막연하고 근본적으로 검토되지 않은 가능성의 느낌 때문에 가지고 있던 것들 — 제가 실제로는 살지 않던 삶의 전례 없는 밀도였어요.",
+      "매일 아침, 같은 조용히 지치는 질문을 했어요: 오늘 뭘 입지? 그게 나만의 작은 패러다임 안에서, 나에 대해 뭘 조용히 전달할까?",
+      "자주, 일이 제대로 시작되기도 전에 지쳤어요. 소비할 가치가 없는 결정에 작지만 포괄적인 에너지가 이미 쓰여버린 것처럼.",
+      "어느 일요일 오후, 거의 예비 계획도, 의식도 없이, 옷 대부분을 큰 봉지에 담아 세 블록 떨어진 기부함으로 가져갔어요.",
+      "다섯 벌만 남겼어요. 진심으로 입고 싶었던 것 — 제 몸과 앞으로의 하루 사이의 작고 솔직한 합의처럼 느껴지는, 더 이상 증명할 게 없는 것들요.",
+      "처음엔, 그 변화가 이상하고 약간 방향감 잃은 느낌이었어요. 옷장과 자아와 충만함의 모습에 대해 제가 조용히 배워왔던 모든 것과 거의 병치된 느낌이었어요.",
+      "지금은 아침이 조용해요. 옷에 대해 답해야 할 질문이 없어요. 커피 전에 풀어야 할 작은 일일 협상도 없어요. 조립해야 할 단편적인 자기 제시도 없어요.",
+      "고르지 않아요. 그냥 옷장을 열고 손에 제일 가까운 셔츠를 집어요. 조용한 방식으로 근본적인, 일종의 작고 누적되는 안도와 함께.",
+      "옷을 더 많이 가진 게, 알고 보니, 전례 없는 풍요가 막연히 약속했던 어떤 방식으로도 저를 특별히 자유롭게, 특별히 정교하게, 특별히 생기 있게 만들지 않았어요.",
+      "더 적게 가진 게, 어쩐 일인지, 그렇게 했어요 — 한 주 한 주 조용히, 그 근본적이고 거의 부끄러울 만큼 작은 발견이 실제로 무슨 뜻인지 여전히 천천히 배우는 중이에요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l5-001", "l5-002", "l4-001"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the unworn clothes she used to keep?",
+        "questionKo": "글쓴이는 안 입던 옷들을 어떻게 묘사하나요?",
+        "options": ["Expensive investments", "The unprecedented density of a life I had not actually been living", "Family heirlooms", "Functional necessities"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is the writer learning the meaning of her discovery?",
+        "questionKo": "글쓴이는 자기 발견의 의미를 어떻게 배우고 있나요?",
+        "options": ["Through workshops", "Slowly, week by quiet week", "Through reading books", "By teaching others"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

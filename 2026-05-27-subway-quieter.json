@@ -1,0 +1,320 @@
+[
+  {
+    "id": "col-2026-05-27-subway-quieter-l1",
+    "title": "The Subway Got Quieter",
+    "titleKo": "지하철이 조용해졌어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-05-27-subway-quieter"],
+    "paragraphs": [
+      "I take the subway every day.",
+      "Long ago, it was loud. People talked. Babies cried. Papers made noise.",
+      "Now it is quiet. Very quiet.",
+      "Everyone has earphones in their ears.",
+      "We sit together. But we are alone.",
+      "At first, I liked the quiet.",
+      "Now I miss something. I do not know what.",
+      "One day, my eyes met another person's eyes.",
+      "We smiled. Just a small smile.",
+      "For one second, the train felt alive.",
+      "Then we both looked down at our phones.",
+      "We are in the same car. Maybe not the same place."
+    ],
+    "translation": [
+      "저는 매일 지하철을 타요.",
+      "오래 전엔, 시끄러웠어요. 사람들이 얘기했어요. 아기가 울었어요. 신문도 소리를 냈어요.",
+      "지금은 조용해요. 아주 조용해요.",
+      "모두 귀에 이어폰을 꽂고 있어요.",
+      "같이 앉아 있어요. 그런데 혼자예요.",
+      "처음엔, 조용한 게 좋았어요.",
+      "지금은 뭔가가 그리워요. 뭔지는 몰라요.",
+      "어느 날, 제 눈과 다른 사람 눈이 마주쳤어요.",
+      "우리는 웃었어요. 아주 작게.",
+      "그 1초 동안, 지하철이 살아있는 것 같았어요.",
+      "그러고는 둘 다 폰을 봤어요.",
+      "같은 칸에 있어요. 같은 공간은 아닌지도 몰라요."
+    ],
+    "targetWords": ["l1-130", "l1-200", "l1-160", "l1-093", "l1-094"],
+    "quiz": [
+      {
+        "question": "What does the writer say about how everyone uses the subway now?",
+        "questionKo": "지금 사람들은 지하철에서 어떻게 행동한다고 했나요?",
+        "options": ["Everyone talks loudly", "Everyone has earphones in their ears", "Everyone reads newspapers", "Everyone sleeps"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What happened when the writer's eyes met another person's eyes?",
+        "questionKo": "글쓴이와 다른 사람의 눈이 마주쳤을 때 무슨 일이 있었나요?",
+        "options": ["They argued", "They smiled — just a small smile", "Nothing happened", "They started talking"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-27-subway-quieter-l2",
+    "title": "The Subway Got Quieter",
+    "titleKo": "지하철이 조용해졌어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-05-27-subway-quieter"],
+    "paragraphs": [
+      "I take the subway every day to go to work.",
+      "Long ago, it was a loud place. People talked. Babies cried. Newspapers made paper sounds in many hands.",
+      "Now the subway is very quiet. Strangely quiet, almost like a library.",
+      "Almost everyone has small earphones in their ears, listening to something private.",
+      "We sit together in the same car, but in some way, each of us is alone.",
+      "At first, I liked the quiet. I was tired, and the silence felt like a small gift.",
+      "Now I miss something. I cannot say exactly what it is.",
+      "One morning, my eyes accidentally met another person's eyes across the car.",
+      "We smiled, just a small smile, for less than a second.",
+      "For that one short moment, the train felt warm and alive.",
+      "Then we both looked down at our phones again, without a word.",
+      "We share the same car. But maybe we no longer share the same place."
+    ],
+    "translation": [
+      "저는 매일 지하철을 타고 일하러 가요.",
+      "오래 전엔, 시끄러운 곳이었어요. 사람들이 얘기했어요. 아기들이 울었어요. 여러 손에서 신문이 종이 소리를 냈어요.",
+      "지금 지하철은 아주 조용해요. 이상하게 조용해요. 거의 도서관 같아요.",
+      "거의 모든 사람이 작은 이어폰을 귀에 꽂고, 뭔가 자기만의 것을 듣고 있어요.",
+      "같은 칸에 같이 앉아 있어요. 그런데 어떻게 보면, 각자 혼자예요.",
+      "처음엔, 조용한 게 좋았어요. 피곤했고, 그 침묵이 작은 선물처럼 느껴졌어요.",
+      "지금은 뭔가가 그리워요. 정확히 뭔지는 말할 수 없어요.",
+      "어느 아침, 우연히 제 눈이 칸 건너편 다른 사람 눈과 마주쳤어요.",
+      "우리는 웃었어요, 아주 작게, 1초도 안 되게.",
+      "그 짧은 순간 동안, 지하철이 따뜻하고 살아있는 것처럼 느껴졌어요.",
+      "그러고는 둘 다 한 마디 없이 다시 폰을 봤어요.",
+      "같은 칸을 나눠요. 그런데 더 이상 같은 공간을 나누는 건 아닌지도 몰라요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-130", "l1-200", "l1-160"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the quiet subway?",
+        "questionKo": "글쓴이는 조용해진 지하철을 어떻게 묘사하나요?",
+        "options": ["Like a busy market", "Strangely quiet, almost like a library", "Like a concert hall", "Like a noisy cafe"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer realize at the end?",
+        "questionKo": "끝부분에서 글쓴이가 깨닫는 것은?",
+        "options": ["They love the silence", "They share the same car, but maybe no longer the same place", "They want to move", "They want louder music"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-27-subway-quieter-l3",
+    "title": "The Subway Got Quieter",
+    "titleKo": "지하철이 조용해졌어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-05-27-subway-quieter"],
+    "paragraphs": [
+      "I have taken the subway to work for many years, the same line, the same morning car.",
+      "Long ago, it used to be a loud, busy place. People chatted with strangers, babies cried freely, and the rustle of newspapers filled the air.",
+      "Now the subway is strangely quiet. Almost like a moving library, where everyone has agreed not to speak.",
+      "Nearly every person has small earphones tucked into their ears, listening to something completely private.",
+      "We sit together in the same car, in close physical contact, but in some quieter way, each of us is alone.",
+      "At first, I welcomed the silence. I was tired from work, and that morning quiet felt like a small unexpected gift.",
+      "These days I miss something — a small warmth that used to be there — but I cannot quite say what it is.",
+      "One morning, by accident, my eyes met another person's eyes across the swaying car.",
+      "We smiled, just a small smile, for less than a second.",
+      "For that brief moment, the entire train felt warm and unexpectedly alive.",
+      "Then we both looked down at our phones again, without exchanging a single word.",
+      "We share the same car every morning. But perhaps we no longer share the same place."
+    ],
+    "translation": [
+      "저는 오랫동안 같은 노선, 같은 아침 칸으로 지하철을 타고 출근해 왔어요.",
+      "오래 전엔, 시끄럽고 분주한 곳이었어요. 사람들은 모르는 사람과도 얘기했고, 아기들은 마음껏 울었고, 신문 부스럭거리는 소리가 공기를 채웠어요.",
+      "지금 지하철은 이상하게 조용해요. 마치 움직이는 도서관 같아요. 모두 말하지 않기로 한 곳처럼요.",
+      "거의 모든 사람이 작은 이어폰을 귀에 꽂고, 완전히 자기만의 것을 듣고 있어요.",
+      "같은 칸에 같이 앉아, 몸은 가까이 닿아 있어요. 그런데 더 조용한 의미에서, 각자 혼자예요.",
+      "처음엔, 그 침묵이 반가웠어요. 일에 지쳐 있었고, 그 아침의 고요가 예상치 못한 작은 선물처럼 느껴졌어요.",
+      "요즘은 뭔가가 그리워요 — 거기 있던 어떤 작은 온기 — 그런데 그게 뭔지 정확히 말할 수가 없어요.",
+      "어느 아침, 우연히, 흔들리는 칸 건너편에서 제 눈과 다른 사람 눈이 마주쳤어요.",
+      "우리는 웃었어요, 아주 작게, 1초도 안 되게.",
+      "그 짧은 순간 동안, 지하철 전체가 따뜻하고 예상치 못하게 살아있는 것처럼 느껴졌어요.",
+      "그러고는 둘 다 한 마디도 주고받지 않고 다시 폰을 봤어요.",
+      "매일 아침 같은 칸을 나눠요. 그런데 어쩌면 더 이상 같은 공간을 나누는 건 아닌지도 몰라요."
+    ],
+    "targetWords": ["l3-002", "l3-003", "l3-111", "l2-130", "l1-130"],
+    "quiz": [
+      {
+        "question": "Why did the writer first welcome the subway silence?",
+        "questionKo": "글쓴이가 처음 지하철의 침묵을 반긴 이유는?",
+        "options": ["They liked silence in general", "They were tired from work and it felt like an unexpected gift", "It helped them study", "They disliked talking"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer's final reflection about sharing the same car?",
+        "questionKo": "같은 칸을 나누는 것에 대한 글쓴이의 마지막 성찰은?",
+        "options": ["The car is too crowded", "They share the same car, but perhaps no longer the same place", "They prefer to ride alone", "They want a different line"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-27-subway-quieter-l4",
+    "title": "The Subway Got Quieter",
+    "titleKo": "지하철이 조용해졌어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-05-27-subway-quieter"],
+    "paragraphs": [
+      "I have taken the same subway line to work for almost a decade — same line, same morning car, same approximate seat.",
+      "Long ago, it used to be a loud, busy environment. Strangers chatted, babies cried freely, and the rustle of newspapers filled the air like a kind of communal breathing.",
+      "Now the subway is strangely quiet, almost like a moving library where everyone has tacitly agreed not to speak.",
+      "Nearly every passenger has small earphones tucked into their ears, listening to something completely private and inaccessible to anyone around them.",
+      "We sit together in the same car, in close physical contact, and yet in some quieter, more important way, each of us travels alone.",
+      "At first, I welcomed the silence. I was perpetually tired from work, and that morning quiet felt like an unexpected gift that the city had quietly given me.",
+      "These days I find myself missing something — a small warmth that used to communicate itself through the air — but I cannot quite announce what it is.",
+      "One morning, entirely by accident, my eyes met another passenger's eyes across the swaying car, just for an instant.",
+      "We smiled, just a small smile, for considerably less than a second.",
+      "For that brief moment, the entire train felt warm and unexpectedly alive, as if something had momentarily been restored.",
+      "Then we both looked down at our phones again, without exchanging a single word or further glance.",
+      "We share the same car every morning. But perhaps, somewhere along the way, we have stopped sharing the same place."
+    ],
+    "translation": [
+      "저는 거의 10년째 같은 지하철 노선을 타고 출근해요 — 같은 노선, 같은 아침 칸, 거의 같은 자리.",
+      "오래 전엔, 시끄럽고 분주한 환경이었어요. 모르는 사람끼리 얘기했고, 아기들은 마음껏 울었고, 신문 부스럭거리는 소리가 공기를 채웠어요. 일종의 공동의 호흡처럼.",
+      "지금 지하철은 이상하게 조용해요. 마치 움직이는 도서관 같아요. 모두가 암묵적으로 말하지 않기로 동의한 곳처럼요.",
+      "거의 모든 승객이 작은 이어폰을 귀에 꽂고, 완전히 자기만의, 주변 누구도 접근할 수 없는 무언가를 듣고 있어요.",
+      "같은 칸에 같이 앉아, 몸은 가까이 닿아 있어요. 그런데 더 조용하고 더 중요한 의미에서, 각자 혼자 이동해요.",
+      "처음엔, 그 침묵이 반가웠어요. 일에 늘 지쳐 있었고, 그 아침의 고요가 도시가 조용히 건넨 예상치 못한 선물처럼 느껴졌어요.",
+      "요즘은 뭔가가 그리워져요 — 공기를 통해 스스로 전달되던 어떤 작은 온기 — 그런데 그게 뭔지 발표할 수가 없어요.",
+      "어느 아침, 완전히 우연히, 흔들리는 칸 건너편에서 제 눈과 다른 승객의 눈이, 한 순간, 마주쳤어요.",
+      "우리는 웃었어요, 아주 작게, 1초보다 한참 짧게.",
+      "그 짧은 순간 동안, 지하철 전체가 따뜻하고 예상치 못하게 살아있는 것처럼 느껴졌어요. 마치 뭔가가 잠시 복원된 것처럼.",
+      "그러고는 둘 다 한 마디도, 시선 한 번도 더 주고받지 않고 다시 폰을 봤어요.",
+      "매일 아침 같은 칸을 나눠요. 그런데 어쩌면, 어딘가에서, 같은 공간을 나누는 건 멈춰버렸는지도 몰라요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-111", "l3-002", "l2-130"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the old subway atmosphere?",
+        "questionKo": "글쓴이는 옛 지하철 분위기를 어떻게 묘사하나요?",
+        "options": ["Cold and efficient", "Loud and busy — strangers chatted, newspapers filled the air like a kind of communal breathing", "Empty and dark", "Silent and orderly"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the brief eye contact and small smile evoke?",
+        "questionKo": "짧은 눈맞춤과 작은 미소는 어떤 느낌을 불러일으키나요?",
+        "options": ["Anger", "The entire train felt warm and unexpectedly alive — as if something had momentarily been restored", "Embarrassment", "Boredom"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-27-subway-quieter-l5",
+    "title": "The Subway Got Quieter",
+    "titleKo": "지하철이 조용해졌어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-05-27-subway-quieter"],
+    "paragraphs": [
+      "I have taken the same subway line to work for almost a decade — the same line, the same morning car, the same approximate seat by the window.",
+      "Long ago, it used to constitute a loud, busy, fundamentally social environment. Strangers chatted, babies cried freely, and the comprehensive rustle of newspapers filled the air like a kind of communal breathing.",
+      "Now the subway is strangely, almost elaborately quiet — like a moving library where every passenger has tacitly agreed not to speak above a whisper.",
+      "Nearly every passenger has small earphones tucked into their ears, listening to something completely private and structurally inaccessible to anyone seated beside them.",
+      "We sit together in the same car, in close physical contact, and yet in some quieter, more fundamental way, each of us travels alone, sealed inside our own audio.",
+      "At first, I welcomed the silence. I was perpetually tired from work, and that morning quiet felt like an unexpected gift the city had quietly elaborate to deliver.",
+      "These days I find myself missing something — a small warmth that used to communicate itself through the air — but I cannot quite elaborate what it is.",
+      "One morning, entirely by accident, my eyes met another passenger's eyes across the swaying car, only for an instant.",
+      "We smiled, just a small smile, for considerably less than a second, the gesture so brief it almost did not happen.",
+      "For that fundamental moment, the entire train felt warm and unexpectedly alive, as though something quietly necessary had been momentarily restored.",
+      "Then we both looked down at our phones again, without exchanging a single word, glance, or follow-up gesture.",
+      "We share the same car every morning. But perhaps, somewhere along the way we did not notice, we have stopped sharing the same place."
+    ],
+    "translation": [
+      "저는 거의 10년째 같은 지하철 노선을 타고 출근해요 — 같은 노선, 같은 아침 칸, 창가 거의 같은 자리.",
+      "오래 전엔, 시끄럽고 분주하고 근본적으로 사회적인 환경이었어요. 모르는 사람끼리 얘기했고, 아기들은 마음껏 울었고, 신문의 포괄적인 부스럭거림이 공기를 일종의 공동 호흡처럼 채웠어요.",
+      "지금 지하철은 이상하게, 거의 정교하게 조용해요 — 마치 움직이는 도서관 같아요. 모든 승객이 암묵적으로 속삭임 이상으로 말하지 않기로 한 곳처럼요.",
+      "거의 모든 승객이 작은 이어폰을 귀에 꽂고, 옆자리 누구도 구조적으로 접근할 수 없는 완전히 자기만의 무언가를 듣고 있어요.",
+      "같은 칸에 같이 앉아, 몸은 가까이 닿아 있어요. 그런데 더 조용하고 더 근본적인 의미에서, 각자 자기 오디오 안에 봉인된 채 혼자 이동해요.",
+      "처음엔, 그 침묵이 반가웠어요. 일에 늘 지쳐 있었고, 그 아침의 고요가 도시가 조용히 정교하게 전해 준 예상치 못한 선물처럼 느껴졌어요.",
+      "요즘은 뭔가가 그리워져요 — 공기를 통해 스스로 전달되던 작은 온기 — 그런데 그게 뭔지 정확히 풀어 말할 수가 없어요.",
+      "어느 아침, 완전히 우연히, 흔들리는 칸 건너편에서 제 눈과 다른 승객의 눈이, 한 순간만, 마주쳤어요.",
+      "우리는 웃었어요, 아주 작게, 1초보다 한참 짧게. 그 제스처가 너무 짧아서 거의 일어나지 않은 것 같았어요.",
+      "그 근본적인 순간 동안, 지하철 전체가 따뜻하고 예상치 못하게 살아있는 것처럼 느껴졌어요. 마치 조용히 필요한 무언가가 잠시 복원된 것처럼.",
+      "그러고는 둘 다 한 마디도, 시선도, 후속 제스처도 더 주고받지 않고 다시 폰을 봤어요.",
+      "매일 아침 같은 칸을 나눠요. 그런데 어쩌면, 우리가 눈치채지 못한 어딘가에서, 같은 공간을 나누는 건 멈춰버린 게 아닐까요."
+    ],
+    "targetWords": ["l5-002", "l5-003", "l5-001", "l4-001", "l3-111"],
+    "quiz": [
+      {
+        "question": "How does the writer describe each passenger's audio experience?",
+        "questionKo": "글쓴이는 각 승객의 청취 경험을 어떻게 묘사하나요?",
+        "options": ["Shared with neighbors", "Completely private and structurally inaccessible to anyone seated beside them", "Loud and disruptive", "Identical across the car"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer ultimately suggest about the shared car?",
+        "questionKo": "공유된 칸에 대해 글쓴이가 최종적으로 시사하는 것은?",
+        "options": ["It is more crowded than before", "Somewhere along the way we did not notice, we have stopped sharing the same place", "Trains should be quieter still", "Strangers should be forced to talk"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-05-27-subway-quieter-l6",
+    "title": "The Subway Got Quieter",
+    "titleKo": "지하철이 조용해졌어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-05-27-subway-quieter"],
+    "paragraphs": [
+      "I have taken the same subway line to work for the better part of a decade — the same line, the same morning car, the same approximate window seat that I have come to think of, perhaps unjustifiably, as mine.",
+      "Long ago, it used to constitute a loud, busy, fundamentally social environment, characterized by an unprecedented density of incidental human contact. Strangers chatted, babies cried freely, and the comprehensive rustle of newspapers filled the air like a kind of communal breathing.",
+      "Now the subway is strangely, almost elaborately quiet — a moving library in which every passenger has tacitly agreed to maintain something close to a vow of silence.",
+      "Nearly every passenger has small earphones tucked into their ears, listening to something completely private and structurally inaccessible to anyone seated immediately beside them.",
+      "We sit together in the same car, in close physical contact that an earlier era might have considered intimate, and yet in some quieter and more fundamental way, each of us travels alone, hermetically sealed inside our own personal audio.",
+      "At first, like most fellow passengers I suspect, I welcomed the silence. I was perpetually tired from work, and the morning quiet arrived as an unexpected gift the city had quietly elaborated, leaf by leaf, on my behalf.",
+      "These days, however, I find myself missing something — a small accidental warmth that used to communicate itself through the shared air — and I cannot quite elaborate what it is, except by its absence.",
+      "One morning, entirely by accident, my eyes met another passenger's eyes across the swaying car, just for an instant — the kind of accident that no longer occurs by design.",
+      "We smiled, just a small smile, for considerably less than a second — a gesture so brief, so fragmentary, that it almost did not register as having happened.",
+      "For that fundamental moment, the entire train felt warm and unexpectedly alive, as though something quietly necessary, long juxtapose against the daily routine, had been momentarily restored.",
+      "Then we both looked down at our phones again, without exchanging a single word, glance, or follow-up gesture — and the silence, which had briefly cracked, closed itself over us once more.",
+      "We share the same car every morning. But perhaps, somewhere along the way we did not notice, we have quietly stopped sharing the same place — and that quiet, paradigm-level absence, more than the silence itself, is what I find I miss."
+    ],
+    "translation": [
+      "저는 10년 가까이 같은 지하철 노선을 타고 출근해 왔어요 — 같은 노선, 같은 아침 칸, 어쩌면 부당하게도 제 것이라고 여기게 된 거의 같은 창가 자리.",
+      "오래 전엔, 시끄럽고 분주하고 근본적으로 사회적인 환경이었어요. 우발적인 인간 접촉의 전례 없는 밀도로 특징지어지는 곳이었죠. 모르는 사람끼리 얘기했고, 아기들은 마음껏 울었고, 신문의 포괄적인 부스럭거림이 공기를 일종의 공동 호흡처럼 채웠어요.",
+      "지금 지하철은 이상하게, 거의 정교하게 조용해요 — 모든 승객이 암묵적으로 침묵 서약에 가까운 것을 지키기로 합의한 움직이는 도서관 같아요.",
+      "거의 모든 승객이 작은 이어폰을 귀에 꽂고, 바로 옆자리 누구도 구조적으로 접근할 수 없는 완전히 자기만의 무언가를 듣고 있어요.",
+      "같은 칸에 같이 앉아, 옛 시대였다면 친밀하다고 여겼을 만큼 몸은 가까이 닿아 있어요. 그런데 더 조용하고 더 근본적인 의미에서, 각자 자기만의 개인 오디오 안에 밀폐된 채 혼자 이동해요.",
+      "처음엔, 동승자 대부분이 그랬을 거라 짐작하듯, 그 침묵이 반가웠어요. 일에 늘 지쳐 있었고, 그 아침의 고요가 도시가 저를 위해 잎 하나하나 정교하게 풀어 놓은 예상치 못한 선물처럼 도착했어요.",
+      "그런데 요즘은, 뭔가가 그리워요 — 공유된 공기를 통해 우연히 스스로 전달되던 작은 온기 — 그게 뭔지는 부재로만 풀어 말할 수 있어요.",
+      "어느 아침, 완전히 우연히, 흔들리는 칸 건너편에서 제 눈과 다른 승객의 눈이, 한 순간, 마주쳤어요 — 더 이상 의도적으로는 일어나지 않는 종류의 우연이에요.",
+      "우리는 웃었어요, 아주 작게, 1초보다 한참 짧게 — 너무 짧고 너무 단편적이어서, 일어났다고 등록되지도 않을 만큼의 제스처였어요.",
+      "그 근본적인 순간 동안, 지하철 전체가 따뜻하고 예상치 못하게 살아있는 것처럼 느껴졌어요. 마치 일상과 오래 병치되어 있던, 조용히 필요한 무언가가 잠시 복원된 것처럼.",
+      "그러고는 둘 다 한 마디도, 시선도, 후속 제스처도 더 주고받지 않고 다시 폰을 봤어요 — 그리고 잠시 갈라졌던 침묵이 다시 우리 위로 닫혔어요.",
+      "매일 아침 같은 칸을 나눠요. 그런데 어쩌면, 우리가 눈치채지 못한 어딘가에서, 우리는 조용히 같은 공간을 나누는 걸 멈춰버렸어요 — 그리고 그 조용한, 패러다임 차원의 부재가, 침묵 자체보다도, 제가 그리워하는 거예요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-003"],
+    "quiz": [
+      {
+        "question": "What does the writer call the kind of accident that an eye-meeting now represents?",
+        "questionKo": "글쓴이는 지금 눈맞춤이 대표하는 그런 종류의 우연을 어떻게 부르나요?",
+        "options": ["A scheduled event", "The kind of accident that no longer occurs by design", "A regular occurrence", "An intentional gesture"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer say he misses more than the silence itself?",
+        "questionKo": "글쓴이가 침묵 자체보다 더 그리워하는 것은?",
+        "options": ["Old newspapers", "The quiet, paradigm-level absence of sharing the same place", "Loud announcements", "Crowded cars"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

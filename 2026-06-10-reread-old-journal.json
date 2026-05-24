@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-10-reread-old-journal-l1",
+    "title": "I Reread My Old Journal",
+    "titleKo": "옛 일기를 다시 읽었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-10-reread-old-journal"],
+    "paragraphs": [
+      "I found an old journal. From five years ago.",
+      "I read it slowly.",
+      "The person who wrote it was me. But also not me.",
+      "Some parts made me shy.",
+      "Some parts made me miss her.",
+      "She did not know me. The future me.",
+      "I do not know future me either.",
+      "So I will live today well. For her."
+    ],
+    "translation": [
+      "옛 일기를 찾았어요. 5년 전 것이에요.",
+      "천천히 읽었어요.",
+      "쓴 사람은 저예요. 그런데 저 같지 않아요.",
+      "어떤 부분은 부끄러웠어요.",
+      "어떤 부분은 그 사람이 그리웠어요.",
+      "그 사람은 저를 몰랐어요. 미래의 저를요.",
+      "저도 미래의 저를 몰라요.",
+      "그래서 오늘을 잘 살래요. 그 사람을 위해."
+    ],
+    "targetWords": ["l1-200", "l1-130", "l1-094", "l1-160", "l1-149"],
+    "quiz": [
+      {
+        "question": "Who wrote the old journal?",
+        "questionKo": "옛 일기는 누가 썼나요?",
+        "options": ["A friend", "Me — but also not me", "An unknown person", "Her sister"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer decide at the end?",
+        "questionKo": "끝부분에서 글쓴이가 결심하는 것은?",
+        "options": ["Stop writing journals", "Live today well — for the future her", "Burn the journal", "Hide it away"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-10-reread-old-journal-l2",
+    "title": "I Reread My Old Journal",
+    "titleKo": "옛 일기를 다시 읽었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-10-reread-old-journal"],
+    "paragraphs": [
+      "Last weekend, I found an old paper journal at the back of my closet. From five years ago.",
+      "I sat on the floor and read it slowly, page by page.",
+      "The person who wrote those pages was me. But she was also, somehow, not really me anymore.",
+      "Some parts made me feel a little shy and embarrassed.",
+      "Some other parts made me quietly miss the person she was.",
+      "She did not know me, the future me sitting there on the floor reading her.",
+      "I also do not know the future me, the woman who will read these words five years from now.",
+      "So I will try to live today well. As a small gift, for her."
+    ],
+    "translation": [
+      "지난 주말, 옷장 깊은 곳에서 옛 종이 일기를 찾았어요. 5년 전 것이에요.",
+      "바닥에 앉아 천천히, 한 장 한 장 읽었어요.",
+      "그 페이지들을 쓴 사람은 저예요. 그런데 어쩐 일인지 더 이상 정말 저 같지가 않았어요.",
+      "어떤 부분은 조금 부끄럽고 민망했어요.",
+      "어떤 다른 부분은 그 사람이었던 저를 조용히 그리워하게 했어요.",
+      "그 사람은 저를 몰랐어요, 바닥에 앉아 자신을 읽고 있는 미래의 저를요.",
+      "저도 미래의 저를 몰라요. 5년 후 이 글을 읽을 그 사람을요.",
+      "그래서 오늘을 잘 살려고 해요. 작은 선물처럼, 그 사람을 위해."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-200", "l1-130", "l1-160"],
+    "quiz": [
+      {
+        "question": "Where did the writer find the journal?",
+        "questionKo": "글쓴이는 어디에서 일기를 찾았나요?",
+        "options": ["On a shelf", "At the back of her closet", "In a drawer", "Under the bed"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What gift will the writer try to leave for her future self?",
+        "questionKo": "글쓴이는 미래의 자신에게 어떤 선물을 남기려 하나요?",
+        "options": ["A new journal", "Living today well", "A new closet", "A photograph"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-10-reread-old-journal-l3",
+    "title": "I Reread My Old Journal",
+    "titleKo": "옛 일기를 다시 읽었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-10-reread-old-journal"],
+    "paragraphs": [
+      "Last weekend, while organizing things, I found an old paper journal at the back of my crowded closet. From five years ago.",
+      "I sat down on the wooden floor and read it slowly, page by careful page, drinking cooling tea.",
+      "The person who had written those pages was me. But she was also, somehow strangely, not really the same me anymore.",
+      "Some parts made me feel a little shy and quietly embarrassed for her earnest younger voice.",
+      "Some other parts made me quietly and unexpectedly miss the person she was — her clearer hopes, her smaller worries.",
+      "She did not know me at all, the future me sitting there on the floor reading her honest sentences.",
+      "I also do not know the future me at all, the woman who will perhaps read these very words five years from now.",
+      "So I will try, more deliberately, to live today well. As a small honest gift, for her, whoever she turns out to be."
+    ],
+    "translation": [
+      "지난 주말, 물건을 정리하다가, 빽빽한 옷장 깊은 곳에서 옛 종이 일기를 찾았어요. 5년 전 것이에요.",
+      "나무 바닥에 앉아, 식어가는 차를 마시며, 천천히, 한 장 한 장 신경 써서 읽었어요.",
+      "그 페이지들을 쓴 사람은 저예요. 그런데 어쩐 일인지 이상하게, 더 이상 같은 저 같지가 않았어요.",
+      "어떤 부분은 그녀의 진지한 어린 목소리에 대해 조금 부끄럽고 조용히 민망했어요.",
+      "어떤 다른 부분은 그 사람이었던 저를 — 더 또렷한 희망, 더 작은 걱정을 — 조용히 그리고 예상치 못하게 그리워하게 했어요.",
+      "그 사람은 저를 전혀 몰랐어요, 바닥에 앉아 자신의 솔직한 문장들을 읽고 있는 미래의 저를요.",
+      "저도 미래의 저를 전혀 몰라요. 어쩌면 5년 후 바로 이 글을 읽을 그 사람을요.",
+      "그래서 더 의도적으로, 오늘을 잘 살려고 해요. 작고 솔직한 선물처럼, 그 사람이 누가 됐든, 그 사람을 위해."
+    ],
+    "targetWords": ["l3-003", "l3-111", "l2-130", "l1-200", "l1-130"],
+    "quiz": [
+      {
+        "question": "What did the writer drink while reading?",
+        "questionKo": "글쓴이는 읽으면서 무엇을 마셨나요?",
+        "options": ["Hot coffee", "Cooling tea", "Cold water", "Fresh juice"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer miss about her younger self?",
+        "questionKo": "글쓴이는 어린 자신에 대해 무엇을 그리워했나요?",
+        "options": ["Her schoolwork", "Her clearer hopes, her smaller worries", "Her friends", "Her hairstyle"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-10-reread-old-journal-l4",
+    "title": "I Reread My Old Journal",
+    "titleKo": "옛 일기를 다시 읽었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-10-reread-old-journal"],
+    "paragraphs": [
+      "Last weekend, while quietly organizing things, I found an old paper journal at the back of my crowded closet. From exactly five years ago.",
+      "I sat down on the wooden floor and read it slowly, page by careful page, drinking quietly cooling tea I had forgotten about.",
+      "The person who had written those pages was me, beyond any reasonable doubt. But she was also, somehow strangely, not really the same me anymore.",
+      "Some parts made me feel a little shy and quietly embarrassed on behalf of her earnest younger voice and the things she announced as important.",
+      "Some other parts made me quietly and unexpectedly miss the person she was — her clearer hopes, her smaller worries, her unselfconscious commitments.",
+      "She did not know me at all, the future me sitting there on the floor patiently reading her honest, occasionally elaborate sentences.",
+      "I also do not know the future me at all, the woman who will perhaps read these very lines five years from now, with her own quiet reaction.",
+      "So I will try, more deliberately, to live today well. As a small honest gift, for her, whoever she turns out to become."
+    ],
+    "translation": [
+      "지난 주말, 조용히 물건을 정리하다가, 빽빽한 옷장 깊은 곳에서 옛 종이 일기를 찾았어요. 정확히 5년 전 것이에요.",
+      "나무 바닥에 앉아, 잊고 있던 조용히 식어가는 차를 마시며, 천천히, 한 장 한 장 신경 써서 읽었어요.",
+      "그 페이지들을 쓴 사람은 저예요. 합리적 의심 없이요. 그런데 어쩐 일인지 이상하게, 더 이상 같은 저 같지가 않았어요.",
+      "어떤 부분은 그녀의 진지한 어린 목소리와 그녀가 중요하다고 알린 것들 대신, 조금 부끄럽고 조용히 민망했어요.",
+      "어떤 다른 부분은 그 사람이었던 저를 — 더 또렷한 희망, 더 작은 걱정, 자의식 없는 헌신 — 조용히 그리고 예상치 못하게 그리워하게 했어요.",
+      "그 사람은 저를 전혀 몰랐어요. 바닥에 앉아 그녀의 솔직한, 가끔 정교한 문장들을 끈기 있게 읽고 있는 미래의 저를요.",
+      "저도 미래의 저를 전혀 몰라요. 어쩌면 5년 후 자기만의 조용한 반응으로 바로 이 줄들을 읽을 그 사람을요.",
+      "그래서 더 의도적으로, 오늘을 잘 살려고 해요. 작고 솔직한 선물처럼, 그 사람이 누가 되든, 그 사람을 위해."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-111", "l3-003", "l2-130"],
+    "quiz": [
+      {
+        "question": "What did the younger self announce as important?",
+        "questionKo": "어린 자신은 무엇을 중요하다고 알렸나요?",
+        "options": ["Future careers", "Things her earnest younger voice cared about", "Money", "Famous people"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What unselfconscious quality of the younger self did the writer miss?",
+        "questionKo": "어린 자신의 어떤 자의식 없는 자질을 그리워했나요?",
+        "options": ["Her style", "Her unselfconscious commitments", "Her appearance", "Her social skills"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-10-reread-old-journal-l5",
+    "title": "I Reread My Old Journal",
+    "titleKo": "옛 일기를 다시 읽었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-10-reread-old-journal"],
+    "paragraphs": [
+      "Last weekend, while quietly and comprehensively organizing things, I found an old paper journal at the back of my crowded closet. From exactly five years ago.",
+      "I sat down on the wooden floor and read it slowly, page by careful elaborate page, drinking quietly cooling tea I had fundamentally forgotten about.",
+      "The person who had written those pages was me, beyond any reasonable comprehensive doubt. But she was also, somehow strangely, fundamentally not really the same me anymore.",
+      "Some parts made me feel a little shy and quietly embarrassed on behalf of her earnest younger voice and the things she announce as elaborate important.",
+      "Some other parts made me quietly and unexpectedly miss the person she was — her clearer hopes, her smaller fundamental worries, her unselfconscious commitments.",
+      "She did not know me at all, the future me sitting there on the floor patiently reading her honest, occasionally elaborate, fundamentally true sentences.",
+      "I also do not know the future me at all, the woman who will perhaps read these very lines five comprehensive years from now, with her own quiet reaction.",
+      "So I will try, more deliberately and fundamentally, to live today well. As a small honest gift, for her, whoever she turns out to comprehensively become."
+    ],
+    "translation": [
+      "지난 주말, 조용히 그리고 포괄적으로 물건을 정리하다가, 빽빽한 옷장 깊은 곳에서 옛 종이 일기를 찾았어요. 정확히 5년 전 것이에요.",
+      "나무 바닥에 앉아, 근본적으로 잊고 있던 조용히 식어가는 차를 마시며, 천천히, 한 장 한 장 신경 써서 정교하게 읽었어요.",
+      "그 페이지들을 쓴 사람은 저예요. 합리적이고 포괄적인 의심 없이요. 그런데 어쩐 일인지 이상하게, 근본적으로 더 이상 같은 저 같지가 않았어요.",
+      "어떤 부분은 그녀의 진지한 어린 목소리와 그녀가 정교하게 중요하다고 알린 것들 대신, 조금 부끄럽고 조용히 민망했어요.",
+      "어떤 다른 부분은 그 사람이었던 저를 — 더 또렷한 희망, 더 작은 근본 걱정, 자의식 없는 헌신 — 조용히 그리고 예상치 못하게 그리워하게 했어요.",
+      "그 사람은 저를 전혀 몰랐어요. 바닥에 앉아 그녀의 솔직한, 가끔 정교한, 근본적으로 진실한 문장들을 끈기 있게 읽고 있는 미래의 저를요.",
+      "저도 미래의 저를 전혀 몰라요. 어쩌면 포괄적으로 5년 후 자기만의 조용한 반응으로 바로 이 줄들을 읽을 그 사람을요.",
+      "그래서 더 의도적이고 근본적으로, 오늘을 잘 살려고 해요. 작고 솔직한 선물처럼, 그 사람이 포괄적으로 누가 되든, 그 사람을 위해."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l4-002"],
+    "quiz": [
+      {
+        "question": "Beyond what could the writer be sure she wrote it?",
+        "questionKo": "글쓴이는 무엇 너머로 자신이 썼다는 걸 확신할 수 있나요?",
+        "options": ["A small doubt", "Any reasonable comprehensive doubt", "Her family's claim", "A handwriting expert"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How will the writer try to live today?",
+        "questionKo": "글쓴이는 오늘을 어떻게 살려 하나요?",
+        "options": ["Carelessly", "More deliberately and fundamentally, as a gift for her future self", "Slowly", "By writing more journals"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-10-reread-old-journal-l6",
+    "title": "I Reread My Old Journal",
+    "titleKo": "옛 일기를 다시 읽었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-10-reread-old-journal"],
+    "paragraphs": [
+      "Last weekend, while quietly and comprehensively organizing things in an unprecedented spring cleaning, I found an old paper journal at the back of my crowded closet, dated exactly five years ago.",
+      "I sat down on the wooden floor and read it slowly, page by careful elaborate page, drinking quietly cooling tea I had fundamentally forgotten about while turning the leaves.",
+      "The person who had written those pages was me, beyond any reasonable comprehensive doubt. But she was also, somehow strangely and fundamentally, no longer really the same me anymore — a juxtapose of two selves in one body.",
+      "Some parts made me feel a little shy and quietly embarrassed on behalf of her earnest younger voice and the unprecedented things she announced as elaborately important without irony.",
+      "Some other parts made me quietly and unexpectedly miss the person she was — her clearer hopes, her smaller fundamental worries, her unselfconscious commitments that I have since quietly let dissolve.",
+      "She did not know me at all, the future me sitting there on the floor patiently reading her honest, occasionally elaborate, fundamentally true sentences in the unprecedented light of a Saturday afternoon.",
+      "I also do not know the future me at all, the woman who will perhaps read these very lines five comprehensive years from now, with her own quiet reaction and her own paradigm.",
+      "So I will try, more deliberately and fundamentally, to live today well. As a small honest gift, for her, whoever she turns out to comprehensively become in the years I cannot yet see."
+    ],
+    "translation": [
+      "지난 주말, 전례 없는 봄맞이 청소로 조용히 그리고 포괄적으로 물건을 정리하다가, 빽빽한 옷장 깊은 곳에서 정확히 5년 전 날짜의 옛 종이 일기를 찾았어요.",
+      "나무 바닥에 앉아, 페이지를 넘기며 근본적으로 잊고 있던 조용히 식어가는 차를 마시며, 천천히, 한 장 한 장 신경 써서 정교하게 읽었어요.",
+      "그 페이지들을 쓴 사람은 저예요. 합리적이고 포괄적인 의심 없이요. 그런데 어쩐 일인지 이상하고 근본적으로, 더 이상 같은 저 같지가 않았어요 — 한 몸 안 두 자아의 병치였어요.",
+      "어떤 부분은 그녀의 진지한 어린 목소리와 그녀가 아이러니 없이 정교하게 중요하다고 알린 전례 없는 것들 대신, 조금 부끄럽고 조용히 민망했어요.",
+      "어떤 다른 부분은 그 사람이었던 저를 — 더 또렷한 희망, 더 작은 근본 걱정, 제가 그 후 조용히 녹게 둔 자의식 없는 헌신 — 조용히 그리고 예상치 못하게 그리워하게 했어요.",
+      "그 사람은 저를 전혀 몰랐어요. 토요일 오후의 전례 없는 빛 속에서, 바닥에 앉아 그녀의 솔직한, 가끔 정교한, 근본적으로 진실한 문장들을 끈기 있게 읽고 있는 미래의 저를요.",
+      "저도 미래의 저를 전혀 몰라요. 어쩌면 포괄적으로 5년 후 자기만의 조용한 반응과 자기만의 패러다임으로 바로 이 줄들을 읽을 그 사람을요.",
+      "그래서 더 의도적이고 근본적으로, 오늘을 잘 살려고 해요. 작고 솔직한 선물처럼, 아직 볼 수 없는 세월 속에서 그 사람이 포괄적으로 누가 되든, 그 사람을 위해."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-002"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the relationship between her two selves?",
+        "questionKo": "글쓴이는 자신의 두 자아의 관계를 어떻게 묘사하나요?",
+        "options": ["Identical twins", "A juxtapose of two selves in one body", "Strangers entirely", "Mother and child"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What has the writer since let dissolve from her younger self?",
+        "questionKo": "글쓴이는 어린 자신에게서 무엇을 녹게 두었나요?",
+        "options": ["Her photographs", "Her unselfconscious commitments", "Her textbooks", "Her family ties"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

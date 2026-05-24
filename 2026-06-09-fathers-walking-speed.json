@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-09-fathers-walking-speed-l1",
+    "title": "My Father's Walking Speed",
+    "titleKo": "아버지의 걸음 속도",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-09-fathers-walking-speed"],
+    "paragraphs": [
+      "Last Sunday, I walked with my father.",
+      "When I was small, he was always too fast.",
+      "I had to run to follow him.",
+      "Sunday, I noticed something.",
+      "He was walking slower than me.",
+      "I had to slow down. I had to wait.",
+      "He did not look at me. He just walked.",
+      "But I knew. Time turned around."
+    ],
+    "translation": [
+      "지난주 일요일, 아버지와 같이 걸었어요.",
+      "어렸을 때, 아버지는 늘 너무 빨랐어요.",
+      "따라가려고 뛰어야 했어요.",
+      "일요일에, 뭔가를 알아챘어요.",
+      "아버지가 저보다 천천히 걷고 있었어요.",
+      "제가 느려져야 했어요. 기다려야 했어요.",
+      "아버지는 저를 안 봤어요. 그냥 걸었어요.",
+      "그런데 알았어요. 시간이 돌았어요."
+    ],
+    "targetWords": ["l1-200", "l1-130", "l1-094", "l1-160", "l1-149"],
+    "quiz": [
+      {
+        "question": "When the writer was small, how did her father walk?",
+        "questionKo": "어렸을 때 아버지는 어떻게 걸었나요?",
+        "options": ["Slowly", "Always too fast", "Just right", "She does not remember"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer realize on Sunday?",
+        "questionKo": "일요일에 글쓴이가 깨달은 것은?",
+        "options": ["She is faster", "Time turned around — she had to slow down for him", "Sundays are short", "Walking is hard"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-09-fathers-walking-speed-l2",
+    "title": "My Father's Walking Speed",
+    "titleKo": "아버지의 걸음 속도",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-09-fathers-walking-speed"],
+    "paragraphs": [
+      "Last Sunday afternoon, I went for a walk in the park with my old father.",
+      "When I was a small child, he was always walking too fast for me.",
+      "I had to half-run, half-walk, just to follow his strong steps.",
+      "But last Sunday, somewhere in the park, I noticed something quiet.",
+      "He was walking much more slowly than I was now.",
+      "I had to slow my own steps. I had to wait gently for him.",
+      "He did not look up at me. He just walked at his new speed.",
+      "But I knew without words. Time had turned around without asking us."
+    ],
+    "translation": [
+      "지난주 일요일 오후, 늙으신 아버지와 공원에서 산책을 갔어요.",
+      "어렸을 때, 아버지는 늘 저에겐 너무 빨랐어요.",
+      "그 단단한 걸음을 따라가려고 거의 뛰어야 했어요.",
+      "그런데 지난 일요일에, 공원 어딘가에서, 조용한 뭔가를 알아챘어요.",
+      "아버지가 저보다 훨씬 천천히 걷고 있었어요.",
+      "제가 제 걸음을 늦춰야 했어요. 부드럽게 기다려야 했어요.",
+      "아버지는 저를 올려다보지 않았어요. 그냥 자기 새 속도로 걸었어요.",
+      "그런데 말 없이 알았어요. 시간이 우리에게 묻지도 않고 돌았어요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-200", "l1-130", "l1-160"],
+    "quiz": [
+      {
+        "question": "How did the writer have to walk as a child?",
+        "questionKo": "어릴 때 글쓴이는 어떻게 걸어야 했나요?",
+        "options": ["Slowly", "Half-run, half-walk to follow her father", "In a straight line", "Holding his hand"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer know without words?",
+        "questionKo": "글쓴이는 말 없이 무엇을 알았나요?",
+        "options": ["The park's exit", "Time had turned around without asking them", "Her father was tired", "It would rain"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-09-fathers-walking-speed-l3",
+    "title": "My Father's Walking Speed",
+    "titleKo": "아버지의 걸음 속도",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-09-fathers-walking-speed"],
+    "paragraphs": [
+      "Last Sunday afternoon, I went for a slow walk in the neighborhood park with my aging father.",
+      "When I was a small child years ago, he was always walking too fast for me, his long stride impossible to match.",
+      "I had to half-run, half-walk, almost embarrassed, just to follow his strong purposeful steps down the sidewalk.",
+      "But last Sunday, somewhere along the wide central path of the park, I noticed something quiet and important.",
+      "He was now walking much more slowly than I was, and it was not because he was thinking.",
+      "I had to slow my own steps without comment. I had to wait gently and patiently for him.",
+      "He did not look up at me or seem to notice. He just walked at his new, careful speed.",
+      "But I knew without any words. Time had quietly turned around inside our small family, without ever asking us."
+    ],
+    "translation": [
+      "지난주 일요일 오후, 늙어가시는 아버지와 동네 공원에서 천천히 산책을 갔어요.",
+      "몇 년 전 어렸을 때, 아버지는 늘 저에겐 너무 빨랐어요. 그 긴 보폭은 따라잡을 수 없었어요.",
+      "거의 부끄러워하며, 강하고 목적 있는 그 걸음을 따라가려고 인도에서 반은 뛰고 반은 걸어야 했어요.",
+      "그런데 지난 일요일에, 공원의 넓은 중앙 길 어딘가에서, 조용하고 중요한 뭔가를 알아챘어요.",
+      "아버지가 지금은 저보다 훨씬 천천히 걷고 있었어요. 그리고 그건 생각 중이라서가 아니었어요.",
+      "코멘트 없이 제 걸음을 늦춰야 했어요. 부드럽게 그리고 끈기 있게 기다려야 했어요.",
+      "아버지는 저를 올려다보거나 알아채지 않았어요. 그냥 새로운, 조심스러운 속도로 걸었어요.",
+      "그런데 말 한 마디 없이 알았어요. 시간이 우리 작은 가족 안에서, 우리에게 묻지도 않고, 조용히 돌아 있었어요."
+    ],
+    "targetWords": ["l3-111", "l3-003", "l2-130", "l1-200", "l1-130"],
+    "quiz": [
+      {
+        "question": "Why was the father walking slower last Sunday?",
+        "questionKo": "지난 일요일 아버지가 더 천천히 걸은 이유는?",
+        "options": ["He was thinking deeply", "Not because he was thinking — it was age", "He was tired from work", "He wanted to talk"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What turned around inside the small family?",
+        "questionKo": "작은 가족 안에서 무엇이 돌았나요?",
+        "options": ["The weather", "Time, without ever asking them", "The path", "The seasons"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-09-fathers-walking-speed-l4",
+    "title": "My Father's Walking Speed",
+    "titleKo": "아버지의 걸음 속도",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-09-fathers-walking-speed"],
+    "paragraphs": [
+      "Last Sunday afternoon, I went for a slow deliberate walk in the neighborhood park with my visibly aging father.",
+      "When I was a small child years and years ago, he was always walking too fast for me, his long stride impossible for my short legs to comprehensively match.",
+      "I had to half-run, half-walk, almost embarrassed by my own slowness, just to follow his strong purposeful steps down the sidewalk.",
+      "But last Sunday, somewhere along the wide central path of the park, I quietly noticed something small and unexpectedly important.",
+      "He was now walking much more slowly than I was, without any announcement, and it was not because he was thinking about something difficult.",
+      "I had to slow my own steps without any verbal comment whatsoever. I had to wait gently and patiently for him, without making it visible.",
+      "He did not look up at me or seem to notice the careful adjustment. He just walked at his new, careful, smaller speed.",
+      "But I knew without any words. Time had quietly turned around inside our small family, without ever asking either of us for our permission first."
+    ],
+    "translation": [
+      "지난주 일요일 오후, 눈에 띄게 늙어가시는 아버지와 동네 공원에서 천천히 의도적으로 산책을 갔어요.",
+      "몇 년 전 어렸을 때, 아버지는 늘 저에겐 너무 빨랐어요. 그 긴 보폭은 제 짧은 다리로 포괄적으로 따라잡을 수 없었어요.",
+      "제 자신의 느림에 거의 부끄러워하며, 강하고 목적 있는 그 걸음을 따라가려고 인도에서 반은 뛰고 반은 걸어야 했어요.",
+      "그런데 지난 일요일에, 공원의 넓은 중앙 길 어딘가에서, 조용히 작고 예상치 못하게 중요한 뭔가를 알아챘어요.",
+      "아버지가 지금은 저보다 훨씬 천천히, 어떤 알림도 없이 걷고 있었어요. 그리고 그건 어려운 무엇을 생각 중이라서가 아니었어요.",
+      "어떤 언어적 코멘트도 없이 제 걸음을 늦춰야 했어요. 부드럽게 그리고 끈기 있게, 보이지 않게 기다려야 했어요.",
+      "아버지는 저를 올려다보거나 그 신경 쓴 조정을 알아채지 않았어요. 그냥 새로운, 조심스러운, 더 작아진 속도로 걸었어요.",
+      "그런데 말 한 마디 없이 알았어요. 시간이 우리 작은 가족 안에서, 우리 둘 누구의 허락도 먼저 묻지 않고, 조용히 돌아 있었어요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-111", "l3-003", "l2-130"],
+    "quiz": [
+      {
+        "question": "Why did the writer slow her own steps?",
+        "questionKo": "글쓴이는 왜 자기 걸음을 늦췄나요?",
+        "options": ["She was tired", "To wait gently and patiently for him, without making it visible", "She wanted to admire the park", "It was raining"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What had time done without anyone's permission?",
+        "questionKo": "시간은 누구의 허락도 없이 무엇을 했나요?",
+        "options": ["Stopped", "Quietly turned around inside their small family", "Sped up", "Stood still"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-09-fathers-walking-speed-l5",
+    "title": "My Father's Walking Speed",
+    "titleKo": "아버지의 걸음 속도",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-09-fathers-walking-speed"],
+    "paragraphs": [
+      "Last Sunday afternoon, I went for a slow deliberate walk in the comprehensive neighborhood park with my visibly aging father.",
+      "When I was a small fundamental child years and years ago, he was always walking too fast for me, his long stride impossible for my short legs to comprehensively match.",
+      "I had to half-run, half-walk, almost fundamentally embarrassed by my own slowness, just to follow his strong purposeful steps down the long sidewalk.",
+      "But last Sunday, somewhere along the wide elaborate central path of the park, I quietly noticed something small and unexpectedly fundamental.",
+      "He was now walking much more slowly than I was, without any announcement or comprehensive acknowledgment, and it was not because he was thinking about something difficult.",
+      "I had to slow my own steps without any verbal comment whatsoever. I had to wait gently and elaborately and patiently for him, without making the adjustment visible.",
+      "He did not look up at me or seem to fundamentally notice the careful adjustment. He just walked at his new, careful, smaller, comprehensive speed.",
+      "But I knew without any words. Time had quietly and fundamentally turned around inside our small family, without ever asking either of us for our preliminary permission."
+    ],
+    "translation": [
+      "지난주 일요일 오후, 눈에 띄게 늙어가시는 아버지와 포괄적인 동네 공원에서 천천히 의도적으로 산책을 갔어요.",
+      "몇 년 전, 근본적으로 어린 아이였을 때, 아버지는 늘 저에겐 너무 빨랐어요. 그 긴 보폭은 제 짧은 다리로 포괄적으로 따라잡을 수 없었어요.",
+      "제 자신의 느림에 거의 근본적으로 부끄러워하며, 강하고 목적 있는 그 걸음을 따라가려고 긴 인도에서 반은 뛰고 반은 걸어야 했어요.",
+      "그런데 지난 일요일에, 공원의 넓고 정교한 중앙 길 어딘가에서, 조용히 작고 예상치 못하게 근본적인 뭔가를 알아챘어요.",
+      "아버지가 지금은 저보다 훨씬 천천히, 어떤 알림이나 포괄적인 인정도 없이 걷고 있었어요. 그리고 그건 어려운 무엇을 생각 중이라서가 아니었어요.",
+      "어떤 언어적 코멘트도 없이 제 걸음을 늦춰야 했어요. 부드럽게 그리고 정교하게 그리고 끈기 있게 기다려야 했어요. 그 조정이 보이지 않게요.",
+      "아버지는 저를 올려다보거나 그 신경 쓴 조정을 근본적으로 알아채지 않았어요. 그냥 새로운, 조심스러운, 더 작아진, 포괄적인 속도로 걸었어요.",
+      "그런데 말 한 마디 없이 알았어요. 시간이 우리 작은 가족 안에서, 우리 둘 누구의 예비적 허락도 먼저 묻지 않고, 조용히 그리고 근본적으로 돌아 있었어요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l4-002"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the father's new walking speed?",
+        "questionKo": "글쓴이는 아버지의 새 걸음 속도를 어떻게 묘사하나요?",
+        "options": ["A loud declaration of age", "His new, careful, smaller, comprehensive speed", "An angry pace", "An unchanged pace"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did time do fundamentally?",
+        "questionKo": "시간은 근본적으로 무엇을 했나요?",
+        "options": ["Stopped briefly", "Quietly and fundamentally turned around inside their small family", "Hurried past", "Repeated itself"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-09-fathers-walking-speed-l6",
+    "title": "My Father's Walking Speed",
+    "titleKo": "아버지의 걸음 속도",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-09-fathers-walking-speed"],
+    "paragraphs": [
+      "Last Sunday afternoon, I went for a slow deliberate walk in the comprehensive neighborhood park with my visibly aging father, the air carrying the unprecedented quiet of late spring.",
+      "When I was a small fundamental child years and years ago, he was always walking too fast for me, his long unhesitating stride impossible for my short legs to comprehensively match.",
+      "I had to half-run, half-walk, almost fundamentally embarrassed by my own structural slowness, just to follow his strong purposeful steps down the long sidewalk past the houses.",
+      "But last Sunday, somewhere along the wide elaborate central path of the park beneath the tall trees, I quietly noticed something small and unexpectedly fundamental, paradigm-altering.",
+      "He was now walking much more slowly than I was, without any announcement or comprehensive acknowledgment, and it was not because he was thinking deliberately about anything difficult.",
+      "I had to slow my own steps without any verbal comment whatsoever, without any visible juxtapose between my pace and his. I had to wait gently and elaborately and patiently for him.",
+      "He did not look up at me or seem to fundamentally notice the careful internal adjustment. He just walked at his new, careful, smaller, comprehensive speed, his eyes on the path.",
+      "But I knew without any words. Time had quietly and fundamentally turned around inside our small family, in the unprecedented way it eventually does, without ever asking either of us for permission."
+    ],
+    "translation": [
+      "지난주 일요일 오후, 눈에 띄게 늙어가시는 아버지와 포괄적인 동네 공원에서 천천히 의도적으로 산책을 갔어요. 공기에 늦봄의 전례 없는 고요가 실려 있었어요.",
+      "몇 년 전, 근본적으로 어린 아이였을 때, 아버지는 늘 저에겐 너무 빨랐어요. 그 망설임 없는 긴 보폭은 제 짧은 다리로 포괄적으로 따라잡을 수 없었어요.",
+      "제 자신의 구조적 느림에 거의 근본적으로 부끄러워하며, 집들을 지나는 긴 인도에서 그 강하고 목적 있는 걸음을 따라가려고 반은 뛰고 반은 걸어야 했어요.",
+      "그런데 지난 일요일에, 공원의 큰 나무들 아래 넓고 정교한 중앙 길 어딘가에서, 조용히 작고 예상치 못하게 근본적인, 패러다임을 바꾸는 뭔가를 알아챘어요.",
+      "아버지가 지금은 저보다 훨씬 천천히, 어떤 알림이나 포괄적인 인정도 없이 걷고 있었어요. 그리고 그건 어려운 무엇을 의도적으로 생각 중이라서가 아니었어요.",
+      "어떤 언어적 코멘트도 없이, 제 걸음과 아버지 걸음 사이의 어떤 보이는 병치도 없이 제 걸음을 늦춰야 했어요. 부드럽게 그리고 정교하게 그리고 끈기 있게 기다려야 했어요.",
+      "아버지는 저를 올려다보거나 그 신경 쓴 내적 조정을 근본적으로 알아채지 않았어요. 그냥 새로운, 조심스러운, 더 작아진, 포괄적인 속도로, 눈은 길에 둔 채 걸었어요.",
+      "그런데 말 한 마디 없이 알았어요. 시간이 우리 작은 가족 안에서, 결국 그렇게 하듯 전례 없는 방식으로, 우리 둘 누구의 허락도 묻지 않고, 조용히 그리고 근본적으로 돌아 있었어요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-002"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the change she noticed?",
+        "questionKo": "글쓴이는 자신이 알아챈 변화를 어떻게 묘사하나요?",
+        "options": ["Small and trivial", "Small and unexpectedly fundamental, paradigm-altering", "Loud and obvious", "Temporary"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does time turn around in the family, according to the writer?",
+        "questionKo": "글쓴이에 따르면 시간은 가족 안에서 어떻게 도나요?",
+        "options": ["By scheduled appointment", "In the unprecedented way it eventually does, without ever asking permission", "After warning signs", "Only with the father's consent"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "col-2026-06-01-eat-alone-l1",
+    "title": "I Learned to Eat Alone",
+    "titleKo": "혼자 먹는 법을 배웠어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": ["column", "col-2026-06-01-eat-alone"],
+    "paragraphs": [
+      "Years ago, I felt afraid to eat alone in a restaurant.",
+      "I thought, 'Everyone is looking at me.'",
+      "But really, no one was looking. They were eating.",
+      "Slowly, I tried it. One small lunch. Then another.",
+      "I started to taste the food more.",
+      "It was quiet. It was good.",
+      "Now I love eating alone.",
+      "It was not lonely. It was peaceful."
+    ],
+    "translation": [
+      "몇 년 전엔, 식당에서 혼자 먹는 게 무서웠어요.",
+      "'다들 나를 보고 있어' 라고 생각했어요.",
+      "그런데 사실은, 아무도 안 봤어요. 다 먹고 있었어요.",
+      "천천히 해봤어요. 작은 점심 한 번. 또 한 번.",
+      "음식 맛이 더 느껴졌어요.",
+      "조용했어요. 좋았어요.",
+      "지금은 혼자 먹는 게 좋아요.",
+      "외로운 게 아니었어요. 평화로운 거였어요."
+    ],
+    "targetWords": ["l1-094", "l1-130", "l1-200", "l1-160", "l1-149"],
+    "quiz": [
+      {
+        "question": "What did the writer think years ago in a restaurant alone?",
+        "questionKo": "몇 년 전 혼자 식당에서 무슨 생각을 했나요?",
+        "options": ["The food is bad", "Everyone is looking at me", "I should leave", "I am happy"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What was eating alone, really?",
+        "questionKo": "혼자 먹는 건 사실 어땠나요?",
+        "options": ["Lonely", "Peaceful — not lonely", "Boring", "Embarrassing"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-01-eat-alone-l2",
+    "title": "I Learned to Eat Alone",
+    "titleKo": "혼자 먹는 법을 배웠어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": ["column", "col-2026-06-01-eat-alone"],
+    "paragraphs": [
+      "Years ago, I felt afraid and shy to eat alone in a restaurant.",
+      "I always thought, 'Everyone in this place is looking at me.'",
+      "But the truth was, no one was looking. They were busy eating their own food.",
+      "Slowly, I tried it. One small lunch first. Then another, then many.",
+      "I started to taste the food more carefully than before.",
+      "It was quiet. It was unexpectedly good.",
+      "Now I genuinely love eating alone, sometimes more than with friends.",
+      "It was never lonely. It was simply peaceful, and I had not known."
+    ],
+    "translation": [
+      "몇 년 전엔, 식당에서 혼자 먹는 게 무섭고 부끄러웠어요.",
+      "늘 생각했어요, '여기 모든 사람이 날 보고 있어' 라고.",
+      "그런데 사실은, 아무도 안 봤어요. 다 자기 음식 먹느라 바빴어요.",
+      "천천히 해봤어요. 작은 점심 한 번 먼저. 그 다음 또 한 번, 그 다음 여러 번.",
+      "전보다 음식 맛을 더 신경 써서 느끼기 시작했어요.",
+      "조용했어요. 예상치 못하게 좋았어요.",
+      "지금은 혼자 먹는 게 진심으로 좋아요. 가끔 친구와 먹는 것보다 더요.",
+      "외로운 적이 없었어요. 그냥 평화로운 거였는데, 몰랐던 거예요."
+    ],
+    "targetWords": ["l2-130", "l2-264", "l1-130", "l1-200", "l1-160"],
+    "quiz": [
+      {
+        "question": "What were other people in the restaurant actually doing?",
+        "questionKo": "식당의 다른 사람들은 사실 뭘 하고 있었나요?",
+        "options": ["Watching the writer", "Busy eating their own food", "Talking on phones", "Leaving"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer learn?",
+        "questionKo": "글쓴이가 배운 것은?",
+        "options": ["Eating alone is sad", "It was simply peaceful — and she had not known", "Restaurants are bad", "She should stop eating out"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-01-eat-alone-l3",
+    "title": "I Learned to Eat Alone",
+    "titleKo": "혼자 먹는 법을 배웠어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": ["column", "col-2026-06-01-eat-alone"],
+    "paragraphs": [
+      "Years ago, I felt strangely afraid and shy to eat alone in any kind of public restaurant.",
+      "I would walk in, sit down, and immediately think, 'Everyone here is watching me eat by myself.'",
+      "But the honest truth, I slowly understood, was that no one was looking. They were busy eating their own food, lost in their own conversations or phones.",
+      "Slowly, almost by accident, I started trying it. One small bowl of noodles first. Then another, and another, until it stopped feeling like a test.",
+      "I began to taste the food more carefully than I ever had with company.",
+      "It was quiet, even in busy places. It was unexpectedly, almost embarrassingly good.",
+      "Now I genuinely love eating alone, sometimes more than I love eating with friends.",
+      "It was never lonely, as it turned out. It was simply peaceful, and I had spent years not knowing the difference."
+    ],
+    "translation": [
+      "몇 년 전엔, 공공 식당이라면 어디든 혼자 먹는 게 이상하게 무섭고 부끄러웠어요.",
+      "걸어 들어가, 앉아서, 즉시 생각했어요, '여기 모든 사람이 내가 혼자 먹는 걸 보고 있어' 라고.",
+      "그런데 정직한 진실은, 천천히 이해했지만, 아무도 보고 있지 않았어요. 자기 음식 먹느라, 자기 대화나 폰에 빠져 바빴어요.",
+      "천천히, 거의 우연히, 해보기 시작했어요. 작은 국수 한 그릇 먼저. 그 다음 또, 또 한 번, 시험처럼 느껴지지 않을 때까지.",
+      "일행과 있을 때보다 음식 맛을 더 신경 써서 느끼기 시작했어요.",
+      "조용했어요, 분주한 곳에서도. 예상치 못하게, 거의 부끄러울 만큼 좋았어요.",
+      "지금은 혼자 먹는 게 진심으로 좋아요. 가끔은 친구와 먹는 것보다 더요.",
+      "알고 보니, 외로운 적이 없었어요. 그냥 평화로운 거였는데, 그 차이를 모르고 몇 년을 보냈어요."
+    ],
+    "targetWords": ["l3-003", "l3-111", "l2-130", "l1-130", "l1-200"],
+    "quiz": [
+      {
+        "question": "What did the writer slowly understand was the truth?",
+        "questionKo": "글쓴이가 천천히 이해한 진실은?",
+        "options": ["People judge eaters harshly", "No one was looking — they were busy with their own food, conversations, or phones", "Restaurants close early", "Solo meals are forbidden"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What had the writer spent years not knowing?",
+        "questionKo": "글쓴이가 몇 년 동안 모르고 지낸 것은?",
+        "options": ["How to cook", "The difference between lonely and peaceful", "Restaurant prices", "Friends' addresses"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-01-eat-alone-l4",
+    "title": "I Learned to Eat Alone",
+    "titleKo": "혼자 먹는 법을 배웠어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": ["column", "col-2026-06-01-eat-alone"],
+    "paragraphs": [
+      "Years ago, I felt strangely afraid and quietly ashamed to eat alone in any kind of public restaurant.",
+      "I would walk in, sit down, and immediately announce to myself, 'Everyone here is watching me eat by myself.'",
+      "But the honest truth, I slowly came to understand, was that no one was looking. They were busy with their own food, lost in their own conversations and their own quietly glowing phones.",
+      "Slowly, almost by accident, I started trying it. One small bowl of noodles first. Then another, and another, until the act stopped feeling like a small public test of my worth.",
+      "I began to taste the food more carefully than I ever had with company — registering textures and small spices I would otherwise have missed.",
+      "It was quiet, even in busy places. It was unexpectedly, almost embarrassingly, fundamentally good.",
+      "Now I genuinely love eating alone, sometimes more than I love eating with friends or coworkers.",
+      "It was never lonely, as it slowly turned out. It was simply peaceful, and I had spent years not knowing the difference between the two."
+    ],
+    "translation": [
+      "몇 년 전엔, 공공 식당이라면 어디든 혼자 먹는 게 이상하게 무섭고 조용히 부끄러웠어요.",
+      "걸어 들어가, 앉아서, 즉시 자신에게 선언했어요, '여기 모든 사람이 내가 혼자 먹는 걸 보고 있어' 라고.",
+      "그런데 정직한 진실은, 천천히 이해하게 됐지만, 아무도 보고 있지 않았어요. 자기 음식, 자기 대화, 조용히 빛나는 자기 폰에 빠져 바빴어요.",
+      "천천히, 거의 우연히, 해보기 시작했어요. 작은 국수 한 그릇 먼저. 그 다음 또, 또 한 번, 그 행위가 제 가치를 시험하는 작은 공개 시험처럼 느껴지지 않을 때까지요.",
+      "일행과 있을 때보다 음식 맛을 더 신경 써서 느끼기 시작했어요 — 그러지 않으면 놓쳤을 식감과 작은 향신료들을 등록하면서요.",
+      "조용했어요, 분주한 곳에서도. 예상치 못하게, 거의 부끄러울 만큼, 근본적으로 좋았어요.",
+      "지금은 혼자 먹는 게 진심으로 좋아요. 가끔은 친구나 동료와 먹는 것보다 더요.",
+      "천천히 알게 됐는데, 외로운 적이 없었어요. 그냥 평화로운 거였는데, 그 둘의 차이를 모르고 몇 년을 보냈어요."
+    ],
+    "targetWords": ["l4-001", "l4-002", "l3-003", "l3-111", "l2-130"],
+    "quiz": [
+      {
+        "question": "What did the act of eating alone feel like at first?",
+        "questionKo": "혼자 먹는 행위는 처음 어떻게 느껴졌나요?",
+        "options": ["A celebration", "A small public test of her worth", "A burden", "A reward"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer begin to notice about food when alone?",
+        "questionKo": "혼자일 때 음식에 대해 무엇을 알아채기 시작했나요?",
+        "options": ["It tasted worse", "Textures and small spices she would otherwise have missed", "It was always cold", "She ate too fast"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-01-eat-alone-l5",
+    "title": "I Learned to Eat Alone",
+    "titleKo": "혼자 먹는 법을 배웠어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": ["column", "col-2026-06-01-eat-alone"],
+    "paragraphs": [
+      "Years ago, I felt strangely afraid and quietly ashamed to eat alone in any kind of public, fundamentally social restaurant.",
+      "I would walk in, sit down, and immediately announce to myself, with comprehensive certainty, 'Everyone here is watching me eat by myself.'",
+      "But the honest truth, I slowly came to elaborate, was that no one was looking. They were busy with their own food, lost in their own conversations and their own quietly glowing phones.",
+      "Slowly, almost by preliminary accident, I started trying it. One small bowl of noodles first. Then another, and another, until the act stopped feeling like a small public test of my fundamental worth.",
+      "I began to taste the food more carefully than I ever had with company — registering elaborate textures and small spices I would otherwise have comprehensively missed.",
+      "It was quiet, even in busy places. It was unexpectedly, almost embarrassingly, fundamentally good in a way I had not been prepared to receive.",
+      "Now I genuinely love eating alone, sometimes more than I love eating with friends, coworkers, or family.",
+      "It was never lonely, as it slowly turned out. It was simply peaceful, and I had spent years not knowing the fundamental difference between the two states."
+    ],
+    "translation": [
+      "몇 년 전엔, 공공의, 근본적으로 사회적인 식당이라면 어디든 혼자 먹는 게 이상하게 무섭고 조용히 부끄러웠어요.",
+      "걸어 들어가, 앉아서, 즉시 포괄적인 확신으로 자신에게 선언했어요, '여기 모든 사람이 내가 혼자 먹는 걸 보고 있어' 라고.",
+      "그런데 정직한 진실은, 천천히 풀어내게 됐지만, 아무도 보고 있지 않았어요. 자기 음식, 자기 대화, 조용히 빛나는 자기 폰에 빠져 바빴어요.",
+      "천천히, 거의 예비적 우연으로, 해보기 시작했어요. 작은 국수 한 그릇 먼저. 그 다음 또, 또 한 번, 그 행위가 제 근본적 가치를 시험하는 작은 공개 시험처럼 느껴지지 않을 때까지요.",
+      "일행과 있을 때보다 음식 맛을 더 신경 써서 느끼기 시작했어요 — 그러지 않으면 포괄적으로 놓쳤을 정교한 식감과 작은 향신료들을 등록하면서요.",
+      "조용했어요, 분주한 곳에서도. 예상치 못하게, 거의 부끄러울 만큼, 받을 준비가 안 되어 있던 방식으로 근본적으로 좋았어요.",
+      "지금은 혼자 먹는 게 진심으로 좋아요. 가끔은 친구, 동료, 가족과 먹는 것보다 더요.",
+      "천천히 알게 됐는데, 외로운 적이 없었어요. 그냥 평화로운 거였는데, 그 두 상태의 근본적 차이를 모르고 몇 년을 보냈어요."
+    ],
+    "targetWords": ["l5-001", "l5-002", "l5-003", "l4-001", "l3-003"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the goodness she discovered in eating alone?",
+        "questionKo": "혼자 먹기에서 발견한 좋음을 글쓴이는 어떻게 묘사하나요?",
+        "options": ["Loud and obvious", "Fundamentally good in a way I had not been prepared to receive", "Brief and forgettable", "Disappointing"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What two states had the writer not known the difference between?",
+        "questionKo": "글쓴이가 차이를 모르던 두 상태는?",
+        "options": ["Hunger and fullness", "Lonely and peaceful", "Busy and free", "Hot and cold"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-01-eat-alone-l6",
+    "title": "I Learned to Eat Alone",
+    "titleKo": "혼자 먹는 법을 배웠어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": ["column", "col-2026-06-01-eat-alone"],
+    "paragraphs": [
+      "Years ago, I felt strangely afraid and quietly ashamed to eat alone in any kind of public, fundamentally social restaurant where being seen carried unprecedented weight.",
+      "I would walk in, sit down, and immediately announce to myself, with comprehensive and ungrounded certainty, 'Everyone here is watching me eat by myself' — a paradigm I had absorbed from somewhere I could not name.",
+      "But the honest truth, I slowly came to elaborate, was that no one was looking. They were busy with their own food, lost in their own conversations and their own quietly glowing phones — each in a small fundamental world of their own.",
+      "Slowly, almost by preliminary accident, I started trying it. One small bowl of noodles first. Then another, and another, until the act gradually stopped feeling like a small public test of my fundamental worth or social standing.",
+      "I began to taste the food more carefully than I ever had with company — registering elaborate textures, the quiet juxtapose of small spices, and the small honest hungers I would otherwise have comprehensively missed.",
+      "It was quiet, even in busy places. It was unexpectedly, almost embarrassingly, fundamentally good in a way I had not been prepared, by years of company, to receive.",
+      "Now I genuinely love eating alone, sometimes more than I love eating with friends, coworkers, or family — a quiet preference I once would have considered an unprecedented social failure to admit.",
+      "It was never lonely, as it slowly turned out, no matter what the old paradigm had insisted. It was simply peaceful, and I had spent years not knowing the fundamental difference between those two quietly opposing states."
+    ],
+    "translation": [
+      "몇 년 전엔, 보여진다는 게 전례 없는 무게를 지니는 공공의, 근본적으로 사회적인 식당이라면 어디든 혼자 먹는 게 이상하게 무섭고 조용히 부끄러웠어요.",
+      "걸어 들어가, 앉아서, 즉시 포괄적이고 근거 없는 확신으로 자신에게 선언했어요, '여기 모든 사람이 내가 혼자 먹는 걸 보고 있어' 라고 — 어디서 흡수했는지 이름 붙일 수도 없는 패러다임이었어요.",
+      "그런데 정직한 진실은, 천천히 풀어내게 됐지만, 아무도 보고 있지 않았어요. 자기 음식, 자기 대화, 조용히 빛나는 자기 폰에 빠져 바빴어요 — 각자 자기만의 작고 근본적인 세계 안에서요.",
+      "천천히, 거의 예비적 우연으로, 해보기 시작했어요. 작은 국수 한 그릇 먼저. 그 다음 또, 또 한 번, 그 행위가 점차 제 근본적 가치나 사회적 위치를 시험하는 작은 공개 시험처럼 느껴지지 않을 때까지요.",
+      "일행과 있을 때보다 음식 맛을 더 신경 써서 느끼기 시작했어요 — 정교한 식감, 작은 향신료들의 조용한 병치, 그러지 않으면 포괄적으로 놓쳤을 작고 솔직한 허기를 등록하면서요.",
+      "조용했어요, 분주한 곳에서도. 예상치 못하게, 거의 부끄러울 만큼, 몇 년간의 동행으로 받을 준비가 안 되어 있던 방식으로 근본적으로 좋았어요.",
+      "지금은 혼자 먹는 게 진심으로 좋아요. 가끔은 친구, 동료, 가족과 먹는 것보다 더요 — 한때는 인정하기에 전례 없는 사회적 실패라고 여겼을 조용한 선호예요.",
+      "천천히 알게 됐는데, 옛 패러다임이 뭐라고 주장했든, 외로운 적이 없었어요. 그냥 평화로운 거였는데, 그 두 조용히 대립하는 상태의 근본적 차이를 모르고 몇 년을 보냈어요."
+    ],
+    "targetWords": ["l6-001", "l6-002", "l6-003", "l5-001", "l5-003"],
+    "quiz": [
+      {
+        "question": "How does the writer describe the old belief that everyone was watching?",
+        "questionKo": "모두가 보고 있다는 옛 믿음을 어떻게 묘사하나요?",
+        "options": ["A factual observation", "A paradigm I had absorbed from somewhere I could not name", "A wise teaching", "A scientific truth"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What would the writer once have considered her current preference?",
+        "questionKo": "한때 글쓴이는 자신의 현재 선호를 무엇으로 여겼을까요?",
+        "options": ["A normal choice", "An unprecedented social failure to admit", "A common preference", "A wise decision"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
