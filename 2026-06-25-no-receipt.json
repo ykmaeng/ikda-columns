@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-25-no-receipt-l1",
+    "title": "No Receipt, Thank You",
+    "titleKo": "영수증은 괜찮아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-25-no-receipt"
+    ],
+    "paragraphs": [
+      "\"No receipt, thank you.\" I say it many times a day.",
+      "I do not want the little paper.",
+      "I do not want to keep the proof.",
+      "I buy a coffee. I drink it. It is gone.",
+      "Why keep paper for a thing that is gone?",
+      "But my mother saved every receipt.",
+      "Each one was a small story of her day.",
+      "Maybe I am throwing away more than paper."
+    ],
+    "translation": [
+      "\"영수증은 됐어요.\" 하루에도 여러 번 말해요.",
+      "저는 그 작은 종이를 원하지 않아요.",
+      "증거를 갖고 있고 싶지 않아요.",
+      "커피를 사요. 마셔요. 사라져요.",
+      "사라진 것의 종이를 왜 가지고 있어요?",
+      "그런데 우리 엄마는 영수증을 다 모았어요.",
+      "하나하나가 그날의 작은 이야기였어요.",
+      "어쩌면 저는 종이보다 더 많은 걸 버리고 있는지도 몰라요."
+    ],
+    "targetWords": [
+      "ielts-receipt",
+      "l2-028",
+      "iform-proof",
+      "ielts-coffee",
+      "ielts-mother"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer say many times a day?",
+        "questionKo": "글쓴이는 하루에 여러 번 무엇을 말하나요?",
+        "options": [
+          "\"Thank you for the receipt\"",
+          "\"No receipt, thank you\"",
+          "\"More coffee please\"",
+          "\"Keep the change\""
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the mother do with receipts?",
+        "questionKo": "엄마는 영수증을 어떻게 했나요?",
+        "options": [
+          "Threw them away",
+          "Saved every one",
+          "Burned them",
+          "Sold them"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-25-no-receipt-l2",
+    "title": "No Receipt, Thank You",
+    "titleKo": "영수증은 괜찮아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-25-no-receipt"
+    ],
+    "paragraphs": [
+      "\"No receipt, thank you.\" I find myself saying it many times a day now.",
+      "I simply do not want the little curl of paper in my hand.",
+      "I do not want to carry around the proof of such small purchases.",
+      "I buy a coffee, I drink it slowly, and within an hour it is entirely gone.",
+      "Why keep a paper record of a thing that has already disappeared?",
+      "But my mother, I remember, saved nearly every receipt she was ever given.",
+      "To her, each small slip was a quiet little story of where her day had taken her.",
+      "Now I wonder if I am throwing away something a bit larger than paper."
+    ],
+    "translation": [
+      "\"영수증은 됐어요.\" 요즘 하루에도 여러 번 그렇게 말하는 저를 발견해요.",
+      "그냥 손안의 그 돌돌 말린 작은 종이를 원하지 않아요.",
+      "그렇게 작은 구매의 증거를 들고 다니고 싶지 않아요.",
+      "커피를 사고, 천천히 마시면, 한 시간 안에 완전히 사라져요.",
+      "이미 사라진 것의 종이 기록을 왜 가지고 있어요?",
+      "그런데 우리 엄마는, 기억하기로, 받은 영수증을 거의 다 모았어요.",
+      "엄마에게는 그 작은 종이 하나하나가 그날 자신이 어디를 다녀왔는지에 대한 조용한 작은 이야기였어요.",
+      "이제 저는 종이보다 조금 더 큰 무언가를 버리고 있는 건 아닐까 생각해요."
+    ],
+    "targetWords": [
+      "ielts-receipt",
+      "l2-028",
+      "iform-proof",
+      "ielts-coffee",
+      "ielts-mother"
+    ],
+    "quiz": [
+      {
+        "question": "How long until the coffee is gone?",
+        "questionKo": "커피는 얼마 만에 사라지나요?",
+        "options": [
+          "A day",
+          "Within an hour",
+          "A week",
+          "A minute"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "To the mother, what was each receipt?",
+        "questionKo": "엄마에게 각 영수증은 무엇이었나요?",
+        "options": [
+          "Useless trash",
+          "A quiet little story of her day",
+          "A bill to pay",
+          "A coupon"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-25-no-receipt-l3",
+    "title": "No Receipt, Thank You",
+    "titleKo": "영수증은 괜찮아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-25-no-receipt"
+    ],
+    "paragraphs": [
+      "\"No receipt, thank you.\" I find myself murmuring it many times a day now, almost without thinking.",
+      "I simply do not want the little curling slip of paper pressed into my open hand.",
+      "I do not want to carry around the physical proof of such small, forgettable purchases.",
+      "I buy a coffee, I drink it slowly, and within an hour the whole thing is entirely gone.",
+      "Why keep a paper record, I reason, of a thing that has already so completely disappeared?",
+      "But my mother, I clearly remember, saved nearly every receipt she was ever handed.",
+      "To her, each small slip was a quiet little story of exactly where her ordinary day had taken her.",
+      "Now I quietly wonder whether I am discarding something considerably larger than mere paper."
+    ],
+    "translation": [
+      "\"영수증은 됐어요.\" 요즘 거의 생각도 없이, 하루에도 여러 번 그렇게 중얼거리는 저를 발견해요.",
+      "그냥 펼친 손에 쥐여지는 그 돌돌 말리는 작은 종이를 원하지 않아요.",
+      "그렇게 작고 잊힐 구매의 물리적 증거를 들고 다니고 싶지 않아요.",
+      "커피를 사고, 천천히 마시면, 한 시간 안에 그 모든 게 완전히 사라져요.",
+      "이미 그렇게 완전히 사라진 것의 종이 기록을 왜 가지고 있느냐고, 저는 따져요.",
+      "그런데 우리 엄마는, 또렷이 기억하기로, 건네받은 영수증을 거의 다 모았어요.",
+      "엄마에게는 그 작은 종이 하나하나가 평범한 하루가 자신을 정확히 어디로 데려갔는지에 대한 조용한 작은 이야기였어요.",
+      "이제 저는 단순한 종이보다 상당히 더 큰 무언가를 버리고 있는 건 아닐까 조용히 생각해요."
+    ],
+    "targetWords": [
+      "ielts-receipt",
+      "iform-proof",
+      "ipage-record",
+      "cls-266",
+      "ielts-mother"
+    ],
+    "quiz": [
+      {
+        "question": "How does the writer say the phrase now?",
+        "questionKo": "글쓴이는 이제 그 말을 어떻게 하나요?",
+        "options": [
+          "Loudly",
+          "Almost without thinking",
+          "Angrily",
+          "Slowly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the writer afraid he is discarding?",
+        "questionKo": "글쓴이는 무엇을 버리고 있을까 봐 두려워하나요?",
+        "options": [
+          "Money",
+          "Something larger than mere paper",
+          "His coffee",
+          "His mother's photos"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-25-no-receipt-l4",
+    "title": "No Receipt, Thank You",
+    "titleKo": "영수증은 괜찮아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-25-no-receipt"
+    ],
+    "paragraphs": [
+      "\"No receipt, thank you.\" I find myself murmuring it many times a day now, almost entirely without thinking.",
+      "I simply do not want the little curling slip of thermal paper pressed into my open palm.",
+      "I do not want to carry around the flimsy physical proof of such small, forgettable purchases.",
+      "I buy a coffee, I drink it slowly, and within an hour the entire experience has dissolved into nothing.",
+      "Why retain a paper record, I reason, of a thing that has already so thoroughly disappeared?",
+      "But my mother, I distinctly remember, saved nearly every single receipt she was ever handed.",
+      "To her, each small slip was a quiet little story of exactly where her unremarkable day had carried her.",
+      "Now I quietly wonder whether I am discarding something considerably larger and more lasting than mere paper."
+    ],
+    "translation": [
+      "\"영수증은 됐어요.\" 요즘 거의 완전히 생각도 없이, 하루에도 여러 번 그렇게 중얼거리는 저를 발견해요.",
+      "그냥 펼친 손바닥에 쥐여지는 그 돌돌 말리는 작은 감열지를 원하지 않아요.",
+      "그렇게 작고 잊힐 구매의 얄팍한 물리적 증거를 들고 다니고 싶지 않아요.",
+      "커피를 사고, 천천히 마시면, 한 시간 안에 그 경험 전체가 아무것도 아닌 것으로 녹아 사라져요.",
+      "이미 그렇게 철저히 사라진 것의 종이 기록을 왜 간직하느냐고, 저는 따져요.",
+      "그런데 우리 엄마는, 분명히 기억하기로, 건네받은 영수증을 거의 한 장도 빠짐없이 모았어요.",
+      "엄마에게는 그 작은 종이 하나하나가 특별할 것 없는 하루가 자신을 정확히 어디로 데려갔는지에 대한 조용한 작은 이야기였어요.",
+      "이제 저는 단순한 종이보다 상당히 더 크고 더 오래가는 무언가를 버리고 있는 건 아닐까 조용히 생각해요."
+    ],
+    "targetWords": [
+      "ielts-receipt",
+      "ielts-retain",
+      "iform-distinctly",
+      "iform-unremarkable",
+      "iform-proof"
+    ],
+    "quiz": [
+      {
+        "question": "What does the entire experience dissolve into?",
+        "questionKo": "경험 전체는 무엇으로 녹아 사라지나요?",
+        "options": [
+          "A memory",
+          "Nothing",
+          "A photo",
+          "A habit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How many receipts did the mother save?",
+        "questionKo": "엄마는 영수증을 얼마나 모았나요?",
+        "options": [
+          "A few",
+          "Nearly every single one",
+          "None",
+          "Only big ones"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-25-no-receipt-l5",
+    "title": "No Receipt, Thank You",
+    "titleKo": "영수증은 괜찮아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-25-no-receipt"
+    ],
+    "paragraphs": [
+      "\"No receipt, thank you.\" I catch myself murmuring it many times a day now, almost entirely without conscious thought.",
+      "I simply do not want the little curling slip of thermal paper pressed insistently into my open palm.",
+      "I do not want to accumulate the flimsy physical proof of such small, eminently forgettable purchases.",
+      "I buy a coffee, I drink it slowly, and within an hour the entire experience has dissolved into absolute nothing.",
+      "Why retain a paper record, I reason briskly, of a thing that has already so thoroughly and irreversibly disappeared?",
+      "But my mother, I distinctly remember, faithfully saved nearly every single receipt she was ever handed.",
+      "To her, each modest slip was a quiet little narrative of exactly where her unremarkable day had carried her.",
+      "Now I quietly wonder whether I am discarding something considerably larger, and far more lasting, than mere paper."
+    ],
+    "translation": [
+      "\"영수증은 됐어요.\" 요즘 거의 완전히 의식적인 생각도 없이, 하루에도 여러 번 그렇게 중얼거리는 저를 붙잡아요.",
+      "그냥 펼친 손바닥에 집요하게 쥐여지는 그 돌돌 말리는 작은 감열지를 원하지 않아요.",
+      "그렇게 작고 지극히 잊힐 구매의 얄팍한 물리적 증거를 쌓고 싶지 않아요.",
+      "커피를 사고, 천천히 마시면, 한 시간 안에 그 경험 전체가 완전한 무(無)로 녹아 사라져요.",
+      "이미 그렇게 철저히, 돌이킬 수 없이 사라진 것의 종이 기록을 왜 간직하느냐고, 저는 빠르게 따져요.",
+      "그런데 우리 엄마는, 분명히 기억하기로, 건네받은 영수증을 거의 한 장도 빠짐없이 충실히 모았어요.",
+      "엄마에게는 그 수수한 종이 하나하나가 특별할 것 없는 하루가 자신을 정확히 어디로 데려갔는지에 대한 조용한 작은 서사였어요.",
+      "이제 저는 단순한 종이보다 상당히 더 크고, 훨씬 더 오래가는 무언가를 버리고 있는 건 아닐까 조용히 생각해요."
+    ],
+    "targetWords": [
+      "ielts-receipt",
+      "l5-091",
+      "iform-irreversibly",
+      "iform-distinctly",
+      "l4-585"
+    ],
+    "quiz": [
+      {
+        "question": "How is the paper pressed into his palm?",
+        "questionKo": "종이는 그의 손바닥에 어떻게 쥐여지나요?",
+        "options": [
+          "Gently",
+          "Insistently",
+          "Rarely",
+          "Carefully"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the mother save receipts?",
+        "questionKo": "엄마는 영수증을 어떻게 모았나요?",
+        "options": [
+          "Carelessly",
+          "Faithfully",
+          "Secretly",
+          "Reluctantly"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-25-no-receipt-l6",
+    "title": "No Receipt, Thank You",
+    "titleKo": "영수증은 괜찮아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-25-no-receipt"
+    ],
+    "paragraphs": [
+      "\"No receipt, thank you.\" I catch myself murmuring it many times a day now, almost entirely without conscious deliberation.",
+      "I simply do not want the little curling slip of thermal paper pressed insistently and pointlessly into my open palm.",
+      "I do not want to accumulate the flimsy, fading physical proof of such small, eminently forgettable purchases.",
+      "I buy a coffee, I drink it slowly, and within an hour the entire fleeting experience has dissolved into absolute nothing.",
+      "Why retain a paper record, I reason briskly, of a thing that has already so thoroughly and irreversibly disappeared?",
+      "But my mother, I distinctly and tenderly remember, faithfully preserved nearly every single receipt she was ever handed.",
+      "To her, each modest slip was a quiet little narrative of precisely where her unremarkable and irreplaceable day had carried her.",
+      "Now I quietly wonder whether I am discarding something considerably larger, and infinitely more lasting, than mere paper."
+    ],
+    "translation": [
+      "\"영수증은 됐어요.\" 요즘 거의 완전히 의식적인 숙고도 없이, 하루에도 여러 번 그렇게 중얼거리는 저를 붙잡아요.",
+      "그냥 펼친 손바닥에 집요하고 무의미하게 쥐여지는 그 돌돌 말리는 작은 감열지를 원하지 않아요.",
+      "그렇게 작고 지극히 잊힐 구매의 얄팍하고 빛바래 가는 물리적 증거를 쌓고 싶지 않아요.",
+      "커피를 사고, 천천히 마시면, 한 시간 안에 그 덧없는 경험 전체가 완전한 무(無)로 녹아 사라져요.",
+      "이미 그렇게 철저히, 돌이킬 수 없이 사라진 것의 종이 기록을 왜 간직하느냐고, 저는 빠르게 따져요.",
+      "그런데 우리 엄마는, 분명하고 애틋하게 기억하기로, 건네받은 영수증을 거의 한 장도 빠짐없이 충실히 간직했어요.",
+      "엄마에게는 그 수수한 종이 하나하나가 특별할 것 없고 대체 불가능한 하루가 자신을 정확히 어디로 데려갔는지에 대한 조용한 작은 서사였어요.",
+      "이제 저는 단순한 종이보다 상당히 더 크고, 무한히 더 오래가는 무언가를 버리고 있는 건 아닐까 조용히 생각해요."
+    ],
+    "targetWords": [
+      "ielts-receipt",
+      "iform-deliberation",
+      "l5-091",
+      "iform-irreversibly",
+      "l4-585"
+    ],
+    "quiz": [
+      {
+        "question": "How is the day described in the final reflection?",
+        "questionKo": "마지막 성찰에서 하루는 어떻게 묘사되나요?",
+        "options": [
+          "Boring and long",
+          "Unremarkable and irreplaceable",
+          "Wasted",
+          "Expensive"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How much more lasting might the discarded thing be?",
+        "questionKo": "버려지는 것은 얼마나 더 오래갈 수 있나요?",
+        "options": [
+          "A little",
+          "Infinitely more",
+          "Slightly less",
+          "The same"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

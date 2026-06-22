@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-26-unknown-number-l1",
+    "title": "I Do Not Answer Unknown Numbers",
+    "titleKo": "나는 모르는 번호를 받지 않아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-26-unknown-number"
+    ],
+    "paragraphs": [
+      "My phone rings. The number is unknown.",
+      "I look at it. I do not answer.",
+      "I let it ring until it stops.",
+      "If it matters, they will send a text.",
+      "When did I become like this?",
+      "As a child, I ran to answer every call.",
+      "A ringing phone was exciting then.",
+      "Now it feels like a small knock I can ignore."
+    ],
+    "translation": [
+      "전화가 울려요. 모르는 번호예요.",
+      "쳐다봐요. 받지 않아요.",
+      "멈출 때까지 그냥 울리게 둬요.",
+      "중요하면, 문자를 보낼 거예요.",
+      "저는 언제부터 이렇게 됐을까요?",
+      "어릴 땐, 모든 전화를 받으려고 뛰어갔어요.",
+      "그때는 울리는 전화가 설렜어요.",
+      "이제는 무시할 수 있는 작은 노크 같아요."
+    ],
+    "targetWords": [
+      "l1-252",
+      "l1-225",
+      "l3-123",
+      "ielts-text",
+      "ielts-child"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer do with the unknown number?",
+        "questionKo": "글쓴이는 모르는 번호를 어떻게 하나요?",
+        "options": [
+          "Answers quickly",
+          "Does not answer",
+          "Calls back",
+          "Blocks it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "As a child, how did the writer feel about a ringing phone?",
+        "questionKo": "어릴 때 글쓴이는 울리는 전화를 어떻게 느꼈나요?",
+        "options": [
+          "Scared",
+          "It was exciting",
+          "Annoyed",
+          "Bored"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-26-unknown-number-l2",
+    "title": "I Do Not Answer Unknown Numbers",
+    "titleKo": "나는 모르는 번호를 받지 않아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-26-unknown-number"
+    ],
+    "paragraphs": [
+      "My phone rings on the table, and the number on the screen is completely unknown.",
+      "I glance at it for a second, and then I quietly decide not to answer.",
+      "I simply let it ring on and on until it finally gives up and stops.",
+      "If the matter is truly important, I tell myself, they will surely send a text.",
+      "But I have to ask: when exactly did I become a person like this?",
+      "As a small child, I used to run across the whole house to answer every call.",
+      "A ringing telephone was a little event back then, full of mystery and excitement.",
+      "Now it feels more like a soft knock at the door that I am free to ignore."
+    ],
+    "translation": [
+      "전화가 탁자 위에서 울리고, 화면의 번호는 완전히 모르는 것이에요.",
+      "잠깐 흘끗 보고, 그러고는 조용히 받지 않기로 결정해요.",
+      "그냥 마침내 포기하고 멈출 때까지 계속 울리게 둬요.",
+      "정말 중요한 일이라면, 분명 문자를 보낼 거라고 스스로에게 말해요.",
+      "그런데 물어봐야겠어요. 저는 정확히 언제부터 이런 사람이 됐을까요?",
+      "어린아이였을 땐, 모든 전화를 받으려고 온 집을 가로질러 뛰어가곤 했어요.",
+      "그때는 울리는 전화가 작은 사건이었어요. 신비와 설렘으로 가득한.",
+      "이제는 제가 마음대로 무시해도 되는, 문에 들리는 부드러운 노크 같아요."
+    ],
+    "targetWords": [
+      "l1-252",
+      "l1-225",
+      "iform-unknown",
+      "l3-123",
+      "ielts-text"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer tell himself about important matters?",
+        "questionKo": "글쓴이는 중요한 일에 대해 스스로에게 뭐라고 말하나요?",
+        "options": [
+          "They will give up",
+          "They will send a text",
+          "They will visit",
+          "They will email"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "A ringing phone in childhood was full of what?",
+        "questionKo": "어린 시절 울리는 전화는 무엇으로 가득했나요?",
+        "options": [
+          "Fear",
+          "Mystery and excitement",
+          "Noise",
+          "Boredom"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-26-unknown-number-l3",
+    "title": "I Do Not Answer Unknown Numbers",
+    "titleKo": "나는 모르는 번호를 받지 않아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-26-unknown-number"
+    ],
+    "paragraphs": [
+      "My phone rings on the table, and the number glowing on the screen is completely unknown to me.",
+      "I glance at it for a single second, and then I quietly and deliberately decide not to answer.",
+      "I simply let it ring on and on, patiently, until it finally gives up and falls silent.",
+      "If the matter is genuinely important, I reassure myself, they will surely take the trouble to text.",
+      "But I cannot help asking: when, exactly, did I quietly become a person like this?",
+      "As a small child, I would run breathless across the entire house to answer every single call.",
+      "A ringing telephone was a small event back then, brimming with mystery and unguarded excitement.",
+      "Now it feels more like a soft, optional knock at a distant door that I am entirely free to ignore."
+    ],
+    "translation": [
+      "전화가 탁자 위에서 울리고, 화면에 빛나는 번호는 제게 완전히 모르는 것이에요.",
+      "단 1초 흘끗 보고, 그러고는 조용히 그리고 의도적으로 받지 않기로 결정해요.",
+      "그냥, 참을성 있게, 마침내 포기하고 조용해질 때까지 계속 울리게 둬요.",
+      "정말로 중요한 일이라면, 분명 수고스럽게 문자를 보낼 거라고 스스로를 안심시켜요.",
+      "그런데 묻지 않을 수 없어요. 저는 정확히 언제, 조용히 이런 사람이 됐을까요?",
+      "어린아이였을 땐, 모든 전화를 받으려고 숨이 차도록 온 집을 가로질러 뛰어가곤 했어요.",
+      "그때는 울리는 전화가 작은 사건이었어요. 신비와 거리낌 없는 설렘으로 넘쳐나는.",
+      "이제는 제가 온전히 마음대로 무시해도 되는, 먼 문에 들리는 부드럽고 선택적인 노크 같아요."
+    ],
+    "targetWords": [
+      "l1-252",
+      "iform-unknown",
+      "iform-deliberately",
+      "l3-072",
+      "iform-optional"
+    ],
+    "quiz": [
+      {
+        "question": "How does the writer decide not to answer?",
+        "questionKo": "글쓴이는 어떻게 안 받기로 결정하나요?",
+        "options": [
+          "Carelessly",
+          "Quietly and deliberately",
+          "Reluctantly",
+          "Angrily"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the child run to answer?",
+        "questionKo": "아이는 어떻게 전화를 받으러 뛰었나요?",
+        "options": [
+          "Slowly",
+          "Breathless across the entire house",
+          "Calmly",
+          "Never"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-26-unknown-number-l4",
+    "title": "I Do Not Answer Unknown Numbers",
+    "titleKo": "나는 모르는 번호를 받지 않아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-26-unknown-number"
+    ],
+    "paragraphs": [
+      "My phone rings on the table, and the number glowing coldly on the screen is completely unknown to me.",
+      "I glance at it for a single second, and then I quietly and deliberately decide not to answer it.",
+      "I simply let it ring on and on, with strange patience, until it finally gives up and falls silent.",
+      "If the matter is genuinely important, I reassure myself, they will surely take the trouble to send a text.",
+      "But I cannot help asking the obvious question: when, exactly, did I quietly become a person like this?",
+      "As a small child, I would run breathless across the entire house to answer every single ringing call.",
+      "A ringing telephone was a small event back then, brimming with mystery and entirely unguarded excitement.",
+      "Now it feels more like a soft, optional knock at a distant door that I am wholly free to ignore."
+    ],
+    "translation": [
+      "전화가 탁자 위에서 울리고, 화면에 차갑게 빛나는 번호는 제게 완전히 모르는 것이에요.",
+      "단 1초 흘끗 보고, 그러고는 조용히 그리고 의도적으로 받지 않기로 결정해요.",
+      "그냥, 이상한 참을성으로, 마침내 포기하고 조용해질 때까지 계속 울리게 둬요.",
+      "정말로 중요한 일이라면, 분명 수고스럽게 문자를 보낼 거라고 스스로를 안심시켜요.",
+      "그런데 뻔한 질문을 묻지 않을 수 없어요. 저는 정확히 언제, 조용히 이런 사람이 됐을까요?",
+      "어린아이였을 땐, 울리는 모든 전화를 받으려고 숨이 차도록 온 집을 가로질러 뛰어가곤 했어요.",
+      "그때는 울리는 전화가 작은 사건이었어요. 신비와 완전히 거리낌 없는 설렘으로 넘쳐나는.",
+      "이제는 제가 온전히 마음대로 무시해도 되는, 먼 문에 들리는 부드럽고 선택적인 노크 같아요."
+    ],
+    "targetWords": [
+      "l1-252",
+      "iform-unknown",
+      "iform-deliberately",
+      "l3-102",
+      "l3-618"
+    ],
+    "quiz": [
+      {
+        "question": "How does the number glow on the screen?",
+        "questionKo": "번호는 화면에서 어떻게 빛나나요?",
+        "options": [
+          "Warmly",
+          "Coldly",
+          "Brightly",
+          "Faintly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "With what does the writer let it ring?",
+        "questionKo": "글쓴이는 어떤 마음으로 울리게 두나요?",
+        "options": [
+          "Anger",
+          "Strange patience",
+          "Fear",
+          "Joy"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-26-unknown-number-l5",
+    "title": "I Do Not Answer Unknown Numbers",
+    "titleKo": "나는 모르는 번호를 받지 않아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-26-unknown-number"
+    ],
+    "paragraphs": [
+      "My phone rings on the table, and the number glowing coldly on the screen is utterly and completely unknown to me.",
+      "I glance at it for a single fleeting second, and then I quietly and deliberately resolve not to answer it at all.",
+      "I simply let it ring on and on, with a strange and practiced patience, until it finally relents and falls silent.",
+      "If the matter is genuinely important, I reassure myself smoothly, they will surely take the trouble to send a text.",
+      "But I cannot help confronting the obvious question: when, precisely, did I quietly become a person like this?",
+      "As a small child, I would sprint breathless across the entire house to answer every single ringing call.",
+      "A ringing telephone was a luminous small event back then, brimming with mystery and entirely unguarded excitement.",
+      "Now it registers as little more than a soft, optional knock at a distant door that I am wholly free to ignore."
+    ],
+    "translation": [
+      "전화가 탁자 위에서 울리고, 화면에 차갑게 빛나는 번호는 제게 그야말로 완전히 모르는 것이에요.",
+      "단 한순간 흘끗 보고, 그러고는 조용히 그리고 의도적으로 아예 받지 않기로 결심해요.",
+      "그냥, 이상하고 익숙해진 참을성으로, 마침내 단념하고 조용해질 때까지 계속 울리게 둬요.",
+      "정말로 중요한 일이라면, 분명 수고스럽게 문자를 보낼 거라고 매끄럽게 스스로를 안심시켜요.",
+      "그런데 뻔한 질문을 마주하지 않을 수 없어요. 저는 정확히 언제, 조용히 이런 사람이 됐을까요?",
+      "어린아이였을 땐, 울리는 모든 전화를 받으려고 숨이 차도록 온 집을 가로질러 전력 질주하곤 했어요.",
+      "그때는 울리는 전화가 빛나는 작은 사건이었어요. 신비와 완전히 거리낌 없는 설렘으로 넘쳐나는.",
+      "이제는 제가 온전히 마음대로 무시해도 되는, 먼 문에 들리는 부드럽고 선택적인 노크 정도로밖에 느껴지지 않아요."
+    ],
+    "targetWords": [
+      "iform-unknown",
+      "iform-deliberately",
+      "ipage-luminous",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "What kind of patience does the writer have now?",
+        "questionKo": "글쓴이는 이제 어떤 참을성을 가지고 있나요?",
+        "options": [
+          "Fresh",
+          "Strange and practiced",
+          "Forced",
+          "None"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the call now \"register\"?",
+        "questionKo": "전화는 이제 어떻게 느껴지나요?",
+        "options": [
+          "As an emergency",
+          "As little more than a soft optional knock",
+          "As a gift",
+          "As a threat"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-26-unknown-number-l6",
+    "title": "I Do Not Answer Unknown Numbers",
+    "titleKo": "나는 모르는 번호를 받지 않아요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-26-unknown-number"
+    ],
+    "paragraphs": [
+      "My phone rings insistently on the table, and the number glowing coldly on the screen is utterly and irretrievably unknown to me.",
+      "I glance at it for a single fleeting second, and then I quietly and deliberately resolve not to answer it at all.",
+      "I simply let it ring on and on, with a strange and well-practiced patience, until it finally relents and lapses into silence.",
+      "If the matter is genuinely important, I reassure myself smoothly, they will surely take the small trouble to send a text.",
+      "But I cannot help confronting the obvious and faintly uncomfortable question: when, precisely, did I quietly become this?",
+      "As a small child, I would sprint breathless across the entire house to answer every single ringing call without hesitation.",
+      "A ringing telephone was a luminous small event back then, brimming with mystery and entirely unguarded, uncalculating excitement.",
+      "Now it registers as little more than a soft, optional knock at a distant door that I feel wholly entitled to ignore."
+    ],
+    "translation": [
+      "전화가 탁자 위에서 집요하게 울리고, 화면에 차갑게 빛나는 번호는 제게 그야말로 돌이킬 수 없이 모르는 것이에요.",
+      "단 한순간 흘끗 보고, 그러고는 조용히 그리고 의도적으로 아예 받지 않기로 결심해요.",
+      "그냥, 이상하고 잘 익숙해진 참을성으로, 마침내 단념하고 침묵으로 빠져들 때까지 계속 울리게 둬요.",
+      "정말로 중요한 일이라면, 분명 작은 수고를 들여 문자를 보낼 거라고 매끄럽게 스스로를 안심시켜요.",
+      "그런데 뻔하고 어딘가 불편한 질문을 마주하지 않을 수 없어요. 저는 정확히 언제, 조용히 이렇게 됐을까요?",
+      "어린아이였을 땐, 울리는 모든 전화를 망설임 없이 받으려고 숨이 차도록 온 집을 가로질러 전력 질주하곤 했어요.",
+      "그때는 울리는 전화가 빛나는 작은 사건이었어요. 신비와 완전히 거리낌 없고 계산 없는 설렘으로 넘쳐나는.",
+      "이제는 제가 무시할 온전한 권리가 있다고 느끼는, 먼 문에 들리는 부드럽고 선택적인 노크 정도로밖에 느껴지지 않아요."
+    ],
+    "targetWords": [
+      "iform-deliberately",
+      "l2-147",
+      "l2-142",
+      "ipage-people",
+      "l2-103"
+    ],
+    "quiz": [
+      {
+        "question": "How is the unknown number described?",
+        "questionKo": "모르는 번호는 어떻게 묘사되나요?",
+        "options": [
+          "Vaguely familiar",
+          "Utterly and irretrievably unknown",
+          "A wrong number",
+          "A friend's"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer now feel about ignoring the call?",
+        "questionKo": "글쓴이는 전화를 무시하는 것에 대해 이제 어떻게 느끼나요?",
+        "options": [
+          "Guilty",
+          "Wholly entitled",
+          "Afraid",
+          "Curious"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

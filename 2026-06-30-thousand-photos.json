@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-30-thousand-photos-l1",
+    "title": "A Thousand Photos I Never Look At",
+    "titleKo": "한 번도 안 보는 사진 수천 장",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-30-thousand-photos"
+    ],
+    "paragraphs": [
+      "My phone holds twelve thousand photos.",
+      "I take many every day. I look at almost none.",
+      "I photograph my food, the sky, a street.",
+      "Then I never open them again.",
+      "I think the photo means I will remember.",
+      "But the photo remembers, so I do not.",
+      "Maybe I should take fewer pictures.",
+      "And simply look at the thing instead."
+    ],
+    "translation": [
+      "제 폰에는 사진이 만 이천 장 있어요.",
+      "매일 많이 찍어요. 거의 안 봐요.",
+      "음식을, 하늘을, 거리를 찍어요.",
+      "그러고는 다시는 안 열어봐요.",
+      "사진을 찍으면 기억할 거라고 생각해요.",
+      "그런데 사진이 기억하니까, 저는 안 해요.",
+      "어쩌면 사진을 더 적게 찍어야 해요.",
+      "그리고 그냥 그것을 바라보면 돼요."
+    ],
+    "targetWords": [
+      "l1-252",
+      "ielts-photo",
+      "l1-065",
+      "l1-139",
+      "l2-038"
+    ],
+    "quiz": [
+      {
+        "question": "How many photos does the phone hold?",
+        "questionKo": "폰에는 사진이 몇 장 있나요?",
+        "options": [
+          "A hundred",
+          "Twelve thousand",
+          "Ten",
+          "A million"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer not remember?",
+        "questionKo": "글쓴이는 왜 기억하지 못하나요?",
+        "options": [
+          "He is busy",
+          "The photo remembers instead",
+          "He is old",
+          "He deletes them"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-30-thousand-photos-l2",
+    "title": "A Thousand Photos I Never Look At",
+    "titleKo": "한 번도 안 보는 사진 수천 장",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-30-thousand-photos"
+    ],
+    "paragraphs": [
+      "My phone quietly holds more than twelve thousand photos inside it.",
+      "I take so many every single day, and yet I look at almost none of them.",
+      "I photograph my dinner, the evening sky, an interesting street corner.",
+      "And then, almost always, I never once open any of them again.",
+      "I suppose I believe that taking the photo means I will surely remember the moment.",
+      "But the truth is that the photo remembers it for me, so I no longer bother to.",
+      "Perhaps I should learn to take far fewer pictures than I do.",
+      "And simply stand still and look at the real thing instead."
+    ],
+    "translation": [
+      "제 폰은 안에 만 이천 장이 넘는 사진을 조용히 품고 있어요.",
+      "매일 정말 많이 찍는데, 그중 거의 아무것도 안 봐요.",
+      "저녁을, 저녁 하늘을, 흥미로운 길모퉁이를 찍어요.",
+      "그러고는, 거의 언제나, 그중 무엇도 다시는 한 번도 안 열어봐요.",
+      "사진을 찍으면 그 순간을 분명 기억할 거라고 믿는 것 같아요.",
+      "그런데 사실은 사진이 저 대신 기억해 주니까, 저는 더 이상 굳이 안 해요.",
+      "어쩌면 저는 지금보다 사진을 훨씬 더 적게 찍는 법을 배워야 해요.",
+      "그리고 그냥 가만히 서서 진짜 그것을 바라보면 돼요."
+    ],
+    "targetWords": [
+      "l1-252",
+      "ielts-photo",
+      "l2-172",
+      "l1-139",
+      "l2-038"
+    ],
+    "quiz": [
+      {
+        "question": "What does taking a photo make the writer believe?",
+        "questionKo": "사진을 찍는 게 글쓴이에게 무엇을 믿게 하나요?",
+        "options": [
+          "He will sell it",
+          "He will surely remember the moment",
+          "He will print it",
+          "He will forget"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What should the writer do instead?",
+        "questionKo": "글쓴이는 대신 무엇을 해야 하나요?",
+        "options": [
+          "Take more photos",
+          "Stand still and look at the real thing",
+          "Buy a new phone",
+          "Delete everything"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-30-thousand-photos-l3",
+    "title": "A Thousand Photos I Never Look At",
+    "titleKo": "한 번도 안 보는 사진 수천 장",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-30-thousand-photos"
+    ],
+    "paragraphs": [
+      "My phone quietly holds more than twelve thousand photographs locked inside it.",
+      "I take a startling number every single day, and yet I look back at almost none of them.",
+      "I photograph my dinner, the changing evening sky, an oddly interesting street corner.",
+      "And then, almost without exception, I never once open any of them again.",
+      "I suppose I quietly believe that taking the photo guarantees I will remember the moment.",
+      "But the uncomfortable truth is that the photo remembers it for me, so I no longer trouble to.",
+      "Perhaps I ought to learn, deliberately, to take far fewer pictures than I now reflexively do.",
+      "And simply stand still, breathe, and look directly at the real thing instead."
+    ],
+    "translation": [
+      "제 폰은 안에 만 이천 장이 넘는 사진을 조용히 가둬 품고 있어요.",
+      "매일 놀라운 양을 찍는데, 그중 거의 아무것도 돌아보지 않아요.",
+      "저녁을, 변해 가는 저녁 하늘을, 묘하게 흥미로운 길모퉁이를 찍어요.",
+      "그러고는, 거의 예외 없이, 그중 무엇도 다시는 한 번도 안 열어봐요.",
+      "사진을 찍으면 그 순간을 기억하는 게 보장된다고 조용히 믿는 것 같아요.",
+      "그런데 불편한 진실은 사진이 저 대신 기억해 주니까, 저는 더 이상 수고하지 않는다는 거예요.",
+      "어쩌면 저는, 의도적으로, 지금 반사적으로 찍는 것보다 훨씬 더 적게 찍는 법을 배워야 해요.",
+      "그리고 그냥 가만히 서서, 숨을 쉬고, 진짜 그것을 똑바로 바라보면 돼요."
+    ],
+    "targetWords": [
+      "ipage-photograph",
+      "ipage-exception",
+      "iform-uncomfortable",
+      "iform-deliberately",
+      "iform-directly"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer believe taking a photo guarantees?",
+        "questionKo": "글쓴이는 사진 찍기가 무엇을 보장한다고 믿나요?",
+        "options": [
+          "Money",
+          "That he will remember the moment",
+          "Fame",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the \"uncomfortable truth\"?",
+        "questionKo": "\"불편한 진실\"은 무엇인가요?",
+        "options": [
+          "Photos are ugly",
+          "The photo remembers, so he no longer troubles to",
+          "The phone is full",
+          "He has no friends"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-30-thousand-photos-l4",
+    "title": "A Thousand Photos I Never Look At",
+    "titleKo": "한 번도 안 보는 사진 수천 장",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-30-thousand-photos"
+    ],
+    "paragraphs": [
+      "My phone quietly holds more than twelve thousand photographs locked away inside it.",
+      "I take a frankly startling number every single day, and yet I look back at almost none of them.",
+      "I photograph my dinner, the slowly changing evening sky, an oddly interesting street corner.",
+      "And then, almost without a single exception, I never once open any of them again.",
+      "I suppose I quietly believe that taking the photograph guarantees I will faithfully remember the moment.",
+      "But the uncomfortable truth is that the photograph remembers it on my behalf, so I no longer trouble to.",
+      "Perhaps I ought to learn, quite deliberately, to capture far fewer pictures than I now reflexively do.",
+      "And simply stand still, breathe slowly, and look directly and fully at the real thing instead."
+    ],
+    "translation": [
+      "제 폰은 안에 만 이천 장이 넘는 사진을 조용히 가둬 품고 있어요.",
+      "솔직히 놀라운 양을 매일 찍는데, 그중 거의 아무것도 돌아보지 않아요.",
+      "저녁을, 천천히 변해 가는 저녁 하늘을, 묘하게 흥미로운 길모퉁이를 찍어요.",
+      "그러고는, 거의 단 하나의 예외도 없이, 그중 무엇도 다시는 한 번도 안 열어봐요.",
+      "사진을 찍으면 그 순간을 충실히 기억하는 게 보장된다고 조용히 믿는 것 같아요.",
+      "그런데 불편한 진실은 사진이 저를 대신해 기억해 주니까, 저는 더 이상 수고하지 않는다는 거예요.",
+      "어쩌면 저는, 꽤 의도적으로, 지금 반사적으로 찍는 것보다 훨씬 더 적게 담는 법을 배워야 해요.",
+      "그리고 그냥 가만히 서서, 천천히 숨 쉬고, 진짜 그것을 똑바로 또 온전히 바라보면 돼요."
+    ],
+    "targetWords": [
+      "ipage-photograph",
+      "ipage-exception",
+      "iform-uncomfortable",
+      "iform-deliberately",
+      "ielts-capture"
+    ],
+    "quiz": [
+      {
+        "question": "Who remembers the moment \"on his behalf\"?",
+        "questionKo": "누가 그를 대신해 그 순간을 기억하나요?",
+        "options": [
+          "A friend",
+          "The photograph",
+          "His family",
+          "The phone company"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How should he look at the real thing?",
+        "questionKo": "그는 진짜 그것을 어떻게 바라봐야 하나요?",
+        "options": [
+          "Quickly",
+          "Directly and fully",
+          "Through a lens",
+          "Never"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-30-thousand-photos-l5",
+    "title": "A Thousand Photos I Never Look At",
+    "titleKo": "한 번도 안 보는 사진 수천 장",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-30-thousand-photos"
+    ],
+    "paragraphs": [
+      "My phone quietly holds well over twelve thousand photographs locked away inside its bright glass.",
+      "I capture a frankly startling number every single day, and yet I revisit almost none of them.",
+      "I photograph my dinner, the slowly shifting evening sky, an oddly compelling street corner.",
+      "And then, almost without a single exception, I never once open any of them ever again.",
+      "I suppose I quietly believe that taking the photograph guarantees I will faithfully preserve the moment.",
+      "But the uncomfortable truth is that the photograph dutifully remembers on my behalf, so I no longer bother to.",
+      "Perhaps I ought to learn, quite deliberately, to capture far fewer images than I now reflexively accumulate.",
+      "And simply stand still, breathe slowly, and look directly and wholly at the real, unrepeatable thing instead."
+    ],
+    "translation": [
+      "제 폰은 밝은 유리 안에 만 이천 장을 훌쩍 넘는 사진을 조용히 가둬 품고 있어요.",
+      "솔직히 놀라운 양을 매일 담는데, 그중 거의 아무것도 다시 보지 않아요.",
+      "저녁을, 천천히 옮겨 가는 저녁 하늘을, 묘하게 마음을 끄는 길모퉁이를 찍어요.",
+      "그러고는, 거의 단 하나의 예외도 없이, 그중 무엇도 다시는 한 번도 안 열어봐요.",
+      "사진을 찍으면 그 순간을 충실히 보존하는 게 보장된다고 조용히 믿는 것 같아요.",
+      "그런데 불편한 진실은 사진이 저를 대신해 충실히 기억해 주니까, 저는 더 이상 굳이 안 한다는 거예요.",
+      "어쩌면 저는, 꽤 의도적으로, 지금 반사적으로 쌓는 것보다 훨씬 더 적은 이미지를 담는 법을 배워야 해요.",
+      "그리고 그냥 가만히 서서, 천천히 숨 쉬고, 진짜의, 되풀이될 수 없는 그것을 똑바로 또 온전히 바라보면 돼요."
+    ],
+    "targetWords": [
+      "ipage-photograph",
+      "ipage-exception",
+      "iform-deliberately",
+      "l5-091",
+      "l4-521"
+    ],
+    "quiz": [
+      {
+        "question": "How does the photograph remember?",
+        "questionKo": "사진은 어떻게 기억하나요?",
+        "options": [
+          "Carelessly",
+          "Dutifully, on his behalf",
+          "Wrongly",
+          "Slowly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is the real thing described at the end?",
+        "questionKo": "마지막에서 진짜 그것은 어떻게 묘사되나요?",
+        "options": [
+          "Boring",
+          "Real and unrepeatable",
+          "Cheap",
+          "Fake"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-30-thousand-photos-l6",
+    "title": "A Thousand Photos I Never Look At",
+    "titleKo": "한 번도 안 보는 사진 수천 장",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-30-thousand-photos"
+    ],
+    "paragraphs": [
+      "My phone quietly holds well over twelve thousand photographs locked away inside its bright, indifferent glass.",
+      "I capture a frankly startling number every single day, and yet I revisit virtually none of them afterward.",
+      "I photograph my dinner, the slowly shifting evening sky, an oddly compelling and otherwise forgettable street corner.",
+      "And then, almost without a single exception, I never once open any of them ever again.",
+      "I suppose I quietly believe that the very act of photographing guarantees I will faithfully preserve the moment.",
+      "But the uncomfortable truth is that the photograph dutifully remembers on my behalf, so I have outsourced the remembering entirely.",
+      "Perhaps I ought to learn, quite deliberately and against every habit, to capture far fewer images than I now reflexively accumulate.",
+      "And simply stand still, breathe slowly, and look directly and wholly at the real, unrepeatable, vanishing thing instead."
+    ],
+    "translation": [
+      "제 폰은 밝고 무심한 유리 안에 만 이천 장을 훌쩍 넘는 사진을 조용히 가둬 품고 있어요.",
+      "솔직히 놀라운 양을 매일 담는데, 그러고 나서 그중 사실상 아무것도 다시 보지 않아요.",
+      "저녁을, 천천히 옮겨 가는 저녁 하늘을, 묘하게 마음을 끌지만 그 외엔 잊힐 길모퉁이를 찍어요.",
+      "그러고는, 거의 단 하나의 예외도 없이, 그중 무엇도 다시는 한 번도 안 열어봐요.",
+      "사진을 찍는 행위 자체가 그 순간을 충실히 보존하는 걸 보장한다고 조용히 믿는 것 같아요.",
+      "그런데 불편한 진실은 사진이 저를 대신해 충실히 기억해 주니까, 저는 기억하는 일을 통째로 외주 줘 버렸다는 거예요.",
+      "어쩌면 저는, 꽤 의도적으로 또 모든 습관에 맞서, 지금 반사적으로 쌓는 것보다 훨씬 더 적은 이미지를 담는 법을 배워야 해요.",
+      "그리고 그냥 가만히 서서, 천천히 숨 쉬고, 진짜의, 되풀이될 수 없는, 사라져 가는 그것을 똑바로 또 온전히 바라보면 돼요."
+    ],
+    "targetWords": [
+      "ipage-photograph",
+      "iform-deliberately",
+      "l5-091",
+      "ielts-indifferent",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "What has the writer \"outsourced entirely\"?",
+        "questionKo": "글쓴이는 무엇을 통째로 외주 줬나요?",
+        "options": [
+          "His cooking",
+          "The remembering",
+          "His phone bill",
+          "His photos' editing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Against what must he learn to capture fewer images?",
+        "questionKo": "그는 무엇에 맞서 더 적게 담는 법을 배워야 하나요?",
+        "options": [
+          "His budget",
+          "Every habit",
+          "His friends",
+          "The weather"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

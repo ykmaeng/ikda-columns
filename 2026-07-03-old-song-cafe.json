@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-07-03-old-song-cafe-l1",
+    "title": "An Old Song in the Cafe",
+    "titleKo": "카페에서 흘러나온 옛 노래",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-07-03-old-song-cafe"
+    ],
+    "paragraphs": [
+      "I was in a cafe, just drinking coffee.",
+      "Then an old song began to play.",
+      "I had not heard it in fifteen years.",
+      "Suddenly I was twenty again.",
+      "I could almost smell that old summer.",
+      "My coffee got cold while I sat still.",
+      "The song ended. I came back to now.",
+      "Time can fold, just for three minutes."
+    ],
+    "translation": [
+      "카페에 있었어요. 그냥 커피를 마시면서요.",
+      "그때 옛 노래가 흐르기 시작했어요.",
+      "15년 동안 못 들었던 노래예요.",
+      "갑자기 저는 다시 스무 살이 됐어요.",
+      "그 옛 여름의 냄새가 거의 맡아졌어요.",
+      "가만히 앉아 있는 동안 커피가 식었어요.",
+      "노래가 끝났어요. 저는 지금으로 돌아왔어요.",
+      "시간은 접힐 수 있어요. 딱 3분 동안요."
+    ],
+    "targetWords": [
+      "ielts-coffee",
+      "l1-137",
+      "l1-021",
+      "l2-147",
+      "l2-052"
+    ],
+    "quiz": [
+      {
+        "question": "How long since the writer heard the song?",
+        "questionKo": "글쓴이는 그 노래를 얼마 만에 들었나요?",
+        "options": [
+          "One year",
+          "Fifteen years",
+          "A week",
+          "Never before"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What happened to the coffee?",
+        "questionKo": "커피는 어떻게 됐나요?",
+        "options": [
+          "He spilled it",
+          "It got cold",
+          "He drank it fast",
+          "It was hot"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-03-old-song-cafe-l2",
+    "title": "An Old Song in the Cafe",
+    "titleKo": "카페에서 흘러나온 옛 노래",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-07-03-old-song-cafe"
+    ],
+    "paragraphs": [
+      "I was sitting alone in a quiet cafe, just slowly drinking my coffee.",
+      "Then, out of nowhere, an old and almost forgotten song began to play.",
+      "I had not actually heard that particular song in at least fifteen years.",
+      "And suddenly, without any warning, I was twenty years old all over again.",
+      "I could almost smell the warm air of that one distant, vanished summer.",
+      "My coffee slowly went completely cold while I just sat there, perfectly still.",
+      "Then the song gently ended, and I quietly came back to the present moment.",
+      "Time, I learned, can fold neatly in half — but only for about three minutes."
+    ],
+    "translation": [
+      "저는 조용한 카페에 혼자 앉아, 그냥 천천히 커피를 마시고 있었어요.",
+      "그때, 난데없이, 오래되고 거의 잊힌 노래가 흐르기 시작했어요.",
+      "저는 그 특정 노래를 적어도 15년 동안 사실 못 들었어요.",
+      "그리고 갑자기, 아무 예고 없이, 저는 다시 스무 살이 됐어요.",
+      "그 멀고 사라진 어느 여름의 따뜻한 공기 냄새가 거의 맡아졌어요.",
+      "제가 그냥 완벽히 가만히 앉아 있는 동안 커피가 천천히 완전히 식었어요.",
+      "그러고는 노래가 부드럽게 끝났고, 저는 조용히 현재의 순간으로 돌아왔어요.",
+      "시간은, 제가 배웠듯, 반으로 깔끔히 접힐 수 있어요 — 하지만 딱 3분 정도만요."
+    ],
+    "targetWords": [
+      "ielts-coffee",
+      "l1-137",
+      "l2-147",
+      "l2-052",
+      "l1-100"
+    ],
+    "quiz": [
+      {
+        "question": "What could the writer almost smell?",
+        "questionKo": "글쓴이는 무엇의 냄새를 거의 맡았나요?",
+        "options": [
+          "Fresh coffee",
+          "The air of a distant vanished summer",
+          "Rain",
+          "Flowers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "For how long can time fold?",
+        "questionKo": "시간은 얼마나 오래 접힐 수 있나요?",
+        "options": [
+          "Forever",
+          "For about three minutes",
+          "A whole day",
+          "One second"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-03-old-song-cafe-l3",
+    "title": "An Old Song in the Cafe",
+    "titleKo": "카페에서 흘러나온 옛 노래",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-07-03-old-song-cafe"
+    ],
+    "paragraphs": [
+      "I was sitting alone in a quiet corner cafe, just slowly and absently drinking my coffee.",
+      "Then, out of nowhere at all, an old and almost entirely forgotten song began to play overhead.",
+      "I had not actually heard that one particular song in at least fifteen long years.",
+      "And suddenly, without the slightest warning, I was twenty years old all over again.",
+      "I could almost physically smell the warm evening air of that one distant, vanished summer.",
+      "My coffee slowly went completely cold while I simply sat there, perfectly and helplessly still.",
+      "Then the song gently faded and ended, and I quietly drifted back to the ordinary present moment.",
+      "Time, I quietly learned, can fold cleanly in half — but only ever for about three short minutes."
+    ],
+    "translation": [
+      "저는 조용한 구석 카페에 혼자 앉아, 그냥 천천히 그리고 멍하니 커피를 마시고 있었어요.",
+      "그때, 정말 난데없이, 오래되고 거의 완전히 잊힌 노래가 머리 위에서 흐르기 시작했어요.",
+      "저는 그 하나의 특정 노래를 적어도 긴 15년 동안 사실 못 들었어요.",
+      "그리고 갑자기, 아주 작은 예고도 없이, 저는 다시 스무 살이 됐어요.",
+      "그 멀고 사라진 어느 여름의 따뜻한 저녁 공기 냄새가 거의 물리적으로 맡아졌어요.",
+      "제가 그냥 완벽히, 어쩔 수 없이 가만히 앉아 있는 동안 커피가 천천히 완전히 식었어요.",
+      "그러고는 노래가 부드럽게 잦아들며 끝났고, 저는 조용히 평범한 현재의 순간으로 떠밀려 돌아왔어요.",
+      "시간은, 제가 조용히 배웠듯, 반으로 깔끔히 접힐 수 있어요 — 하지만 오직 짧은 3분 정도만요."
+    ],
+    "targetWords": [
+      "iform-absently",
+      "l2-052",
+      "iform-helplessly",
+      "ielts-present",
+      "l2-293"
+    ],
+    "quiz": [
+      {
+        "question": "How was the writer sitting as the coffee went cold?",
+        "questionKo": "커피가 식는 동안 글쓴이는 어떻게 앉아 있었나요?",
+        "options": [
+          "Restlessly",
+          "Perfectly and helplessly still",
+          "Standing",
+          "Dancing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the writer return to the present?",
+        "questionKo": "글쓴이는 현재로 어떻게 돌아왔나요?",
+        "options": [
+          "With a jolt",
+          "Quietly drifted back",
+          "By leaving",
+          "By singing"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-03-old-song-cafe-l4",
+    "title": "An Old Song in the Cafe",
+    "titleKo": "카페에서 흘러나온 옛 노래",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-07-03-old-song-cafe"
+    ],
+    "paragraphs": [
+      "I was sitting alone in a quiet corner cafe, just slowly and absently drinking my lukewarm coffee.",
+      "Then, out of nowhere at all, an old and almost entirely forgotten song began to play softly overhead.",
+      "I had not actually heard that one particular song in at least fifteen long, accumulated years.",
+      "And suddenly, without the slightest discernible warning, I was twenty years old all over again.",
+      "I could almost physically smell the warm evening air of that one distant, irretrievably vanished summer.",
+      "My coffee slowly went completely cold while I simply sat there, perfectly and helplessly still.",
+      "Then the song gently faded and ended, and I quietly drifted back into the ordinary present moment.",
+      "Time, I quietly relearned, can fold cleanly in half — but only ever for about three fragile minutes."
+    ],
+    "translation": [
+      "저는 조용한 구석 카페에 혼자 앉아, 그냥 천천히 그리고 멍하니 미지근한 커피를 마시고 있었어요.",
+      "그때, 정말 난데없이, 오래되고 거의 완전히 잊힌 노래가 머리 위에서 부드럽게 흐르기 시작했어요.",
+      "저는 그 하나의 특정 노래를 적어도 길게 쌓인 15년 동안 사실 못 들었어요.",
+      "그리고 갑자기, 알아챌 수 있는 아주 작은 예고도 없이, 저는 다시 스무 살이 됐어요.",
+      "그 멀고, 돌이킬 수 없이 사라진 어느 여름의 따뜻한 저녁 공기 냄새가 거의 물리적으로 맡아졌어요.",
+      "제가 그냥 완벽히, 어쩔 수 없이 가만히 앉아 있는 동안 커피가 천천히 완전히 식었어요.",
+      "그러고는 노래가 부드럽게 잦아들며 끝났고, 저는 조용히 평범한 현재의 순간으로 떠밀려 돌아왔어요.",
+      "시간은, 제가 조용히 다시 배웠듯, 반으로 깔끔히 접힐 수 있어요 — 하지만 오직 부서지기 쉬운 3분 정도만요."
+    ],
+    "targetWords": [
+      "iform-absently",
+      "iform-discernible",
+      "iform-helplessly",
+      "ipage-fragile",
+      "ielts-present"
+    ],
+    "quiz": [
+      {
+        "question": "How had that summer vanished?",
+        "questionKo": "그 여름은 어떻게 사라졌나요?",
+        "options": [
+          "Temporarily",
+          "Irretrievably",
+          "Recently",
+          "Slowly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How are the three minutes described?",
+        "questionKo": "그 3분은 어떻게 묘사되나요?",
+        "options": [
+          "Endless",
+          "Fragile",
+          "Loud",
+          "Boring"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-03-old-song-cafe-l5",
+    "title": "An Old Song in the Cafe",
+    "titleKo": "카페에서 흘러나온 옛 노래",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-07-03-old-song-cafe"
+    ],
+    "paragraphs": [
+      "I was sitting alone in a quiet corner cafe, just slowly and absently nursing my lukewarm coffee.",
+      "Then, out of nowhere whatsoever, an old and almost entirely forgotten song began to play softly overhead.",
+      "I had not actually heard that one particular song in at least fifteen long, quietly accumulated years.",
+      "And suddenly, without the slightest discernible warning, I was inexplicably twenty years old all over again.",
+      "I could almost physically smell the warm evening air of that one distant, irretrievably vanished summer.",
+      "My neglected coffee slowly went entirely cold while I simply sat there, perfectly and helplessly still.",
+      "Then the song gently faded and dissolved, and I quietly drifted back into the unremarkable present moment.",
+      "Time, I quietly relearned, can fold cleanly in half — but only ever for about three impossibly fragile minutes."
+    ],
+    "translation": [
+      "저는 조용한 구석 카페에 혼자 앉아, 그냥 천천히 그리고 멍하니 미지근한 커피를 홀짝이고 있었어요.",
+      "그때, 정말 그 어디서도 아닌 곳에서, 오래되고 거의 완전히 잊힌 노래가 머리 위에서 부드럽게 흐르기 시작했어요.",
+      "저는 그 하나의 특정 노래를 적어도 길게, 조용히 쌓인 15년 동안 사실 못 들었어요.",
+      "그리고 갑자기, 알아챌 수 있는 아주 작은 예고도 없이, 저는 설명할 수 없이 다시 스무 살이 됐어요.",
+      "그 멀고, 돌이킬 수 없이 사라진 어느 여름의 따뜻한 저녁 공기 냄새가 거의 물리적으로 맡아졌어요.",
+      "방치된 제 커피가 천천히 완전히 식는 동안 저는 그냥 완벽히, 어쩔 수 없이 가만히 앉아 있었어요.",
+      "그러고는 노래가 부드럽게 잦아들며 녹아 사라졌고, 저는 조용히 특별할 것 없는 현재의 순간으로 떠밀려 돌아왔어요.",
+      "시간은, 제가 조용히 다시 배웠듯, 반으로 깔끔히 접힐 수 있어요 — 하지만 오직 믿기 힘들 만큼 부서지기 쉬운 3분 정도만요."
+    ],
+    "targetWords": [
+      "iform-absently",
+      "iform-discernible",
+      "iform-helplessly",
+      "iform-inexplicably",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer become twenty again?",
+        "questionKo": "글쓴이는 어떻게 다시 스무 살이 됐나요?",
+        "options": [
+          "Deliberately",
+          "Inexplicably",
+          "Sadly",
+          "Slowly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the song end?",
+        "questionKo": "노래는 어떻게 끝났나요?",
+        "options": [
+          "Abruptly cut off",
+          "Faded and dissolved",
+          "With applause",
+          "It repeated"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-03-old-song-cafe-l6",
+    "title": "An Old Song in the Cafe",
+    "titleKo": "카페에서 흘러나온 옛 노래",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-07-03-old-song-cafe"
+    ],
+    "paragraphs": [
+      "I was sitting alone in a quiet corner cafe, just slowly and absently nursing my lukewarm, half-finished coffee.",
+      "Then, out of nowhere whatsoever, an old and almost entirely forgotten song began to play softly and insistently overhead.",
+      "I had not actually heard that one particular song in at least fifteen long, quietly and imperceptibly accumulated years.",
+      "And suddenly, without the slightest discernible warning, I was inexplicably and bodily twenty years old all over again.",
+      "I could almost physically smell the warm evening air of that one distant, irretrievably vanished, gilded summer.",
+      "My neglected coffee slowly went entirely cold while I simply sat there, perfectly and helplessly, abjectly still.",
+      "Then the song gently faded and dissolved into the air, and I quietly drifted back into the unremarkable present moment.",
+      "Time, I quietly relearned, can fold cleanly in half — but only ever, cruelly, for about three impossibly fragile minutes."
+    ],
+    "translation": [
+      "저는 조용한 구석 카페에 혼자 앉아, 그냥 천천히 그리고 멍하니 미지근한, 반쯤 남은 커피를 홀짝이고 있었어요.",
+      "그때, 정말 그 어디서도 아닌 곳에서, 오래되고 거의 완전히 잊힌 노래가 머리 위에서 부드럽고 집요하게 흐르기 시작했어요.",
+      "저는 그 하나의 특정 노래를 적어도 길게, 조용히 그리고 알아채지 못한 채 쌓인 15년 동안 사실 못 들었어요.",
+      "그리고 갑자기, 알아챌 수 있는 아주 작은 예고도 없이, 저는 설명할 수 없이 또 온몸으로 다시 스무 살이 됐어요.",
+      "그 멀고, 돌이킬 수 없이 사라진, 금빛으로 물든 어느 여름의 따뜻한 저녁 공기 냄새가 거의 물리적으로 맡아졌어요.",
+      "방치된 제 커피가 천천히 완전히 식는 동안 저는 그냥 완벽히, 어쩔 수 없이, 비참하리만치 가만히 앉아 있었어요.",
+      "그러고는 노래가 부드럽게 잦아들며 공기 속으로 녹아 사라졌고, 저는 조용히 특별할 것 없는 현재의 순간으로 떠밀려 돌아왔어요.",
+      "시간은, 제가 조용히 다시 배웠듯, 반으로 깔끔히 접힐 수 있어요 — 하지만 오직, 잔인하게도, 믿기 힘들 만큼 부서지기 쉬운 3분 정도만요."
+    ],
+    "targetWords": [
+      "iform-absently",
+      "iform-imperceptibly",
+      "iform-inexplicably",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "How is that vanished summer finally described?",
+        "questionKo": "사라진 그 여름은 마침내 어떻게 묘사되나요?",
+        "options": [
+          "Gray and cold",
+          "Gilded",
+          "Forgotten",
+          "Ordinary"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does time fold, cruelly?",
+        "questionKo": "시간은 잔인하게도 어떻게 접히나요?",
+        "options": [
+          "For hours",
+          "Only for about three fragile minutes",
+          "Permanently",
+          "Never"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

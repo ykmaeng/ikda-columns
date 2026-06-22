@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-07-07-news-by-feed-l1",
+    "title": "I Learned My Friend's News from a Feed",
+    "titleKo": "친구의 소식을 피드로 알았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-07-07-news-by-feed"
+    ],
+    "paragraphs": [
+      "My close friend had a baby last month.",
+      "I learned it from a post on my phone.",
+      "A photo, between an ad and a joke.",
+      "I was happy. Then I felt a small ache.",
+      "Once, she would have called me first.",
+      "Now big news arrives like all other news.",
+      "I tapped a heart. Was that enough?",
+      "I closed the app and called her, slowly."
+    ],
+    "translation": [
+      "제 친한 친구가 지난달에 아기를 낳았어요.",
+      "저는 그걸 폰의 게시물로 알았어요.",
+      "광고와 농담 사이의 사진 한 장으로요.",
+      "기뻤어요. 그러고는 작은 아픔을 느꼈어요.",
+      "예전엔, 그녀가 제게 먼저 전화했을 거예요.",
+      "이제 큰 소식이 다른 모든 소식처럼 와요.",
+      "저는 하트를 눌렀어요. 그게 충분했을까요?",
+      "앱을 닫고, 천천히, 그녀에게 전화했어요."
+    ],
+    "targetWords": [
+      "l1-037",
+      "l1-134",
+      "l1-045",
+      "l1-252",
+      "ielts-photo"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer learn about the baby?",
+        "questionKo": "글쓴이는 아기 소식을 어떻게 알았나요?",
+        "options": [
+          "A phone call",
+          "A post on the phone",
+          "A letter",
+          "A visit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer do at the end?",
+        "questionKo": "글쓴이는 마지막에 무엇을 했나요?",
+        "options": [
+          "Posted a photo",
+          "Closed the app and called her",
+          "Sent an ad",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-07-news-by-feed-l2",
+    "title": "I Learned My Friend's News from a Feed",
+    "titleKo": "친구의 소식을 피드로 알았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-07-07-news-by-feed"
+    ],
+    "paragraphs": [
+      "My close and dear friend quietly had her first baby sometime last month.",
+      "I learned about this huge news from a small post scrolling past on my phone.",
+      "It was just a photo, squeezed neatly between an advertisement and a stranger's joke.",
+      "I was genuinely happy for her. But then I felt a small, surprising ache.",
+      "Once, not very long ago, she certainly would have called me first to tell me.",
+      "Now even the biggest news simply arrives looking exactly like all the other news.",
+      "I tapped a little heart on the screen. But somehow I wondered if that was enough.",
+      "So I gently closed the noisy app, and then I called her directly, slowly."
+    ],
+    "translation": [
+      "제 친하고 소중한 친구가 지난달 언젠가 조용히 첫 아기를 낳았어요.",
+      "저는 이 엄청난 소식을 폰에서 스쳐 지나가는 작은 게시물로 알았어요.",
+      "그건 그냥 사진 한 장이었어요. 광고와 낯선 사람의 농담 사이에 깔끔히 끼인.",
+      "저는 진심으로 그녀를 위해 기뻤어요. 그런데 그러고는 작고 뜻밖의 아픔을 느꼈어요.",
+      "예전엔, 그리 오래되지 않은 때엔, 그녀가 분명 제게 먼저 전화해 알려줬을 거예요.",
+      "이제는 가장 큰 소식조차 그냥 다른 모든 소식과 똑같은 모습으로 와요.",
+      "저는 화면의 작은 하트를 눌렀어요. 그런데 어쩐지 그게 충분했을까 의문이 들었어요.",
+      "그래서 저는 시끄러운 앱을 살며시 닫고, 그러고는 그녀에게 직접, 천천히 전화했어요."
+    ],
+    "targetWords": [
+      "l1-037",
+      "l1-134",
+      "l1-045",
+      "ielts-photo",
+      "l1-097"
+    ],
+    "quiz": [
+      {
+        "question": "Between what was the photo squeezed?",
+        "questionKo": "사진은 무엇 사이에 끼여 있었나요?",
+        "options": [
+          "Two friends",
+          "An advertisement and a stranger's joke",
+          "Two babies",
+          "Two letters"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer wonder about the heart tap?",
+        "questionKo": "글쓴이는 하트를 누른 것에 대해 무엇을 의문했나요?",
+        "options": [
+          "If it was too much",
+          "If that was enough",
+          "If it was seen",
+          "If it was fast"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-07-news-by-feed-l3",
+    "title": "I Learned My Friend's News from a Feed",
+    "titleKo": "친구의 소식을 피드로 알았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-07-07-news-by-feed"
+    ],
+    "paragraphs": [
+      "My close and genuinely dear friend quietly had her very first baby sometime last month.",
+      "I learned about this enormous, life-changing news from a small post scrolling silently past on my phone.",
+      "It was merely a photo, squeezed neatly between a glossy advertisement and a stranger's passing joke.",
+      "I was, of course, genuinely and warmly happy for her. But then I felt a small, surprising ache.",
+      "Once, not so very long ago at all, she certainly would have telephoned me first to share it.",
+      "Now even the very biggest news simply arrives looking exactly like every other piece of news.",
+      "I tapped a small heart on the bright screen. But somehow I quietly wondered if that was nearly enough.",
+      "So I gently closed the noisy, crowded app, and then I called her directly, slowly, on purpose."
+    ],
+    "translation": [
+      "제 친하고 진심으로 소중한 친구가 지난달 언젠가 조용히 첫 아기를 낳았어요.",
+      "저는 이 엄청난, 인생을 바꾸는 소식을 폰에서 소리 없이 스쳐 지나가는 작은 게시물로 알았어요.",
+      "그건 그저 사진 한 장이었어요. 번지르르한 광고와 낯선 사람의 스쳐 가는 농담 사이에 깔끔히 끼인.",
+      "저는, 물론, 진심으로 따뜻하게 그녀를 위해 기뻤어요. 그런데 그러고는 작고 뜻밖의 아픔을 느꼈어요.",
+      "예전엔, 정말 그리 오래되지 않은 때엔, 그녀가 분명 제게 먼저 전화해 그걸 나눴을 거예요.",
+      "이제는 정말 가장 큰 소식조차 그냥 다른 모든 소식 조각과 똑같은 모습으로 와요.",
+      "저는 밝은 화면의 작은 하트를 눌렀어요. 그런데 어쩐지 그게 과연 충분했을까 조용히 의문이 들었어요.",
+      "그래서 저는 시끄럽고 붐비는 앱을 살며시 닫고, 그러고는 그녀에게 직접, 천천히, 일부러 전화했어요."
+    ],
+    "targetWords": [
+      "l1-037",
+      "l1-134",
+      "l1-045",
+      "l1-097",
+      "ipage-ache"
+    ],
+    "quiz": [
+      {
+        "question": "How did the news scroll past?",
+        "questionKo": "소식은 어떻게 스쳐 지나갔나요?",
+        "options": [
+          "Loudly",
+          "Silently",
+          "Slowly",
+          "Twice"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the writer finally call her?",
+        "questionKo": "글쓴이는 결국 그녀에게 어떻게 전화했나요?",
+        "options": [
+          "By accident",
+          "Directly, slowly, on purpose",
+          "Never",
+          "Through the app"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-07-news-by-feed-l4",
+    "title": "I Learned My Friend's News from a Feed",
+    "titleKo": "친구의 소식을 피드로 알았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-07-07-news-by-feed"
+    ],
+    "paragraphs": [
+      "My close and genuinely dear friend quietly had her very first baby sometime last month, while I was busy.",
+      "I learned about this enormous, life-altering news from a small post scrolling silently past on my crowded phone.",
+      "It was merely a photo, squeezed neatly between a glossy advertisement and a stranger's entirely forgettable joke.",
+      "I was, of course, genuinely and warmly happy for her. But then I felt a small, surprising, unexpected ache.",
+      "Once, not so very long ago at all, she would unquestionably have telephoned me first to share the news.",
+      "Now even the very biggest news simply arrives looking precisely like every other interchangeable piece of news.",
+      "I tapped a small heart on the bright screen. But somehow I quietly wondered whether that was anywhere near enough.",
+      "So I gently closed the noisy, crowded app, and then I called her directly, slowly, and entirely on purpose."
+    ],
+    "translation": [
+      "제 친하고 진심으로 소중한 친구가, 제가 바쁜 사이, 지난달 언젠가 조용히 첫 아기를 낳았어요.",
+      "저는 이 엄청난, 인생을 뒤바꾸는 소식을 붐비는 폰에서 소리 없이 스쳐 지나가는 작은 게시물로 알았어요.",
+      "그건 그저 사진 한 장이었어요. 번지르르한 광고와 낯선 사람의 완전히 잊힐 농담 사이에 깔끔히 끼인.",
+      "저는, 물론, 진심으로 따뜻하게 그녀를 위해 기뻤어요. 그런데 그러고는 작고 뜻밖의, 예상치 못한 아픔을 느꼈어요.",
+      "예전엔, 정말 그리 오래되지 않은 때엔, 그녀가 의심의 여지 없이 제게 먼저 전화해 그 소식을 나눴을 거예요.",
+      "이제는 정말 가장 큰 소식조차 그냥 다른 모든 서로 바꿔도 될 소식 조각과 정확히 똑같은 모습으로 와요.",
+      "저는 밝은 화면의 작은 하트를 눌렀어요. 그런데 어쩐지 그게 과연 충분에 가깝기나 했을까 조용히 의문이 들었어요.",
+      "그래서 저는 시끄럽고 붐비는 앱을 살며시 닫고, 그러고는 그녀에게 직접, 천천히, 온전히 일부러 전화했어요."
+    ],
+    "targetWords": [
+      "l1-037",
+      "l1-134",
+      "l1-045",
+      "iform-unexpected",
+      "ipage-ache"
+    ],
+    "quiz": [
+      {
+        "question": "What does every piece of news now look like?",
+        "questionKo": "이제 모든 소식 조각은 어떻게 보이나요?",
+        "options": [
+          "Unique",
+          "Interchangeable",
+          "Beautiful",
+          "Urgent"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How certainly would she once have called first?",
+        "questionKo": "그녀는 예전엔 얼마나 확실히 먼저 전화했을까요?",
+        "options": [
+          "Maybe",
+          "Unquestionably",
+          "Never",
+          "Rarely"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-07-news-by-feed-l5",
+    "title": "I Learned My Friend's News from a Feed",
+    "titleKo": "친구의 소식을 피드로 알았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-07-07-news-by-feed"
+    ],
+    "paragraphs": [
+      "My close and genuinely dear friend quietly had her very first baby sometime last month, while I was elsewhere and busy.",
+      "I learned about this enormous, life-altering news from a small post scrolling silently and indifferently past on my crowded phone.",
+      "It was merely a photo, wedged neatly between a glossy advertisement and a stranger's entirely forgettable, trivial joke.",
+      "I was, of course, genuinely and warmly happy for her. But then I felt a small, surprising, inexplicable ache.",
+      "Once, not so very long ago at all, she would unquestionably have telephoned me first, breathless, to share the news.",
+      "Now even the very biggest news simply arrives looking precisely like every other flattened, interchangeable piece of news.",
+      "I tapped a small heart on the bright screen. But somehow I quietly wondered whether that gesture was anywhere near enough.",
+      "So I gently closed the noisy, crowded app, and then I called her directly, slowly, and entirely and deliberately on purpose."
+    ],
+    "translation": [
+      "제 친하고 진심으로 소중한 친구가, 제가 딴 데서 바쁜 사이, 지난달 언젠가 조용히 첫 아기를 낳았어요.",
+      "저는 이 엄청난, 인생을 뒤바꾸는 소식을 붐비는 폰에서 소리 없이, 무심하게 스쳐 지나가는 작은 게시물로 알았어요.",
+      "그건 그저 사진 한 장이었어요. 번지르르한 광고와 낯선 사람의 완전히 잊힐, 하찮은 농담 사이에 깔끔히 끼인.",
+      "저는, 물론, 진심으로 따뜻하게 그녀를 위해 기뻤어요. 그런데 그러고는 작고 뜻밖의, 설명할 수 없는 아픔을 느꼈어요.",
+      "예전엔, 정말 그리 오래되지 않은 때엔, 그녀가 의심의 여지 없이, 숨가쁘게, 제게 먼저 전화해 그 소식을 나눴을 거예요.",
+      "이제는 정말 가장 큰 소식조차 그냥 다른 모든 납작해진, 서로 바꿔도 될 소식 조각과 정확히 똑같은 모습으로 와요.",
+      "저는 밝은 화면의 작은 하트를 눌렀어요. 그런데 어쩐지 그 몸짓이 과연 충분에 가깝기나 했을까 조용히 의문이 들었어요.",
+      "그래서 저는 시끄럽고 붐비는 앱을 살며시 닫고, 그러고는 그녀에게 직접, 천천히, 온전히 또 의도적으로 일부러 전화했어요."
+    ],
+    "targetWords": [
+      "l1-037",
+      "l1-134",
+      "l1-045",
+      "ielts-inexplicable",
+      "ipage-ache"
+    ],
+    "quiz": [
+      {
+        "question": "How did the post scroll past?",
+        "questionKo": "게시물은 어떻게 스쳐 지나갔나요?",
+        "options": [
+          "Warmly",
+          "Silently and indifferently",
+          "Urgently",
+          "Slowly and kindly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is every piece of news now described?",
+        "questionKo": "이제 모든 소식 조각은 어떻게 묘사되나요?",
+        "options": [
+          "Deep",
+          "Flattened and interchangeable",
+          "Loud",
+          "Precious"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-07-news-by-feed-l6",
+    "title": "I Learned My Friend's News from a Feed",
+    "titleKo": "친구의 소식을 피드로 알았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-07-07-news-by-feed"
+    ],
+    "paragraphs": [
+      "My close and genuinely dear friend quietly had her very first baby sometime last month, while I was elsewhere and preoccupied.",
+      "I learned about this enormous, life-altering news from a small post scrolling silently and indifferently past on my crowded phone.",
+      "It was merely a photo, wedged unceremoniously between a glossy advertisement and a stranger's entirely forgettable, trivial joke.",
+      "I was, of course, genuinely and warmly happy for her. But then I felt a small, surprising, faintly inexplicable ache.",
+      "Once, not so very long ago at all, she would unquestionably have telephoned me first, breathless and giddy, to share it.",
+      "Now even the very largest news simply arrives looking precisely like every other flattened, interchangeable, weightless piece of news.",
+      "I tapped a small heart on the bright glass. But somehow I quietly wondered whether that frictionless gesture was anywhere near enough.",
+      "So I gently closed the noisy, crowded app, and then I called her directly, slowly, and entirely and deliberately on purpose."
+    ],
+    "translation": [
+      "제 친하고 진심으로 소중한 친구가, 제가 딴 데서 정신없는 사이, 지난달 언젠가 조용히 첫 아기를 낳았어요.",
+      "저는 이 엄청난, 인생을 뒤바꾸는 소식을 붐비는 폰에서 소리 없이, 무심하게 스쳐 지나가는 작은 게시물로 알았어요.",
+      "그건 그저 사진 한 장이었어요. 번지르르한 광고와 낯선 사람의 완전히 잊힐, 하찮은 농담 사이에 격식 없이 끼인.",
+      "저는, 물론, 진심으로 따뜻하게 그녀를 위해 기뻤어요. 그런데 그러고는 작고 뜻밖의, 어렴풋이 설명할 수 없는 아픔을 느꼈어요.",
+      "예전엔, 정말 그리 오래되지 않은 때엔, 그녀가 의심의 여지 없이, 숨가쁘고 들떠서, 제게 먼저 전화해 그걸 나눴을 거예요.",
+      "이제는 정말 가장 큰 소식조차 그냥 다른 모든 납작해진, 서로 바꿔도 될, 무게 없는 소식 조각과 정확히 똑같은 모습으로 와요.",
+      "저는 밝은 유리의 작은 하트를 눌렀어요. 그런데 어쩐지 그 마찰 없는 몸짓이 과연 충분에 가깝기나 했을까 조용히 의문이 들었어요.",
+      "그래서 저는 시끄럽고 붐비는 앱을 살며시 닫고, 그러고는 그녀에게 직접, 천천히, 온전히 또 의도적으로 일부러 전화했어요."
+    ],
+    "targetWords": [
+      "l1-037",
+      "l1-134",
+      "l1-045",
+      "ielts-inexplicable",
+      "ipage-ache"
+    ],
+    "quiz": [
+      {
+        "question": "How was the photo wedged between the ad and joke?",
+        "questionKo": "사진은 광고와 농담 사이에 어떻게 끼여 있었나요?",
+        "options": [
+          "Carefully",
+          "Unceremoniously",
+          "Proudly",
+          "Lovingly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is the heart-tap gesture described?",
+        "questionKo": "하트를 누른 몸짓은 어떻게 묘사되나요?",
+        "options": [
+          "Heavy and meaningful",
+          "Frictionless",
+          "Slow",
+          "Loud"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

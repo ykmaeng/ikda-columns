@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-07-01-empty-fridge-l1",
+    "title": "I Stood Before the Open Fridge",
+    "titleKo": "열린 냉장고 앞에 서 있었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-07-01-empty-fridge"
+    ],
+    "paragraphs": [
+      "I opened the fridge and just stood there.",
+      "It was almost empty. I knew that already.",
+      "But I looked anyway. For a long minute.",
+      "I was not really hungry. I was tired.",
+      "Tired of choosing things, all day long.",
+      "What to wear, what to read, what to buy.",
+      "The cold light felt strangely calm.",
+      "I closed the door and chose nothing at all."
+    ],
+    "translation": [
+      "냉장고를 열고 그냥 거기 서 있었어요.",
+      "거의 비어 있었어요. 이미 알고 있었어요.",
+      "그래도 들여다봤어요. 긴 1분 동안요.",
+      "사실 배고프지 않았어요. 피곤했어요.",
+      "하루 종일 무언가를 고르는 게 피곤했어요.",
+      "뭘 입을지, 뭘 읽을지, 뭘 살지요.",
+      "차가운 불빛이 이상하게 차분했어요.",
+      "문을 닫고 아무것도 고르지 않았어요."
+    ],
+    "targetWords": [
+      "l1-036",
+      "l2-126",
+      "l1-039",
+      "l1-286",
+      "l2-117"
+    ],
+    "quiz": [
+      {
+        "question": "Was the writer really hungry?",
+        "questionKo": "글쓴이는 정말 배고팠나요?",
+        "options": [
+          "Yes, very",
+          "No, he was tired",
+          "Yes, a little",
+          "He was sick"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer choose in the end?",
+        "questionKo": "글쓴이는 결국 무엇을 골랐나요?",
+        "options": [
+          "A big meal",
+          "Nothing at all",
+          "Fruit",
+          "Water"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-01-empty-fridge-l2",
+    "title": "I Stood Before the Open Fridge",
+    "titleKo": "열린 냉장고 앞에 서 있었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-07-01-empty-fridge"
+    ],
+    "paragraphs": [
+      "I opened the refrigerator door and simply stood there in front of it.",
+      "It was almost completely empty, and I already knew that perfectly well.",
+      "But I kept looking inside anyway, for one long and strangely peaceful minute.",
+      "I was not actually hungry at all; the real truth was that I was tired.",
+      "I was tired of choosing things, one after another, all day long.",
+      "What to wear, what to read, what to watch, what to buy and eat.",
+      "The cold electric light of the fridge felt oddly, unexpectedly calming.",
+      "In the end, I gently closed the door and chose nothing at all."
+    ],
+    "translation": [
+      "냉장고 문을 열고 그 앞에 그냥 서 있었어요.",
+      "거의 완전히 비어 있었고, 저는 이미 그걸 아주 잘 알고 있었어요.",
+      "그래도 어쨌든 계속 들여다봤어요. 길고 이상하게 평화로운 1분 동안요.",
+      "사실 전혀 배고프지 않았어요. 진짜 진실은 제가 피곤했다는 거예요.",
+      "하루 종일, 하나하나, 무언가를 고르는 게 피곤했어요.",
+      "뭘 입을지, 뭘 읽을지, 뭘 볼지, 뭘 사서 먹을지요.",
+      "냉장고의 차가운 전등 불빛이 이상하게, 뜻밖에 마음을 가라앉혔어요.",
+      "결국, 저는 문을 살며시 닫고 아무것도 고르지 않았어요."
+    ],
+    "targetWords": [
+      "ielts-refrigerator",
+      "l2-126",
+      "l1-286",
+      "l2-117",
+      "l1-209"
+    ],
+    "quiz": [
+      {
+        "question": "How long did the writer keep looking?",
+        "questionKo": "글쓴이는 얼마나 오래 들여다봤나요?",
+        "options": [
+          "One second",
+          "One long minute",
+          "An hour",
+          "All night"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What was the writer truly tired of?",
+        "questionKo": "글쓴이는 진짜로 무엇에 지쳤나요?",
+        "options": [
+          "Walking",
+          "Choosing things all day long",
+          "Cooking",
+          "Talking"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-01-empty-fridge-l3",
+    "title": "I Stood Before the Open Fridge",
+    "titleKo": "열린 냉장고 앞에 서 있었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-07-01-empty-fridge"
+    ],
+    "paragraphs": [
+      "I opened the refrigerator door and simply stood there motionless in front of it.",
+      "It was almost completely empty, a fact I already knew perfectly and entirely well.",
+      "But I kept gazing inside anyway, for one long and strangely peaceful, suspended minute.",
+      "I was not actually hungry in the slightest; the quiet truth was that I was simply tired.",
+      "I was worn out from choosing things, one small decision after another, all day long.",
+      "What to wear, what to read, what to watch, what to buy, what to answer, what to eat.",
+      "The cold electric light of the empty fridge felt oddly and unexpectedly calming to me.",
+      "In the end, I gently closed the door and, for once, chose absolutely nothing at all."
+    ],
+    "translation": [
+      "냉장고 문을 열고 그 앞에 그냥 꼼짝 않고 서 있었어요.",
+      "거의 완전히 비어 있었어요. 제가 이미 완벽히, 온전히 알던 사실이요.",
+      "그래도 어쨌든 계속 들여다봤어요. 길고 이상하게 평화로운, 멈춘 듯한 1분 동안요.",
+      "사실 조금도 배고프지 않았어요. 조용한 진실은 그냥 제가 피곤했다는 거예요.",
+      "하루 종일, 작은 결정 하나에 또 하나, 무언가를 고르느라 지쳐 있었어요.",
+      "뭘 입을지, 뭘 읽을지, 뭘 볼지, 뭘 살지, 뭐라고 답할지, 뭘 먹을지요.",
+      "텅 빈 냉장고의 차가운 전등 불빛이 제게 이상하고 뜻밖에 마음을 가라앉혔어요.",
+      "결국, 저는 문을 살며시 닫고, 한 번만큼은, 정말 아무것도 고르지 않았어요."
+    ],
+    "targetWords": [
+      "ielts-refrigerator",
+      "l2-126",
+      "l1-286",
+      "l2-117",
+      "ex-249"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer stand in front of the fridge?",
+        "questionKo": "글쓴이는 냉장고 앞에 어떻게 서 있었나요?",
+        "options": [
+          "Pacing",
+          "Motionless",
+          "Dancing",
+          "Crying"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the cold light feel?",
+        "questionKo": "차가운 불빛은 어떻게 느껴졌나요?",
+        "options": [
+          "Harsh",
+          "Oddly and unexpectedly calming",
+          "Frightening",
+          "Annoying"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-01-empty-fridge-l4",
+    "title": "I Stood Before the Open Fridge",
+    "titleKo": "열린 냉장고 앞에 서 있었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-07-01-empty-fridge"
+    ],
+    "paragraphs": [
+      "I opened the refrigerator door and simply stood there, motionless, in front of its faint glow.",
+      "It was almost completely empty, a plain fact I already knew perfectly and entirely well.",
+      "But I kept gazing inside anyway, for one long and strangely peaceful, suspended minute.",
+      "I was not actually hungry in the slightest; the quiet, inconvenient truth was that I was simply exhausted.",
+      "I was worn thin from choosing things, one small relentless decision after another, all day long.",
+      "What to wear, what to read, what to watch, what to buy, what to answer, what to finally eat.",
+      "The cold electric light of the empty fridge felt oddly, almost therapeutically calming to me.",
+      "In the end, I gently closed the door and, for once in a long while, chose absolutely nothing at all."
+    ],
+    "translation": [
+      "냉장고 문을 열고 그 희미한 불빛 앞에, 꼼짝 않고, 그냥 서 있었어요.",
+      "거의 완전히 비어 있었어요. 제가 이미 완벽히, 온전히 알던 명백한 사실이요.",
+      "그래도 어쨌든 계속 들여다봤어요. 길고 이상하게 평화로운, 멈춘 듯한 1분 동안요.",
+      "사실 조금도 배고프지 않았어요. 조용하고 불편한 진실은 그냥 제가 기진맥진했다는 거예요.",
+      "하루 종일, 작고 끈질긴 결정 하나에 또 하나, 무언가를 고르느라 닳아 있었어요.",
+      "뭘 입을지, 뭘 읽을지, 뭘 볼지, 뭘 살지, 뭐라고 답할지, 마침내 뭘 먹을지요.",
+      "텅 빈 냉장고의 차가운 전등 불빛이 제게 이상하게, 거의 치유하듯 마음을 가라앉혔어요.",
+      "결국, 저는 문을 살며시 닫고, 오랜만에 한 번만큼은, 정말 아무것도 고르지 않았어요."
+    ],
+    "targetWords": [
+      "ielts-refrigerator",
+      "l2-126",
+      "l1-286",
+      "ipage-relentless",
+      "ex-249"
+    ],
+    "quiz": [
+      {
+        "question": "What was the \"inconvenient truth\"?",
+        "questionKo": "\"불편한 진실\"은 무엇이었나요?",
+        "options": [
+          "He was sick",
+          "He was simply exhausted",
+          "He was rich",
+          "He was lost"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the cold light feel, almost?",
+        "questionKo": "차가운 불빛은 거의 어떻게 느껴졌나요?",
+        "options": [
+          "Therapeutically calming",
+          "Painful",
+          "Boring",
+          "Cold only"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-01-empty-fridge-l5",
+    "title": "I Stood Before the Open Fridge",
+    "titleKo": "열린 냉장고 앞에 서 있었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-07-01-empty-fridge"
+    ],
+    "paragraphs": [
+      "I opened the refrigerator door and simply stood there, motionless, bathed in its faint and indifferent glow.",
+      "It was almost entirely empty, a plain fact I already knew perfectly and comprehensively well.",
+      "But I kept gazing inside regardless, for one long and strangely peaceful, suspended minute of nothing.",
+      "I was not actually hungry in the slightest; the quiet, inconvenient truth was that I was simply depleted.",
+      "I was worn thin from choosing things, one small relentless decision after another, throughout the entire day.",
+      "What to wear, what to read, what to watch, what to buy, what to answer, what to finally bring myself to eat.",
+      "The cold electric light of the empty fridge felt oddly, almost therapeutically calming to my tired mind.",
+      "In the end, I gently closed the door and, for once in a very long while, chose absolutely nothing at all."
+    ],
+    "translation": [
+      "냉장고 문을 열고, 그 희미하고 무심한 불빛에 잠긴 채, 꼼짝 않고 그냥 서 있었어요.",
+      "거의 완전히 비어 있었어요. 제가 이미 완벽히, 포괄적으로 알던 명백한 사실이요.",
+      "그래도 상관없이 계속 들여다봤어요. 길고 이상하게 평화로운, 아무것도 없는 멈춘 듯한 1분 동안요.",
+      "사실 조금도 배고프지 않았어요. 조용하고 불편한 진실은 그냥 제가 소진됐다는 거예요.",
+      "하루 내내, 작고 끈질긴 결정 하나에 또 하나, 무언가를 고르느라 닳아 있었어요.",
+      "뭘 입을지, 뭘 읽을지, 뭘 볼지, 뭘 살지, 뭐라고 답할지, 마침내 뭘 먹을 마음을 낼지요.",
+      "텅 빈 냉장고의 차가운 전등 불빛이 지친 제 마음에 이상하게, 거의 치유하듯 마음을 가라앉혔어요.",
+      "결국, 저는 문을 살며시 닫고, 아주 오랜만에 한 번만큼은, 정말 아무것도 고르지 않았어요."
+    ],
+    "targetWords": [
+      "ielts-refrigerator",
+      "l2-126",
+      "iform-depleted",
+      "ipage-relentless",
+      "ex-249"
+    ],
+    "quiz": [
+      {
+        "question": "How is the fridge's glow described?",
+        "questionKo": "냉장고 불빛은 어떻게 묘사되나요?",
+        "options": [
+          "Warm and loving",
+          "Faint and indifferent",
+          "Blinding",
+          "Colorful"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What was the writer, in the quiet truth?",
+        "questionKo": "조용한 진실 속에서 글쓴이는 어떤 상태였나요?",
+        "options": [
+          "Excited",
+          "Simply depleted",
+          "Angry",
+          "Joyful"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-01-empty-fridge-l6",
+    "title": "I Stood Before the Open Fridge",
+    "titleKo": "열린 냉장고 앞에 서 있었어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-07-01-empty-fridge"
+    ],
+    "paragraphs": [
+      "I opened the refrigerator door and simply stood there, motionless, bathed in its faint and wholly indifferent glow.",
+      "It was almost entirely empty, a plain and unembellished fact I already knew perfectly and comprehensively well.",
+      "But I kept gazing inside regardless, for one long and strangely peaceful, suspended minute of deliberate nothing.",
+      "I was not actually hungry in the slightest; the quiet, inconvenient truth was that I was simply and thoroughly depleted.",
+      "I was worn thin from choosing things, one small relentless decision after another, ceaselessly throughout the entire day.",
+      "What to wear, what to read, what to watch, what to buy, what to answer, what to finally summon the will to eat.",
+      "The cold electric light of the empty fridge felt oddly, almost therapeutically calming to my over-solicited mind.",
+      "In the end, I gently closed the door and, for once in a very long while, deliberately chose absolutely nothing at all."
+    ],
+    "translation": [
+      "냉장고 문을 열고, 그 희미하고 온전히 무심한 불빛에 잠긴 채, 꼼짝 않고 그냥 서 있었어요.",
+      "거의 완전히 비어 있었어요. 제가 이미 완벽히, 포괄적으로 알던 꾸밈없는 명백한 사실이요.",
+      "그래도 상관없이 계속 들여다봤어요. 길고 이상하게 평화로운, 의도적인 무(無)의 멈춘 듯한 1분 동안요.",
+      "사실 조금도 배고프지 않았어요. 조용하고 불편한 진실은 그냥 제가 완전히 소진됐다는 거예요.",
+      "하루 내내, 작고 끈질긴 결정 하나에 또 하나, 쉼 없이 무언가를 고르느라 닳아 있었어요.",
+      "뭘 입을지, 뭘 읽을지, 뭘 볼지, 뭘 살지, 뭐라고 답할지, 마침내 뭘 먹을 의지를 끌어낼지요.",
+      "텅 빈 냉장고의 차가운 전등 불빛이 지나치게 시달린 제 마음에 이상하게, 거의 치유하듯 마음을 가라앉혔어요.",
+      "결국, 저는 문을 살며시 닫고, 아주 오랜만에 한 번만큼은, 의도적으로 정말 아무것도 고르지 않았어요."
+    ],
+    "targetWords": [
+      "ielts-refrigerator",
+      "iform-depleted",
+      "ipage-relentless",
+      "iform-ceaselessly",
+      "iform-therapeutically"
+    ],
+    "quiz": [
+      {
+        "question": "What kind of \"nothing\" was the suspended minute?",
+        "questionKo": "그 멈춘 듯한 1분은 어떤 \"무(無)\"였나요?",
+        "options": [
+          "Accidental nothing",
+          "Deliberate nothing",
+          "Frightening nothing",
+          "Loud nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is the writer's mind described?",
+        "questionKo": "글쓴이의 마음은 어떻게 묘사되나요?",
+        "options": [
+          "Rested",
+          "Over-solicited",
+          "Empty",
+          "Joyful"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

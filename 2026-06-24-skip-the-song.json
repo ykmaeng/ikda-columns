@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-24-skip-the-song-l1",
+    "title": "I Never Finish a Song Anymore",
+    "titleKo": "나는 더 이상 노래를 끝까지 안 들어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-24-skip-the-song"
+    ],
+    "paragraphs": [
+      "I noticed something small today.",
+      "I never finish a song. I skip after twenty seconds.",
+      "If it does not grab me fast, I move on.",
+      "But songs used to ask for patience.",
+      "The best part often comes at the end.",
+      "I am teaching myself to wait less.",
+      "So today I let one song finish.",
+      "The quiet ending was the best part."
+    ],
+    "translation": [
+      "오늘 작은 걸 알아챘어요.",
+      "저는 노래를 끝까지 안 들어요. 20초 만에 넘겨요.",
+      "빨리 사로잡지 못하면, 다음으로 넘어가요.",
+      "그런데 노래는 원래 인내심을 요구했어요.",
+      "가장 좋은 부분은 종종 끝에 와요.",
+      "저는 스스로 덜 기다리도록 가르치고 있어요.",
+      "그래서 오늘 노래 하나를 끝까지 뒀어요.",
+      "그 조용한 마무리가 가장 좋은 부분이었어요."
+    ],
+    "targetWords": [
+      "l1-094",
+      "l1-122",
+      "l1-137",
+      "l1-103",
+      "l1-150"
+    ],
+    "quiz": [
+      {
+        "question": "What does the writer usually do after twenty seconds?",
+        "questionKo": "글쓴이는 보통 20초 후에 무엇을 하나요?",
+        "options": [
+          "Repeats the song",
+          "Skips it",
+          "Turns up the volume",
+          "Sings along"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What was the best part of the song today?",
+        "questionKo": "오늘 노래의 가장 좋은 부분은?",
+        "options": [
+          "The loud start",
+          "The quiet ending",
+          "The middle",
+          "The title"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-24-skip-the-song-l2",
+    "title": "I Never Finish a Song Anymore",
+    "titleKo": "나는 더 이상 노래를 끝까지 안 들어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-24-skip-the-song"
+    ],
+    "paragraphs": [
+      "I noticed something small but strange about myself today.",
+      "I almost never finish a song anymore; I skip it after about twenty seconds.",
+      "If the music does not grab me almost instantly, my thumb moves on without me.",
+      "But songs used to ask for a little patience, and I used to give it.",
+      "So often the most beautiful part only arrives near the very end.",
+      "I am slowly trying to teach myself to wait a little longer.",
+      "So today, on purpose, I let a single song play all the way through.",
+      "And of course, the soft, slow ending turned out to be the best part of all."
+    ],
+    "translation": [
+      "오늘 저 자신에 대해 작지만 이상한 걸 알아챘어요.",
+      "저는 이제 노래를 거의 끝까지 안 들어요. 20초쯤 지나면 넘겨버려요.",
+      "음악이 거의 즉시 사로잡지 못하면, 제 엄지손가락이 저도 모르게 다음으로 넘어가요.",
+      "그런데 노래는 원래 약간의 인내심을 요구했고, 저는 그걸 주곤 했어요.",
+      "가장 아름다운 부분은 정말 자주 끝 무렵에야 와요.",
+      "저는 천천히 스스로 조금 더 기다리도록 가르치려 하고 있어요.",
+      "그래서 오늘, 일부러, 노래 하나를 처음부터 끝까지 틀어 뒀어요.",
+      "그리고 당연하게도, 부드럽고 느린 그 마무리가 가장 좋은 부분이었어요."
+    ],
+    "targetWords": [
+      "l1-137",
+      "l2-115",
+      "l1-150",
+      "l3-142",
+      "l1-290"
+    ],
+    "quiz": [
+      {
+        "question": "What moves on \"without\" the writer?",
+        "questionKo": "글쓴이도 모르게 무엇이 다음으로 넘어가나요?",
+        "options": [
+          "His mind",
+          "His thumb",
+          "The clock",
+          "His friend"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why did the writer let the song finish today?",
+        "questionKo": "오늘 노래를 끝까지 둔 이유는?",
+        "options": [
+          "By accident",
+          "On purpose, to teach himself patience",
+          "The skip button broke",
+          "Someone asked him"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-24-skip-the-song-l3",
+    "title": "I Never Finish a Song Anymore",
+    "titleKo": "나는 더 이상 노래를 끝까지 안 들어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-24-skip-the-song"
+    ],
+    "paragraphs": [
+      "I noticed something small but quietly unsettling about myself today.",
+      "I almost never finish a song anymore; my thumb skips it after roughly twenty restless seconds.",
+      "If the music fails to grab me almost instantly, I am already moving on to the next one.",
+      "But songs once asked for a measure of patience, and I once gave it without resentment.",
+      "So often the most beautiful passage only arrives, gently, somewhere near the very end.",
+      "I am slowly and deliberately trying to teach myself to wait a little longer than I want to.",
+      "So today, quite on purpose, I let a single song play all the way through to its close.",
+      "And of course, the soft, unhurried ending turned out to be the best part of the whole thing."
+    ],
+    "translation": [
+      "오늘 저 자신에 대해 작지만 조용히 불편한 걸 알아챘어요.",
+      "저는 이제 노래를 거의 끝까지 안 들어요. 안절부절못하는 20초쯤 지나면 엄지손가락이 넘겨버려요.",
+      "음악이 거의 즉시 사로잡지 못하면, 저는 이미 다음 곡으로 넘어가고 있어요.",
+      "그런데 노래는 한때 어느 정도의 인내심을 요구했고, 저는 한때 그걸 원망 없이 주었어요.",
+      "가장 아름다운 대목은 정말 자주, 부드럽게, 끝 무렵 어딘가에서야 와요.",
+      "저는 천천히 그리고 의도적으로, 원하는 것보다 조금 더 기다리도록 스스로 가르치려 하고 있어요.",
+      "그래서 오늘, 꽤 일부러, 노래 하나를 끝까지, 그 마지막까지 틀어 뒀어요.",
+      "그리고 당연하게도, 부드럽고 서두르지 않는 그 마무리가 곡 전체에서 가장 좋은 부분이었어요."
+    ],
+    "targetWords": [
+      "l2-115",
+      "iform-deliberately",
+      "l2-301",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "How is the writer's realization described?",
+        "questionKo": "글쓴이의 깨달음은 어떻게 묘사되나요?",
+        "options": [
+          "Joyful",
+          "Quietly unsettling",
+          "Boring",
+          "Funny"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the writer once give \"without resentment\"?",
+        "questionKo": "글쓴이는 한때 무엇을 원망 없이 주었나요?",
+        "options": [
+          "Money",
+          "Patience",
+          "Advice",
+          "Time off"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-24-skip-the-song-l4",
+    "title": "I Never Finish a Song Anymore",
+    "titleKo": "나는 더 이상 노래를 끝까지 안 들어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-24-skip-the-song"
+    ],
+    "paragraphs": [
+      "I noticed something small but quietly unsettling about myself today, the kind of thing that is easy to ignore.",
+      "I almost never finish a song anymore; my thumb skips it after roughly twenty restless, impatient seconds.",
+      "If the music fails to grab me almost instantly, I find I am already migrating to the next track entirely.",
+      "But songs once demanded a certain measure of patience, and I once surrendered it without any resentment.",
+      "So often the most beautiful passage arrives, gently and unannounced, somewhere near the very end.",
+      "I am slowly and deliberately attempting to teach myself to wait a little longer than my instinct prefers.",
+      "So today, quite consciously and on purpose, I let a single song play all the way through to its quiet close.",
+      "And of course, the soft, unhurried ending turned out to be the finest part of the entire piece."
+    ],
+    "translation": [
+      "오늘 저 자신에 대해 작지만 조용히 불편한 걸 알아챘어요. 무시하기 쉬운 그런 종류의 것이요.",
+      "저는 이제 노래를 거의 끝까지 안 들어요. 안절부절못하고 조급한 20초쯤 지나면 엄지손가락이 넘겨버려요.",
+      "음악이 거의 즉시 사로잡지 못하면, 저는 이미 다음 트랙으로 완전히 옮겨가고 있는 걸 발견해요.",
+      "그런데 노래는 한때 어느 정도의 인내심을 요구했고, 저는 한때 그걸 아무 원망 없이 내어주었어요.",
+      "가장 아름다운 대목은 정말 자주, 부드럽고 예고 없이, 끝 무렵 어딘가에서 와요.",
+      "저는 천천히 그리고 의도적으로, 제 본능이 선호하는 것보다 조금 더 기다리도록 스스로 가르치려 시도하고 있어요.",
+      "그래서 오늘, 꽤 의식적으로 또 일부러, 노래 하나를 조용한 마지막까지 끝까지 틀어 뒀어요.",
+      "그리고 당연하게도, 부드럽고 서두르지 않는 그 마무리가 곡 전체에서 가장 훌륭한 부분이었어요."
+    ],
+    "targetWords": [
+      "l3-508",
+      "l4-261",
+      "iform-consciously",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "Where does the writer find himself migrating?",
+        "questionKo": "글쓴이는 자신이 어디로 옮겨가는 걸 발견하나요?",
+        "options": [
+          "Back to the start",
+          "To the next track entirely",
+          "Off the app",
+          "To silence"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is he trying to wait longer than?",
+        "questionKo": "그는 무엇보다 더 오래 기다리려 하나요?",
+        "options": [
+          "His friends",
+          "His instinct",
+          "The clock",
+          "The song"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-24-skip-the-song-l5",
+    "title": "I Never Finish a Song Anymore",
+    "titleKo": "나는 더 이상 노래를 끝까지 안 들어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-24-skip-the-song"
+    ],
+    "paragraphs": [
+      "I noticed something small but quietly unsettling about myself today — the kind of trivial thing that is remarkably easy to ignore.",
+      "I almost never finish a song anymore; my thumb reflexively skips it after roughly twenty restless, impatient seconds.",
+      "If the music fails to seize me almost instantly, I find I have already migrated to the next track entirely, unthinking.",
+      "But songs once demanded a certain measure of patience, and I once surrendered it freely, without a flicker of resentment.",
+      "So often the most beautiful passage arrives, gently and entirely unannounced, somewhere near the very end of the piece.",
+      "I am slowly and deliberately attempting to retrain myself to wait a little longer than my restless instinct prefers.",
+      "So today, quite consciously and on purpose, I allowed a single song to play all the way through to its quiet close.",
+      "And of course, the soft, unhurried ending revealed itself to be the finest and most luminous part of the entire piece."
+    ],
+    "translation": [
+      "오늘 저 자신에 대해 작지만 조용히 불편한 걸 알아챘어요 — 무시하기가 놀랍도록 쉬운 그런 사소한 것이요.",
+      "저는 이제 노래를 거의 끝까지 안 들어요. 안절부절못하고 조급한 20초쯤 지나면 엄지손가락이 반사적으로 넘겨버려요.",
+      "음악이 거의 즉시 사로잡지 못하면, 저는 생각도 없이 이미 다음 트랙으로 완전히 옮겨가 있는 걸 발견해요.",
+      "그런데 노래는 한때 어느 정도의 인내심을 요구했고, 저는 한때 그걸 원망의 기미 하나 없이 기꺼이 내어주었어요.",
+      "가장 아름다운 대목은 정말 자주, 부드럽고 완전히 예고 없이, 곡의 끝 무렵 어딘가에서 와요.",
+      "저는 천천히 그리고 의도적으로, 제 안절부절못하는 본능이 선호하는 것보다 조금 더 기다리도록 스스로 다시 훈련하려 하고 있어요.",
+      "그래서 오늘, 꽤 의식적으로 또 일부러, 노래 하나를 조용한 마지막까지 끝까지 틀어 두었어요.",
+      "그리고 당연하게도, 부드럽고 서두르지 않는 그 마무리가 곡 전체에서 가장 훌륭하고 가장 빛나는 부분임을 드러냈어요."
+    ],
+    "targetWords": [
+      "l4-261",
+      "ipage-luminous",
+      "l2-147",
+      "l2-142",
+      "ipage-people"
+    ],
+    "quiz": [
+      {
+        "question": "How does the thumb skip the song?",
+        "questionKo": "엄지손가락은 어떻게 노래를 넘기나요?",
+        "options": [
+          "Slowly",
+          "Reflexively",
+          "Carefully",
+          "Reluctantly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What did the ending reveal itself to be?",
+        "questionKo": "그 마무리는 무엇임을 드러냈나요?",
+        "options": [
+          "A mistake",
+          "The finest and most luminous part",
+          "Too long",
+          "Forgettable"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-24-skip-the-song-l6",
+    "title": "I Never Finish a Song Anymore",
+    "titleKo": "나는 더 이상 노래를 끝까지 안 들어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-24-skip-the-song"
+    ],
+    "paragraphs": [
+      "I noticed something small but quietly unsettling about myself today — precisely the kind of trivial observation that is remarkably easy to dismiss.",
+      "I almost never finish a song anymore; my thumb reflexively skips it after roughly twenty restless, impatient seconds of half-attention.",
+      "If the music fails to seize me almost instantly, I discover that I have already migrated to the next track entirely, wholly unthinking.",
+      "But songs once demanded a certain measure of patience, and I once surrendered it freely, without the faintest flicker of resentment.",
+      "So often the most beautiful passage arrives, gently and entirely unannounced, somewhere near the very end of the unfolding piece.",
+      "I am slowly and deliberately attempting to retrain myself to tolerate waiting a little longer than my restless modern instinct prefers.",
+      "So today, quite consciously and on purpose, I allowed a single song to play uninterrupted all the way through to its quiet close.",
+      "And of course, the soft, unhurried ending revealed itself, almost reproachfully, to be the finest and most luminous part of the entire piece."
+    ],
+    "translation": [
+      "오늘 저 자신에 대해 작지만 조용히 불편한 걸 알아챘어요 — 바로 떨쳐버리기 놀랍도록 쉬운 그런 사소한 관찰이요.",
+      "저는 이제 노래를 거의 끝까지 안 들어요. 건성으로 듣는 안절부절 조급한 20초쯤 지나면 엄지손가락이 반사적으로 넘겨버려요.",
+      "음악이 거의 즉시 사로잡지 못하면, 저는 온전히 생각도 없이 이미 다음 트랙으로 완전히 옮겨가 있는 걸 발견해요.",
+      "그런데 노래는 한때 어느 정도의 인내심을 요구했고, 저는 한때 그걸 아주 희미한 원망의 기미조차 없이 기꺼이 내어주었어요.",
+      "가장 아름다운 대목은 정말 자주, 부드럽고 완전히 예고 없이, 펼쳐지는 곡의 끝 무렵 어딘가에서 와요.",
+      "저는 천천히 그리고 의도적으로, 제 안절부절못하는 현대적 본능이 선호하는 것보다 조금 더 기다리는 걸 견디도록 스스로 다시 훈련하려 하고 있어요.",
+      "그래서 오늘, 꽤 의식적으로 또 일부러, 노래 하나를 끊김 없이 조용한 마지막까지 끝까지 틀어 두었어요.",
+      "그리고 당연하게도, 부드럽고 서두르지 않는 그 마무리가, 거의 나무라듯, 곡 전체에서 가장 훌륭하고 가장 빛나는 부분임을 드러냈어요."
+    ],
+    "targetWords": [
+      "l4-261",
+      "ipage-luminous",
+      "l2-147",
+      "l2-142",
+      "ipage-people"
+    ],
+    "quiz": [
+      {
+        "question": "How is the observation easy to treat?",
+        "questionKo": "그 관찰은 어떻게 다루기 쉬운가요?",
+        "options": [
+          "Easy to celebrate",
+          "Easy to dismiss",
+          "Easy to share",
+          "Easy to sell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the ending reveal its quality?",
+        "questionKo": "마무리는 그 가치를 어떻게 드러냈나요?",
+        "options": [
+          "Proudly",
+          "Almost reproachfully",
+          "Loudly",
+          "Sadly"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

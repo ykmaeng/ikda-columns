@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-07-02-regular-closed-l1",
+    "title": "My Regular Shop Has Closed",
+    "titleKo": "단골 가게가 문을 닫았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-07-02-regular-closed"
+    ],
+    "paragraphs": [
+      "My small coffee shop closed last week.",
+      "I went there almost every morning for years.",
+      "The owner knew my order by heart.",
+      "I never learned much about her life.",
+      "Now there is brown paper on the windows.",
+      "I never said a real goodbye.",
+      "We were close, but only in that one place.",
+      "A whole small world is simply gone."
+    ],
+    "translation": [
+      "제 작은 커피 가게가 지난주에 문을 닫았어요.",
+      "몇 년 동안 거의 매일 아침 거기 갔어요.",
+      "주인은 제 주문을 외우고 있었어요.",
+      "저는 그녀의 삶을 잘 알지 못했어요.",
+      "이제 창문에는 갈색 종이가 붙어 있어요.",
+      "저는 제대로 작별 인사를 못 했어요.",
+      "우리는 가까웠어요, 그 한 곳에서만요.",
+      "하나의 작은 세계가 그냥 사라졌어요."
+    ],
+    "targetWords": [
+      "ielts-shop",
+      "l1-037",
+      "l2-142",
+      "ex-258",
+      "l1-079"
+    ],
+    "quiz": [
+      {
+        "question": "How often did the writer visit the shop?",
+        "questionKo": "글쓴이는 가게에 얼마나 자주 갔나요?",
+        "options": [
+          "Once a year",
+          "Almost every morning for years",
+          "Never",
+          "Only weekends"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is on the windows now?",
+        "questionKo": "이제 창문에는 무엇이 있나요?",
+        "options": [
+          "New paint",
+          "Brown paper",
+          "Flowers",
+          "A sale sign"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-02-regular-closed-l2",
+    "title": "My Regular Shop Has Closed",
+    "titleKo": "단골 가게가 문을 닫았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-07-02-regular-closed"
+    ],
+    "paragraphs": [
+      "My small neighborhood coffee shop quietly closed for good last week.",
+      "I had gone there almost every single morning, faithfully, for several years.",
+      "The owner knew my usual order completely by heart, before I even spoke.",
+      "And yet I never really learned very much at all about her actual life.",
+      "Now there is only dull brown paper taped across the empty windows.",
+      "I realize, too late, that I never once said a proper goodbye to her.",
+      "We were genuinely close, but only ever within that one small, warm place.",
+      "And now a whole tiny private world has simply, silently disappeared."
+    ],
+    "translation": [
+      "제 동네의 작은 커피 가게가 지난주에 조용히 영영 문을 닫았어요.",
+      "저는 몇 년 동안, 충실히, 거의 매일 아침 거기 갔어요.",
+      "주인은 제가 말하기도 전에, 제 늘 먹던 주문을 완전히 외우고 있었어요.",
+      "그런데 저는 그녀의 실제 삶에 대해 정말 아무것도 제대로 알지 못했어요.",
+      "이제 텅 빈 창문에는 칙칙한 갈색 종이만 붙어 있어요.",
+      "저는, 너무 늦게, 그녀에게 제대로 작별 인사를 한 번도 못 했다는 걸 깨달아요.",
+      "우리는 정말 가까웠어요. 하지만 오직 그 작고 따뜻한 한 곳 안에서만요.",
+      "그리고 이제 하나의 작은 사적인 세계가 그냥, 소리 없이 사라졌어요."
+    ],
+    "targetWords": [
+      "ielts-shop",
+      "l2-142",
+      "ex-258",
+      "l1-079",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "When did the owner know his order?",
+        "questionKo": "주인은 언제 그의 주문을 알았나요?",
+        "options": [
+          "After he spoke",
+          "Before he even spoke",
+          "Never",
+          "Only on weekends"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Where were they close?",
+        "questionKo": "그들은 어디에서 가까웠나요?",
+        "options": [
+          "Everywhere",
+          "Only within that one small place",
+          "Online",
+          "At each other's homes"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-02-regular-closed-l3",
+    "title": "My Regular Shop Has Closed",
+    "titleKo": "단골 가게가 문을 닫았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-07-02-regular-closed"
+    ],
+    "paragraphs": [
+      "My small neighborhood coffee shop quietly and permanently closed for good last week.",
+      "I had gone there almost every single morning, faithfully and without fail, for several years.",
+      "The kind owner knew my usual order completely by heart, often before I even managed to speak.",
+      "And yet, strangely, I never really learned very much at all about the details of her actual life.",
+      "Now there is only dull brown paper taped hastily across the suddenly empty front windows.",
+      "I realize, far too late, that I never once paused to say a proper goodbye to her.",
+      "We had been genuinely close, but only ever within the warm borders of that one small place.",
+      "And now a whole tiny, private, shared world has simply and silently ceased to exist."
+    ],
+    "translation": [
+      "제 동네의 작은 커피 가게가 지난주에 조용히 그리고 영구히 영영 문을 닫았어요.",
+      "저는 몇 년 동안, 충실히 또 빠짐없이, 거의 매일 아침 거기 갔어요.",
+      "친절한 주인은 종종 제가 말을 꺼내기도 전에, 제 늘 먹던 주문을 완전히 외우고 있었어요.",
+      "그런데, 이상하게도, 저는 그녀의 실제 삶의 세부에 대해 정말 아무것도 제대로 알지 못했어요.",
+      "이제 갑자기 텅 빈 앞창문에는 칙칙한 갈색 종이만 황급히 붙어 있어요.",
+      "저는, 너무도 늦게, 그녀에게 제대로 작별 인사를 하려고 멈춘 적이 한 번도 없다는 걸 깨달아요.",
+      "우리는 정말 가까웠어요. 하지만 오직 그 작은 한 곳의 따뜻한 경계 안에서만요.",
+      "그리고 이제 하나의 작고, 사적이고, 공유된 세계가 그냥 소리 없이 존재하기를 멈췄어요."
+    ],
+    "targetWords": [
+      "ielts-shop",
+      "ex-258",
+      "l2-147",
+      "l2-142",
+      "ipage-people"
+    ],
+    "quiz": [
+      {
+        "question": "How is the brown paper taped on the windows?",
+        "questionKo": "갈색 종이는 창문에 어떻게 붙어 있나요?",
+        "options": [
+          "Neatly",
+          "Hastily",
+          "Permanently",
+          "Beautifully"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Within what were they close?",
+        "questionKo": "그들은 무엇 안에서 가까웠나요?",
+        "options": [
+          "The whole city",
+          "The warm borders of that one small place",
+          "A phone app",
+          "Their families"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-02-regular-closed-l4",
+    "title": "My Regular Shop Has Closed",
+    "titleKo": "단골 가게가 문을 닫았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-07-02-regular-closed"
+    ],
+    "paragraphs": [
+      "My small neighborhood coffee shop quietly and permanently closed for good sometime last week.",
+      "I had gone there almost every single morning, faithfully and without fail, for several uninterrupted years.",
+      "The kind owner knew my usual order completely by heart, often before I even managed to speak a word.",
+      "And yet, strangely, I never really learned very much at all about the genuine details of her actual life.",
+      "Now there is only dull brown paper taped hastily across the suddenly and conspicuously empty front windows.",
+      "I realize, far too late to matter, that I never once paused to offer her a proper, deliberate goodbye.",
+      "We had been genuinely close, but only ever within the warm and narrow borders of that one small place.",
+      "And now a whole tiny, private, quietly shared world has simply and silently ceased to exist at all."
+    ],
+    "translation": [
+      "제 동네의 작은 커피 가게가 지난주 언젠가 조용히 그리고 영구히 영영 문을 닫았어요.",
+      "저는 몇 년을 끊김 없이, 충실히 또 빠짐없이, 거의 매일 아침 거기 갔어요.",
+      "친절한 주인은 종종 제가 한마디 꺼내기도 전에, 제 늘 먹던 주문을 완전히 외우고 있었어요.",
+      "그런데, 이상하게도, 저는 그녀의 실제 삶의 진짜 세부에 대해 정말 아무것도 제대로 알지 못했어요.",
+      "이제 갑자기, 눈에 띄게 텅 빈 앞창문에는 칙칙한 갈색 종이만 황급히 붙어 있어요.",
+      "저는, 이제는 의미 없을 만큼 너무도 늦게, 그녀에게 제대로 된, 의도적인 작별 인사를 하려고 멈춘 적이 한 번도 없다는 걸 깨달아요.",
+      "우리는 정말 가까웠어요. 하지만 오직 그 작은 한 곳의 따뜻하고 좁은 경계 안에서만요.",
+      "그리고 이제 하나의 작고, 사적이고, 조용히 공유된 세계가 그냥 소리 없이 아예 존재하기를 멈췄어요."
+    ],
+    "targetWords": [
+      "ielts-shop",
+      "cb-258",
+      "l4-367",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "How empty were the front windows?",
+        "questionKo": "앞창문은 얼마나 비어 있었나요?",
+        "options": [
+          "Slightly",
+          "Suddenly and conspicuously",
+          "Partly",
+          "Not at all"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How late was the writer's realization?",
+        "questionKo": "글쓴이의 깨달음은 얼마나 늦었나요?",
+        "options": [
+          "Just in time",
+          "Far too late to matter",
+          "Early",
+          "On time"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-02-regular-closed-l5",
+    "title": "My Regular Shop Has Closed",
+    "titleKo": "단골 가게가 문을 닫았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-07-02-regular-closed"
+    ],
+    "paragraphs": [
+      "My small neighborhood coffee shop quietly and permanently closed for good sometime last week, without warning.",
+      "I had gone there almost every single morning, faithfully and without fail, for several uninterrupted years.",
+      "The kind owner knew my habitual order completely by heart, often before I even managed to utter a word.",
+      "And yet, strangely, I never really learned very much at all about the genuine particulars of her actual life.",
+      "Now there is only dull brown paper taped hastily across the suddenly and conspicuously vacant front windows.",
+      "I realize, far too late to matter now, that I never once paused to offer her a proper, deliberate goodbye.",
+      "We had been genuinely close, and yet only ever within the warm and narrow confines of that single small place.",
+      "And now a whole tiny, private, quietly shared world has simply and irrevocably ceased to exist at all."
+    ],
+    "translation": [
+      "제 동네의 작은 커피 가게가 지난주 언젠가, 예고도 없이, 조용히 그리고 영구히 영영 문을 닫았어요.",
+      "저는 몇 년을 끊김 없이, 충실히 또 빠짐없이, 거의 매일 아침 거기 갔어요.",
+      "친절한 주인은 종종 제가 한마디 내뱉기도 전에, 제 습관 같은 주문을 완전히 외우고 있었어요.",
+      "그런데, 이상하게도, 저는 그녀의 실제 삶의 진짜 자세한 사정에 대해 정말 아무것도 제대로 알지 못했어요.",
+      "이제 갑자기, 눈에 띄게 빈 앞창문에는 칙칙한 갈색 종이만 황급히 붙어 있어요.",
+      "저는, 이제는 의미 없을 만큼 너무도 늦게, 그녀에게 제대로 된, 의도적인 작별 인사를 하려고 멈춘 적이 한 번도 없다는 걸 깨달아요.",
+      "우리는 정말 가까웠어요. 그런데도 오직 그 하나의 작은 곳의 따뜻하고 좁은 울타리 안에서만요.",
+      "그리고 이제 하나의 작고, 사적이고, 조용히 공유된 세계가 그냥 돌이킬 수 없이 아예 존재하기를 멈췄어요."
+    ],
+    "targetWords": [
+      "ielts-shop",
+      "l4-367",
+      "iform-irrevocably",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "How did the shop close?",
+        "questionKo": "가게는 어떻게 문을 닫았나요?",
+        "options": [
+          "With a big sale",
+          "Without warning",
+          "After a party",
+          "Slowly over months"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How has the shared world ceased to exist?",
+        "questionKo": "공유된 세계는 어떻게 존재하기를 멈췄나요?",
+        "options": [
+          "Temporarily",
+          "Irrevocably",
+          "Loudly",
+          "Partly"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-07-02-regular-closed-l6",
+    "title": "My Regular Shop Has Closed",
+    "titleKo": "단골 가게가 문을 닫았어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-07-02-regular-closed"
+    ],
+    "paragraphs": [
+      "My small neighborhood coffee shop quietly and permanently closed for good sometime last week, without the slightest warning.",
+      "I had gone there almost every single morning, faithfully and without fail, for several uninterrupted and unremarkable years.",
+      "The kind owner knew my habitual order completely by heart, invariably before I even managed to utter a single word.",
+      "And yet, strangely and a little shamefully, I never really learned much at all about the genuine particulars of her actual life.",
+      "Now there is only dull brown paper taped hastily across the suddenly and conspicuously vacant front windows.",
+      "I realize, far too late to matter in any way now, that I never once paused to offer her a proper, deliberate goodbye.",
+      "We had been genuinely close, and yet only ever within the warm and narrow confines of that single, unrepeatable place.",
+      "And now a whole tiny, private, quietly shared world has simply and irrevocably ceased to exist, as if it never had."
+    ],
+    "translation": [
+      "제 동네의 작은 커피 가게가 지난주 언젠가, 아주 작은 예고조차 없이, 조용히 그리고 영구히 영영 문을 닫았어요.",
+      "저는 몇 년을 끊김 없이, 특별할 것 없이, 충실히 또 빠짐없이, 거의 매일 아침 거기 갔어요.",
+      "친절한 주인은 변함없이, 제가 단 한마디 내뱉기도 전에, 제 습관 같은 주문을 완전히 외우고 있었어요.",
+      "그런데, 이상하고 조금 부끄럽게도, 저는 그녀의 실제 삶의 진짜 자세한 사정에 대해 정말 아무것도 제대로 알지 못했어요.",
+      "이제 갑자기, 눈에 띄게 빈 앞창문에는 칙칙한 갈색 종이만 황급히 붙어 있어요.",
+      "저는, 이제는 어떤 식으로도 의미 없을 만큼 너무도 늦게, 그녀에게 제대로 된, 의도적인 작별 인사를 하려고 멈춘 적이 한 번도 없다는 걸 깨달아요.",
+      "우리는 정말 가까웠어요. 그런데도 오직 그 하나의, 되풀이될 수 없는 곳의 따뜻하고 좁은 울타리 안에서만요.",
+      "그리고 이제 하나의 작고, 사적이고, 조용히 공유된 세계가 그냥 돌이킬 수 없이, 마치 애초에 없었던 것처럼 존재하기를 멈췄어요."
+    ],
+    "targetWords": [
+      "ielts-shop",
+      "l4-367",
+      "iform-irrevocably",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer feel about not knowing her life?",
+        "questionKo": "그녀의 삶을 몰랐던 것에 대해 글쓴이는 어떻게 느끼나요?",
+        "options": [
+          "Proud",
+          "A little shameful",
+          "Relieved",
+          "Indifferent"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the shared world's ending feel?",
+        "questionKo": "공유된 세계의 끝은 어떻게 느껴지나요?",
+        "options": [
+          "As if it never had existed",
+          "As if it will return",
+          "As a celebration",
+          "As a relief"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

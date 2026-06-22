@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-22-world-cup-dawn-l1",
+    "title": "I Watch the World Cup Alone, at Dawn",
+    "titleKo": "나는 새벽에 혼자 월드컵을 본다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-22-world-cup-dawn"
+    ],
+    "paragraphs": [
+      "The World Cup is here. The whole city talks about it.",
+      "But the games start at three in the morning.",
+      "So I watch alone. In the dark.",
+      "I keep the sound low. My family is asleep.",
+      "When my team scores, I want to shout.",
+      "Instead I just raise my arms. Quiet and happy.",
+      "Somewhere, millions feel the same thing.",
+      "We are alone together, in the dark."
+    ],
+    "translation": [
+      "월드컵이 왔어요. 온 도시가 그 이야기를 해요.",
+      "그런데 경기는 새벽 세 시에 시작해요.",
+      "그래서 저는 혼자 봐요. 어둠 속에서요.",
+      "소리를 작게 해요. 가족이 자고 있거든요.",
+      "우리 팀이 골을 넣으면, 소리치고 싶어요.",
+      "대신 그냥 두 팔을 들어요. 조용하고 행복하게요.",
+      "어딘가에서, 수백만 명이 같은 걸 느껴요.",
+      "우리는 어둠 속에서, 혼자 함께 있어요."
+    ],
+    "targetWords": [
+      "l2-037",
+      "l2-142",
+      "l2-122",
+      "ielts-family",
+      "l2-247"
+    ],
+    "quiz": [
+      {
+        "question": "When do the games start?",
+        "questionKo": "경기는 언제 시작하나요?",
+        "options": [
+          "At noon",
+          "At three in the morning",
+          "In the evening",
+          "At sunrise"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Why does the writer keep the sound low?",
+        "questionKo": "글쓴이는 왜 소리를 작게 하나요?",
+        "options": [
+          "The TV is broken",
+          "The family is asleep",
+          "The neighbors complain",
+          "He likes silence"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-22-world-cup-dawn-l2",
+    "title": "I Watch the World Cup Alone, at Dawn",
+    "titleKo": "나는 새벽에 혼자 월드컵을 본다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-22-world-cup-dawn"
+    ],
+    "paragraphs": [
+      "The World Cup has arrived, and the whole city seems to talk about nothing else.",
+      "But the matches start at three in the morning here, on the other side of the world.",
+      "So I watch them alone, sitting in the dark living room.",
+      "I keep the volume very low, because my family is fast asleep.",
+      "When my team scores a goal, I really want to shout out loud.",
+      "Instead, I just raise both arms quietly, smiling at the screen.",
+      "Somewhere out there, millions of strangers are feeling the exact same thing.",
+      "We are all alone, and yet somehow together, in the same dark hour."
+    ],
+    "translation": [
+      "월드컵이 왔고, 온 도시가 그 이야기밖에 안 하는 것 같아요.",
+      "그런데 여기, 지구 반대편에서는 경기가 새벽 세 시에 시작해요.",
+      "그래서 저는 혼자 봐요. 어두운 거실에 앉아서요.",
+      "소리를 아주 작게 해요. 가족이 깊이 자고 있으니까요.",
+      "우리 팀이 골을 넣으면, 정말 크게 소리치고 싶어요.",
+      "대신, 그냥 두 팔을 조용히 들어요. 화면을 보며 웃으면서요.",
+      "저 어딘가에서, 수백만 명의 낯선 이들이 똑같은 걸 느끼고 있어요.",
+      "우리는 모두 혼자예요. 그런데 어쩐지 함께예요. 같은 어두운 시간에요."
+    ],
+    "targetWords": [
+      "l2-037",
+      "l2-142",
+      "ielts-family",
+      "ielts-asleep",
+      "l2-247"
+    ],
+    "quiz": [
+      {
+        "question": "Where does the writer sit to watch?",
+        "questionKo": "글쓴이는 어디에 앉아 보나요?",
+        "options": [
+          "In a stadium",
+          "In the dark living room",
+          "At a cafe",
+          "In bed"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How are the millions of strangers described?",
+        "questionKo": "수백만 명의 낯선 이들은 어떻게 묘사되나요?",
+        "options": [
+          "Loud and angry",
+          "Alone, yet somehow together",
+          "Far and forgotten",
+          "Asleep"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-22-world-cup-dawn-l3",
+    "title": "I Watch the World Cup Alone, at Dawn",
+    "titleKo": "나는 새벽에 혼자 월드컵을 본다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-22-world-cup-dawn"
+    ],
+    "paragraphs": [
+      "The World Cup has finally arrived, and the whole city seems to talk about nothing else for weeks.",
+      "But because the host nations sit on the other side of the world, the matches start at three in the morning here.",
+      "So I watch them alone, curled on the sofa in a dark, silent living room.",
+      "I keep the volume almost off, careful not to wake my sleeping family in the next room.",
+      "When my team finally scores, the urge to leap up and shout is almost painful.",
+      "Instead I raise both arms slowly, mouthing a silent cheer at the glowing screen.",
+      "And yet I know that, scattered across countless dark rooms, millions of strangers are doing the same.",
+      "We are each completely alone, and somehow, in that shared and sleepless hour, completely together."
+    ],
+    "translation": [
+      "월드컵이 마침내 왔고, 몇 주째 온 도시가 그 이야기밖에 안 하는 것 같아요.",
+      "그런데 개최국들이 지구 반대편에 있어서, 여기서는 경기가 새벽 세 시에 시작해요.",
+      "그래서 저는 혼자 봐요. 어둡고 고요한 거실 소파에 웅크려서요.",
+      "소리를 거의 끄다시피 해요. 옆방에 자는 가족을 깨우지 않으려고 조심하면서요.",
+      "우리 팀이 마침내 골을 넣으면, 벌떡 일어나 소리치고 싶은 충동이 거의 아플 정도예요.",
+      "대신 두 팔을 천천히 들어요. 빛나는 화면을 향해 소리 없는 환호를 입 모양으로 하면서요.",
+      "그래도 저는 알아요. 셀 수 없이 많은 어두운 방에 흩어져, 수백만 명의 낯선 이들이 똑같이 하고 있다는 걸요.",
+      "우리는 각자 완전히 혼자예요. 그런데 어쩐지, 그 함께 잠 못 드는 시간 속에서, 완전히 함께예요."
+    ],
+    "targetWords": [
+      "ielts-family",
+      "ielts-screen",
+      "ielts-together",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "Why do the matches start so late at night?",
+        "questionKo": "경기는 왜 그렇게 늦은 밤에 시작하나요?",
+        "options": [
+          "Bad scheduling",
+          "The host nations are on the other side of the world",
+          "To avoid heat",
+          "For TV ratings"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the writer cheer?",
+        "questionKo": "글쓴이는 어떻게 환호하나요?",
+        "options": [
+          "By shouting loudly",
+          "With a silent cheer, raising both arms",
+          "By calling friends",
+          "By clapping"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-22-world-cup-dawn-l4",
+    "title": "I Watch the World Cup Alone, at Dawn",
+    "titleKo": "나는 새벽에 혼자 월드컵을 본다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-22-world-cup-dawn"
+    ],
+    "paragraphs": [
+      "The World Cup has finally arrived, and for weeks the whole city seems to talk about nothing else, as if a fever had spread.",
+      "But because the host nations sit on the far side of the world, the matches kick off at three in the morning in my time zone.",
+      "So I watch them alone, curled on the sofa in a dark, silent living room that hums faintly with the screen.",
+      "I keep the volume almost entirely off, careful not to wake my sleeping family in the next room.",
+      "When my team finally scores, the urge to leap up and shout becomes an almost physical pressure in my chest.",
+      "Instead I raise both arms in slow motion, mouthing a silent cheer toward the glowing rectangle of light.",
+      "And yet I am certain that, scattered across countless identical dark rooms, millions of strangers are performing the very same ritual.",
+      "We are each entirely alone, and somehow, within that shared and sleepless hour, more genuinely together than any crowd."
+    ],
+    "translation": [
+      "월드컵이 마침내 왔고, 몇 주째 온 도시가 그 이야기밖에 안 하는 것 같아요. 마치 열병이 번진 것처럼요.",
+      "그런데 개최국들이 지구 먼 쪽에 있어서, 제 시간대에서는 경기가 새벽 세 시에 시작해요.",
+      "그래서 저는 혼자 봐요. 화면 소리로만 희미하게 웅웅대는, 어둡고 고요한 거실 소파에 웅크려서요.",
+      "소리를 거의 완전히 꺼요. 옆방에 자는 가족을 깨우지 않으려고 조심하면서요.",
+      "우리 팀이 마침내 골을 넣으면, 벌떡 일어나 소리치고 싶은 충동이 가슴속에 거의 물리적인 압력이 돼요.",
+      "대신 두 팔을 슬로 모션으로 들어요. 빛나는 빛의 사각형을 향해 소리 없는 환호를 입 모양으로 하면서요.",
+      "그래도 저는 확신해요. 똑같이 생긴 셀 수 없는 어두운 방들에 흩어져, 수백만 명의 낯선 이들이 바로 그 똑같은 의식을 치르고 있다는 걸요.",
+      "우리는 각자 완전히 혼자예요. 그런데 어쩐지, 그 함께 잠 못 드는 시간 안에서, 그 어떤 군중보다 더 진정으로 함께예요."
+    ],
+    "targetWords": [
+      "ielts-fever",
+      "ipage-pressure",
+      "l4-790",
+      "l2-248",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "How is the city's mood described?",
+        "questionKo": "도시의 분위기는 어떻게 묘사되나요?",
+        "options": [
+          "Bored",
+          "As if a fever had spread",
+          "Angry",
+          "Quiet"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer feel more genuinely than in any crowd?",
+        "questionKo": "글쓴이는 그 어떤 군중보다 더 진정으로 무엇을 느끼나요?",
+        "options": [
+          "Lonely",
+          "Together",
+          "Bored",
+          "Afraid"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-22-world-cup-dawn-l5",
+    "title": "I Watch the World Cup Alone, at Dawn",
+    "titleKo": "나는 새벽에 혼자 월드컵을 본다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-22-world-cup-dawn"
+    ],
+    "paragraphs": [
+      "The World Cup has finally arrived, and for weeks the entire city seems incapable of discussing anything else, as if a collective fever had quietly spread through every conversation.",
+      "But because the host nations sit on the far side of the planet, the matches kick off at three in the morning in my particular time zone, indifferent to my sleep.",
+      "So I watch them alone, curled on the sofa in a dark, silent living room that hums faintly with the light of the screen.",
+      "I keep the volume almost entirely suppressed, perpetually careful not to wake my sleeping family in the adjacent room.",
+      "When my team finally scores, the urge to leap up and shout swells into an almost physical pressure lodged behind my ribs.",
+      "Instead I raise both arms in deliberate slow motion, mouthing a silent, ecstatic cheer toward the glowing rectangle of borrowed light.",
+      "And yet I remain certain that, scattered across countless identical darkened rooms, millions of strangers are enacting the very same private ritual.",
+      "We are each utterly alone, and somehow, within that shared and sleepless hour, more authentically together than any roaring stadium crowd could ever be."
+    ],
+    "translation": [
+      "월드컵이 마침내 왔고, 몇 주째 온 도시가 다른 어떤 것도 이야기하지 못하는 것 같아요. 마치 집단적 열병이 모든 대화에 조용히 번진 것처럼요.",
+      "그런데 개최국들이 지구 먼 쪽에 있어서, 제 특정 시간대에서는 경기가 새벽 세 시에 시작해요. 제 잠 따위는 아랑곳없이요.",
+      "그래서 저는 혼자 봐요. 화면 빛으로만 희미하게 웅웅대는, 어둡고 고요한 거실 소파에 웅크려서요.",
+      "소리를 거의 완전히 억눌러요. 옆방에 자는 가족을 깨우지 않으려고 늘 조심하면서요.",
+      "우리 팀이 마침내 골을 넣으면, 벌떡 일어나 소리치고 싶은 충동이 갈비뼈 뒤에 박힌 거의 물리적인 압력으로 부풀어 올라요.",
+      "대신 두 팔을 의도적인 슬로 모션으로 들어요. 빌려온 빛의 빛나는 사각형을 향해 소리 없는, 황홀한 환호를 입 모양으로 하면서요.",
+      "그래도 저는 여전히 확신해요. 똑같이 생긴 셀 수 없는 어두운 방들에 흩어져, 수백만 명의 낯선 이들이 바로 그 똑같은 은밀한 의식을 치르고 있다는 걸요.",
+      "우리는 각자 완전히 혼자예요. 그런데 어쩐지, 그 함께 잠 못 드는 시간 안에서, 그 어떤 함성 가득한 경기장 군중보다도 더 진정성 있게 함께예요."
+    ],
+    "targetWords": [
+      "iform-collective",
+      "ielts-indifferent",
+      "l4-790",
+      "ipage-pressure",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "What is the collective fever compared to?",
+        "questionKo": "집단적 열병은 무엇에 비유되나요?",
+        "options": [
+          "A disease to fear",
+          "Something spread quietly through every conversation",
+          "A weather event",
+          "A sports injury"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "The writer feels more authentically together than what?",
+        "questionKo": "글쓴이는 무엇보다 더 진정성 있게 함께라고 느끼나요?",
+        "options": [
+          "A quiet room",
+          "Any roaring stadium crowd",
+          "A family dinner",
+          "An online chat"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-22-world-cup-dawn-l6",
+    "title": "I Watch the World Cup Alone, at Dawn",
+    "titleKo": "나는 새벽에 혼자 월드컵을 본다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-22-world-cup-dawn"
+    ],
+    "paragraphs": [
+      "The World Cup has finally arrived, and for weeks the entire city seems constitutionally incapable of discussing anything else, as if a collective fever had quietly infiltrated every passing conversation.",
+      "But because the host nations sit on the far side of the planet, the matches commence at three in the morning in my particular time zone, sublimely indifferent to my need for sleep.",
+      "So I watch them alone, curled on the sofa in a dark, silent living room that hums faintly with the spectral light of the screen.",
+      "I keep the volume almost entirely suppressed, perpetually vigilant lest I wake my sleeping family in the adjacent room.",
+      "When my team at last scores, the urge to leap up and roar swells into an almost corporeal pressure lodged stubbornly behind my ribs.",
+      "Instead I raise both arms in deliberate, exaggerated slow motion, mouthing a silent yet ecstatic cheer toward the glowing rectangle of borrowed light.",
+      "And yet I remain wholly certain that, scattered across countless identical darkened rooms, millions of anonymous strangers are enacting the very same solitary ritual.",
+      "We are each utterly alone, and somehow, within that shared and sleepless hour, more authentically together than any roaring stadium crowd could ever pretend to be."
+    ],
+    "translation": [
+      "월드컵이 마침내 왔고, 몇 주째 온 도시가 체질적으로 다른 어떤 것도 이야기하지 못하는 것 같아요. 마치 집단적 열병이 스쳐 가는 모든 대화에 조용히 스며든 것처럼요.",
+      "그런데 개최국들이 지구 먼 쪽에 있어서, 제 특정 시간대에서는 경기가 새벽 세 시에 시작해요. 제 잠의 필요 따위에는 숭고하리만치 아랑곳없이요.",
+      "그래서 저는 혼자 봐요. 화면의 유령 같은 빛으로만 희미하게 웅웅대는, 어둡고 고요한 거실 소파에 웅크려서요.",
+      "소리를 거의 완전히 억눌러요. 옆방에 자는 가족을 깨울까 늘 경계하면서요.",
+      "우리 팀이 마침내 골을 넣으면, 벌떡 일어나 포효하고 싶은 충동이 갈비뼈 뒤에 고집스럽게 박힌 거의 육체적인 압력으로 부풀어 올라요.",
+      "대신 두 팔을 의도적이고 과장된 슬로 모션으로 들어요. 빌려온 빛의 빛나는 사각형을 향해 소리 없지만 황홀한 환호를 입 모양으로 하면서요.",
+      "그래도 저는 여전히 온전히 확신해요. 똑같이 생긴 셀 수 없는 어두운 방들에 흩어져, 수백만 명의 익명의 낯선 이들이 바로 그 똑같은 고독한 의식을 치르고 있다는 걸요.",
+      "우리는 각자 완전히 혼자예요. 그런데 어쩐지, 그 함께 잠 못 드는 시간 안에서, 그 어떤 함성 가득한 경기장 군중이 흉내 낼 수 있는 것보다도 더 진정성 있게 함께예요."
+    ],
+    "targetWords": [
+      "iform-constitutionally",
+      "ipage-vigilant",
+      "ielts-corporeal",
+      "l4-512",
+      "ipage-solitary"
+    ],
+    "quiz": [
+      {
+        "question": "How does the time zone treat the writer's need for sleep?",
+        "questionKo": "그 시간대는 글쓴이의 잠의 필요를 어떻게 대하나요?",
+        "options": [
+          "With sympathy",
+          "Sublimely indifferent",
+          "With hostility",
+          "By adjusting"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the stadium crowd only \"pretend\" to be?",
+        "questionKo": "경기장 군중은 무엇을 그저 흉내 낼 뿐인가요?",
+        "options": [
+          "Loud",
+          "Authentically together",
+          "Excited",
+          "Awake"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

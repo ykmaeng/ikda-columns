@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-29-gas-price-l1",
+    "title": "A Far War Arrives at the Gas Station",
+    "titleKo": "먼 전쟁이 주유소에 도착했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-29-gas-price"
+    ],
+    "paragraphs": [
+      "The gas price went up again this week.",
+      "I stood at the pump and watched the number climb.",
+      "The news says it is because of a war far away.",
+      "I have never seen that place. I never will.",
+      "But its trouble is now in my car.",
+      "It is in the bread, the bus, the lights.",
+      "The world is smaller than I thought.",
+      "A far storm still wets my own street."
+    ],
+    "translation": [
+      "이번 주에 또 기름값이 올랐어요.",
+      "주유기 앞에 서서 숫자가 올라가는 걸 봤어요.",
+      "뉴스는 멀리 있는 전쟁 때문이라고 해요.",
+      "저는 그곳을 본 적 없어요. 앞으로도 없을 거예요.",
+      "그런데 그곳의 문제가 이제 제 차 안에 있어요.",
+      "빵 속에, 버스 속에, 전등 속에 있어요.",
+      "세상은 제가 생각한 것보다 작아요.",
+      "먼 폭풍이 제 거리까지 적셔요."
+    ],
+    "targetWords": [
+      "ipage-price",
+      "l2-145",
+      "l1-225",
+      "l1-087",
+      "l1-061"
+    ],
+    "quiz": [
+      {
+        "question": "Why did the gas price go up?",
+        "questionKo": "기름값은 왜 올랐나요?",
+        "options": [
+          "A holiday",
+          "A war far away",
+          "A new tax only",
+          "A festival"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the writer realize about the world?",
+        "questionKo": "글쓴이는 세상에 대해 무엇을 깨닫나요?",
+        "options": [
+          "It is huge",
+          "It is smaller than he thought",
+          "It is empty",
+          "It is safe"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-29-gas-price-l2",
+    "title": "A Far War Arrives at the Gas Station",
+    "titleKo": "먼 전쟁이 주유소에 도착했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-29-gas-price"
+    ],
+    "paragraphs": [
+      "The price of gas climbed again this week, the third increase this month alone.",
+      "I stood quietly at the pump and watched the bright number keep climbing higher.",
+      "The news says it is all because of a war happening very far away from here.",
+      "I have never once seen that distant place, and I most likely never will.",
+      "And yet its trouble is now sitting, somehow, right inside my own small car.",
+      "It hides in the price of bread, in the bus fare, in the cost of the lights at home.",
+      "The whole world, I am learning, is far smaller and more connected than I once thought.",
+      "A storm on the other side of it can still quietly wet my own narrow street."
+    ],
+    "translation": [
+      "이번 주에 또 기름값이 올랐어요. 이번 달에만 세 번째 인상이에요.",
+      "주유기 앞에 조용히 서서 밝은 숫자가 계속 더 높이 올라가는 걸 봤어요.",
+      "뉴스는 그게 다 여기서 아주 멀리서 벌어지는 전쟁 때문이라고 해요.",
+      "저는 그 먼 곳을 한 번도 본 적 없고, 아마 앞으로도 못 볼 거예요.",
+      "그런데 그곳의 문제가 이제, 어쩐 일인지, 제 작은 차 안에 바로 들어와 앉아 있어요.",
+      "그건 빵값 속에, 버스 요금 속에, 집 전등 값 속에 숨어 있어요.",
+      "온 세상은, 제가 배우고 있듯, 한때 생각한 것보다 훨씬 작고 더 연결돼 있어요.",
+      "그 반대편의 폭풍이 여전히 제 좁은 거리를 조용히 적실 수 있어요."
+    ],
+    "targetWords": [
+      "ipage-price",
+      "l2-298",
+      "l1-061",
+      "iform-connected",
+      "l2-195"
+    ],
+    "quiz": [
+      {
+        "question": "How many times has gas gone up this month?",
+        "questionKo": "이번 달 기름값은 몇 번 올랐나요?",
+        "options": [
+          "Once",
+          "Three times",
+          "Never",
+          "Ten times"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Where does the war's trouble hide?",
+        "questionKo": "전쟁의 문제는 어디에 숨어 있나요?",
+        "options": [
+          "Only in the news",
+          "In bread, bus fare, and home lights",
+          "Nowhere",
+          "In the ocean"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-29-gas-price-l3",
+    "title": "A Far War Arrives at the Gas Station",
+    "titleKo": "먼 전쟁이 주유소에 도착했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-29-gas-price"
+    ],
+    "paragraphs": [
+      "The price of gas climbed yet again this week — the third increase this month alone, by my count.",
+      "I stood quietly at the pump and watched the bright digital number keep climbing relentlessly higher.",
+      "The news explains that it is all because of a war unfolding very far away from this quiet place.",
+      "I have never once set eyes on that distant country, and in all likelihood I never will.",
+      "And yet its trouble is now sitting, somehow improbably, right inside the tank of my own small car.",
+      "It hides quietly in the price of bread, in the daily bus fare, in the cost of the lights at home.",
+      "The whole world, I am slowly learning, is far smaller and more tightly connected than I once assumed.",
+      "A storm raging on the far side of it can still, without asking, quietly wet my own narrow street."
+    ],
+    "translation": [
+      "이번 주에 또 기름값이 올랐어요 — 제가 세기로 이번 달에만 세 번째 인상이에요.",
+      "주유기 앞에 조용히 서서 밝은 디지털 숫자가 가차 없이 계속 더 높이 올라가는 걸 봤어요.",
+      "뉴스는 그게 다 이 조용한 곳에서 아주 멀리서 펼쳐지는 전쟁 때문이라고 설명해요.",
+      "저는 그 먼 나라를 한 번도 본 적 없고, 십중팔구 앞으로도 못 볼 거예요.",
+      "그런데 그곳의 문제가 이제, 어쩐지 있을 법하지 않게, 제 작은 차의 연료통 안에 바로 들어와 앉아 있어요.",
+      "그건 빵값 속에, 매일의 버스 요금 속에, 집 전등 값 속에 조용히 숨어 있어요.",
+      "온 세상은, 제가 천천히 배우고 있듯, 한때 가정한 것보다 훨씬 작고 더 촘촘히 연결돼 있어요.",
+      "그 반대편에서 몰아치는 폭풍이 여전히, 묻지도 않고, 제 좁은 거리를 조용히 적실 수 있어요."
+    ],
+    "targetWords": [
+      "ipage-price",
+      "l2-298",
+      "iform-improbably",
+      "iform-connected",
+      "iform-assumed"
+    ],
+    "quiz": [
+      {
+        "question": "How does the number keep climbing?",
+        "questionKo": "숫자는 어떻게 계속 올라가나요?",
+        "options": [
+          "Slowly stopping",
+          "Relentlessly higher",
+          "Then falling",
+          "Randomly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How does the far storm reach his street?",
+        "questionKo": "먼 폭풍은 그의 거리에 어떻게 닿나요?",
+        "options": [
+          "With permission",
+          "Without asking",
+          "By invitation",
+          "Never"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-29-gas-price-l4",
+    "title": "A Far War Arrives at the Gas Station",
+    "titleKo": "먼 전쟁이 주유소에 도착했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-29-gas-price"
+    ],
+    "paragraphs": [
+      "The price of gas climbed yet again this week — the third increase this month alone, by my weary count.",
+      "I stood quietly at the pump and watched the bright digital number keep climbing relentlessly and indifferently higher.",
+      "The news patiently explains that it is all because of a war unfolding very far away from this quiet, ordinary place.",
+      "I have never once set eyes on that distant country, and in all probability I never will in my lifetime.",
+      "And yet its trouble is now sitting, somehow improbably, right inside the fuel tank of my own modest car.",
+      "It hides quietly in the price of bread, in the daily bus fare, in the rising cost of the lights at home.",
+      "The whole world, I am slowly and reluctantly learning, is far smaller and more tightly connected than I once assumed.",
+      "A storm raging on the far side of the globe can still, without asking my permission, quietly wet my own narrow street."
+    ],
+    "translation": [
+      "이번 주에 또 기름값이 올랐어요 — 지친 제 셈으로 이번 달에만 세 번째 인상이에요.",
+      "주유기 앞에 조용히 서서 밝은 디지털 숫자가 가차 없이, 무심하게 계속 더 높이 올라가는 걸 봤어요.",
+      "뉴스는 그게 다 이 조용하고 평범한 곳에서 아주 멀리서 펼쳐지는 전쟁 때문이라고 차분히 설명해요.",
+      "저는 그 먼 나라를 한 번도 본 적 없고, 십중팔구 평생 못 볼 거예요.",
+      "그런데 그곳의 문제가 이제, 어쩐지 있을 법하지 않게, 제 수수한 차의 연료통 안에 바로 들어와 앉아 있어요.",
+      "그건 빵값 속에, 매일의 버스 요금 속에, 오르는 집 전등 값 속에 조용히 숨어 있어요.",
+      "온 세상은, 제가 천천히 그리고 마지못해 배우고 있듯, 한때 가정한 것보다 훨씬 작고 더 촘촘히 연결돼 있어요.",
+      "지구 반대편에서 몰아치는 폭풍이 여전히, 제 허락도 구하지 않고, 제 좁은 거리를 조용히 적실 수 있어요."
+    ],
+    "targetWords": [
+      "l2-298",
+      "iform-indifferently",
+      "iform-improbably",
+      "iform-connected",
+      "iform-assumed"
+    ],
+    "quiz": [
+      {
+        "question": "How does the number climb, beyond relentlessly?",
+        "questionKo": "숫자는 가차 없음을 넘어 어떻게 올라가나요?",
+        "options": [
+          "Kindly",
+          "Indifferently",
+          "Apologetically",
+          "Slowly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is the writer learning about the connected world?",
+        "questionKo": "글쓴이는 연결된 세상을 어떻게 배우고 있나요?",
+        "options": [
+          "Eagerly",
+          "Slowly and reluctantly",
+          "Joyfully",
+          "Never"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-29-gas-price-l5",
+    "title": "A Far War Arrives at the Gas Station",
+    "titleKo": "먼 전쟁이 주유소에 도착했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-29-gas-price"
+    ],
+    "paragraphs": [
+      "The price of gas climbed yet again this week — the third increase this month alone, by my increasingly weary count.",
+      "I stood quietly at the pump and watched the bright digital number keep climbing relentlessly and indifferently higher.",
+      "The news patiently explains that it is entirely because of a war unfolding very far away from this quiet, ordinary place.",
+      "I have never once set eyes on that distant country, and in all probability I never shall in my entire lifetime.",
+      "And yet its trouble is now lodged, somehow improbably, right inside the fuel tank of my own modest and innocent car.",
+      "It conceals itself quietly in the price of bread, in the daily bus fare, in the steadily rising cost of the lights at home.",
+      "The whole world, I am slowly and reluctantly learning, is vastly smaller and more intricately connected than I once assumed.",
+      "A storm raging on the far side of the globe can still, without ever asking my permission, quietly soak my own narrow street."
+    ],
+    "translation": [
+      "이번 주에 또 기름값이 올랐어요 — 점점 더 지쳐가는 제 셈으로 이번 달에만 세 번째 인상이에요.",
+      "주유기 앞에 조용히 서서 밝은 디지털 숫자가 가차 없이, 무심하게 계속 더 높이 올라가는 걸 봤어요.",
+      "뉴스는 그게 전적으로 이 조용하고 평범한 곳에서 아주 멀리서 펼쳐지는 전쟁 때문이라고 차분히 설명해요.",
+      "저는 그 먼 나라를 한 번도 본 적 없고, 십중팔구 평생토록 못 볼 거예요.",
+      "그런데 그곳의 문제가 이제, 어쩐지 있을 법하지 않게, 제 수수하고 죄 없는 차의 연료통 안에 바로 박혀 있어요.",
+      "그건 빵값 속에, 매일의 버스 요금 속에, 꾸준히 오르는 집 전등 값 속에 스스로를 조용히 숨겨요.",
+      "온 세상은, 제가 천천히 그리고 마지못해 배우고 있듯, 한때 가정한 것보다 엄청나게 작고 더 정교하게 연결돼 있어요.",
+      "지구 반대편에서 몰아치는 폭풍이 여전히, 제 허락을 단 한 번도 구하지 않고, 제 좁은 거리를 조용히 흠뻑 적실 수 있어요."
+    ],
+    "targetWords": [
+      "l2-298",
+      "iform-indifferently",
+      "iform-improbably",
+      "iform-intricately",
+      "iform-assumed"
+    ],
+    "quiz": [
+      {
+        "question": "Where is the war's trouble now lodged?",
+        "questionKo": "전쟁의 문제는 이제 어디에 박혀 있나요?",
+        "options": [
+          "In the news studio",
+          "In the fuel tank of his innocent car",
+          "In a museum",
+          "Nowhere"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How is the world connected, beyond tightly?",
+        "questionKo": "세상은 촘촘함을 넘어 어떻게 연결돼 있나요?",
+        "options": [
+          "Loosely",
+          "Intricately",
+          "Briefly",
+          "Rarely"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-29-gas-price-l6",
+    "title": "A Far War Arrives at the Gas Station",
+    "titleKo": "먼 전쟁이 주유소에 도착했다",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-29-gas-price"
+    ],
+    "paragraphs": [
+      "The price of gas climbed yet again this week — the third increase this month alone, by my increasingly weary and resigned count.",
+      "I stood quietly at the pump and watched the bright digital number keep climbing relentlessly, indifferently, almost mockingly higher.",
+      "The news patiently explains that it is entirely attributable to a war unfolding very far away from this quiet, ordinary place.",
+      "I have never once set eyes on that distant country, and in all probability I never shall in my entire finite lifetime.",
+      "And yet its trouble is now lodged, somehow improbably and intimately, right inside the fuel tank of my own modest, innocent car.",
+      "It conceals itself quietly in the price of bread, in the daily bus fare, in the steadily and silently rising cost of the lights at home.",
+      "The whole interconnected world, I am slowly and reluctantly learning, is vastly smaller and more intricately bound than I once complacently assumed.",
+      "A storm raging on the far side of the globe can still, without ever soliciting my permission, quietly soak the cracks of my own narrow street."
+    ],
+    "translation": [
+      "이번 주에 또 기름값이 올랐어요 — 점점 더 지치고 체념한 제 셈으로 이번 달에만 세 번째 인상이에요.",
+      "주유기 앞에 조용히 서서 밝은 디지털 숫자가 가차 없이, 무심하게, 거의 조롱하듯 계속 더 높이 올라가는 걸 봤어요.",
+      "뉴스는 그게 전적으로 이 조용하고 평범한 곳에서 아주 멀리서 펼쳐지는 전쟁에 기인한다고 차분히 설명해요.",
+      "저는 그 먼 나라를 한 번도 본 적 없고, 십중팔구 제 유한한 평생토록 못 볼 거예요.",
+      "그런데 그곳의 문제가 이제, 어쩐지 있을 법하지 않게 또 친밀하게, 제 수수하고 죄 없는 차의 연료통 안에 바로 박혀 있어요.",
+      "그건 빵값 속에, 매일의 버스 요금 속에, 꾸준히 그리고 소리 없이 오르는 집 전등 값 속에 스스로를 조용히 숨겨요.",
+      "이 서로 연결된 온 세상은, 제가 천천히 그리고 마지못해 배우고 있듯, 한때 안일하게 가정한 것보다 엄청나게 작고 더 정교하게 얽혀 있어요.",
+      "지구 반대편에서 몰아치는 폭풍이 여전히, 제 허락을 단 한 번도 청하지 않고, 제 좁은 거리의 갈라진 틈을 조용히 흠뻑 적실 수 있어요."
+    ],
+    "targetWords": [
+      "l2-298",
+      "iform-indifferently",
+      "iform-attributable",
+      "iform-improbably",
+      "iform-intricately"
+    ],
+    "quiz": [
+      {
+        "question": "How does the number climb, almost?",
+        "questionKo": "숫자는 거의 어떻게 올라가나요?",
+        "options": [
+          "Apologetically",
+          "Mockingly",
+          "Gently",
+          "Sadly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What had the writer once done in assuming the world was large?",
+        "questionKo": "글쓴이는 세상이 크다고 가정하며 한때 어떻게 했나요?",
+        "options": [
+          "Carefully",
+          "Complacently",
+          "Anxiously",
+          "Correctly"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

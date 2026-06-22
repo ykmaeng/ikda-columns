@@ -1,0 +1,386 @@
+[
+  {
+    "id": "col-2026-06-23-paid-in-cash-l1",
+    "title": "I Paid in Cash Today",
+    "titleKo": "오늘 현금으로 냈어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 1,
+    "tags": [
+      "column",
+      "col-2026-06-23-paid-in-cash"
+    ],
+    "paragraphs": [
+      "Today I paid with cash. Real paper money.",
+      "I had not done this in a long time.",
+      "My hands felt slow. I forgot how to count it.",
+      "The young clerk waited. She was very kind.",
+      "The coins were heavy in my pocket.",
+      "They made a small sound when I walked.",
+      "I used to know this sound well.",
+      "Now it feels almost like the past."
+    ],
+    "translation": [
+      "오늘 현금으로 냈어요. 진짜 종이돈이요.",
+      "오랫동안 이렇게 안 했어요.",
+      "손이 느렸어요. 세는 법을 잊었어요.",
+      "젊은 점원이 기다렸어요. 아주 친절했어요.",
+      "동전이 주머니에서 무거웠어요.",
+      "걸을 때 작은 소리가 났어요.",
+      "예전엔 이 소리를 잘 알았어요.",
+      "이제는 거의 옛날 같아요."
+    ],
+    "targetWords": [
+      "l1-122",
+      "ipage-cash",
+      "ielts-money",
+      "l1-104",
+      "l2-130"
+    ],
+    "quiz": [
+      {
+        "question": "How did the writer pay today?",
+        "questionKo": "글쓴이는 오늘 어떻게 냈나요?",
+        "options": [
+          "By card",
+          "With cash",
+          "By phone",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What was heavy in the pocket?",
+        "questionKo": "주머니에서 무엇이 무거웠나요?",
+        "options": [
+          "A phone",
+          "The coins",
+          "A book",
+          "Keys"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-23-paid-in-cash-l2",
+    "title": "I Paid in Cash Today",
+    "titleKo": "오늘 현금으로 냈어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 2,
+    "tags": [
+      "column",
+      "col-2026-06-23-paid-in-cash"
+    ],
+    "paragraphs": [
+      "Today, for the first time in months, I paid with cash — real paper money and coins.",
+      "I honestly could not remember the last time I had done this.",
+      "My hands felt clumsy and slow, as if I had forgotten how to count it.",
+      "The young clerk waited patiently, smiling without any impatience at all.",
+      "Afterward, the coins sat heavy and warm in my coat pocket.",
+      "They made a small, forgotten jingle every time I took a step.",
+      "There was a time when I knew that sound by heart.",
+      "Now it feels almost like a souvenir from the past."
+    ],
+    "translation": [
+      "오늘, 몇 달 만에 처음으로, 저는 현금으로 냈어요 — 진짜 종이돈과 동전으로요.",
+      "솔직히 마지막으로 이렇게 한 게 언제인지 기억이 안 났어요.",
+      "손이 서툴고 느렸어요. 마치 세는 법을 잊은 것처럼요.",
+      "젊은 점원이 참을성 있게 기다렸어요. 조금의 짜증도 없이 웃으면서요.",
+      "그 후, 동전들이 외투 주머니 안에서 무겁고 따뜻하게 자리 잡았어요.",
+      "한 걸음 뗄 때마다 작고 잊힌 짤랑 소리가 났어요.",
+      "제가 그 소리를 외우듯 알던 때가 있었어요.",
+      "이제는 거의 과거에서 온 기념품 같아요."
+    ],
+    "targetWords": [
+      "l1-122",
+      "ipage-cash",
+      "ielts-money",
+      "l2-157",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "How did the young clerk behave?",
+        "questionKo": "젊은 점원은 어떻게 행동했나요?",
+        "options": [
+          "Impatiently",
+          "Waited patiently, smiling",
+          "Angrily",
+          "Ignored him"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the coin sound feel like now?",
+        "questionKo": "동전 소리는 이제 어떤 느낌인가요?",
+        "options": [
+          "Annoying noise",
+          "A souvenir from the past",
+          "A warning",
+          "Music"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-23-paid-in-cash-l3",
+    "title": "I Paid in Cash Today",
+    "titleKo": "오늘 현금으로 냈어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 3,
+    "tags": [
+      "column",
+      "col-2026-06-23-paid-in-cash"
+    ],
+    "paragraphs": [
+      "Today, for the first time in months, I paid with cash — real paper notes and a small handful of coins.",
+      "I honestly could not recall the last occasion when I had done such an ordinary thing.",
+      "My hands felt clumsy and unexpectedly slow, as though I had forgotten the simple act of counting.",
+      "The young clerk waited patiently behind the counter, smiling without a trace of impatience.",
+      "Afterward, the leftover coins settled heavy and warm in the depths of my coat pocket.",
+      "They produced a small, almost forgotten jingle each time I took a step down the street.",
+      "There was a time, not so long ago, when I knew that particular sound by heart.",
+      "Now it feels almost like a faint souvenir carried back from a recent but vanishing past."
+    ],
+    "translation": [
+      "오늘, 몇 달 만에 처음으로, 저는 현금으로 냈어요 — 진짜 종이돈과 한 줌의 동전으로요.",
+      "솔직히 이렇게 평범한 일을 마지막으로 한 게 언제인지 떠오르지 않았어요.",
+      "손이 서툴고 뜻밖에 느렸어요. 마치 세는 단순한 행위를 잊은 것처럼요.",
+      "젊은 점원이 계산대 뒤에서 참을성 있게 기다렸어요. 짜증의 기색 하나 없이 웃으면서요.",
+      "그 후, 남은 동전들이 외투 주머니 깊숙이 무겁고 따뜻하게 자리를 잡았어요.",
+      "길을 걸어 내려갈 때 한 걸음마다 작고 거의 잊힌 짤랑 소리를 냈어요.",
+      "그리 오래되지 않은 어느 때, 제가 그 특유의 소리를 외우듯 알던 때가 있었어요.",
+      "이제는 최근이지만 사라져 가는 과거에서 가져온 희미한 기념품 같아요."
+    ],
+    "targetWords": [
+      "ipage-cash",
+      "l2-157",
+      "ielts-souvenir",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "What had the writer seemingly forgotten?",
+        "questionKo": "글쓴이는 무엇을 잊은 듯했나요?",
+        "options": [
+          "His address",
+          "The simple act of counting",
+          "His own name",
+          "The store location"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "Where did the coins settle?",
+        "questionKo": "동전들은 어디에 자리 잡았나요?",
+        "options": [
+          "On the counter",
+          "In the depths of his coat pocket",
+          "In a wallet",
+          "On the floor"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-23-paid-in-cash-l4",
+    "title": "I Paid in Cash Today",
+    "titleKo": "오늘 현금으로 냈어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 4,
+    "tags": [
+      "column",
+      "col-2026-06-23-paid-in-cash"
+    ],
+    "paragraphs": [
+      "Today, for the first time in months, I paid with cash — real paper notes and a small, awkward handful of coins.",
+      "I honestly could not recall the last occasion on which I had performed such an utterly ordinary transaction.",
+      "My hands felt clumsy and unexpectedly slow, as though my fingers had quietly forgotten the simple act of counting.",
+      "The young clerk waited patiently behind the counter, smiling without the faintest trace of impatience.",
+      "Afterward, the leftover coins settled heavy and warm in the deepest corner of my coat pocket.",
+      "They produced a small, almost forgotten jingle with each deliberate step I took down the evening street.",
+      "There was a time, not so very long ago, when I knew that particular metallic sound entirely by heart.",
+      "Now it feels almost like a fragile souvenir, carried back from a recent yet rapidly vanishing past."
+    ],
+    "translation": [
+      "오늘, 몇 달 만에 처음으로, 저는 현금으로 냈어요 — 진짜 종이돈과 어색한 한 줌의 동전으로요.",
+      "솔직히 이렇게 지극히 평범한 거래를 마지막으로 한 게 언제인지 떠오르지 않았어요.",
+      "손이 서툴고 뜻밖에 느렸어요. 마치 손가락이 세는 단순한 행위를 조용히 잊은 것처럼요.",
+      "젊은 점원이 계산대 뒤에서 참을성 있게 기다렸어요. 아주 희미한 짜증의 기색조차 없이 웃으면서요.",
+      "그 후, 남은 동전들이 외투 주머니 가장 깊은 구석에 무겁고 따뜻하게 자리를 잡았어요.",
+      "저녁 거리를 걸어 내려갈 때, 한 걸음 한 걸음마다 작고 거의 잊힌 짤랑 소리를 냈어요.",
+      "그리 오래되지 않은 어느 때, 제가 그 특유의 금속성 소리를 온전히 외우듯 알던 때가 있었어요.",
+      "이제는 최근이지만 빠르게 사라져 가는 과거에서 가져온, 부서지기 쉬운 기념품 같아요."
+    ],
+    "targetWords": [
+      "l4-193",
+      "l4-367",
+      "ipage-fragile",
+      "l2-147",
+      "l2-142"
+    ],
+    "quiz": [
+      {
+        "question": "How is the transaction described?",
+        "questionKo": "그 거래는 어떻게 묘사되나요?",
+        "options": [
+          "Rare and special",
+          "Utterly ordinary",
+          "Dangerous",
+          "Expensive"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "The past is described as recent yet what?",
+        "questionKo": "과거는 최근이지만 어떻다고 묘사되나요?",
+        "options": [
+          "Bright",
+          "Rapidly vanishing",
+          "Returning",
+          "Heavy"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-23-paid-in-cash-l5",
+    "title": "I Paid in Cash Today",
+    "titleKo": "오늘 현금으로 냈어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 5,
+    "tags": [
+      "column",
+      "col-2026-06-23-paid-in-cash"
+    ],
+    "paragraphs": [
+      "Today, for the first time in months, I paid with cash — actual paper notes and a small, slightly awkward handful of coins.",
+      "I genuinely could not recall the last occasion on which I had performed such an utterly mundane transaction.",
+      "My hands felt clumsy and inexplicably slow, as though my fingers had quietly relinquished the simple competence of counting.",
+      "The young clerk waited with composed patience behind the counter, smiling without the faintest discernible trace of impatience.",
+      "Afterward, the leftover coins settled heavy and improbably warm in the deepest corner of my coat pocket.",
+      "They produced a small, almost forgotten jingle with each deliberate step I took down the dimming evening street.",
+      "There was a time, not so very long ago, when I knew that particular metallic sound intimately and entirely by heart.",
+      "Now it feels almost like a fragile souvenir, retrieved from a recent yet startlingly vanishing past."
+    ],
+    "translation": [
+      "오늘, 몇 달 만에 처음으로, 저는 현금으로 냈어요 — 실제 종이돈과 약간 어색한 한 줌의 동전으로요.",
+      "솔직히 이렇게 지극히 일상적인 거래를 마지막으로 한 게 언제인지 떠오르지 않았어요.",
+      "손이 서툴고 설명할 수 없이 느렸어요. 마치 손가락이 세는 단순한 능력을 조용히 내려놓은 것처럼요.",
+      "젊은 점원이 계산대 뒤에서 차분한 인내심으로 기다렸어요. 알아챌 수 있는 짜증의 기색이라곤 없이 웃으면서요.",
+      "그 후, 남은 동전들이 외투 주머니 가장 깊은 구석에 무겁고 뜻밖에 따뜻하게 자리를 잡았어요.",
+      "어두워지는 저녁 거리를 걸어 내려갈 때, 한 걸음 한 걸음마다 작고 거의 잊힌 짤랑 소리를 냈어요.",
+      "그리 오래되지 않은 어느 때, 제가 그 특유의 금속성 소리를 친밀하게, 온전히 외우듯 알던 때가 있었어요.",
+      "이제는 최근이지만 놀랍도록 사라져 가는 과거에서 되찾은, 부서지기 쉬운 기념품 같아요."
+    ],
+    "targetWords": [
+      "l4-584",
+      "l4-193",
+      "iform-discernible",
+      "ipage-fragile",
+      "l2-147"
+    ],
+    "quiz": [
+      {
+        "question": "What did the writer's fingers seem to relinquish?",
+        "questionKo": "글쓴이의 손가락은 무엇을 내려놓은 듯했나요?",
+        "options": [
+          "Their warmth",
+          "The simple competence of counting",
+          "Their strength",
+          "Their memory of the store"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "How did the clerk wait?",
+        "questionKo": "점원은 어떻게 기다렸나요?",
+        "options": [
+          "Nervously",
+          "With composed patience",
+          "In a hurry",
+          "Without looking"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "col-2026-06-23-paid-in-cash-l6",
+    "title": "I Paid in Cash Today",
+    "titleKo": "오늘 현금으로 냈어요",
+    "source": "knowledge",
+    "sourceName": "Column · 칼럼",
+    "subCategory": "kn-trivia",
+    "level": 6,
+    "tags": [
+      "column",
+      "col-2026-06-23-paid-in-cash"
+    ],
+    "paragraphs": [
+      "Today, for the first time in months, I paid with cash — actual paper notes and a small, faintly awkward handful of coins that felt like artifacts.",
+      "I genuinely could not recall the last occasion on which I had performed such an utterly mundane and once-unremarkable transaction.",
+      "My hands felt clumsy and inexplicably slow, as though my fingers had quietly relinquished the simple competence of counting tender by feel.",
+      "The young clerk waited with composed, almost generous patience behind the counter, smiling without the faintest discernible trace of impatience.",
+      "Afterward, the leftover coins settled heavy and improbably warm in the deepest recess of my coat pocket.",
+      "They produced a small, almost forgotten jingle with each deliberate step I took down the dimming, half-empty evening street.",
+      "There was a time, not so very long ago, when I knew that particular metallic sound intimately and entirely by heart, without thinking.",
+      "Now it feels almost like a fragile souvenir, retrieved from a recent yet startlingly vanishing past that I had not noticed leaving."
+    ],
+    "translation": [
+      "오늘, 몇 달 만에 처음으로, 저는 현금으로 냈어요 — 실제 종이돈과, 유물처럼 느껴지는 약간 어색한 한 줌의 동전으로요.",
+      "솔직히 이렇게 지극히 일상적이고 한때는 특별할 것 없던 거래를 마지막으로 한 게 언제인지 떠오르지 않았어요.",
+      "손이 서툴고 설명할 수 없이 느렸어요. 마치 손가락이 감각만으로 돈을 세는 단순한 능력을 조용히 내려놓은 것처럼요.",
+      "젊은 점원이 계산대 뒤에서 차분하고 거의 너그러운 인내심으로 기다렸어요. 알아챌 수 있는 짜증의 기색이라곤 없이 웃으면서요.",
+      "그 후, 남은 동전들이 외투 주머니 가장 깊은 구석에 무겁고 뜻밖에 따뜻하게 자리를 잡았어요.",
+      "어두워지는, 반쯤 빈 저녁 거리를 걸어 내려갈 때, 한 걸음 한 걸음마다 작고 거의 잊힌 짤랑 소리를 냈어요.",
+      "그리 오래되지 않은 어느 때, 제가 그 특유의 금속성 소리를 생각도 없이, 친밀하게, 온전히 외우듯 알던 때가 있었어요.",
+      "이제는 최근이지만 놀랍도록 사라져 가는, 떠나는 줄도 몰랐던 과거에서 되찾은, 부서지기 쉬운 기념품 같아요."
+    ],
+    "targetWords": [
+      "l4-584",
+      "ipage-competence",
+      "ex-073",
+      "iform-discernible",
+      "ipage-recess"
+    ],
+    "quiz": [
+      {
+        "question": "What did the coins feel like?",
+        "questionKo": "동전들은 무엇처럼 느껴졌나요?",
+        "options": [
+          "Toys",
+          "Artifacts",
+          "Trash",
+          "Jewels"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "What had the writer not noticed about the past?",
+        "questionKo": "글쓴이는 과거에 대해 무엇을 알아채지 못했나요?",
+        "options": [
+          "Its weight",
+          "That it was leaving",
+          "Its color",
+          "Its cost"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
